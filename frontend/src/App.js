@@ -7,7 +7,7 @@ function App() {
         
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         
-        <h1>IT support</h1>
+        <h1 className='text-blue-600'>IT support</h1>
         <p>
          Get the IT support you need.
         </p>
