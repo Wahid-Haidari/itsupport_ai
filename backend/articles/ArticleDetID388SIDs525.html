@@ -1,0 +1,1032 @@
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href="/TDPortal/Content/Styles/font-awesome.min.css?v=20230331000656" rel="stylesheet" type="text/css" id="lnkFontAwesome" /><script src="/TDPortal/Content/Scripts/jquery/2.2.4/jquery.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/jquery-migrate/1.4.1/jquery-migrate.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/jquery-ui/1.12.1/jquery-ui-1.12.1.custom.timepicker.min.js?v=20230331000656"></script><link href="/TDPortal/Content/Styles/jquery-ui/1.12.1/jquery-ui.compiled.min.css?v=20230331000656" rel="stylesheet" type="text/css"  /><link href="/TDPortal/Content/bootstrap/3.4.1/dist/css/bootstrap.min.css?v=20230331000656" rel="stylesheet" type="text/css" id="lnkBootstrapCSS" /><script src="/TDPortal/Content/bootstrap/3.4.1/dist/js/bootstrap.min.js?v=20230331000656"></script><link href="/TDClient/Styles/bootstrap_custom.min.css?v=20230331000652" rel="stylesheet" type="text/css"  /><link href="/TDClient/Styles/TDStyles.min.css?v=20230331000652" rel="stylesheet" type="text/css"  /><link href="https://itsupport.ou.edu/TDPortal/BE/Style/2/TDClient/35?v=20200908144717" rel="stylesheet" type="text/css" /><script src="/TDPortal/Content/Scripts/tdx/TDJSFramework.compiled.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/underscore/1.12.1/underscore-min.js?v=20230331000656"></script>
+<script src="/TDClient/Scripts/clientOS.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/collapseMe.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/tdsearchfilter.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/SiteSearch.min.js?v=20230331000652"></script>
+<script src="/TDPortal/Content/Scripts/tdx/elasticsearchAutocomplete/elasticsearchAutocomplete.min.js?v=20230331000656"></script>
+<link id="ctl00_ctl00_lnkFavicon" rel="shortcut icon" href="https://itsupport.ou.edu/TDPortal/BE/Icon/2/35?v=20200617174529" />
+
+    
+    <script async src="//www.googletagmanager.com/gtag/js?id=UA-207295051-1"></script>
+    <script>
+
+      $(function () {
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        // Be sure to set the proper cookie domain to the customer's full subdomain when sending the pageview hit.
+        gtag('config', 'UA-207295051-1', { 'cookie_domain': 'itsupport.ou.edu' });
+
+        });
+
+    </script>
+
+  
+
+  <script>
+
+      $(function () {
+        var masterUi = MasterUI({
+          isPostback: false,
+        baseUrl: '/TDClient/',
+        isTdGoogleAnalyticsEnabled: true,
+        isAuthenticated: false
+        });
+
+      $('#collapseMe').collapseMe({
+        toggleVisibilitySelector: '.navbar-toggle'
+      });
+
+    });
+
+      // The sub-nav menu uses padding-top to position itself below the header bar and main navigation sections. When the
+      // window is resized, there is a chance that the content of these header or nav sections wraps, causing the height
+      // to change, potentially covering the sub-nav menu, which is obviously a big usability problem. This function
+      // listens for when the window size or orientation is changing (and also when the window first loads), and adjusts
+      // the padding so that the sub-nav menu appears in the correct location.
+      $(window).bind('load ready resize orientationchange', function () {
+        var headerHeight = $('#divMstrHeader').height();
+        $('#navShim').css({
+          "padding-top": headerHeight
+        });
+
+        $('#content').css({
+          "padding-top": headerHeight,
+          "margin-top": headerHeight * -1
+        });
+      });
+  </script>
+
+  
+  
+  
+  <script src="/TDPortal/Content/select2/v3/select2.min.js?v=20230331001818"></script><link href="/TDPortal/Content/select2/v3/select2.compiled.min.css?v=20230331001818" rel="stylesheet" type="text/css" id="lnkSelect2" />
+  <script src="/TDClient/Scripts/attachmentHandler.min.js?v=20230331000652"></script>
+
+  <style type="text/css">
+    .honey-pot-div {
+      display: none;
+    }
+  </style>
+
+  <script>
+
+    
+
+    function checkRecipients() {
+      if ($('#ctl00_ctl00_cpContent_cpContent_shareRecipients').val().trim() === "") {
+        alert('You must first enter a valid email.');
+        $('#divShareModal').modal('toggle');
+      }
+    }
+
+    function toggleFeedback(isHelpful) {
+      $('#divHelpfulComments').show();
+      $('#divHelpfulYesNo').hide();
+      $('#ctl00_ctl00_cpContent_cpContent_hdnIsHelpful').val(isHelpful);
+      $('#ctl00_ctl00_cpContent_cpContent_txtComments').focus();
+    }
+
+    function toggleFeedbackResult() {
+      $('#divWasHelpful, #divFeedbackRecorded, #divHelpfulComments, #divHelpfulYesNo').toggle();
+    }
+
+    // The following two functions were added as a result of ticket ID: 1392522. We are generating these buttons dynamically to
+    // prevent bots from clicking them and posting feedback on an article. Additionally, we have an input that is hidden from
+    // the user. If a bot enters text in that input, which it likely will (bots love filling out forms), then we don't accept the
+    // form submission
+    function generateFeedbackButtons() {
+      var $btnHelpfulYes = $('<button id="btnHelpfulYes" type="button" class="btn btn-primary gutter-left" onclick="toggleFeedback(1);">Yes</button>');
+      var $btnHelpfulNo = $('<button id="btnHelpfulNo" type="button" class="btn btn-primary gutter-left-sm" onclick="toggleFeedback(0);">No</button>');
+
+      $('#divWasHelpful').append($btnHelpfulYes);
+      $('#divWasHelpful').append($btnHelpfulNo);
+    }
+    function attemptAddFeedback(e) {
+      if ($('#honeyPot').val() !== '') {
+        e.preventDefault();
+        window.location.reload();
+      }
+    }
+
+    function cancelFeedback() {
+      $('#ctl00_ctl00_cpContent_cpContent_txtComments').val('');
+      $('#divHelpfulComments, #divHelpfulYesNo').toggle();
+    }
+
+    function confirmDeleteFeedback(id) {
+      if (confirm('Are you sure you want to delete this feedback? This cannot be undone.')) {
+        $('#ctl00_ctl00_cpContent_cpContent_hdnFeedbackID').val(id);
+        __doPostBack('ctl00$ctl00$cpContent$cpContent$btnDeleteFeedback', '');
+      }
+    }
+
+    function toggleAddressed(id, isAddressed) {
+      $('#ctl00_ctl00_cpContent_cpContent_hdnFeedbackID').val(id);
+      $('#ctl00_ctl00_cpContent_cpContent_hdnIsAddressed').val(isAddressed);
+      __doPostBack('ctl00$ctl00$cpContent$cpContent$btnToggleAddressed', '');
+    }
+
+    $(function () {
+      
+
+      generateFeedbackButtons();
+      $('[data-toggle="popover"]').popover();
+
+      var attachmentHandler = new TeamDynamix.AttachmentHandler({
+        containerSelector: '.js-article-attachments',
+        resultLabelSelector: '#ctl00_ctl00_cpContent_cpContent_lblResults_lblResults-label',
+        baseControllerUrl: '/TDClient/35/Norman/Shared/Attachments',
+        antiForgeryToken: 'XPIF00p7GpRJsdAiwn-liB0ONRP4TJ_BtoPpkLNZ1iESlf6qzwLBkJs93mXjA879Y-GieS3ycNH2cnbEf2bK6z8TsJ41:aNffiUW3FPNZ8FvPsg1uXPuTra4Ei-_gC6TloEFKOxM6-KEvpA5sJIeLYn-jzawFskluuxITdjSuojvHw2oy79HC9001',
+        itemId: 388,
+        componentId: 26
+      });
+
+      // Don't try and update the table styles if the user wanted to opt out.
+      $('#ctl00_ctl00_cpContent_cpContent_divBody table:not(.SkipTableFixup)').each(function () {
+        var padding = $(this).attr('cellpadding');
+        var spacing = $(this).attr('cellspacing');
+
+        $(this).css("border-collapse", "separate");
+
+        if (spacing) {
+          $(this).css("border-spacing", spacing + "px");
+        }
+
+        $(this).find('td').each(function () { $(this).css('padding', padding + 'px') });
+      });
+
+      
+    });
+
+    
+  </script>
+
+
+
+<meta property="og:title" content="MyMedia Policy" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=388" />
+<meta property="og:image" content="https://itsupport.ou.edu/TDPortal/BE/Logo/2/35" />
+  <meta property="og:site_name" content="University of Oklahoma - Knowledge Base" />
+  <meta property="article:section" content="Academic Technology" />
+  <meta property="article:published_time" content="2020-09-09T19:39Z" />
+  <meta property="article:modified_time" content="2022-01-20T19:35Z" /><title>
+	Article - MyMedia Policy
+</title></head>
+<body>
+<form method="post" action="/TDClient/35/Norman/KB/ArticleDet?ID=388&amp;SIDs=525" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/TDClient/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmVxW3-Ljsg_2Hna32smxrg-6ogyYAN3UTPsJQ8m1uwzn_kuf2Wpne6NSFmYui3h0wCQhJN3ZUiLTNkvhiIgZpq74-lKmofUPQGJ8own8RI2_mwAcmvlSj2WBnqwm5Wj4cyNvv81&amp;t=49337fe8" type="text/javascript"></script>
+<script src="/TDClient/WebResource.axd?d=xtfVMqdF1exC2MBVkOJwMveStDR5kg3dbZWgIXMXZmB1xXom6CcIrWFgHa7jsp4qJuFW2L5XShudyzlBsIO3JhCfiU5HmL2BDz__mCv9dznmBlEMS7LvcYg6wTdPTrAXIXI2CvtjwlnpZd-j4Zpsx2wG_uA1&amp;t=638158038360000000" type="text/javascript"></script>
+<script src="/TDClient/WebResource.axd?d=sp7vCoAo-SSYfpsQ1sYBBeEDnwCGxDYEwZCM0ler88yoVZIPDXMk1C3XF2L2L0xrbB8Rvhli51TswRlmPIOCZgaY58lKhPr-Pv1jTFJ1oUAu7x6RDtNFZUxbtxs3KYQGLK6FpPD5bKuB0e0NmS9HkAqRVks1&amp;t=638158038360000000" type="text/javascript"></script>
+<script src="/TDClient/WebResource.axd?d=icMURy63hv40LPPfq4rTvmm-RfB_YkC6rEEF_2QOO68q3TseXYNBetRKKgBXJ8mn2e8UIgCPiV23HaQUZbjySMHqSgmYZgLcYltBqwD2_EK8aQ08zBuqc3ZBVZITQrbtn6w46dRxFLibMIQg0Aho73rn8Rpxrzg5YMG_JR0UOrUR0wlZ0&amp;t=638158038360000000" type="text/javascript"></script>
+<script src="/TDClient/WebResource.axd?d=1HpFfNpwNihNfEP1lyJHvdPVqbv8KRoFH4-_ZORUgPOP-bqmmtIJRvFQc7828Vf59O_-fdBXcnwdv-hYp5RptPuHmMR0kGQM0_3rS4Z7sKfC7jy9Cc_8fyfcUWa8psszacEQlAXHPXmNwyRymbGSywEmhrE1&amp;t=638158038360000000" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="784CA02E" />
+
+<div id="ctl00_ctl00_upMain" style="display:none;">
+	
+    <div id="ctl00_ctl00_pbMain" class="progress-box-container"><div class="progress-box-body"><div class="well shadow"><h2 class="h4 gutter-top-none">Updating...</h2><div class="progress" style="margin-bottom: 0;"><div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div></div></div></div></div>
+  
+</div>
+
+
+
+  <header role="banner">
+
+  <div id="divMstrHeader" class="master-header NoPrint" style="background-color: #fff;">
+
+  <div class="globalheader" style="background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-bg.jpg&quot;); background-repeat: repeat">
+    <div class="container">
+        <div class="globalheader_2012">
+            <div class="row">
+                <ul style="height: 30px; list-style-type: none; overflow: visible; margin: 0; padding: 0; float: right">
+                    <li style="line-height: 20px; float: left"><a class="tip home" href="//www.ou.edu/web.html" alt="OU Home link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: left top"><span style="display: none">OU Homepage</span></a></li>
+                    <li style="line-height: 20px; float: left"><a class="tip search" href="https://www.ou.edu/web/search" alt="OU Search link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: -30px 0"><span style="display: none">Search OU</span></a></li>
+                    <li style="line-height: 20px; float: left"><a class="tip search" href="https://www.ou.edu/web/socialmediadirectory" alt="OU Social Media link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: -60px 0"><span style="display: none">OU Social Media</span></a></li>
+                    <li class="wordmark" style="line-height: 20px; float: left; text-indent: -99999px; width: 200px; height: 30px; margin-left: 5px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-wordmark.png&quot;); background-repeat: no-repeat; background-position: center; background-size: contain">
+                        The University of Oklahoma</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+</div>
+  
+
+  <div class="logo-header-full hidden-xs">
+
+    
+    <div class="pull-left">
+      <a href="#mainContent" class="sr-only sr-only-focusable">Skip to main content</a>
+    </div>
+
+
+    <div id="ctl00_ctl00_divPageHeader" class="container logo-header clearfix" style="padding: 5px;">
+
+      <div id="divLogo" class="pull-left logo-container">
+
+        <a href="https://www.ou.edu/"
+           target="_blank">
+          <img src="/TDPortal/BE/Logo/2/0" alt="University of Oklahoma Home Page" class="js-logo img-responsive" />
+        </a>
+
+      </div>
+
+      <div class="master-header-right pull-right padding-top padding-bottom">
+
+        
+
+          <div class="pull-left topLevelSearch input-group">
+            <div id="SiteSearch-0f45701a8cdc4efe8d6305843f68ab89" class="gutter-bottom input-group site-search" style="max-width: 400px;">
+  <div id="SiteSearch-dropdown-0f45701a8cdc4efe8d6305843f68ab89" class="input-group-btn">
+    <button type="button" id="SiteSearch-filter-0f45701a8cdc4efe8d6305843f68ab89" class="btn btn-default dropdown-toggle" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false" title="Filter your search by categories" data-component="all">
+      <span class="fa fa-globe"></span><span class="fa fa-fw fa-nopad fa-caret-down" aria-hidden="true"></span>
+      <span class="sr-only">
+        Filter your search by category. Current category:
+        <span class="js-current-component">All</span>
+      </span>
+    </button>
+    <ul class="dropdown-menu" >
+      <li>
+        <a href="javascript:void(0);" data-component-text="All" data-component="all" data-component-icon="fa-globe" title="Search all areas">
+          <span class="fa fa-fw fa-nopad fa-globe" aria-hidden="true"></span>
+          All
+        </a>
+      </li>
+
+      <li role="separator" class="divider"></li>
+
+        <li role="presentation">
+          <a role="menuitem" href="javascript:void(0);" data-component-text="Knowledge Base" data-component="kb" data-component-icon="fa-lightbulb-o" title="Search Knowledge Base">
+            <span class="fa fa-fw fa-nopad fa-lightbulb-o" aria-hidden="true"></span>
+            Knowledge Base
+          </a>
+        </li>
+
+        <li role="presentation">
+          <a role="menuitem" href="javascript:void(0);" data-component-text="Service Catalog" data-component="sc" data-component-icon="fa-compass" title="Search Service Catalog">
+            <span class="fa fa-fw fa-nopad fa-compass" aria-hidden="true"></span>
+            Service Catalog
+          </a>
+        </li>
+
+    </ul>
+  </div>
+
+  <label class="sr-only" for="SiteSearch-text-0f45701a8cdc4efe8d6305843f68ab89">Search the client portal</label>
+
+  <input id="SiteSearch-text-0f45701a8cdc4efe8d6305843f68ab89" type="text" class="form-control" autocomplete="off" placeholder="Search the client portal" title="To search for items with a specific tag, enter the # symbol followed by the name of the tag.
+To search for items using exact match, place double quotes around your text."/>
+
+  <span class="input-group-btn">
+    <button id="SiteSearch-button-0f45701a8cdc4efe8d6305843f68ab89" class="btn btn-default" type="button" title="Search">
+      <span class="fa fa-fw fa-nopad fa-search blue" aria-hidden="true"></span>
+      <span class="sr-only">Search</span>
+    </button>
+  </span>
+</div>
+
+<script>
+  $(function() {
+    var siteSearch = new TeamDynamix.SiteSearch({
+      searchUrl: "/TDClient/35/Norman/Shared/Search",
+      enableAutocompleteSearch: true,
+      autocompleteSearchUrl: '/TDClient/35/Norman/Shared/AutocompleteSearch',
+      autocompleteResultsPosition: 'fixed',
+      autocompleteResultsZIndex: 1000,
+      searchTextBoxSelector: '#SiteSearch-text-0f45701a8cdc4efe8d6305843f68ab89',
+      searchComponentFilterButtonSelector: '#SiteSearch-filter-0f45701a8cdc4efe8d6305843f68ab89',
+      searchButtonSelector: '#SiteSearch-button-0f45701a8cdc4efe8d6305843f68ab89',
+      searchFilterDropdownSelector: '#SiteSearch-dropdown-0f45701a8cdc4efe8d6305843f68ab89',
+      showKnowledgeBaseOption: true,
+      showServicesOption: true,
+      showForumsOption: false,
+      autoFocusSearch: false
+    });
+  });
+  </script>
+          </div>
+
+        
+          <div title="Sign In" class="pull-right gutter-top-sm">
+            <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2fArticleDet%3fID%3d388%26SIDs%3d525">
+              Sign In
+            </a>
+          </div>
+        
+      </div>
+
+    </div>
+
+  </div>
+
+  <nav id="ctl00_ctl00_mainNav" class="navbar navbar-default themed tdbar" aria-label="Primary">
+    <div id="navContainer" class="container">
+
+      <div class="navbar-header">
+        <button type="button" class="pull-left navbar-toggle collapsed themed tdbar-button-anchored tdbar-toggle gutter-left" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="sr-only">Show Applications Menu</span>
+        </button>
+        <a class="navbar-brand hidden-sm hidden-md hidden-lg themed tdbar-button-anchored truncate-be" href="#">
+
+          Norman - Client Portal
+        </a>
+      </div>
+
+      <div id="td-navbar-collapse" class="collapse navbar-collapse">
+
+        <ul class="nav navbar-nav nav-collapsing" id="collapseMe">
+
+          
+            <li class="themed tdbar-button-anchored hidden-sm hidden-md hidden-lg">
+              <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2fArticleDet%3fID%3d388%26SIDs%3d525">Sign In</a>
+            </li>
+          
+            <li id="divSearch" class="themed tdbar-button-anchored hidden-sm hidden-md hidden-lg">
+              <a href="/TDClient/35/Norman/Shared/Search" title="search">Search</a>
+            </li>
+          
+              <li id="divDesktop4fbe1f59-07cd-41e9-8f37-5f49aa0d150a" class="themed tdbar-button-anchored">
+                <a href="/TDClient/35/Norman/Home/">Home</a>
+              </li>
+            
+
+          
+            <li id="divTDRequests" class="themed tdbar-button-anchored sr-focusable">
+              <a href="/TDClient/35/Norman/Requests/ServiceCatalog">Services</a>
+            </li>
+          
+            <li id="divTDKnowledgeBase" class="themed tdbar-button-anchored sr-focusable">
+              <a href="/TDClient/35/Norman/KB/">Knowledge Base</a>
+            </li>
+          
+
+          <li class="themed tdbar-button-anchored hidden-xs more-items-button" id="moreMenu">
+            <a data-toggle="dropdown" title="More Applications" href="javascript:;">
+              <span class="sr-only">More Applications</span>
+              <span class="fa fa-ellipsis-h" aria-hidden="true"></span>
+            </a>
+            <ul class="dropdown-menu dropdown-menu-right themed tdbar" id="collapsed"></ul>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+
+  </nav>
+
+  </div>
+
+  </header>
+
+
+
+<div id="navShim" class="hidden-xs hidden-sm"></div>
+<main role="main">
+  <div id="content">
+    <div id="mainContent" tabindex="-1"></div>
+    
+
+  
+    <nav id="divTabHeader" class="tdbar-sub NoPrint hidden-xs navbar-subnav" aria-label="Knowledge Base">
+      <a href="#kbContent" class="sr-only sr-only-focusable">Skip to Knowledge Base content</a>
+      <div class="container clearfix">
+        <ul class="nav navbar-nav js-submenu" id="kbSubMenu" style="margin-left: -15px;">
+          
+          <li>
+            <a href="/TDClient/35/Norman/KB/Search">Search <span class="sr-only">Articles</span></a>
+          </li>
+
+          
+          
+        </ul>
+      </div>
+    </nav>
+  
+
+  <div id="kbContent" class="container gutter-top gutter-bottom" tabindex="-1" style="outline:none;">
+    
+
+<input type="hidden" name="ctl00$ctl00$cpContent$cpContent$hdnFeedbackID" id="ctl00_ctl00_cpContent_cpContent_hdnFeedbackID" />
+<input type="hidden" name="ctl00$ctl00$cpContent$cpContent$hdnIsAddressed" id="ctl00_ctl00_cpContent_cpContent_hdnIsAddressed" />
+
+<span id="ctl00_ctl00_cpContent_cpContent_lblResults_ctl00" aria-live="polite" aria-atomic="true"><span id="ctl00_ctl00_cpContent_cpContent_lblResults_lblResults-label" class="red"></span></span>
+
+
+<div class="clearfix">
+  <ol class="breadcrumb pull-left">
+    <li><a href="/TDClient/35/Norman/KB/">Knowledge Base</a></li><li class="active"><a href="/TDClient/35/Norman/KB/?CategoryID=20">Academic Technology</a></li><li class="active">MyMedia Policy</li>
+  </ol>
+  <span class="js-open-monitor" style="display: none;"></span>
+</div>
+
+
+
+<div class="row gutter-top">
+
+<div id="divMainContent" class="col-md-8">
+
+<h1 class="gutter-top" style="-ms-word-wrap: break-word; word-wrap: break-word;">
+  MyMedia Policy
+</h1>
+
+
+
+
+
+<div id="ctl00_ctl00_cpContent_cpContent_divBody" class="gutter-top break-word ckeShim clearfix"><div>
+<h1><strong>MyMedia Details</strong></h1>
+</div>
+
+<div>
+<h3>WHAT IS MY MEDIA?</h3>
+</div>
+
+<p>MyMedia is a content repository solution, serviced by Kaltura, for higher education that provides a means for managing, delivering, creating, and accessing university-related content to all interested individuals.</p>
+
+<p>MyMedia provides&nbsp;<strong>Norman</strong> <strong>faculty and staff</strong>&nbsp;the ability to create, upload, and distribute multimedia content through mobile, online, and offline environments. It allows content owners to publish, manage, monetize and analyze their video and other rich-media content. For&nbsp;<strong>students and visitors</strong>, MyMedia provides a host of possibilities to access content on a wide variety of subjects including course lectures, presentations, university news, department or program information, and training sessions. For <strong>HSC Faculty, Staff, and Students</strong>, MyMedia provides the ability to view previously uploaded content for training purposes.</p>
+
+<div>
+<h1><strong>MyMedia Policies</strong></h1>
+</div>
+
+<div>
+<h3>ACCESSIBILITY INFORMATION</h3>
+</div>
+
+<p><strong>Public Content</strong>: Any content that is uploaded to a public MyMedia page must meet guidelines for accessibility as governed by the&nbsp;<a href="http://www.ou.edu/publicaffairs/WebPolicies.html" rel="noopener noreferrer" target="_blank">University of Oklahoma Web Policies</a>&nbsp;(<em>opens new window</em>), Title 62 of&nbsp;Oklahoma Statues O.S. 2001, Section 41.5e as amended (<a href="https://www.okhouse.gov/Policies/Accessibility.aspx" rel="noopener noreferrer" target="_blank">H.B. 2197</a>&nbsp;(<em>opens new window</em>)), and&nbsp;<a href="https://www.section508.gov/manage/laws-and-policies" rel="noopener noreferrer" target="_blank">Section 508</a>&nbsp;(<em>opens new window</em>) of the federal Rehabilitation Act of 1973, as amended (29 U.S.C. 794d). For public audio and video content, this means that a content creator should provide video captioning, a script, or a transcript.</p>
+
+<p><strong>Course Content</strong>: For content that is available only to students in a course, the following guidelines apply:</p>
+
+<ol>
+	<li>If the sole means of distributing the content takes place via audio or video, captioning or a transcript should be provided as an equivalent alternative for students with visual or auditory disabilities.</li>
+	<li>If the audio or video is an alternative form of content that was already disseminated to students through classroom lectures or other text-based content, no transcript or captioning is required.</li>
+</ol>
+
+<p>The&nbsp;<a href="http://ncam.wgbh.org/" rel="noopener noreferrer" target="_blank">National Center for Accessible Media</a>&nbsp;(<em>opens new window</em>) has produced Accessible Media, which are samples of accessible video and audio clips.</p>
+
+<p><strong>Students</strong><br>
+In accordance with University of Oklahoma policies and state and federal regulations, the University of Oklahoma is committed to full academic access for all qualified students, including those with disabilities. Faculty members are required to provide reasonable accommodations to students with disabilities, so as not to discriminate on the basis of that disability. Therefore, it is up to the individual content provider/department to provide accommodations where needed.</p>
+
+<p>Students are responsible for informing faculty of their need for accommodation and in providing authorized documentation through designated administrative channels. Information regarding specific diagnostic criteria and policies for obtaining academic accommodations can be found at the&nbsp;<a href="http://www.ou.edu/drc/home.html" rel="noopener noreferrer" target="_blank">OU Disability Resource Center</a>&nbsp;(<em>opens new window</em>) website.</p>
+
+<div>
+<h3>ADMINISTRATION OF MYMEDIA</h3>
+</div>
+
+<p>MyMedia content is stored on hosted servers by Kaltura. The MyMedia interface and associated technical infrastructure are maintained and supported by OU Information Technology. If you have any questions regarding MyMedia, please submit your inquiries at&nbsp;<a href="http://needhelp.ou.edu/">needhelp.ou.edu</a>.</p>
+
+<p>All colleges, departments, and University groups using MyMedia are responsible for the uploading and management of all&nbsp;<strong>private, protected, </strong>and <strong>public</strong><strong>&nbsp;content</strong>&nbsp;for their respective areas as well as the creation and maintenance of site galleries and or collections.</p>
+
+<p>All&nbsp;<strong>protected content</strong>&nbsp;is maintained by the respective content author/contributor for the respective course or private page the content is tied to. Protected content within MyMedia is only accessible to members of the OU community with a valid OUNetID via authentication. If a private course is created for a college or department that already maintains a public site, the private course will be created under that respective college or department and is subject to internal college or departmental policies governing content contained within MyMedia.</p>
+
+<p>Uploading content is the responsibility of the content creator or producer. University of Oklahoma Information Technology offers training courses in how to utilize MyMedia.</p>
+
+<p>Backup of materials uploaded to MyMedia is the sole responsibility of the content provider. Neither Kaltura nor OU Information Technology is responsible for maintaining backups.</p>
+
+<div>
+<h3>RECORDING TALENT AND SPEAKING RELEASE</h3>
+</div>
+
+<p>In the event that content includes pictures, audio, or video recording of students, faculty, staff, or any other third party, the content author and/or contributor may need to obtain written permission from them in advance of posting content to MyMedia. Contributors and/or content authors and publishers are responsible to maintain all obtained permissions in their records through the use of an&nbsp;<em>OU Talent Release Form</em>.</p>
+
+<p>For specific details and more information regarding talent release information as well as to download an&nbsp;<em>OU Talent Release Form</em>, please visit the OU Public Affairs Branding at&nbsp;<a href="https://www.ou.edu/brand/photo-and-video-content" rel="noopener noreferrer" target="_blank">Photo and Video Content</a>&nbsp;(<em>opens new window</em>).</p>
+
+<div>
+<h3>CONTENT OWNERSHIP</h3>
+</div>
+
+<p>All materials uploaded to MyMedia maintain their prior ownership when uploaded. Ownership is covered by the University of Oklahoma’s&nbsp;<a href="http://www.ou.edu/publicaffairs/WebPolicies/copyright.html" rel="noopener noreferrer" target="_blank">copyright</a>&nbsp;and&nbsp;<a href="http://ipmo.ou.edu/process/index.html" rel="noopener noreferrer" target="_blank">intellectual property</a>&nbsp;policies (<em>links open in new window</em>) for faculty, staff and students.</p>
+
+<p>A University of Oklahoma college, department, faculty, or staff member must sponsor materials uploaded to MyMedia. OU Student Organizations may upload content to MyMedia&nbsp;but must have a faculty sponsor for their account.</p>
+
+<p>The University of Oklahoma encourages faculty and event sponsors to arrange for the recording of material of potential interest to MyMedia and to secure&nbsp;<a href="https://www.ou.edu/brand/photo-and-video-content" rel="noopener noreferrer" target="_blank">talent release forms</a>&nbsp;(<em>opens new window</em>) from all participants at the time of recording.</p>
+
+<div>
+<h3>CONTENT RETENTION</h3>
+</div>
+
+<p>Content considered to be inappropriate may be removed from MyMedia without warning and pending the outcome of further investigation. Content may also be removed by its owner without warning. Content may be removed by site or section administrators in accordance with expiration procedures.</p>
+
+<p>MyMedia is neither an official data repository nor an archival database for the University of Oklahoma. Policies and procedures regarding data retention and legal discovery must take this fact into account. Content on MyMedia may be downloaded and uploaded regularly; not only by users but by site administrators. Content on MyMedia is considered an unauthenticated copy of content that exists elsewhere and is not considered a University permanent “record”.</p>
+
+<p>The content on MyMedia cannot be said to be original content nor should it be expected that the copy of the content on MyMedia is the only copy of that content that exists. This is made clear to all content providers through consultation as well as during their initial online request for use.</p>
+
+<div>
+<h3>STORAGE</h3>
+</div>
+
+<div>The main focus of MyMedia is geared towards academic content. OU recognizes that posting material online is a way to increase your audience and to gather content in an OU-branded fashion. Kaltura’s storage policy is that a video with zero playbacks in a two-year span will be up for deletion.</div>
+
+<div>Users who have content up for deletion will receive an email title: Action Required: MyMedia Video Deletion. Within that email, users will have the titles of all videos they own that are up for deletion. Users will then have 60 days to play videos they wish to keep; otherwise, that content will be deleted. If you feel as though your content has been deleted by mistake, please call 325-4357.</div>
+
+<div>
+<h3>TERMS OF USE AND USER RESPONSIBILITIES</h3>
+</div>
+
+<p>By accessing MyMedia or uploading and/or downloading content on MyMedia, you agree to the&nbsp;<a href="http://www.ou.edu/publicaffairs/WebPolicies/termsofuse.html" rel="noopener noreferrer" target="_blank">Terms of Use</a>&nbsp;(<em>opens new window</em>) policy for the University of Oklahoma.</p>
+
+<div>
+<h3>PUBLIC, PROTECTED, AND PRIVATE CONTENT</h3>
+</div>
+
+<p>Content may be classified as private, protected, or public within MyMedia.</p>
+
+<ul>
+	<li><strong>Private Content</strong>: Content that is only visible in the MyMedia Portal to the content owner and can only be shared by the content owner. This is the default setting when content is uploaded.</li>
+	<li><strong>Protected Content</strong><strong>:</strong>&nbsp;Content that only members of the OU community can view and requires a secure login to access via an OUNetID should be classified under this area.</li>
+	<li><strong>Public Content</strong>: Content that is shared with everyone can be viewed by the public and does not require secure login should be classified as public content.</li>
+</ul>
+
+<p>Content uploads to MyMedia may fall into one of the following areas:</p>
+
+<ul>
+	<li><strong>Public Affairs &amp; Marketing</strong>&nbsp;– Content for the purpose of marketing the University of Oklahoma to prospective students, alumni, donors, and the public. Content uploaded to this section may be subject to review by OU Public Affairs.</li>
+	<li><strong>Events, Conferences, and Symposiums</strong>&nbsp;– Content in this category is for the promotion and sharing of University of Oklahoma events and activities. Content that falls into this category will typically require the completion of a&nbsp;<a href="https://www.ou.edu/brand/photo-and-video-content" rel="noopener noreferrer" target="_blank">talent release form</a>&nbsp;(<em>opens a new window</em>).</li>
+	<li><strong>Teaching and Learning</strong>&nbsp;– Content in this category supports the academic mission of OU (instructor lectures, student assignments, experimental videos, college activities, etc.). Content in this category will typically be classified as protected (viewable by OU students, faculty, and staff via secured login), unless approved by the designated college or department administrator.</li>
+	<li><strong>Development &amp; Training</strong>&nbsp;– Content in this category includes informational or training materials for OU faculty, staff, and students.</li>
+</ul>
+
+<div>
+<h3>COPYRIGHT AND INTELLECTUAL PROPERTY</h3>
+</div>
+
+<p><strong>Overview</strong><br>
+According to the&nbsp;<a href="http://www.copyright.gov/" rel="noopener noreferrer" target="_self">U.S. Copyright Office</a>&nbsp;(<em>opens new window</em>), copyright is a protection provided to “authors of [original works], including literary, dramatic, musical, artistic, and certain other intellectual works.”</p>
+
+<p>All faculty, staff, and students of the University of Oklahoma must abide by&nbsp;<a href="http://www.ou.edu/publicaffairs/WebPolicies/copyright.html" rel="noopener noreferrer" target="_blank">copyright</a>&nbsp;(<em>opens new window</em>) and intellectual property laws, as defined in the&nbsp;<a href="http://ipmo.ou.edu/process/index.html" rel="noopener noreferrer" target="_blank">OU Intellectual Property Policy</a>&nbsp;from the&nbsp;<a href="http://ipmo.ou.edu/" rel="noopener noreferrer" target="_blank">OU Intellectual Property Management Office</a>&nbsp;and the&nbsp;<a href="http://www.ou.edu/provost/pronew/content/fhbmenu.html" rel="noopener noreferrer" target="_blank">OU Norman Campus Faculty Handbook</a>&nbsp;(<em>links open in new window</em>).</p>
+
+<p><strong>Do Not Redistribute Files</strong><br>
+You are not permitted to redistribute audio, video, or PDF files without the permission of the copyright holder (usually the original content author and/or publisher).</p>
+
+<p><strong>Uploading Files</strong><br>
+Faculty, staff, and students with upload privileges can make audio, video, and files available through MyMedia. It is your responsibility to make sure the files you upload to comply with&nbsp;<a href="http://copyright.gov/" rel="noopener noreferrer" target="_blank">U.S. Copyright Law</a>&nbsp;and University of Oklahoma&nbsp;<a href="http://www.ou.edu/publicaffairs/WebPolicies/copyright.html" rel="noopener noreferrer" target="_blank">copyright</a>&nbsp;and&nbsp;<a href="http://ipmo.ou.edu/process/index.html" rel="noopener noreferrer" target="_blank">intellectual property rights</a>&nbsp;(<em>links open in new window</em>) policies.</p>
+
+<p>If the University of Oklahoma reasonably believes or is notified that any of your files violate copyright law, they may be removed from MyMedia without notice.</p>
+
+<p>Original audio, video, and PDF files that you create are protected by copyright, even if they are made available in MyMedia.</p>
+
+<div>
+<h3>GENERAL QUESTIONS</h3>
+</div>
+
+<p>If you have any questions regarding policies or procedures, concerning MyMedia and need assistance, please submit your questions at&nbsp;<a href="http://needhelp.ou.edu/">needhelp.ou.edu</a>&nbsp;and a team member will follow up with you as soon as possible.</p>
+
+<div>
+<h3>TECHNICAL SUPPORT</h3>
+</div>
+
+<p>If you need assistance or have questions regarding the administration of your account or the access to MyMedia or any other technical problems you may be encountering, please visit the&nbsp;<a href="https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=124" rel="noopener noreferrer" target="_blank">IT Service Catalog</a>.</p>
+
+<p>&nbsp;</p>
+
+<div>
+<h1><strong>MyMedia FAQs</strong></h1>
+</div>
+
+<p><strong>Why utilize MyMedia?</strong><br>
+MyMedia provides an opportunity to widely distribute digital lectures, music, performances, speaker presentations, and more that convey academic and intellectual opportunities at the University of Oklahoma. MyMedia provides a way to reach a much wider global audience and enhances the educational experience.</p>
+
+<p><strong>What formats are supported with MyMedia?</strong><br>
+MyMedia supports the distribution of compressed audio and video files. MyMedia recommends using the following formats when you output your audio and video content:</p>
+
+<p>Audio files: (AAC, MP3) with appropriate file extensions (.m4a, .mp3). For best results during playback, MyMedia recommends the following specifications:</p>
+
+<ul>
+	<li>Audio Format: Baseline Low-Complexity Profile with AAC-LC (Music)</li>
+	<li>Data Rate: Up to 160 Kbps</li>
+	<li>Channels: Stereo in .m4v, .mp4, and .mov formats</li>
+	<li>Output Sample Rate: 48 kHz</li>
+	<li>Encoding Quality: Better</li>
+</ul>
+
+<p>Video files: (MPEG-4 with H.264 compression) with appropriate file extensions (.mp4, .m4v, .mov). For best results during playback, MyMedia recommends the following specifications:</p>
+
+<ul>
+	<li>Data Rate: Up to 1.5 Mbps</li>
+	<li>File Size: Not to exceed 2GB</li>
+	<li>Frame Rate: 30 frames per second</li>
+	<li>Key Frame: Every 24 frames</li>
+	<li>Audio Tracks: Baseline Low-Complexity Profile with AAC-LC audio up to 160 Kbps</li>
+</ul>
+
+<p><strong>Are there any proprietary digital rights management (DRM) schemes inserted into content on MyMedia?</strong><br>
+No, all content within MyMedia is free of any digital rights management. Ownership of all content uploaded to MyMedia remains with the content author and/or creator.</p>
+
+<p><strong>How long will content remain on MyMedia?</strong><br>
+Although most content on MyMedia is intended to remain indefinitely, there is no guarantee on how long content will remain on MyMedia. It is not intended to be a permanent or long-term repository or archive for audio and video content or course materials. All content contributors are responsible for backing up their content.</p>
+
+<p><strong>Will training and support be provided?</strong><br>
+OU Information Technology will be offering ongoing training and support on how to create, upload, and maintain content in MyMedia. If you require immediate assistance, please visit the&nbsp;<a href="https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=124" rel="noopener noreferrer" target="_blank">IT Service Catalog</a>.</p>
+
+<p><strong>Is content uploaded to MyMedia exempt from copyright or intellectual property right restrictions?</strong><br>
+No, all content uploaded and contained within MyMedia is not exempt from copyright and intellectual property laws. Unless you have written permission from the author of the copyrighted work, it is not legal to include that work in your content. It is the responsibility of the content creator to verify that the information contained within their content is not violating any copyright or intellectual property right laws.</p>
+
+<p><strong>Will I need an OUNetID&nbsp;to view content?</strong><br>
+No, all public content on MyMedia is free of charge and does not require a login with an OUNetID to view the content. Some content on MyMedia is considered protected and will require authentication with an OUNetID and password to verify whether the content creator has given you the necessary permissions to view their content.</p>
+
+<table border="0" cellpadding="10" style="color: #808080" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table border="0" cellpadding="20" style="background-color: #FFFFFF; color: #808080; vertical-align: top" width="100%">
+				<tbody>
+					<tr>
+						<td style="width: 33%; background-color: #F5F5F5; border-right: 8px solid #FFFFFF; vertical-align: top">
+						<h4 style="text-align: center"><strong>Service&nbsp;Alerts</strong></h4>
+
+						<p style="text-align: center"><a class="btn btn-default" href="https://alerts.ou.edu/" role="button" style="background-color: #328FC7; color: #FFFFFF; border: none; margin: 5px">Check Alerts</a> <a class="btn btn-default" href="https://alerts.ou.edu/subscribers/new" role="button" style="background-color: #328FC7; color: #FFFFFF; border: none; margin: 5px">Subscribe</a></p>
+						</td>
+						<td style="width: 33%; background-color: #F5F5F5; border-left: 8px solid #FFFFFF; vertical-align: top">
+						<h4 style="text-align: center"><b>Can't find what you're looking for?</b></h4>
+
+						<p style="text-align: center"><a class="btn btn-default" href="https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_" role="button" style="background-color: #328FC7; color: #FFFFFF; border: none; margin: 5px">Contact Us</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<div id="divFeedback2" class="well gutter-top-lg">
+
+  <div class="row" id="divHelpfulYesNo">
+    <div class="col-sm-7">
+      
+        <div>
+          <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2fArticleDet%3fID%3d388%26SIDs%3d525">Sign in to leave feedback</a>
+        </div>
+      
+    </div>
+    <div class="col-sm-5 text-right">
+      <div id="ctl00_ctl00_cpContent_cpContent_UpdatePanel1" aria-live="polite" aria-atomic="true">
+	
+          0 reviews
+        
+</div>
+    </div>
+  </div>
+
+  
+</div>
+
+
+
+<div class="tab-content gutter-top gutter-bottom">
+  
+  <div id="ctl00_ctl00_cpContent_cpContent_upFeedbackGrid">
+	
+        <a id="ctl00_ctl00_cpContent_cpContent_btnToggleAddressed" tabindex="-1" class="hidden" aria-hidden="true" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cpContent$cpContent$btnToggleAddressed&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Blank</a>
+        <a id="ctl00_ctl00_cpContent_cpContent_btnDeleteFeedback" tabindex="-1" class="hidden" aria-hidden="true" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cpContent$cpContent$btnDeleteFeedback&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Blank</a>
+        
+      
+</div>
+    
+    
+
+    
+</div>
+</div>
+
+<div class="col-md-4">
+
+
+
+<a id="ctl00_ctl00_cpContent_cpContent_btnToggleFavorite" tabindex="-1" class="hidden" aria-hidden="true" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cpContent$cpContent$btnToggleFavorite&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Blank</a>
+
+
+
+<div id="divDetails" class="panel panel-default gutter-top">
+
+  <div class="panel-heading">
+    <h2 class="h3 panel-title">Details</h2>
+  </div>
+
+  <div class="panel-body">
+
+    <div id="ArticleID">
+      <span class="control-label gutter-bottom-xs">Article ID: </span>
+      388
+    </div>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <div id="divAuthor" class="disp-group">
+      <span class="control-label gutter-bottom-xs">
+        Created
+      </span>
+      <div>
+        <span id="ctl00_ctl00_cpContent_cpContent_udtCreatedDate">Wed 9/9/20 2:39 PM</span><span id="ctl00_ctl00_cpContent_cpContent_lblCreatedBy"></span>
+      </div>
+    </div>
+
+    <div id="ctl00_ctl00_cpContent_cpContent_divModified" class="disp-group">
+      <span class="control-label gutter-bottom-xs">
+        Modified
+      </span>
+      <div>
+        <span id="ctl00_ctl00_cpContent_cpContent_udtModifiedDate">Thu 1/20/22 1:35 PM</span><span id="ctl00_ctl00_cpContent_cpContent_lblModifiedBy"></span>
+      </div>
+    </div>
+
+    
+
+    
+
+    <div class="js-custom-attributes-container">
+
+</div>
+
+  </div>
+</div>
+
+
+
+
+
+<div id="divAttachments" class="js-article-attachments"></div>
+
+</div>
+
+</div>
+
+<div id="ctl00_ctl00_cpContent_cpContent_divProgress" style="display: none; z-index: 60;">
+  <div id="ctl00_ctl00_cpContent_cpContent_pbMain" class="progress-box-container"><div class="progress-box-body"><div class="well shadow"><h2 class="h4 gutter-top-none">Deleting...</h2><div class="progress" style="margin-bottom: 0;"><div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div></div></div></div></div>
+</div>
+
+
+<div class="modal fade" id="divShareModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h3 class="modal-title h4" id="myModalLabel">
+          <span class="fa fa-share-alt fa-fw" aria-hidden="true"></span>Share
+        </h3>
+      </div>
+      <div class="modal-body">
+        <div class="form-group required">
+          <label class="control-label" for="ctl00_ctl00_cpContent_cpContent_shareRecipients">Recipient(s) <small>- separate email addresses with a comma</small></label>
+          <input name="ctl00$ctl00$cpContent$cpContent$shareRecipients" type="text" id="ctl00_ctl00_cpContent_cpContent_shareRecipients" class="form-control" />
+        </div>
+        <div class="form-group">
+          <label for="ctl00_ctl00_cpContent_cpContent_shareBody_txtBody" class="control-label">Message</label>
+          <script src="/TDPortal/Content/nanospell/autoload.js?v=20230331000656"></script>
+
+
+<script type="text/javascript">
+
+  (function () {
+    // The "CKEDITOR-config-loaded" event is thrown after the CKEDITOR global variable has been created, but before the instance of CKEditor is ready.
+    // At this point attach a listener to the global variable for the instanceReady event so we can perform our initialization logic.
+    window.addEventListener('CKEDITOR-config-loaded', function () {
+      if (window.CKEDITOR) {
+        setConfigs()
+        initialize();
+      }       
+    });
+  })();
+
+  function setConfigs() {
+    window.CKEDITOR.config['clientScripts'] = [{"scriptPath":["/TDPortal/Content/bootstrap/3.4.1/dist/js/bootstrap.min.js","https://itsupport.ou.edu/TDPortal/Content/Scripts/tdx/TDJSFramework.compiled.min.js"],"scriptDependencyPath":"/TDPortal/Content/Scripts/jquery/2.2.4/jquery.min.js"}];
+    window.CKEDITOR.config['clientStyles'] = ["/TDPortal/Content/bootstrap/3.4.1/dist/css/bootstrap.min.css","/TDClient/Styles/bootstrap_custom.min.css","/TDClient/Styles/TDStyles.min.css","https://itsupport.ou.edu/TDPortal/BE/Style/2/TDClient/35"];
+    window.CKEDITOR.config['itemTemplates'] = '';
+  }
+
+  function initialize() {
+
+    window.CKEDITOR.on('instanceReady', function (evt) {
+
+      if (evt.editor.element.$.id == 'ctl00_ctl00_cpContent_cpContent_shareBody_txtBody') {
+
+        
+
+          nanospell.ckeditor('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody', {
+            dictionary: 'en',
+            server: 'asp.net'
+          });
+
+          setTimeout(function () { evt.editor.startNanospell(); }, 200);
+
+        
+
+        // Check if we should mark the editor as required
+        if ($(evt.editor.element.$).parents('div.required').length > 0) {
+          evt.editor.editable().setAttribute('aria-required', 'true');
+        }
+      }
+
+    });
+  }
+
+  
+
+</script>
+
+<span class="sr-only">Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.</span>
+<textarea name="ctl00$ctl00$cpContent$cpContent$shareBody$txtBody" rows="2" cols="20" id="ctl00_ctl00_cpContent_cpContent_shareBody_txtBody">
+Check out this article I found in the Norman - Client Portal knowledge base.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=388&amp;SIDs=525&quot;&gt;https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=388&amp;SIDs=525&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;MyMedia Policy</textarea>
+
+
+        </div>
+      </div>
+      <div class="modal-footer text-left">
+        <button onclick="checkRecipients(); if (typeof(Page_ClientValidate) == 'function') Page_ClientValidate(''); __doPostBack('ctl00$ctl00$cpContent$cpContent$btnSendShare','')" id="ctl00_ctl00_cpContent_cpContent_btnSendShare" type="button" class="btn btn-primary">
+          <span class="fa fa-paper-plane-o" aria-hidden="true"></span><span class="padding-left-xs">Send</span>
+        </button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+
+  </div>
+</main>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+setNavPosition('TDKnowledgeBase');window.CKEDITOR_BASEPATH = 'https://itsupport.ou.edu/TDPortal/Content/ckeditor/';
+//]]>
+</script>
+<script src="https://itsupport.ou.edu/TDPortal/Content/ckeditor/ckeditor.js?t=C6HH5UF" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var CKEditor_Controls=[],CKEditor_Init=[];function CKEditor_TextBoxEncode(d,e){var f;if(typeof CKEDITOR=='undefined'||typeof CKEDITOR.instances[d]=='undefined'){f=document.getElementById(d);if(f)f.value=f.value.replace(/</g,'&lt;').replace(/>/g,'&gt;');}else{var g=CKEDITOR.instances[d];if(e&&(typeof Page_BlockSubmit=='undefined'||!Page_BlockSubmit)){g.destroy();f=document.getElementById(d);if(f)f.style.visibility='hidden';}else g.updateElement();}};(function(){if(typeof CKEDITOR!='undefined'){var d=document.getElementById('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody');if(d)d.style.visibility='hidden';}var e=function(){var f=CKEditor_Controls,g=CKEditor_Init,h=window.pageLoad,i=function(){for(var j=f.length;j--;){var k=document.getElementById(f[j]);if(k&&k.value&&(k.value.indexOf('<')==-1||k.value.indexOf('>')==-1))k.value=k.value.replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&amp;/g,'&');}if(typeof CKEDITOR!='undefined')for(var j=0;j<g.length;j++)g[j].call(this);};window.pageLoad=function(j,k){if(k.get_isPartialLoad())setTimeout(i,0);if(h&&typeof h=='function')h.call(this,j,k);};if(typeof Page_ClientValidate=='function'&&typeof CKEDITOR!='undefined')Page_ClientValidate=CKEDITOR.tools.override(Page_ClientValidate,function(j){return function(){for(var k in CKEDITOR.instances){if(document.getElementById(k))CKEDITOR.instances[k].updateElement();}return j.apply(this,arguments);};});setTimeout(i,0);};if(typeof Sys!='undefined'&&typeof Sys.Application!='undefined')Sys.Application.add_load(e);if(window.addEventListener)window.addEventListener('load',e,false);else if(window.attachEvent)window.attachEvent('onload',e);})();CKEditor_Controls.push('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody');
+CKEditor_Init.push(function(){if(typeof CKEDITOR.instances['ctl00_ctl00_cpContent_cpContent_shareBody_txtBody']!='undefined' || !document.getElementById('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody')) return;CKEDITOR.replace('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody',{"autoGrow_maxHeight" : 175, "autoGrow_minHeight" : 175, "contentsCss" : ['https://itsupport.ou.edu/TDPortal/Content/ckeditor/contents.css', '/TDPortal/Content/Styles/font-awesome.min.css'], "height" : "175", "htmlEncodeOutput" : true, "image_previewText" : " ", "removePlugins" : "magicline,devtools,templates,elementspath,fontawesome,youtube,uploadimage,simpleimage,remoteimageblocker", "toolbar" : "TDSimple"}); });
+//]]>
+</script>
+</form>
+
+<footer role="contentinfo">
+  
+  
+  
+    <div class="master-footer">
+
+      
+
+<div class="footer" style="background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/bg_black.gif&quot;); background-repeat: repeat; color: #FFFFFF; background-color: #333333; width: 100%; padding: 0">
+    <div class="container" style="padding-right: 20px; padding-left: 20px; margin: 0 auto">
+        <div class="footerpar iparsys parsys">
+            <div class="footer2012 parbase section">
+                
+                <div class="row-fluid" style="width: 100%; margin: 2em auto">
+                    <div class="footerColumn span4 padding-bottom-lg" style="display: block; float: left; min-height: 30px; min-width: 20em; width: 31.62%; margin-left: 0">
+                        <div class="footerlogo" style="float: left"><img alt="OU" src="//www.ou.edu/content/dam/homepage2012/design/footerlogo.png" style="max-width: 100%; vertical-align: middle; outline: none; border: none; padding: 0; margin: 0; width: 45px; height: 62px" width="45" height="62">
+                        </div>
+                        <div class="footeraddress" style="float: left; margin-left: 10px"><a href="//www.ou.edu/" style="color: #FFFFFF; outline: none">
+                                <b>The University of Oklahoma</b></a><br>
+                            660 Parrington Oval, <br>
+                            Norman, OK 73019-0390<br>
+                            (405) 325-0311<br>
+                        </div>
+                    </div>
+                    <div class="footerColumn span4" style="display: block; float: left; min-height: 30px; margin-left: 2.56%; min-width: 20em; width: 31.62%">
+                        <div>
+                            <div>
+                                <div>
+                                    <ul class="2columns unstyled" style="padding: 0; margin: 0 0 10px; list-style: none">
+                                        <div class="first column" style="width: 50%; float: left">
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/publicaffairs/WebPolicies/accessstatement.html" style="color: #FFFFFF; outline: none">Accessibility</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/sustainability.html" style="color: #FFFFFF; outline: none">Sustainability</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//ouhsc.edu/hipaa/" style="color: #FFFFFF; outline: none">HIPAA</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//hr.ou.edu/jobs/" style="color: #FFFFFF; outline: none">OU
+                                                    Job Search</a></li>
+                                        </div>
+                                        <div class="last column" style="width: 50%; float: left">
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/landing/policy.html" style="color: #FFFFFF; outline: none">Policies</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/landing/legalnotices.html" style="color: #FFFFFF; outline: none">Legal
+                                                    Notices</a></li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/content/publicaffairs/WebPolicies/copyright.html" style="color: #FFFFFF; outline: none">Copyright</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/resources_offices.html" style="color: #FFFFFF; outline: none">Resources
+                                                    &amp; Offices</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="https://ouregents.ethicspoint.com" style="color: #FFFFFF; outline: none">OU
+                                                    Report It!</a></li>
+                                        </div><br style="clear: both">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footerColumn span4 padding-bottom-lg" style="display: block; float: left; min-height: 30px; margin-left: 2.56%; min-width: 20em; width: 31.62%">
+                        <div>
+                            <div>
+                                <div>
+                                    <p style="font-size: 100%; margin: 0; line-height: 40px; font-weight: bold; color: inherit"></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="overflow: auto; padding: 0; margin: 0">
+                            <div style="overflow: auto; padding: 0; margin: 0">
+                                <div class="wide">
+                                    <ul style="padding: 0; margin: 0; overflow: auto; list-style-type: none; width: 278px">
+                                        <li style="line-height: 20px; float: left; display: block"><a class="facebook" href="//www.facebook.com/uofoklahoma" title="Go to the University of Oklahoma's Facebook account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: left top">facebook</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="twitter" href="https://twitter.com/uofoklahoma" title="Go to the University of Oklahoma's Twitter account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -46px">twitter</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="youtube" href="//www.youtube.com/universityofoklahoma" title="Go to the University of Oklahoma's YouTube account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -92px">youtube</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="instagram" href="https://www.instagram.com/uofoklahoma/" title="Go to the University of Oklahoma's Instagram account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -138px">instagram</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="more" href="//www.ou.edu/web/socialmediadirectory.html" title="Visit more of Oklahoma University's social media at the social media directory" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -368px">OU
+                                                Social Media
+                                                Directory</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="width: 100%; margin: 2em auto">
+                    <div class="footerBottom span12" style="display: block; float: left; min-height: 30px; width: 100%; border-top: 1px solid #474747; padding-top: 10px; margin-left: 0">
+                        Updated by <a href="//www.ou.edu/ouit" style="color: #FFFFFF; outline: none">
+                            <b>OU Information Technology</b></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+<script type="text/javascript" src="https://bot.ivy.ai/bot/script/category/90JvaRm8Ob7KwjGB9zM6EZXoB3peVnNz"></script>
+      
+
+    </div>
+  
+</footer>
+
+
+
+
+<script>
+
+    
+    
+
+      // Inject the Google Analytics isogram. This must happen here because it
+      // cannot be injected through an external javascript library.
+      (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+          (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    
+
+      // Per Incident #6707155. Need to focus on img. pseudo-class :focus-within is not supported in IE
+      (function ($) {
+        var $anchor = $('#divLogo a');
+        var $beLogo = $('#divLogo a img');
+
+        $anchor.focus(function () {
+          $beLogo.addClass('accessibility-focus-on-logo');
+        })
+          .blur(function () {
+            $beLogo.removeClass('accessibility-focus-on-logo');
+          })
+
+    })(jQuery);
+
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,932 @@
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href="/TDPortal/Content/Styles/font-awesome.min.css?v=20230331000656" rel="stylesheet" type="text/css" id="lnkFontAwesome" /><script src="/TDPortal/Content/Scripts/jquery/2.2.4/jquery.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/jquery-migrate/1.4.1/jquery-migrate.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/jquery-ui/1.12.1/jquery-ui-1.12.1.custom.timepicker.min.js?v=20230331000656"></script><link href="/TDPortal/Content/Styles/jquery-ui/1.12.1/jquery-ui.compiled.min.css?v=20230331000656" rel="stylesheet" type="text/css"  /><link href="/TDPortal/Content/bootstrap/3.4.1/dist/css/bootstrap.min.css?v=20230331000656" rel="stylesheet" type="text/css" id="lnkBootstrapCSS" /><script src="/TDPortal/Content/bootstrap/3.4.1/dist/js/bootstrap.min.js?v=20230331000656"></script><link href="/TDClient/Styles/bootstrap_custom.min.css?v=20230331000652" rel="stylesheet" type="text/css"  /><link href="/TDClient/Styles/TDStyles.min.css?v=20230331000652" rel="stylesheet" type="text/css"  /><link href="https://itsupport.ou.edu/TDPortal/BE/Style/2/TDClient/35?v=20200908144717" rel="stylesheet" type="text/css" /><script src="/TDPortal/Content/Scripts/tdx/TDJSFramework.compiled.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/underscore/1.12.1/underscore-min.js?v=20230331000656"></script>
+<script src="/TDClient/Scripts/clientOS.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/collapseMe.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/tdsearchfilter.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/SiteSearch.min.js?v=20230331000652"></script>
+<script src="/TDPortal/Content/Scripts/tdx/elasticsearchAutocomplete/elasticsearchAutocomplete.min.js?v=20230331000656"></script>
+<link id="ctl00_ctl00_lnkFavicon" rel="shortcut icon" href="https://itsupport.ou.edu/TDPortal/BE/Icon/2/35?v=20200617174529" />
+
+    
+    <script async src="//www.googletagmanager.com/gtag/js?id=UA-207295051-1"></script>
+    <script>
+
+      $(function () {
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        // Be sure to set the proper cookie domain to the customer's full subdomain when sending the pageview hit.
+        gtag('config', 'UA-207295051-1', { 'cookie_domain': 'itsupport.ou.edu' });
+
+        });
+
+    </script>
+
+  
+
+  <script>
+
+      $(function () {
+        var masterUi = MasterUI({
+          isPostback: false,
+        baseUrl: '/TDClient/',
+        isTdGoogleAnalyticsEnabled: true,
+        isAuthenticated: false
+        });
+
+      $('#collapseMe').collapseMe({
+        toggleVisibilitySelector: '.navbar-toggle'
+      });
+
+    });
+
+      // The sub-nav menu uses padding-top to position itself below the header bar and main navigation sections. When the
+      // window is resized, there is a chance that the content of these header or nav sections wraps, causing the height
+      // to change, potentially covering the sub-nav menu, which is obviously a big usability problem. This function
+      // listens for when the window size or orientation is changing (and also when the window first loads), and adjusts
+      // the padding so that the sub-nav menu appears in the correct location.
+      $(window).bind('load ready resize orientationchange', function () {
+        var headerHeight = $('#divMstrHeader').height();
+        $('#navShim').css({
+          "padding-top": headerHeight
+        });
+
+        $('#content').css({
+          "padding-top": headerHeight,
+          "margin-top": headerHeight * -1
+        });
+      });
+  </script>
+
+  
+  
+  
+
+
+  <script>
+
+    function ReloadList() {
+      window.location.href = window.location.href;
+    }
+
+    // Adds ellipsis for long descriptions with long titles
+    $(function () {
+
+      
+
+      // Need to wait for images to load before the search bar position Is calculated
+      $(window).bind('load', function () {
+        // initialize the tag lookup
+        var searchFilter = new TeamDynamix.SearchFilter({
+          searchFieldSelector: '#ctl00_ctl00_cpContent_cpContent_txtCategorySearch',
+          wsUrl: '/TDClient/35/Norman/WebServices/JSON/TagLookupService.asmx/GetItems'
+        });
+      });
+
+    
+
+      $('#ctl00_ctl00_cpContent_cpContent_txtCategorySearch').keyup(function (e) {
+        if (e.keyCode === 13) {
+          $('#ctl00_ctl00_cpContent_cpContent_btnCategorySearch').click()
+        }
+      });
+    });
+  </script>
+
+
+<meta property="og:title" content="IT Professional Services" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://itsupport.ou.edu/TDClient/35/Norman/KB/?CategoryID=17" />
+<meta property="og:image" content="https://itsupport.ou.edu/TDPortal/BE/Logo/2/35" />
+  <meta property="og:site_name" content="University of Oklahoma - Knowledge Base" /><title>
+	Knowledge Base - IT Professional Services
+</title></head>
+<body>
+<form method="post" action="/TDClient/35/Norman/KB/?CategoryID=17" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="CFD3hMhr4gLFJ/hy5B2JGazPAIKgvz33IwoyG36+9ati6SaGvRgwcW74lH8OquI7sAq8fGTjN4YwkLEknN505pnQ3QQ0ALCo3q8ZUnlCq4V+11qoRuI22FfaPJVWd8ZpR69IYsGDuwo/WLq12Uvtn9Gxowt12t9QjAVPZHQJEU0HdtgNji4ALn7swR1GgKrHqyjqKBiBlA9dvB7eHQi67pfBWMcPCSFKoRpeXuPxuS5Cf8pwjYVmYMs+fC2FZIXskOz43ZskNNfQFhtLhaqqhNjNKM0obr3WKWH/jTJiwl8oyjHSS9/4iz4qQ3+S15/4JQtFOhkiOVf8Ss6IhaZDD3zu2VdeChEn91BmmOhGfs2Gg8BiAf5YZR0FUOyJaBpeETMZYUshGCdnxuYbiRhxY0uOZVs3T/7SYXdOo6TrUt/2WUakABkVdK7R+3Ca37HGw4xBLhsZiYgxTlu/7NBwr8YVrgk=" />
+
+
+<script src="/TDClient/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmVxW3-Ljsg_2Hna32smxrg-6ogyYAN3UTPsJQ8m1uwzn_kuf2Wpne6NSFmYui3h0wCQhJN3ZUiLTNkvhiIgZpq74-lKmofUPQGJ8own8RI2_mwAcmvlSj2WBnqwm5Wj4cyNvv81&amp;t=49337fe8" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EA19DDCE" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="CGlOTlhu1D1qbnA2ERZQ0uC+h5E79j0pFMbH8+3yifj0GvdciT10Q3L5HFgXgV8sZvtMEcEk364jOpz5J9It+n9BihiV9IWsyCkVaCYvfeR8Jrhf" />
+
+<div id="ctl00_ctl00_upMain" style="display:none;">
+	
+    <div id="ctl00_ctl00_pbMain" class="progress-box-container"><div class="progress-box-body"><div class="well shadow"><h2 class="h4 gutter-top-none">Updating...</h2><div class="progress" style="margin-bottom: 0;"><div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div></div></div></div></div>
+  
+</div>
+
+
+
+  <header role="banner">
+
+  <div id="divMstrHeader" class="master-header NoPrint" style="background-color: #fff;">
+
+  <div class="globalheader" style="background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-bg.jpg&quot;); background-repeat: repeat">
+    <div class="container">
+        <div class="globalheader_2012">
+            <div class="row">
+                <ul style="height: 30px; list-style-type: none; overflow: visible; margin: 0; padding: 0; float: right">
+                    <li style="line-height: 20px; float: left"><a class="tip home" href="//www.ou.edu/web.html" alt="OU Home link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: left top"><span style="display: none">OU Homepage</span></a></li>
+                    <li style="line-height: 20px; float: left"><a class="tip search" href="https://www.ou.edu/web/search" alt="OU Search link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: -30px 0"><span style="display: none">Search OU</span></a></li>
+                    <li style="line-height: 20px; float: left"><a class="tip search" href="https://www.ou.edu/web/socialmediadirectory" alt="OU Social Media link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: -60px 0"><span style="display: none">OU Social Media</span></a></li>
+                    <li class="wordmark" style="line-height: 20px; float: left; text-indent: -99999px; width: 200px; height: 30px; margin-left: 5px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-wordmark.png&quot;); background-repeat: no-repeat; background-position: center; background-size: contain">
+                        The University of Oklahoma</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+</div>
+  
+
+  <div class="logo-header-full hidden-xs">
+
+    
+    <div class="pull-left">
+      <a href="#mainContent" class="sr-only sr-only-focusable">Skip to main content</a>
+    </div>
+
+
+    <div id="ctl00_ctl00_divPageHeader" class="container logo-header clearfix" style="padding: 5px;">
+
+      <div id="divLogo" class="pull-left logo-container">
+
+        <a href="https://www.ou.edu/"
+           target="_blank">
+          <img src="/TDPortal/BE/Logo/2/0" alt="University of Oklahoma Home Page" class="js-logo img-responsive" />
+        </a>
+
+      </div>
+
+      <div class="master-header-right pull-right padding-top padding-bottom">
+
+        
+
+          <div class="pull-left topLevelSearch input-group">
+            <div id="SiteSearch-c5a48344cc904be4824394366f0b48b2" class="gutter-bottom input-group site-search" style="max-width: 400px;">
+  <div id="SiteSearch-dropdown-c5a48344cc904be4824394366f0b48b2" class="input-group-btn">
+    <button type="button" id="SiteSearch-filter-c5a48344cc904be4824394366f0b48b2" class="btn btn-default dropdown-toggle" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false" title="Filter your search by categories" data-component="all">
+      <span class="fa fa-globe"></span><span class="fa fa-fw fa-nopad fa-caret-down" aria-hidden="true"></span>
+      <span class="sr-only">
+        Filter your search by category. Current category:
+        <span class="js-current-component">All</span>
+      </span>
+    </button>
+    <ul class="dropdown-menu" >
+      <li>
+        <a href="javascript:void(0);" data-component-text="All" data-component="all" data-component-icon="fa-globe" title="Search all areas">
+          <span class="fa fa-fw fa-nopad fa-globe" aria-hidden="true"></span>
+          All
+        </a>
+      </li>
+
+      <li role="separator" class="divider"></li>
+
+        <li role="presentation">
+          <a role="menuitem" href="javascript:void(0);" data-component-text="Knowledge Base" data-component="kb" data-component-icon="fa-lightbulb-o" title="Search Knowledge Base">
+            <span class="fa fa-fw fa-nopad fa-lightbulb-o" aria-hidden="true"></span>
+            Knowledge Base
+          </a>
+        </li>
+
+        <li role="presentation">
+          <a role="menuitem" href="javascript:void(0);" data-component-text="Service Catalog" data-component="sc" data-component-icon="fa-compass" title="Search Service Catalog">
+            <span class="fa fa-fw fa-nopad fa-compass" aria-hidden="true"></span>
+            Service Catalog
+          </a>
+        </li>
+
+    </ul>
+  </div>
+
+  <label class="sr-only" for="SiteSearch-text-c5a48344cc904be4824394366f0b48b2">Search the client portal</label>
+
+  <input id="SiteSearch-text-c5a48344cc904be4824394366f0b48b2" type="text" class="form-control" autocomplete="off" placeholder="Search the client portal" title="To search for items with a specific tag, enter the # symbol followed by the name of the tag.
+To search for items using exact match, place double quotes around your text."/>
+
+  <span class="input-group-btn">
+    <button id="SiteSearch-button-c5a48344cc904be4824394366f0b48b2" class="btn btn-default" type="button" title="Search">
+      <span class="fa fa-fw fa-nopad fa-search blue" aria-hidden="true"></span>
+      <span class="sr-only">Search</span>
+    </button>
+  </span>
+</div>
+
+<script>
+  $(function() {
+    var siteSearch = new TeamDynamix.SiteSearch({
+      searchUrl: "/TDClient/35/Norman/Shared/Search",
+      enableAutocompleteSearch: true,
+      autocompleteSearchUrl: '/TDClient/35/Norman/Shared/AutocompleteSearch',
+      autocompleteResultsPosition: 'fixed',
+      autocompleteResultsZIndex: 1000,
+      searchTextBoxSelector: '#SiteSearch-text-c5a48344cc904be4824394366f0b48b2',
+      searchComponentFilterButtonSelector: '#SiteSearch-filter-c5a48344cc904be4824394366f0b48b2',
+      searchButtonSelector: '#SiteSearch-button-c5a48344cc904be4824394366f0b48b2',
+      searchFilterDropdownSelector: '#SiteSearch-dropdown-c5a48344cc904be4824394366f0b48b2',
+      showKnowledgeBaseOption: true,
+      showServicesOption: true,
+      showForumsOption: false,
+      autoFocusSearch: false
+    });
+  });
+  </script>
+          </div>
+
+        
+          <div title="Sign In" class="pull-right gutter-top-sm">
+            <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2f%3fCategoryID%3d17">
+              Sign In
+            </a>
+          </div>
+        
+      </div>
+
+    </div>
+
+  </div>
+
+  <nav id="ctl00_ctl00_mainNav" class="navbar navbar-default themed tdbar" aria-label="Primary">
+    <div id="navContainer" class="container">
+
+      <div class="navbar-header">
+        <button type="button" class="pull-left navbar-toggle collapsed themed tdbar-button-anchored tdbar-toggle gutter-left" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="sr-only">Show Applications Menu</span>
+        </button>
+        <a class="navbar-brand hidden-sm hidden-md hidden-lg themed tdbar-button-anchored truncate-be" href="#">
+
+          Norman - Client Portal
+        </a>
+      </div>
+
+      <div id="td-navbar-collapse" class="collapse navbar-collapse">
+
+        <ul class="nav navbar-nav nav-collapsing" id="collapseMe">
+
+          
+            <li class="themed tdbar-button-anchored hidden-sm hidden-md hidden-lg">
+              <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2f%3fCategoryID%3d17">Sign In</a>
+            </li>
+          
+            <li id="divSearch" class="themed tdbar-button-anchored hidden-sm hidden-md hidden-lg">
+              <a href="/TDClient/35/Norman/Shared/Search" title="search">Search</a>
+            </li>
+          
+              <li id="divDesktop4fbe1f59-07cd-41e9-8f37-5f49aa0d150a" class="themed tdbar-button-anchored">
+                <a href="/TDClient/35/Norman/Home/">Home</a>
+              </li>
+            
+
+          
+            <li id="divTDRequests" class="themed tdbar-button-anchored sr-focusable">
+              <a href="/TDClient/35/Norman/Requests/ServiceCatalog">Services</a>
+            </li>
+          
+            <li id="divTDKnowledgeBase" class="themed tdbar-button-anchored sr-focusable">
+              <a href="/TDClient/35/Norman/KB/">Knowledge Base</a>
+            </li>
+          
+
+          <li class="themed tdbar-button-anchored hidden-xs more-items-button" id="moreMenu">
+            <a data-toggle="dropdown" title="More Applications" href="javascript:;">
+              <span class="sr-only">More Applications</span>
+              <span class="fa fa-ellipsis-h" aria-hidden="true"></span>
+            </a>
+            <ul class="dropdown-menu dropdown-menu-right themed tdbar" id="collapsed"></ul>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+
+  </nav>
+
+  </div>
+
+  </header>
+
+
+
+<div id="navShim" class="hidden-xs hidden-sm"></div>
+<main role="main">
+  <div id="content">
+    <div id="mainContent" tabindex="-1"></div>
+    
+
+  
+    <nav id="divTabHeader" class="tdbar-sub NoPrint hidden-xs navbar-subnav" aria-label="Knowledge Base">
+      <a href="#kbContent" class="sr-only sr-only-focusable">Skip to Knowledge Base content</a>
+      <div class="container clearfix">
+        <ul class="nav navbar-nav js-submenu" id="kbSubMenu" style="margin-left: -15px;">
+          
+          <li>
+            <a href="/TDClient/35/Norman/KB/Search">Search <span class="sr-only">Articles</span></a>
+          </li>
+
+          
+          
+        </ul>
+      </div>
+    </nav>
+  
+
+  <div id="kbContent" class="container gutter-top gutter-bottom" tabindex="-1" style="outline:none;">
+    
+
+  <span id="ctl00_ctl00_cpContent_cpContent_lblResults_ctl00" aria-live="polite" aria-atomic="true"><span id="ctl00_ctl00_cpContent_cpContent_lblResults_lblResults-label" class="red"></span></span>
+
+  <div class="gutter-bottom">
+
+    <ol id="ctl00_ctl00_cpContent_cpContent_olBreadcrumbs" class="breadcrumb">
+      <li><a href="/TDClient/35/Norman/KB/">Knowledge Base</a></li><li class="active"><a href="/TDClient/35/Norman/KB/?CategoryID=17">IT Professional Services</a></li>
+    </ol>
+
+    <h1>
+      <span id="ctl00_ctl00_cpContent_cpContent_spnIcon" class="fa category-icon">
+        
+      </span>
+      <span id="ctl00_ctl00_cpContent_cpContent_lblCategoryName">IT Professional Services</span>
+      
+    </h1>
+
+  </div>
+
+  <div class="row">
+
+    <div id="divCats" class="col-md-8">
+
+      
+
+      <h2>Articles (17)</h2>
+
+<div class="gutter-bottom">
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=160&amp;SIDs=279">
+          About OU Wired Networks
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=313&amp;SIDs=428">
+          Data Services Consultation
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=100&amp;SIDs=134">
+          Departmental Cabling and Port Activations
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=55&amp;SIDs=123">
+          Departmental Technology Surplus
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=102&amp;SIDs=136">
+          Firewall Exceptions
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=48&amp;SIDs=124">
+          Incomplete Contracts &amp; I-Makeup Reports User Guide
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=65&amp;SIDs=130">
+          Minimum System Requirements
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=122&amp;SIDs=282">
+          New Phone Request
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=53&amp;SIDs=122">
+          Project Management
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=25&amp;SIDs=280">
+          Security Training
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=316&amp;SIDs=436">
+          Service Support with remote.ou.edu
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=103&amp;SIDs=138">
+          Setup Static IP for Network Printer
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=101&amp;SIDs=135">
+          Static IP Requests
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=54&amp;SIDs=125">
+          Technology Strategy &amp; Management
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=66&amp;SIDs=131">
+          University Owned Computer Repairs
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=70&amp;SIDs=132">
+          Unsolicited Sales Calls – Printing Supplies
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=346&amp;SIDs=464">
+          Webspace Quotas
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+</div>
+      
+
+    </div>
+
+    <div id="divCatsSidebar" class="col-md-4">
+      <div id="ctl00_ctl00_cpContent_cpContent_divCategorySearch" class="gutter-bottom input-group">
+        <label class="sr-only" for="ctl00_ctl00_cpContent_cpContent_txtCategorySearch">Search this category</label>
+        <input name="ctl00$ctl00$cpContent$cpContent$txtCategorySearch" type="search" id="ctl00_ctl00_cpContent_cpContent_txtCategorySearch" maxlength="100" class="form-control" autocomplete="off" placeholder="Search this category" aria-label="Search this category" title="To search for articles within this specific category and subcategories." />
+
+        <span class="input-group-btn">
+          <button onclick="__doPostBack('ctl00$ctl00$cpContent$cpContent$btnCategorySearch','')" id="ctl00_ctl00_cpContent_cpContent_btnCategorySearch" class="btn btn-default" type="button" title="Search">
+            <span class="fa fa-fw fa-nopad fa-search blue" aria-hidden="true"></span>
+            <span class="sr-only">Search</span>
+          </button>
+        </span>
+      </div>
+
+      
+
+      <h2 class="sr-only">Additional Resources</h2>
+
+      <div id="ctl00_ctl00_cpContent_cpContent_divPopular" class="panel panel-default gutter-top">
+
+        <div class="panel-heading">
+          <h2 class="h3 panel-title" title="Most popular articles based upon total views">Popular Articles</h2>
+        </div>
+
+        <div class="panel-body">
+          <ul class="panel-list">
+            
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=272&SIDs=386">How to filter OUMM (OU Mass Mail)</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=400&SIDs=536">Accessing Lockdown Browser to Take a Quiz</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2533&SIDs=1699">PingID Multi-Factor Information</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2543&SIDs=1701">PingID Enrollment</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=142&SIDs=241">AccessOU</a>
+                </li>
+              
+          </ul>
+        </div>
+
+        <div class="panel-footer clearfix">
+          <a class="pull-right" href="/TDClient/35/Norman/KB/PopularArticles">
+            View All Popular Articles
+            <span class="fa fa-chevron-right"></span>
+          </a>
+        </div>
+      </div>
+
+      <div id="ctl00_ctl00_cpContent_cpContent_divRecent" class="panel panel-default gutter-top">
+
+        <div class="panel-heading">
+          <h2 class="h3 panel-title" title="Most recently modified articles">Recent Articles</h2>
+        </div>
+
+        <div class="panel-body">
+          <ul class="panel-list">
+            
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=86&SIDs=237">WiFi Troubleshooting</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=320&SIDs=440">Uploading Content to OUWWW/Organization Account Website</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2962&SIDs=2891">Adding external users to your OU Teams site</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2521&SIDs=1630">Zoom Recording Basics</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=368&SIDs=507">About Zoom Video Conferencing</a>
+                </li>
+              
+          </ul>
+        </div>
+
+        <div class="panel-footer clearfix">
+          <a class="pull-right" href="/TDClient/35/Norman/KB/RecentArticles">
+            View All Recent Articles
+            <span class="fa fa-chevron-right"></span>
+          </a>
+        </div>
+      </div>
+
+      <div class="gutter-top">
+        
+
+<div class="panel panel-default tag-list">
+
+  <div class="panel-heading">
+    <h2 class="h3 panel-title">
+      Popular Tags<span class="fa fa-tags" aria-hidden="true"></span>
+    </h2>
+  </div>
+
+  <div class="panel-body">
+    <ul id="ctl00_ctl00_cpContent_cpContent_tags_ulTags" class="panel-list">
+      
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523ONE" rel="nofollow">ONE</a> (3)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523Admin" rel="nofollow">Admin</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523assessment" rel="nofollow">assessment</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523chromebook" rel="nofollow">chromebook</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523Elevated" rel="nofollow">Elevated</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523NetReg" rel="nofollow">NetReg</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523Nintendo" rel="nofollow">Nintendo</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523password" rel="nofollow">password</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523PingID" rel="nofollow">PingID</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523Playstation" rel="nofollow">Playstation</a> (1)
+          </li>
+        
+    </ul>
+
+    
+
+  </div>
+
+  <div class="panel-footer clearfix">
+    <div class="pull-right">
+      <a href="/TDClient/35/Norman/Shared/BrowseTags?ItemID=0&ComponentID=26">
+        View All Tags
+        <span class="fa fa-chevron-right" aria-hidden="true"></span>
+      </a>
+    </div>
+  </div>
+
+</div>
+      </div>
+
+      <div class="clearfix"></div>
+
+    </div>
+
+  </div>
+
+  <div class="clearfix"></div>
+
+
+  </div>
+
+
+  </div>
+</main>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+setNavPosition('TDKnowledgeBase');//]]>
+</script>
+</form>
+
+<footer role="contentinfo">
+  
+  
+  
+    <div class="master-footer">
+
+      
+
+<div class="footer" style="background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/bg_black.gif&quot;); background-repeat: repeat; color: #FFFFFF; background-color: #333333; width: 100%; padding: 0">
+    <div class="container" style="padding-right: 20px; padding-left: 20px; margin: 0 auto">
+        <div class="footerpar iparsys parsys">
+            <div class="footer2012 parbase section">
+                
+                <div class="row-fluid" style="width: 100%; margin: 2em auto">
+                    <div class="footerColumn span4 padding-bottom-lg" style="display: block; float: left; min-height: 30px; min-width: 20em; width: 31.62%; margin-left: 0">
+                        <div class="footerlogo" style="float: left"><img alt="OU" src="//www.ou.edu/content/dam/homepage2012/design/footerlogo.png" style="max-width: 100%; vertical-align: middle; outline: none; border: none; padding: 0; margin: 0; width: 45px; height: 62px" width="45" height="62">
+                        </div>
+                        <div class="footeraddress" style="float: left; margin-left: 10px"><a href="//www.ou.edu/" style="color: #FFFFFF; outline: none">
+                                <b>The University of Oklahoma</b></a><br>
+                            660 Parrington Oval, <br>
+                            Norman, OK 73019-0390<br>
+                            (405) 325-0311<br>
+                        </div>
+                    </div>
+                    <div class="footerColumn span4" style="display: block; float: left; min-height: 30px; margin-left: 2.56%; min-width: 20em; width: 31.62%">
+                        <div>
+                            <div>
+                                <div>
+                                    <ul class="2columns unstyled" style="padding: 0; margin: 0 0 10px; list-style: none">
+                                        <div class="first column" style="width: 50%; float: left">
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/publicaffairs/WebPolicies/accessstatement.html" style="color: #FFFFFF; outline: none">Accessibility</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/sustainability.html" style="color: #FFFFFF; outline: none">Sustainability</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//ouhsc.edu/hipaa/" style="color: #FFFFFF; outline: none">HIPAA</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//hr.ou.edu/jobs/" style="color: #FFFFFF; outline: none">OU
+                                                    Job Search</a></li>
+                                        </div>
+                                        <div class="last column" style="width: 50%; float: left">
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/landing/policy.html" style="color: #FFFFFF; outline: none">Policies</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/landing/legalnotices.html" style="color: #FFFFFF; outline: none">Legal
+                                                    Notices</a></li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/content/publicaffairs/WebPolicies/copyright.html" style="color: #FFFFFF; outline: none">Copyright</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/resources_offices.html" style="color: #FFFFFF; outline: none">Resources
+                                                    &amp; Offices</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="https://ouregents.ethicspoint.com" style="color: #FFFFFF; outline: none">OU
+                                                    Report It!</a></li>
+                                        </div><br style="clear: both">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footerColumn span4 padding-bottom-lg" style="display: block; float: left; min-height: 30px; margin-left: 2.56%; min-width: 20em; width: 31.62%">
+                        <div>
+                            <div>
+                                <div>
+                                    <p style="font-size: 100%; margin: 0; line-height: 40px; font-weight: bold; color: inherit"></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="overflow: auto; padding: 0; margin: 0">
+                            <div style="overflow: auto; padding: 0; margin: 0">
+                                <div class="wide">
+                                    <ul style="padding: 0; margin: 0; overflow: auto; list-style-type: none; width: 278px">
+                                        <li style="line-height: 20px; float: left; display: block"><a class="facebook" href="//www.facebook.com/uofoklahoma" title="Go to the University of Oklahoma's Facebook account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: left top">facebook</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="twitter" href="https://twitter.com/uofoklahoma" title="Go to the University of Oklahoma's Twitter account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -46px">twitter</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="youtube" href="//www.youtube.com/universityofoklahoma" title="Go to the University of Oklahoma's YouTube account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -92px">youtube</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="instagram" href="https://www.instagram.com/uofoklahoma/" title="Go to the University of Oklahoma's Instagram account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -138px">instagram</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="more" href="//www.ou.edu/web/socialmediadirectory.html" title="Visit more of Oklahoma University's social media at the social media directory" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -368px">OU
+                                                Social Media
+                                                Directory</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="width: 100%; margin: 2em auto">
+                    <div class="footerBottom span12" style="display: block; float: left; min-height: 30px; width: 100%; border-top: 1px solid #474747; padding-top: 10px; margin-left: 0">
+                        Updated by <a href="//www.ou.edu/ouit" style="color: #FFFFFF; outline: none">
+                            <b>OU Information Technology</b></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+<script type="text/javascript" src="https://bot.ivy.ai/bot/script/category/90JvaRm8Ob7KwjGB9zM6EZXoB3peVnNz"></script>
+      
+
+    </div>
+  
+</footer>
+
+
+
+
+<script>
+
+    
+    
+
+      // Inject the Google Analytics isogram. This must happen here because it
+      // cannot be injected through an external javascript library.
+      (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+          (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    
+
+      // Per Incident #6707155. Need to focus on img. pseudo-class :focus-within is not supported in IE
+      (function ($) {
+        var $anchor = $('#divLogo a');
+        var $beLogo = $('#divLogo a img');
+
+        $anchor.focus(function () {
+          $beLogo.addClass('accessibility-focus-on-logo');
+        })
+          .blur(function () {
+            $beLogo.removeClass('accessibility-focus-on-logo');
+          })
+
+    })(jQuery);
+
+  </script>
+
+</body>
+</html>

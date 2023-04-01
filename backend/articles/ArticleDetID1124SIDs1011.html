@@ -1,0 +1,883 @@
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href="/TDPortal/Content/Styles/font-awesome.min.css?v=20230331000656" rel="stylesheet" type="text/css" id="lnkFontAwesome" /><script src="/TDPortal/Content/Scripts/jquery/2.2.4/jquery.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/jquery-migrate/1.4.1/jquery-migrate.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/jquery-ui/1.12.1/jquery-ui-1.12.1.custom.timepicker.min.js?v=20230331000656"></script><link href="/TDPortal/Content/Styles/jquery-ui/1.12.1/jquery-ui.compiled.min.css?v=20230331000656" rel="stylesheet" type="text/css"  /><link href="/TDPortal/Content/bootstrap/3.4.1/dist/css/bootstrap.min.css?v=20230331000656" rel="stylesheet" type="text/css" id="lnkBootstrapCSS" /><script src="/TDPortal/Content/bootstrap/3.4.1/dist/js/bootstrap.min.js?v=20230331000656"></script><link href="/TDClient/Styles/bootstrap_custom.min.css?v=20230331000652" rel="stylesheet" type="text/css"  /><link href="/TDClient/Styles/TDStyles.min.css?v=20230331000652" rel="stylesheet" type="text/css"  /><link href="https://itsupport.ou.edu/TDPortal/BE/Style/2/TDClient/35?v=20200908144717" rel="stylesheet" type="text/css" /><script src="/TDPortal/Content/Scripts/tdx/TDJSFramework.compiled.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/underscore/1.12.1/underscore-min.js?v=20230331000656"></script>
+<script src="/TDClient/Scripts/clientOS.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/collapseMe.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/tdsearchfilter.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/SiteSearch.min.js?v=20230331000652"></script>
+<script src="/TDPortal/Content/Scripts/tdx/elasticsearchAutocomplete/elasticsearchAutocomplete.min.js?v=20230331000656"></script>
+<link id="ctl00_ctl00_lnkFavicon" rel="shortcut icon" href="https://itsupport.ou.edu/TDPortal/BE/Icon/2/35?v=20200617174529" />
+
+    
+    <script async src="//www.googletagmanager.com/gtag/js?id=UA-207295051-1"></script>
+    <script>
+
+      $(function () {
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        // Be sure to set the proper cookie domain to the customer's full subdomain when sending the pageview hit.
+        gtag('config', 'UA-207295051-1', { 'cookie_domain': 'itsupport.ou.edu' });
+
+        });
+
+    </script>
+
+  
+
+  <script>
+
+      $(function () {
+        var masterUi = MasterUI({
+          isPostback: false,
+        baseUrl: '/TDClient/',
+        isTdGoogleAnalyticsEnabled: true,
+        isAuthenticated: false
+        });
+
+      $('#collapseMe').collapseMe({
+        toggleVisibilitySelector: '.navbar-toggle'
+      });
+
+    });
+
+      // The sub-nav menu uses padding-top to position itself below the header bar and main navigation sections. When the
+      // window is resized, there is a chance that the content of these header or nav sections wraps, causing the height
+      // to change, potentially covering the sub-nav menu, which is obviously a big usability problem. This function
+      // listens for when the window size or orientation is changing (and also when the window first loads), and adjusts
+      // the padding so that the sub-nav menu appears in the correct location.
+      $(window).bind('load ready resize orientationchange', function () {
+        var headerHeight = $('#divMstrHeader').height();
+        $('#navShim').css({
+          "padding-top": headerHeight
+        });
+
+        $('#content').css({
+          "padding-top": headerHeight,
+          "margin-top": headerHeight * -1
+        });
+      });
+  </script>
+
+  
+  
+  
+  <script src="/TDPortal/Content/select2/v3/select2.min.js?v=20230331001818"></script><link href="/TDPortal/Content/select2/v3/select2.compiled.min.css?v=20230331001818" rel="stylesheet" type="text/css" id="lnkSelect2" />
+  <script src="/TDClient/Scripts/attachmentHandler.min.js?v=20230331000652"></script>
+
+  <style type="text/css">
+    .honey-pot-div {
+      display: none;
+    }
+  </style>
+
+  <script>
+
+    
+
+    function checkRecipients() {
+      if ($('#ctl00_ctl00_cpContent_cpContent_shareRecipients').val().trim() === "") {
+        alert('You must first enter a valid email.');
+        $('#divShareModal').modal('toggle');
+      }
+    }
+
+    function toggleFeedback(isHelpful) {
+      $('#divHelpfulComments').show();
+      $('#divHelpfulYesNo').hide();
+      $('#ctl00_ctl00_cpContent_cpContent_hdnIsHelpful').val(isHelpful);
+      $('#ctl00_ctl00_cpContent_cpContent_txtComments').focus();
+    }
+
+    function toggleFeedbackResult() {
+      $('#divWasHelpful, #divFeedbackRecorded, #divHelpfulComments, #divHelpfulYesNo').toggle();
+    }
+
+    // The following two functions were added as a result of ticket ID: 1392522. We are generating these buttons dynamically to
+    // prevent bots from clicking them and posting feedback on an article. Additionally, we have an input that is hidden from
+    // the user. If a bot enters text in that input, which it likely will (bots love filling out forms), then we don't accept the
+    // form submission
+    function generateFeedbackButtons() {
+      var $btnHelpfulYes = $('<button id="btnHelpfulYes" type="button" class="btn btn-primary gutter-left" onclick="toggleFeedback(1);">Yes</button>');
+      var $btnHelpfulNo = $('<button id="btnHelpfulNo" type="button" class="btn btn-primary gutter-left-sm" onclick="toggleFeedback(0);">No</button>');
+
+      $('#divWasHelpful').append($btnHelpfulYes);
+      $('#divWasHelpful').append($btnHelpfulNo);
+    }
+    function attemptAddFeedback(e) {
+      if ($('#honeyPot').val() !== '') {
+        e.preventDefault();
+        window.location.reload();
+      }
+    }
+
+    function cancelFeedback() {
+      $('#ctl00_ctl00_cpContent_cpContent_txtComments').val('');
+      $('#divHelpfulComments, #divHelpfulYesNo').toggle();
+    }
+
+    function confirmDeleteFeedback(id) {
+      if (confirm('Are you sure you want to delete this feedback? This cannot be undone.')) {
+        $('#ctl00_ctl00_cpContent_cpContent_hdnFeedbackID').val(id);
+        __doPostBack('ctl00$ctl00$cpContent$cpContent$btnDeleteFeedback', '');
+      }
+    }
+
+    function toggleAddressed(id, isAddressed) {
+      $('#ctl00_ctl00_cpContent_cpContent_hdnFeedbackID').val(id);
+      $('#ctl00_ctl00_cpContent_cpContent_hdnIsAddressed').val(isAddressed);
+      __doPostBack('ctl00$ctl00$cpContent$cpContent$btnToggleAddressed', '');
+    }
+
+    $(function () {
+      
+
+      generateFeedbackButtons();
+      $('[data-toggle="popover"]').popover();
+
+      var attachmentHandler = new TeamDynamix.AttachmentHandler({
+        containerSelector: '.js-article-attachments',
+        resultLabelSelector: '#ctl00_ctl00_cpContent_cpContent_lblResults_lblResults-label',
+        baseControllerUrl: '/TDClient/35/Norman/Shared/Attachments',
+        antiForgeryToken: 'KvuFSRANR1AKqQFe-7PxshF2FC1p-pup6Pge91b6sPLvOY2HG8R_dLhF3CcwD_xWiFUygxnwTGt3Gt51y_TUxjqfWDo1:-qu74U0DdGqJP0ctGtJ_GNwD-9qh3ax9gOyS65ufzO4bjoG59xX88is__bdA_DYdkSqOEsh7DZhAJ-fVdNwa5aBiOw01',
+        itemId: 1124,
+        componentId: 26
+      });
+
+      // Don't try and update the table styles if the user wanted to opt out.
+      $('#ctl00_ctl00_cpContent_cpContent_divBody table:not(.SkipTableFixup)').each(function () {
+        var padding = $(this).attr('cellpadding');
+        var spacing = $(this).attr('cellspacing');
+
+        $(this).css("border-collapse", "separate");
+
+        if (spacing) {
+          $(this).css("border-spacing", spacing + "px");
+        }
+
+        $(this).find('td').each(function () { $(this).css('padding', padding + 'px') });
+      });
+
+      
+    });
+
+    
+  </script>
+
+
+
+<meta property="og:title" content="How to Configure Course Media Gallery?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1124" />
+<meta property="og:image" content="https://itsupport.ou.edu/TDPortal/BE/Logo/2/35" />
+  <meta property="og:site_name" content="University of Oklahoma - Knowledge Base" />
+  <meta property="article:section" content="Academic Technology" />
+  <meta property="article:published_time" content="2021-01-22T20:08Z" />
+  <meta property="article:modified_time" content="2021-06-16T16:55Z" /><title>
+	Article - How to Configure Course Med...
+</title></head>
+<body>
+<form method="post" action="/TDClient/35/Norman/KB/ArticleDet?ID=1124&amp;SIDs=1011" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/TDClient/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmVxW3-Ljsg_2Hna32smxrg-6ogyYAN3UTPsJQ8m1uwzn_kuf2Wpne6NSFmYui3h0wCQhJN3ZUiLTNkvhiIgZpq74-lKmofUPQGJ8own8RI2_mwAcmvlSj2WBnqwm5Wj4cyNvv81&amp;t=49337fe8" type="text/javascript"></script>
+<script src="/TDClient/WebResource.axd?d=xtfVMqdF1exC2MBVkOJwMveStDR5kg3dbZWgIXMXZmB1xXom6CcIrWFgHa7jsp4qJuFW2L5XShudyzlBsIO3JhCfiU5HmL2BDz__mCv9dznmBlEMS7LvcYg6wTdPTrAXIXI2CvtjwlnpZd-j4Zpsx2wG_uA1&amp;t=638158038360000000" type="text/javascript"></script>
+<script src="/TDClient/WebResource.axd?d=sp7vCoAo-SSYfpsQ1sYBBeEDnwCGxDYEwZCM0ler88yoVZIPDXMk1C3XF2L2L0xrbB8Rvhli51TswRlmPIOCZgaY58lKhPr-Pv1jTFJ1oUAu7x6RDtNFZUxbtxs3KYQGLK6FpPD5bKuB0e0NmS9HkAqRVks1&amp;t=638158038360000000" type="text/javascript"></script>
+<script src="/TDClient/WebResource.axd?d=icMURy63hv40LPPfq4rTvmm-RfB_YkC6rEEF_2QOO68q3TseXYNBetRKKgBXJ8mn2e8UIgCPiV23HaQUZbjySMHqSgmYZgLcYltBqwD2_EK8aQ08zBuqc3ZBVZITQrbtn6w46dRxFLibMIQg0Aho73rn8Rpxrzg5YMG_JR0UOrUR0wlZ0&amp;t=638158038360000000" type="text/javascript"></script>
+<script src="/TDClient/WebResource.axd?d=1HpFfNpwNihNfEP1lyJHvdPVqbv8KRoFH4-_ZORUgPOP-bqmmtIJRvFQc7828Vf59O_-fdBXcnwdv-hYp5RptPuHmMR0kGQM0_3rS4Z7sKfC7jy9Cc_8fyfcUWa8psszacEQlAXHPXmNwyRymbGSywEmhrE1&amp;t=638158038360000000" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="784CA02E" />
+
+<div id="ctl00_ctl00_upMain" style="display:none;">
+	
+    <div id="ctl00_ctl00_pbMain" class="progress-box-container"><div class="progress-box-body"><div class="well shadow"><h2 class="h4 gutter-top-none">Updating...</h2><div class="progress" style="margin-bottom: 0;"><div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div></div></div></div></div>
+  
+</div>
+
+
+
+  <header role="banner">
+
+  <div id="divMstrHeader" class="master-header NoPrint" style="background-color: #fff;">
+
+  <div class="globalheader" style="background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-bg.jpg&quot;); background-repeat: repeat">
+    <div class="container">
+        <div class="globalheader_2012">
+            <div class="row">
+                <ul style="height: 30px; list-style-type: none; overflow: visible; margin: 0; padding: 0; float: right">
+                    <li style="line-height: 20px; float: left"><a class="tip home" href="//www.ou.edu/web.html" alt="OU Home link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: left top"><span style="display: none">OU Homepage</span></a></li>
+                    <li style="line-height: 20px; float: left"><a class="tip search" href="https://www.ou.edu/web/search" alt="OU Search link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: -30px 0"><span style="display: none">Search OU</span></a></li>
+                    <li style="line-height: 20px; float: left"><a class="tip search" href="https://www.ou.edu/web/socialmediadirectory" alt="OU Social Media link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: -60px 0"><span style="display: none">OU Social Media</span></a></li>
+                    <li class="wordmark" style="line-height: 20px; float: left; text-indent: -99999px; width: 200px; height: 30px; margin-left: 5px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-wordmark.png&quot;); background-repeat: no-repeat; background-position: center; background-size: contain">
+                        The University of Oklahoma</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+</div>
+  
+
+  <div class="logo-header-full hidden-xs">
+
+    
+    <div class="pull-left">
+      <a href="#mainContent" class="sr-only sr-only-focusable">Skip to main content</a>
+    </div>
+
+
+    <div id="ctl00_ctl00_divPageHeader" class="container logo-header clearfix" style="padding: 5px;">
+
+      <div id="divLogo" class="pull-left logo-container">
+
+        <a href="https://www.ou.edu/"
+           target="_blank">
+          <img src="/TDPortal/BE/Logo/2/0" alt="University of Oklahoma Home Page" class="js-logo img-responsive" />
+        </a>
+
+      </div>
+
+      <div class="master-header-right pull-right padding-top padding-bottom">
+
+        
+
+          <div class="pull-left topLevelSearch input-group">
+            <div id="SiteSearch-3af053db5b5a435a9692cc3a32c75a49" class="gutter-bottom input-group site-search" style="max-width: 400px;">
+  <div id="SiteSearch-dropdown-3af053db5b5a435a9692cc3a32c75a49" class="input-group-btn">
+    <button type="button" id="SiteSearch-filter-3af053db5b5a435a9692cc3a32c75a49" class="btn btn-default dropdown-toggle" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false" title="Filter your search by categories" data-component="all">
+      <span class="fa fa-globe"></span><span class="fa fa-fw fa-nopad fa-caret-down" aria-hidden="true"></span>
+      <span class="sr-only">
+        Filter your search by category. Current category:
+        <span class="js-current-component">All</span>
+      </span>
+    </button>
+    <ul class="dropdown-menu" >
+      <li>
+        <a href="javascript:void(0);" data-component-text="All" data-component="all" data-component-icon="fa-globe" title="Search all areas">
+          <span class="fa fa-fw fa-nopad fa-globe" aria-hidden="true"></span>
+          All
+        </a>
+      </li>
+
+      <li role="separator" class="divider"></li>
+
+        <li role="presentation">
+          <a role="menuitem" href="javascript:void(0);" data-component-text="Knowledge Base" data-component="kb" data-component-icon="fa-lightbulb-o" title="Search Knowledge Base">
+            <span class="fa fa-fw fa-nopad fa-lightbulb-o" aria-hidden="true"></span>
+            Knowledge Base
+          </a>
+        </li>
+
+        <li role="presentation">
+          <a role="menuitem" href="javascript:void(0);" data-component-text="Service Catalog" data-component="sc" data-component-icon="fa-compass" title="Search Service Catalog">
+            <span class="fa fa-fw fa-nopad fa-compass" aria-hidden="true"></span>
+            Service Catalog
+          </a>
+        </li>
+
+    </ul>
+  </div>
+
+  <label class="sr-only" for="SiteSearch-text-3af053db5b5a435a9692cc3a32c75a49">Search the client portal</label>
+
+  <input id="SiteSearch-text-3af053db5b5a435a9692cc3a32c75a49" type="text" class="form-control" autocomplete="off" placeholder="Search the client portal" title="To search for items with a specific tag, enter the # symbol followed by the name of the tag.
+To search for items using exact match, place double quotes around your text."/>
+
+  <span class="input-group-btn">
+    <button id="SiteSearch-button-3af053db5b5a435a9692cc3a32c75a49" class="btn btn-default" type="button" title="Search">
+      <span class="fa fa-fw fa-nopad fa-search blue" aria-hidden="true"></span>
+      <span class="sr-only">Search</span>
+    </button>
+  </span>
+</div>
+
+<script>
+  $(function() {
+    var siteSearch = new TeamDynamix.SiteSearch({
+      searchUrl: "/TDClient/35/Norman/Shared/Search",
+      enableAutocompleteSearch: true,
+      autocompleteSearchUrl: '/TDClient/35/Norman/Shared/AutocompleteSearch',
+      autocompleteResultsPosition: 'fixed',
+      autocompleteResultsZIndex: 1000,
+      searchTextBoxSelector: '#SiteSearch-text-3af053db5b5a435a9692cc3a32c75a49',
+      searchComponentFilterButtonSelector: '#SiteSearch-filter-3af053db5b5a435a9692cc3a32c75a49',
+      searchButtonSelector: '#SiteSearch-button-3af053db5b5a435a9692cc3a32c75a49',
+      searchFilterDropdownSelector: '#SiteSearch-dropdown-3af053db5b5a435a9692cc3a32c75a49',
+      showKnowledgeBaseOption: true,
+      showServicesOption: true,
+      showForumsOption: false,
+      autoFocusSearch: false
+    });
+  });
+  </script>
+          </div>
+
+        
+          <div title="Sign In" class="pull-right gutter-top-sm">
+            <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2fArticleDet%3fID%3d1124%26SIDs%3d1011">
+              Sign In
+            </a>
+          </div>
+        
+      </div>
+
+    </div>
+
+  </div>
+
+  <nav id="ctl00_ctl00_mainNav" class="navbar navbar-default themed tdbar" aria-label="Primary">
+    <div id="navContainer" class="container">
+
+      <div class="navbar-header">
+        <button type="button" class="pull-left navbar-toggle collapsed themed tdbar-button-anchored tdbar-toggle gutter-left" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="sr-only">Show Applications Menu</span>
+        </button>
+        <a class="navbar-brand hidden-sm hidden-md hidden-lg themed tdbar-button-anchored truncate-be" href="#">
+
+          Norman - Client Portal
+        </a>
+      </div>
+
+      <div id="td-navbar-collapse" class="collapse navbar-collapse">
+
+        <ul class="nav navbar-nav nav-collapsing" id="collapseMe">
+
+          
+            <li class="themed tdbar-button-anchored hidden-sm hidden-md hidden-lg">
+              <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2fArticleDet%3fID%3d1124%26SIDs%3d1011">Sign In</a>
+            </li>
+          
+            <li id="divSearch" class="themed tdbar-button-anchored hidden-sm hidden-md hidden-lg">
+              <a href="/TDClient/35/Norman/Shared/Search" title="search">Search</a>
+            </li>
+          
+              <li id="divDesktop4fbe1f59-07cd-41e9-8f37-5f49aa0d150a" class="themed tdbar-button-anchored">
+                <a href="/TDClient/35/Norman/Home/">Home</a>
+              </li>
+            
+
+          
+            <li id="divTDRequests" class="themed tdbar-button-anchored sr-focusable">
+              <a href="/TDClient/35/Norman/Requests/ServiceCatalog">Services</a>
+            </li>
+          
+            <li id="divTDKnowledgeBase" class="themed tdbar-button-anchored sr-focusable">
+              <a href="/TDClient/35/Norman/KB/">Knowledge Base</a>
+            </li>
+          
+
+          <li class="themed tdbar-button-anchored hidden-xs more-items-button" id="moreMenu">
+            <a data-toggle="dropdown" title="More Applications" href="javascript:;">
+              <span class="sr-only">More Applications</span>
+              <span class="fa fa-ellipsis-h" aria-hidden="true"></span>
+            </a>
+            <ul class="dropdown-menu dropdown-menu-right themed tdbar" id="collapsed"></ul>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+
+  </nav>
+
+  </div>
+
+  </header>
+
+
+
+<div id="navShim" class="hidden-xs hidden-sm"></div>
+<main role="main">
+  <div id="content">
+    <div id="mainContent" tabindex="-1"></div>
+    
+
+  
+    <nav id="divTabHeader" class="tdbar-sub NoPrint hidden-xs navbar-subnav" aria-label="Knowledge Base">
+      <a href="#kbContent" class="sr-only sr-only-focusable">Skip to Knowledge Base content</a>
+      <div class="container clearfix">
+        <ul class="nav navbar-nav js-submenu" id="kbSubMenu" style="margin-left: -15px;">
+          
+          <li>
+            <a href="/TDClient/35/Norman/KB/Search">Search <span class="sr-only">Articles</span></a>
+          </li>
+
+          
+          
+        </ul>
+      </div>
+    </nav>
+  
+
+  <div id="kbContent" class="container gutter-top gutter-bottom" tabindex="-1" style="outline:none;">
+    
+
+<input type="hidden" name="ctl00$ctl00$cpContent$cpContent$hdnFeedbackID" id="ctl00_ctl00_cpContent_cpContent_hdnFeedbackID" />
+<input type="hidden" name="ctl00$ctl00$cpContent$cpContent$hdnIsAddressed" id="ctl00_ctl00_cpContent_cpContent_hdnIsAddressed" />
+
+<span id="ctl00_ctl00_cpContent_cpContent_lblResults_ctl00" aria-live="polite" aria-atomic="true"><span id="ctl00_ctl00_cpContent_cpContent_lblResults_lblResults-label" class="red"></span></span>
+
+
+<div class="clearfix">
+  <ol class="breadcrumb pull-left">
+    <li><a href="/TDClient/35/Norman/KB/">Knowledge Base</a></li><li class="active"><a href="/TDClient/35/Norman/KB/?CategoryID=20">Academic Technology</a></li><li class="active">How to Configure Course Media Gallery?</li>
+  </ol>
+  <span class="js-open-monitor" style="display: none;"></span>
+</div>
+
+
+
+<div class="row gutter-top">
+
+<div id="divMainContent" class="col-md-8">
+
+<h1 class="gutter-top" style="-ms-word-wrap: break-word; word-wrap: break-word;">
+  How to Configure Course Media Gallery?
+</h1>
+
+
+
+
+
+<div id="ctl00_ctl00_cpContent_cpContent_divBody" class="gutter-top break-word ckeShim clearfix"><p>Only Course’s Managers or Instructors have the option to edit and configure the course media gallery. A courses’ manager will be able to see the edit icon on the top left right of the media gallery page. </p>
+
+<p><span>To edit/configure,&nbsp;</span><span>click</span><span>&nbsp;on the edit menu and select Edit.</span></p>
+
+<p><img alt="Media Gallery" src="https://itsupport.ou.edu/TDPortal/Images/Viewer?fileName=5d1129c2-ef64-46b8-942e-5f6939871012.png" style="width: 447px; height: 107px"><span role="presentation"></span>&nbsp;</p>
+
+<p><span>You can add/edit a brief summary of the gallery in the Description entry which will display on the gallery’s page. In Tags entry, you can also use three or more descriptive tags to use in searches.</span>&nbsp;</p>
+
+<p><img alt="Media Gallery" src="https://itsupport.ou.edu/TDPortal/Images/Viewer?fileName=19a659fb-0ef0-4f6a-915a-e4b07ce2480b.png" style="width: 447px; height: 185px"><span role="presentation"></span></p>
+
+<p><span>You have three Options that you can set for the media gallery. </span><span>To activate any of these options simply check the box on the left of each option.</span></p>
+
+<ol>
+	<li><span><span></span><em>Moderate Content:</em></span><span>&nbsp;On activation, uploaded media will not appear in the media gallery unless approved by the gallery’s manager.</span>&nbsp;</li>
+</ol>
+
+<p style="margin-left: 0.25in"><img alt="Media Gallery" src="https://itsupport.ou.edu/TDPortal/Images/Viewer?fileName=1c168933-d235-459b-aef2-2d02d59ddada.png" style="width: 447px; height: 74px"><span role="presentation"></span>&nbsp;</p>
+
+<ol>
+	<li value="2"><span><span></span><em>Enable comments in Media Gallery:</em></span><span>&nbsp;On activation, users can make comments under any media published in the media gallery (Note that these comments are&nbsp;</span><span>public,</span><span>&nbsp;and all users can view and comment on each other’s comments).</span>&nbsp;</li>
+</ol>
+
+<p style="margin-left: 0.25in"><img alt="Media Gallery" src="https://itsupport.ou.edu/TDPortal/Images/Viewer?fileName=e58aed0d-d91e-480f-af55-75678b4d3edf.png" style="width: 447px; height: 81px"><span role="presentation"></span>&nbsp;</p>
+
+<ol>
+	<li value="3"><span><span></span><em>Display embedded media in this&nbsp;</em></span><em><span><span>Media Gallery:</span></span></em><span>&nbsp;This option makes the&nbsp;</span><span>medias embedded with the&nbsp;</span><span>current media also visible to the users.</span><span role="presentation"><img alt="Media Gallery" src="https://itsupport.ou.edu/TDPortal/Images/Viewer?fileName=f8bf97aa-2669-4b9a-926c-9c0b76903e6b.png" style="width: 447px; height: 91px"></span>&nbsp;</li>
+</ol>
+
+<p style="margin-left: 0.25in"><span>Save the changes to apply the changes by clicking on the save button&nbsp;</span><span>below.</span>&nbsp;</p>
+
+<p style="margin-left: 0.25in"><img alt="Media Gallery" src="https://itsupport.ou.edu/TDPortal/Images/Viewer?fileName=348160f3-6e01-490d-afed-d2f25f2576f6.png" style="width: 199px; height: 51px"><span role="presentation"></span></p>
+
+<p><span>To comment on any media, </span>&nbsp;</p>
+
+<p><span>Go to Media Gallery&gt;Click on media you want to comment on&gt;Scroll down and use comment entry or reply entry to make comment. Only the original commenter or course moderator can delete the comment.</span>&nbsp;</p>
+
+<p><img alt="Media Gallery" src="https://itsupport.ou.edu/TDPortal/Images/Viewer?fileName=832e49ce-958d-4fd8-8dfc-8dca14a9c90b.png" style="width: 447px; height: 124px"><span role="presentation"></span></p>
+
+<p><span>Students can also publish media to the course media gallery to share with the class and receive feedback. Students can publish media in the course media gallery in two ways:</span>&nbsp;<span>Adding to the course media gallery itself&nbsp;</span><span>(click here to see how to upload media directly)&nbsp;</span><span>and/or publishing from&nbsp;</span><span>M</span><span>y</span><span>M</span><span>edia</span><span>.</span></p>
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="10" style="color: #808080" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table border="0" cellpadding="20" style="background-color: #FFFFFF; color: #808080; vertical-align: top" width="100%">
+				<tbody>
+					<tr>
+						<td style="width: 33%; background-color: #F5F5F5; border-right: 8px solid #FFFFFF; vertical-align: top">
+						<h4 style="text-align: center"><strong>Service&nbsp;Alerts</strong></h4>
+
+						<p style="text-align: center"><a class="btn btn-default" href="https://alerts.ou.edu/" role="button" style="background-color: #328FC7; color: #FFFFFF; border: none; margin: 5px">Check Alerts</a> <a class="btn btn-default" href="https://alerts.ou.edu/subscribers/new" role="button" style="background-color: #328FC7; color: #FFFFFF; border: none; margin: 5px">Subscribe</a></p>
+						</td>
+						<td style="width: 33%; background-color: #F5F5F5; border-left: 8px solid #FFFFFF; vertical-align: top">
+						<h4 style="text-align: center"><b>Can't find what you're looking for?</b></h4>
+
+						<p style="text-align: center"><a class="btn btn-default" href="https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_" role="button" style="background-color: #328FC7; color: #FFFFFF; border: none; margin: 5px">Contact Us</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<div id="divFeedback2" class="well gutter-top-lg">
+
+  <div class="row" id="divHelpfulYesNo">
+    <div class="col-sm-7">
+      
+        <div>
+          <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2fArticleDet%3fID%3d1124%26SIDs%3d1011">Sign in to leave feedback</a>
+        </div>
+      
+    </div>
+    <div class="col-sm-5 text-right">
+      <div id="ctl00_ctl00_cpContent_cpContent_UpdatePanel1" aria-live="polite" aria-atomic="true">
+	
+          0 reviews
+        
+</div>
+    </div>
+  </div>
+
+  
+</div>
+
+
+
+<div class="tab-content gutter-top gutter-bottom">
+  
+  <div id="ctl00_ctl00_cpContent_cpContent_upFeedbackGrid">
+	
+        <a id="ctl00_ctl00_cpContent_cpContent_btnToggleAddressed" tabindex="-1" class="hidden" aria-hidden="true" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cpContent$cpContent$btnToggleAddressed&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Blank</a>
+        <a id="ctl00_ctl00_cpContent_cpContent_btnDeleteFeedback" tabindex="-1" class="hidden" aria-hidden="true" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cpContent$cpContent$btnDeleteFeedback&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Blank</a>
+        
+      
+</div>
+    
+    
+
+    
+</div>
+</div>
+
+<div class="col-md-4">
+
+
+
+<a id="ctl00_ctl00_cpContent_cpContent_btnToggleFavorite" tabindex="-1" class="hidden" aria-hidden="true" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cpContent$cpContent$btnToggleFavorite&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Blank</a>
+
+
+
+<div id="divDetails" class="panel panel-default gutter-top">
+
+  <div class="panel-heading">
+    <h2 class="h3 panel-title">Details</h2>
+  </div>
+
+  <div class="panel-body">
+
+    <div id="ArticleID">
+      <span class="control-label gutter-bottom-xs">Article ID: </span>
+      1124
+    </div>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <div id="divAuthor" class="disp-group">
+      <span class="control-label gutter-bottom-xs">
+        Created
+      </span>
+      <div>
+        <span id="ctl00_ctl00_cpContent_cpContent_udtCreatedDate">Fri 1/22/21 2:08 PM</span><span id="ctl00_ctl00_cpContent_cpContent_lblCreatedBy"></span>
+      </div>
+    </div>
+
+    <div id="ctl00_ctl00_cpContent_cpContent_divModified" class="disp-group">
+      <span class="control-label gutter-bottom-xs">
+        Modified
+      </span>
+      <div>
+        <span id="ctl00_ctl00_cpContent_cpContent_udtModifiedDate">Wed 6/16/21 11:55 AM</span><span id="ctl00_ctl00_cpContent_cpContent_lblModifiedBy"></span>
+      </div>
+    </div>
+
+    
+
+    
+
+    <div class="js-custom-attributes-container">
+
+</div>
+
+  </div>
+</div>
+
+
+
+
+
+<div id="divAttachments" class="js-article-attachments"></div>
+
+</div>
+
+</div>
+
+<div id="ctl00_ctl00_cpContent_cpContent_divProgress" style="display: none; z-index: 60;">
+  <div id="ctl00_ctl00_cpContent_cpContent_pbMain" class="progress-box-container"><div class="progress-box-body"><div class="well shadow"><h2 class="h4 gutter-top-none">Deleting...</h2><div class="progress" style="margin-bottom: 0;"><div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div></div></div></div></div>
+</div>
+
+
+<div class="modal fade" id="divShareModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h3 class="modal-title h4" id="myModalLabel">
+          <span class="fa fa-share-alt fa-fw" aria-hidden="true"></span>Share
+        </h3>
+      </div>
+      <div class="modal-body">
+        <div class="form-group required">
+          <label class="control-label" for="ctl00_ctl00_cpContent_cpContent_shareRecipients">Recipient(s) <small>- separate email addresses with a comma</small></label>
+          <input name="ctl00$ctl00$cpContent$cpContent$shareRecipients" type="text" id="ctl00_ctl00_cpContent_cpContent_shareRecipients" class="form-control" />
+        </div>
+        <div class="form-group">
+          <label for="ctl00_ctl00_cpContent_cpContent_shareBody_txtBody" class="control-label">Message</label>
+          <script src="/TDPortal/Content/nanospell/autoload.js?v=20230331000656"></script>
+
+
+<script type="text/javascript">
+
+  (function () {
+    // The "CKEDITOR-config-loaded" event is thrown after the CKEDITOR global variable has been created, but before the instance of CKEditor is ready.
+    // At this point attach a listener to the global variable for the instanceReady event so we can perform our initialization logic.
+    window.addEventListener('CKEDITOR-config-loaded', function () {
+      if (window.CKEDITOR) {
+        setConfigs()
+        initialize();
+      }       
+    });
+  })();
+
+  function setConfigs() {
+    window.CKEDITOR.config['clientScripts'] = [{"scriptPath":["/TDPortal/Content/bootstrap/3.4.1/dist/js/bootstrap.min.js","https://itsupport.ou.edu/TDPortal/Content/Scripts/tdx/TDJSFramework.compiled.min.js"],"scriptDependencyPath":"/TDPortal/Content/Scripts/jquery/2.2.4/jquery.min.js"}];
+    window.CKEDITOR.config['clientStyles'] = ["/TDPortal/Content/bootstrap/3.4.1/dist/css/bootstrap.min.css","/TDClient/Styles/bootstrap_custom.min.css","/TDClient/Styles/TDStyles.min.css","https://itsupport.ou.edu/TDPortal/BE/Style/2/TDClient/35"];
+    window.CKEDITOR.config['itemTemplates'] = '';
+  }
+
+  function initialize() {
+
+    window.CKEDITOR.on('instanceReady', function (evt) {
+
+      if (evt.editor.element.$.id == 'ctl00_ctl00_cpContent_cpContent_shareBody_txtBody') {
+
+        
+
+          nanospell.ckeditor('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody', {
+            dictionary: 'en',
+            server: 'asp.net'
+          });
+
+          setTimeout(function () { evt.editor.startNanospell(); }, 200);
+
+        
+
+        // Check if we should mark the editor as required
+        if ($(evt.editor.element.$).parents('div.required').length > 0) {
+          evt.editor.editable().setAttribute('aria-required', 'true');
+        }
+      }
+
+    });
+  }
+
+  
+
+</script>
+
+<span class="sr-only">Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.</span>
+<textarea name="ctl00$ctl00$cpContent$cpContent$shareBody$txtBody" rows="2" cols="20" id="ctl00_ctl00_cpContent_cpContent_shareBody_txtBody">
+Check out this article I found in the Norman - Client Portal knowledge base.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1124&amp;SIDs=1011&quot;&gt;https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1124&amp;SIDs=1011&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;How to Configure Course Media Gallery?</textarea>
+
+
+        </div>
+      </div>
+      <div class="modal-footer text-left">
+        <button onclick="checkRecipients(); if (typeof(Page_ClientValidate) == 'function') Page_ClientValidate(''); __doPostBack('ctl00$ctl00$cpContent$cpContent$btnSendShare','')" id="ctl00_ctl00_cpContent_cpContent_btnSendShare" type="button" class="btn btn-primary">
+          <span class="fa fa-paper-plane-o" aria-hidden="true"></span><span class="padding-left-xs">Send</span>
+        </button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+
+  </div>
+</main>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+setNavPosition('TDKnowledgeBase');window.CKEDITOR_BASEPATH = 'https://itsupport.ou.edu/TDPortal/Content/ckeditor/';
+//]]>
+</script>
+<script src="https://itsupport.ou.edu/TDPortal/Content/ckeditor/ckeditor.js?t=C6HH5UF" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var CKEditor_Controls=[],CKEditor_Init=[];function CKEditor_TextBoxEncode(d,e){var f;if(typeof CKEDITOR=='undefined'||typeof CKEDITOR.instances[d]=='undefined'){f=document.getElementById(d);if(f)f.value=f.value.replace(/</g,'&lt;').replace(/>/g,'&gt;');}else{var g=CKEDITOR.instances[d];if(e&&(typeof Page_BlockSubmit=='undefined'||!Page_BlockSubmit)){g.destroy();f=document.getElementById(d);if(f)f.style.visibility='hidden';}else g.updateElement();}};(function(){if(typeof CKEDITOR!='undefined'){var d=document.getElementById('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody');if(d)d.style.visibility='hidden';}var e=function(){var f=CKEditor_Controls,g=CKEditor_Init,h=window.pageLoad,i=function(){for(var j=f.length;j--;){var k=document.getElementById(f[j]);if(k&&k.value&&(k.value.indexOf('<')==-1||k.value.indexOf('>')==-1))k.value=k.value.replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&amp;/g,'&');}if(typeof CKEDITOR!='undefined')for(var j=0;j<g.length;j++)g[j].call(this);};window.pageLoad=function(j,k){if(k.get_isPartialLoad())setTimeout(i,0);if(h&&typeof h=='function')h.call(this,j,k);};if(typeof Page_ClientValidate=='function'&&typeof CKEDITOR!='undefined')Page_ClientValidate=CKEDITOR.tools.override(Page_ClientValidate,function(j){return function(){for(var k in CKEDITOR.instances){if(document.getElementById(k))CKEDITOR.instances[k].updateElement();}return j.apply(this,arguments);};});setTimeout(i,0);};if(typeof Sys!='undefined'&&typeof Sys.Application!='undefined')Sys.Application.add_load(e);if(window.addEventListener)window.addEventListener('load',e,false);else if(window.attachEvent)window.attachEvent('onload',e);})();CKEditor_Controls.push('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody');
+CKEditor_Init.push(function(){if(typeof CKEDITOR.instances['ctl00_ctl00_cpContent_cpContent_shareBody_txtBody']!='undefined' || !document.getElementById('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody')) return;CKEDITOR.replace('ctl00_ctl00_cpContent_cpContent_shareBody_txtBody',{"autoGrow_maxHeight" : 175, "autoGrow_minHeight" : 175, "contentsCss" : ['https://itsupport.ou.edu/TDPortal/Content/ckeditor/contents.css', '/TDPortal/Content/Styles/font-awesome.min.css'], "height" : "175", "htmlEncodeOutput" : true, "image_previewText" : " ", "removePlugins" : "magicline,devtools,templates,elementspath,fontawesome,youtube,uploadimage,simpleimage,remoteimageblocker", "toolbar" : "TDSimple"}); });
+//]]>
+</script>
+</form>
+
+<footer role="contentinfo">
+  
+  
+  
+    <div class="master-footer">
+
+      
+
+<div class="footer" style="background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/bg_black.gif&quot;); background-repeat: repeat; color: #FFFFFF; background-color: #333333; width: 100%; padding: 0">
+    <div class="container" style="padding-right: 20px; padding-left: 20px; margin: 0 auto">
+        <div class="footerpar iparsys parsys">
+            <div class="footer2012 parbase section">
+                
+                <div class="row-fluid" style="width: 100%; margin: 2em auto">
+                    <div class="footerColumn span4 padding-bottom-lg" style="display: block; float: left; min-height: 30px; min-width: 20em; width: 31.62%; margin-left: 0">
+                        <div class="footerlogo" style="float: left"><img alt="OU" src="//www.ou.edu/content/dam/homepage2012/design/footerlogo.png" style="max-width: 100%; vertical-align: middle; outline: none; border: none; padding: 0; margin: 0; width: 45px; height: 62px" width="45" height="62">
+                        </div>
+                        <div class="footeraddress" style="float: left; margin-left: 10px"><a href="//www.ou.edu/" style="color: #FFFFFF; outline: none">
+                                <b>The University of Oklahoma</b></a><br>
+                            660 Parrington Oval, <br>
+                            Norman, OK 73019-0390<br>
+                            (405) 325-0311<br>
+                        </div>
+                    </div>
+                    <div class="footerColumn span4" style="display: block; float: left; min-height: 30px; margin-left: 2.56%; min-width: 20em; width: 31.62%">
+                        <div>
+                            <div>
+                                <div>
+                                    <ul class="2columns unstyled" style="padding: 0; margin: 0 0 10px; list-style: none">
+                                        <div class="first column" style="width: 50%; float: left">
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/publicaffairs/WebPolicies/accessstatement.html" style="color: #FFFFFF; outline: none">Accessibility</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/sustainability.html" style="color: #FFFFFF; outline: none">Sustainability</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//ouhsc.edu/hipaa/" style="color: #FFFFFF; outline: none">HIPAA</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//hr.ou.edu/jobs/" style="color: #FFFFFF; outline: none">OU
+                                                    Job Search</a></li>
+                                        </div>
+                                        <div class="last column" style="width: 50%; float: left">
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/landing/policy.html" style="color: #FFFFFF; outline: none">Policies</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/landing/legalnotices.html" style="color: #FFFFFF; outline: none">Legal
+                                                    Notices</a></li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/content/publicaffairs/WebPolicies/copyright.html" style="color: #FFFFFF; outline: none">Copyright</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/resources_offices.html" style="color: #FFFFFF; outline: none">Resources
+                                                    &amp; Offices</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="https://ouregents.ethicspoint.com" style="color: #FFFFFF; outline: none">OU
+                                                    Report It!</a></li>
+                                        </div><br style="clear: both">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footerColumn span4 padding-bottom-lg" style="display: block; float: left; min-height: 30px; margin-left: 2.56%; min-width: 20em; width: 31.62%">
+                        <div>
+                            <div>
+                                <div>
+                                    <p style="font-size: 100%; margin: 0; line-height: 40px; font-weight: bold; color: inherit"></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="overflow: auto; padding: 0; margin: 0">
+                            <div style="overflow: auto; padding: 0; margin: 0">
+                                <div class="wide">
+                                    <ul style="padding: 0; margin: 0; overflow: auto; list-style-type: none; width: 278px">
+                                        <li style="line-height: 20px; float: left; display: block"><a class="facebook" href="//www.facebook.com/uofoklahoma" title="Go to the University of Oklahoma's Facebook account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: left top">facebook</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="twitter" href="https://twitter.com/uofoklahoma" title="Go to the University of Oklahoma's Twitter account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -46px">twitter</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="youtube" href="//www.youtube.com/universityofoklahoma" title="Go to the University of Oklahoma's YouTube account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -92px">youtube</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="instagram" href="https://www.instagram.com/uofoklahoma/" title="Go to the University of Oklahoma's Instagram account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -138px">instagram</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="more" href="//www.ou.edu/web/socialmediadirectory.html" title="Visit more of Oklahoma University's social media at the social media directory" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -368px">OU
+                                                Social Media
+                                                Directory</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="width: 100%; margin: 2em auto">
+                    <div class="footerBottom span12" style="display: block; float: left; min-height: 30px; width: 100%; border-top: 1px solid #474747; padding-top: 10px; margin-left: 0">
+                        Updated by <a href="//www.ou.edu/ouit" style="color: #FFFFFF; outline: none">
+                            <b>OU Information Technology</b></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+<script type="text/javascript" src="https://bot.ivy.ai/bot/script/category/90JvaRm8Ob7KwjGB9zM6EZXoB3peVnNz"></script>
+      
+
+    </div>
+  
+</footer>
+
+
+
+
+<script>
+
+    
+    
+
+      // Inject the Google Analytics isogram. This must happen here because it
+      // cannot be injected through an external javascript library.
+      (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+          (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    
+
+      // Per Incident #6707155. Need to focus on img. pseudo-class :focus-within is not supported in IE
+      (function ($) {
+        var $anchor = $('#divLogo a');
+        var $beLogo = $('#divLogo a img');
+
+        $anchor.focus(function () {
+          $beLogo.addClass('accessibility-focus-on-logo');
+        })
+          .blur(function () {
+            $beLogo.removeClass('accessibility-focus-on-logo');
+          })
+
+    })(jQuery);
+
+  </script>
+
+</body>
+</html>
