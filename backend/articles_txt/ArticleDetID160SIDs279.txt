@@ -1,0 +1,38 @@
+
+  About OU Wired Networks
+
+
+OU’s wired network features data connections at a transfer rate of 100/1000 MBps in the following areas:
+
+Most residence hall rooms.
+
+University-owned apartments.
+
+Most public areas, such as the Oklahoma Memorial Union and Bizzell Library.
+
+Staff and faculty offices.
+
+Administrative office space.
+
+Many classrooms across campus.
+
+OU IT can meet your specialized departmental needs with the following networking services:
+
+Install new network ports.
+
+Activate inactive network ports.
+
+Set-up custom network.
+
+Protect and analyze your network resources.
+
+For assistance with OU IT network services, you may submit a request through the Service Catalog (https://itscnorman.ou.edu/#viewservices), or call (405) 325-4357 with your building and room location as well as your billing account for your request.
+
+If you are experiencing connectivity issues with your OU wired Internet connection, please feel free to contact the OU IT Helpdesk at 325-HELP (4357). Our technicians will walk you through some network troubleshooting to determine the cause of the issue and assist with resolving any potential network issues.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

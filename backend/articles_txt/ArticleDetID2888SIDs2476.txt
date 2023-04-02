@@ -1,0 +1,10 @@
+
+  Canvas Constantly Loading Error
+
+
+Please note that if your computer is using an unsupported browser, the Canvas site may remain a grey page and not load. The site may lack left menu options or become stuck in a cycle of constantly loading. To see a list of currently supported browsers, please see this page (https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-the-browser-and-computer-requirements-for-Instructure/ta-p/66). This page will also automatically check if your browser is supported and let you know if an update is required. If you are using an unsupported browser, please update to the latest version and then try to use Canvas again.
+
+Safari users have often reported this issue. Apple users can solve the issue by updating the browser directly or by updating to MacOS Monterey.
+
+
+

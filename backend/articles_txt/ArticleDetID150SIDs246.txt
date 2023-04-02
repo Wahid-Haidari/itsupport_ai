@@ -1,0 +1,46 @@
+
+  Connecting to WIFI@OU with Linux
+
+
+WIFI@OU Configuration on Fedora 27, ignoring CA certificate authentication. To connect to WIFI@OU on a Linux machine, please do the following:
+
+Go to Settings -> Wi-Fi
+
+Click the gear icon next to “WIFI@OU”
+
+Enter the following:
+	
+Security: WPA & WPA2 Enterprise
+Authentication: Protected EAP (PEAP)
+CA Certificate: Check “No CA certificate is required”
+PEAP Version: Automatic
+Inner Authentication: MSCHAPv2
+Username: (OUNet ID)
+Password: (Password)
+
+
+
+Security: WPA & WPA2 Enterprise
+
+Authentication: Protected EAP (PEAP)
+
+CA Certificate: Check “No CA certificate is required”
+
+PEAP Version: Automatic
+
+Inner Authentication: MSCHAPv2
+
+Username: (OUNet ID)
+
+Password: (Password)
+
+Click Apply, you should now connect.
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

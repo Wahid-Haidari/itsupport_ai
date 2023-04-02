@@ -1,0 +1,40 @@
+
+  Adobe Creative Cloud Disk Space Usage Problem
+
+
+ 
+
+Users of Adobe Creative Cloud may notice system sluggishness or slowdown due to the Creative Cloud ACC.log file taking up a large amount of disk space. Adobe recommends users either update to the latest version of Creative Cloud or delete the ACC.log file.
+
+In most cases, Creative Cloud downloads and installs the update automatically when you sign in. If you’re unable to sign in from the Creative Cloud application, then do the following:
+
+Open a browser and navigate to https://helpx.adobe.com/creative-cloud/help/creative-cloud-desktop.html (https://helpx.adobe.com/creative-cloud/help/creative-cloud-desktop.html).
+
+Sign in with the Adobe ID associated with your Creative Cloud account.
+
+Download and install the latest version of the Creative Cloud app.
+
+Launch Creative Cloud and sign in.
+
+ 
+
+You can safely delete the ACC.log file from your computer.
+
+To do so, navigate to one of the following folders and delete the acc.log files:
+
+Windows 7/8: \Users\[user name]\AppData\Local\Temp
+
+Mac OS X: ~/Library/Logs/
+
+Note: Some files and folders are hidden on Windows. See Show hidden files, folders, filename extensions | Windows XP, Vista, Windows 7, 8 (http://helpx.adobe.com/x-productkb/global/show-hidden-files-folders-extensions.html) for more information.
+
+Note: The user Library folder is hidden on Mac OS 10.7 and later. See Access hidden user library files | Mac OS 10.7 and later (http://helpx.adobe.com/x-productkb/global/access-hidden-user-library-files.html) for more information.
+
+Updates on this issue can be found can be found on Adobe’s site here (https://helpx.adobe.com/creative-cloud/kb/cc-acc-log-file-consuming-huge-disk-space.html).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

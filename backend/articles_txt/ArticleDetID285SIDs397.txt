@@ -1,0 +1,61 @@
+
+  MyDesk (VDI) Norman Work From Home Solution – Windows Client Install
+
+
+Unsure on which Work From Home product to choose? Use this guide to help decide (http://ou.edu/dam/IT/remote_work_matrix031920.png).
+
+In an effort to maintain productivity and maximize flexibility as the University responds to COVID-19, OU IT has extended the VMware Horizon Virtual Desktop service (VDI) to tri-campus Faculty and Staff.
+
+Please note, you will need to install PingID and then authenticate to get access to this program, please see this page (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2573) for more.
+
+VDI delivers a CLEAN desktop with secure, encrypted access to network services. VDI does NOT duplicate your on-campus desktop computer. Files stored locally on your on-campus computer are not accessible via VDI.
+
+Accessing VDI via the Client:
+
+To begin, navigate to https://mydesknor.ou.edu/ (https://mydesknor.ou.edu/).
+
+You should have two options, a standalone installer and an option for HTML access. Select the option for “Install VMWare Horizon Client”.
+
+
+You will now be linked to the VMWare download website. Select the “Go to Downloads” link for your operating system.
+
+Next click the Download button for your download, you can either download locally and then click to launch the file, or select Run if prompted by your browser.
+
+ 
+
+Windows Install
+
+When the .exe installer file launches, you will be prompted to agree to the privacy agreement and license terms. Select to Agree & Install.
+
+
+The installer will now install the software package.
+
+When the install completes, click Finish.
+
+
+Select to Restart your computer to complete installation.
+
+After the reboot and your operating system loads, select to launch “VMWare Horizon Client” from your installed programs list.
+
+When the program opens, select the Add Server option.
+
+At the “Enter the name of the Connection Server” prompt, enter mydesknor.ou.edu
+
+You will now be prompted to enter your OUNet username and password. Enter this in and then click Login.
+
+
+You should also now be promoted to accept the authentication in PingID.
+
+Select COOP Remote Pool from the list of available virtual desktops.
+
+
+The desktop window will now load for your instance.
+
+If you have problems connecting to Horizon VDI (mydesknor.ou.edu), please contact your local service desk. Norman IT Service Desk (http://needhelp.ou.edu/) | Tulsa IT Service Desk (http://www.ou.edu/tulsa/it/help).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,84 @@
+
+  Zoom Recording Basics
+
+
+Start Zoom meeting as a host
+
+In a Zoom session click on space in the Zoom screen for navigation bar to appear in the bottom, shown bellow.
+
+Select the “Record” option from the taskbar along the bottom
+
+Select “Record to the Cloud.”
+	
+Please note the "Record to the Cloud" setting is available for Norman account users by default but OUHSC users must request access. If you are an OUHSC user needing MyMedia Cloud Recording access, please contact itsupport.ou.edu (https://itsupport.ou.edu/TDClient/34/OKC/Requests/TicketRequests/NewForm?ID=hxpeTiBq5XI_) for additional direction on how to get this integration enabled. 
+
+
+
+Please note the "Record to the Cloud" setting is available for Norman account users by default but OUHSC users must request access. If you are an OUHSC user needing MyMedia Cloud Recording access, please contact itsupport.ou.edu (https://itsupport.ou.edu/TDClient/34/OKC/Requests/TicketRequests/NewForm?ID=hxpeTiBq5XI_) for additional direction on how to get this integration enabled. 
+
+While sharing your screen, click “More” along the top navigation and select “Record to Cloud.”  To access the navigation while sharing screen, you must hover the small bar in the top center of your screen.
+
+You will see “recording” in the top left corner of the Zoom meeting. You can use the bar to pause/play or stop your recording.
+
+While sharing your screen select the “More” icon along the top navigation and then choose “Pause Recording”.
+
+ 
+
+Recording layouts
+
+This section explains recording layouts when you start a cloud recording using the Zoom desktop client.
+
+Active speaker
+
+If you are in active speaker view, the recording will only display the video of the active speaker. Note: You can only display participants' names in cloud recordings.
+
+Gallery view
+
+If you are in gallery view, the recording will be similar to the meeting client and display a grid layout of participants' video. The gallery view recording can display a maximum of 25 participants
+
+Note: You can only display participants' names in cloud recordings.
+
+Shared screen with active speaker
+
+If you share your screen with the active speaker thumbnail, the recording will display the active speaker thumbnail in the top-right corner. If you drag the active speaker thumbnail to another location during the meeting, the recording will still display it in the top-right corner.
+
+Note: Under Cloud Recording, “Record thumbnails when sharing” should be checked in order to have a recorded video with shared screen + active speaker’s video on the top right corner.
+
+Shared screen without active speaker or gallery view
+
+If you share your screen without the active speaker thumbnail or disabled the Record thumbnails while sharing option in your cloud recording settings, the recording will only display the shared screen.
+
+Note: For cloud recordings, if you enabled the option to Record active speaker, gallery view and shared screen separately, you will see the active speaker video beside the recorded shared screen when viewing the recording in the Zoom web portal.
+
+Shared screen with large active speaker thumbnail
+
+If you share your screen with the active speaker thumbnail and enlarge it, the local recording will also display a larger active speaker thumbnail in the top-right corner. If you drag the active speaker thumbnail to another location during the meeting, the recording will still display it in the top-right corner.
+
+Note: This recording layout is not supported for cloud recordings. Cloud recordings will only display the standard active speaker thumbnail size.
+
+Shared screen with gallery view
+
+If you shared your screen and switched to gallery view, participants' video will appear in the top-right corner. If you drag the gallery view during the meeting, it will still appear in the top-right corner in the recording.
+
+Note: This recording layout is not supported for cloud recordings.
+
+Shared window
+
+If you shared a window that does not take up the entire screen, you will see black bars to the right and left of the window in the recording. Participants' video will still appear in the top-right corner if you enable the active speaker thumbnail or gallery view while sharing the window.
+
+ 
+
+Please note that users will access their Zoom cloud recordings on MyMedia (https://mymedia.ou.edu/). The Cloud Recordings are not accessible on Oklahoma.zoom.us
+
+How long until my Zoom recording is in my MyMedia account? The average process time is between 2-4 times the video length. Videos that have been edited are given lower priority and thus could take up to 24 hours.
+
+What is the best way to securely share my Class Recordings with my Students in Canvas? You can embed them into a canvas page. This article (http://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=357&SIDs=496) describes how. 
+
+Why are my students getting an “Access Denied Error”? The video URL was more than likely shared without changing the publish status to unlisted. If it is still private, it can be made unlisted, this will make the URL usable. Alternately, it can also be embeded.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

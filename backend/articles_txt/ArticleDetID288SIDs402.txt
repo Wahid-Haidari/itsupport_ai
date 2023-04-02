@@ -1,0 +1,85 @@
+
+  Passcodes for Zoom Meetings
+
+
+Passcodes are required and automatically generated for all Zoom meetings. Users may change the auto-generated passcode, but it must be 8-10 characters.
+
+ 
+
+Open the Zoom application and click “Schedule”.
+
+On the Schedule Meeting menu, under Security, an 8-character passcode is generated automatically.
+
+You may use the auto-generated passcode, or create your own. Every passcode must be 8-10 characters in length.
+
+
+
+Open the Zoom application and click “New Meeting”.
+
+A passcode will automatically be generated.
+
+This passcode cannot be changed.
+
+To see the passcode and invite link click on the green check mark on the top left corner of the meeting screen. 
+
+
+
+Click “Meetings” at the top of the application.
+
+Select the meeting that you would like to change the passcode for, and click “Edit”.
+
+Under Security, change the passcode if you wish, keeping in mind the 8-character requirement.
+
+
+
+ 
+
+
+
+ 
+
+Go to “oklahoma.zoom.us” in your browser.
+
+Click "sign in"
+
+Sign in with your OUNetID and password.
+
+Click “Meetings” on the right side of the page.
+
+Click on “Schedule” on the upper right side of the page. 
+
+On the Schedule Meeting menu, under Security, an 8-character passcode is generated automatically. 
+
+You may use the auto-generated passcode or create your own – keeping in mind the 8-character requirement. 
+
+
+
+Select “Meetings” on the left side of the application, then “Upcoming”.
+
+Click “Edit” for the meeting that you would like to change the password.
+
+You may use the auto-generated passcode, or create your own – keeping in mind the 8-character requirement.
+
+
+
+Select “Settings” on the left side of the application.
+
+The auto-generated passcodes may be changed under the following settings:
+	
+Require a passcode when scheduling new meetings
+Require a passcode for Personal Meeting ID (PMI)
+
+
+
+Require a passcode when scheduling new meetings
+
+Require a passcode for Personal Meeting ID (PMI)
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

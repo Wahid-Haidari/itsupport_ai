@@ -1,0 +1,30 @@
+
+  Password Change Known Issues
+
+
+Changing your password frequently is extremely important when it comes to keeping your account and information secure. We want to make sure that the process is as simple as possible, so below we have compiled a list of known issues to look out for after you have changed your OU account password. For more information on how to change you password see here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=212).
+
+Account Locked
+This is often an indication that a mobile device is trying to access an OU resource using your old password. Check all cell phones and tablets to make sure that any apps using your OUNet ID (usually, email apps) have been updated.
+
+Office 365 Password Delay
+Once your password is changed, it may take up to 30 minutes for the new password to work with online Office 365 tools (Outlook email, OneDrive, SharePoint Online, etc.).  During this time, you should still be able to use your old password to login.
+
+eCopy Password Delay
+The campus eCopy system relies on authentication through Office 365, so it may take up to 30 minutes for your new password to work. During this time, you should still be able to use your old password to login.
+
+Keychain Update
+Mac users utilizing the Keychain Access application will need to update their OU credentials within the Keychain application. The app should prompt you to update to your new password the first time you try to access an OU system or website.
+
+McAfee Endpoint Encryption
+If you are using McAfee Disk Encryption, you will need to log out of Windows and log back into Windows with your new password. Once you have done this, restart your computer and use your new password to login to McAfee Disk Encryption.
+
+Windows 10 Randomly Prompts for Password
+A few Windows 10 users have reported being prompted, seemingly at random, while using Microsoft tools. The prompt will not accept any password (new or old), but closing the application and reopening it usually works. To remedy this problem, users must first delete their Outlook profile, sign out of all Office 365 apps, and then create a new Outlook profile.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,30 @@
+
+  Editing Captions within MyMedia
+
+
+NOTE: All new videos added will be auto-captioned. Un-edited captions will only be 70/80% accuracy. Please edit captions for higher accuracy.
+
+Log In into your MyMedia account
+
+Go to your library by clicking on “MyMedia” under your profile
+
+
+Select the video for which you would like to edit captions and go to the Editing menu by clicking on the pen-like icon in the far right
+
+
+You can play your video to verify that it now has captions. However, these WILL NOT be 100% accurate.
+
+To proof-read and edit the machine produced captions, click on the blue Edit Captions button
+
+
+Once in the Closed Captions Editor, you can modify the times at which text appears and disappears, as well as what text is being shown for each frame by simply clicking on the text boxes.
+
+
+Click on the Save blue button when you are done editing.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

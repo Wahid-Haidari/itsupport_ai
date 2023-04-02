@@ -1,0 +1,56 @@
+
+  Enabling Long Passwords on iOS
+
+
+To enable long passwords (any password longer than a 4 digit “simple passcode”), you will need to do the following:
+
+ 
+
+If you do not have a current passcode on your device:
+
+Go to Settings > General > Passcode Lock 
+
+Slide the “Simple Passcode” option to “Off”
+
+Tap “Turn Passcode On” and enter your desired password
+	
+You will be prompted for this password again for confirmation
+
+
+
+You will be prompted for this password again for confirmation
+
+ 
+
+If you do have a current passcode on your device:
+
+Go to Settings > General > Passcode Lock
+
+You will be prompted for your current passcode
+
+
+
+You will be prompted for your current passcode
+
+Slide the “Simple Passcode” option to “Off”
+	
+You will be prompted for your current passcode for confirmation
+
+
+
+You will be prompted for your current passcode for confirmation
+
+Enter your desired password
+	
+You will be prompted for this password again for confirmation
+
+
+
+You will be prompted for this password again for confirmation
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

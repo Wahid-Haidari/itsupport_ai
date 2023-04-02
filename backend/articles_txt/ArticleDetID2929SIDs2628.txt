@@ -1,0 +1,28 @@
+
+  Canvas - Rubrics
+
+
+Rubrics are a way to set up custom or outcome-based assessment criteria for scoring.
+
+A Rubric is an assessment tool for communicating expectations of quality. They can be used to set up custom or outcome-based assessment criteria for scoring. Rubrics are typically comprised of rows and columns, with the rows defining the various criteria used to assess an assignment and columns used to define levels of performance for each criterion.
+
+Additionally, rubrics can be set up as non-scoring, which allows for assessment-based and outcome-based grading without points.
+
+Rubrics can be used for all types of assignments in Canvas: discussions, assignment drop-boxes, and quizzes.
+
+Rubrics are quick and easy to create and add to graded assignments.
+
+Rubrics are available to students before they submit their assignment (and after), so the student can see exactly what is expected of them and where they might have fallen short.
+
+Rubrics also show up along the right side of the assignment you are grading in Speed Grader. This makes it easy for the instructor to read the student's submission and quickly check the appropriate box on the rubric.
+
+Visit the Canvas Help pages for information on creating rubrics in your course (https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-a-rubric-in-a-course/ta-p/842).
+
+Rubrics Overview (https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Rubrics/ta-p/35)
+
+Rubrics Video Overview (https://community.canvaslms.com/t5/Video-Guide/Rubrics-Overview-Instructors/ta-p/384253)
+
+How do I manage rubrics in a course? (https://community.canvaslms.com/docs/DOC-12891-4152724105)
+
+ 
+

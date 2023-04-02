@@ -1,0 +1,46 @@
+
+  LinkedIn Learning – Adding Users in Bulk via CSV
+
+
+Through the Admin Account Center, CSV file uploads can be used to add new users and update existing users on your account. You can also manually add users one by one.
+
+To download the CSV template and create your CSV file:
+
+From the Admin Account Center, click People.
+
+Click Add users from the Users tab.
+
+Select Add users by CSV from the dropdown.
+
+Click Download the CSV template from the pop-up window.
+
+Open the downloaded template in Microsoft Excel or a text editor application such as Microsoft Notepad. You can then replace/enter information for each user you’d like to add.
+
+After completing your CSV file, save it on your computer. Make sure to save your CSV with the file format as Comma Delimited or Comma Separated Value (.csv).
+
+To upload your CSV to the Account Center and save your changes
+
+From the Admin Account Center, click People.
+
+Click Add Users.
+
+Select Upload users by CSV from the dropdown.
+
+Select your CSV file to upload from your computer and click Open or Choose.
+
+A banner will appear on the All Users page notifying you if your upload was successful.
+
+After the CSV file has been uploaded:
+
+The file is processed and checked for errors. You’ll be notified if you need to update any information.
+
+An email will be sent to the users you’ve added, with instructions on how to activate their accounts. If a user has been added as an inactive user, a welcome email is not sent.
+
+The newly added users appear in People on your administrator account. Initially their status is Invited. After they’ve registered and activated their account, their status changes to Activated. If you have uploaded the user as inactive, they display in the user list as Unassigned.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://ou.teamdynamix.com/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+
+ 
+

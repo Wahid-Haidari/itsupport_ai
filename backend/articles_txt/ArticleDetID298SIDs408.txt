@@ -1,0 +1,21 @@
+
+  Adding MyMedia to Canvas Course Navigation
+
+
+Navigate to your Canvas course and click on the Settings button located on the bottom of the left side menu.
+
+
+Click on the Navigation tab located at the top of the page.
+
+
+Scroll down until you see the MyMedia tool, click on the three dots, then select Enable.
+
+
+You should now see the MyMedia tool in the top list on the page. You can drag and drop the menu items in the order of your preference.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

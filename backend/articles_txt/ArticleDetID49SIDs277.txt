@@ -1,0 +1,51 @@
+
+  Enabling Security on Android
+
+
+Note: because some models of Android phones use different versions and/or layouts of the OS, these instructions will vary; these instructions were created using stock Android 4.2.2.
+
+ 
+
+To enable a security lock (PIN, Password, or Pattern), you will need to do the following:
+
+Open the Settings app, and go to “Security” (under the Personal section)
+
+Select the type of screen security you wish to enable (default is “Slide“)
+	
+You can choose from Slide, Face Unlock, Pattern, PIN, or Password 
+
+Slide and Face Unlock are the least secure and are thus not recommended
+If you select “Pattern,” you will be prompted to select a size of pattern before drawing it.
+
+
+Once you select your method of security, enter the PIN/Password or draw your pattern and hit “Next”
+		
+You will be asked to confirm the new pattern or PIN/Password before saving.
+
+
+
+
+
+You can choose from Slide, Face Unlock, Pattern, PIN, or Password 
+
+Slide and Face Unlock are the least secure and are thus not recommended
+If you select “Pattern,” you will be prompted to select a size of pattern before drawing it.
+
+
+
+Slide and Face Unlock are the least secure and are thus not recommended
+
+If you select “Pattern,” you will be prompted to select a size of pattern before drawing it.
+
+Once you select your method of security, enter the PIN/Password or draw your pattern and hit “Next”
+		
+You will be asked to confirm the new pattern or PIN/Password before saving.
+
+
+
+You will be asked to confirm the new pattern or PIN/Password before saving.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

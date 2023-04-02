@@ -1,0 +1,14 @@
+
+  Firewall Exceptions
+
+
+Firewalls are designed to protect network traffic and connections and may limit network traffic to prevent unauthorized access to a private network.
+
+OU Information Technology maintains firewall devices on network hardware to ensure that the campus network is protected from internal and external electronic threats. In certain circumstances, an application or host may require an exception be made to firewall to allow network access. If you would like to request a firewall exception for your device, please visit the Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=38).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

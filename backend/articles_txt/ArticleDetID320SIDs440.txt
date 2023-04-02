@@ -1,0 +1,19 @@
+
+  Uploading Content to OUWWW/Organization Account Website
+
+
+If you would like to upload content to your organization account site, you can do so via FTP. You can use a free FTP client, such as Filezilla. Here’s some information you’ll need to upload the data to your site:
+
+Protocol: FTP
+Host Name: ftp://ouwww.ou.edu (ftp://ouwww.ou.edu/) or ouwww.ou.edu
+Username: OU Net ID of related organization account
+Password: Password for organization account’s OU Net ID
+
+If you do not have a means to create content for your site, then we’d recommend using OU Create (https://create.ou.edu/support-main/).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

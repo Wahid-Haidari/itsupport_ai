@@ -1,0 +1,24 @@
+
+  LinkedIn Learning – Group/User Management
+
+
+Groups are a great way to easily recommend content to a specific set of learners. Users with sub-admin permissions can create groups of learners in their Learning account and quickly recommend courses or learning paths to everyone in the group at one time.
+
+To request a group, please submit your request through the IT Service Catalo (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=99)g.
+
+ 
+
+Articles of interest:
+LinkedIn Learning – Adding Users in Bulk via CSV (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=306)
+Creating Groups in your Learning Account (https://www.linkedin.com/help/learning/topics/14043/14044/72051)
+Recommending or Sharing Content as an Admin (https://www.linkedin.com/help/learning/topics/14043/14300/72059)
+Recommending Courses to your Learners and Groups (https://www.linkedin.com/help/learning/topics/14043/14300/72053)
+Setting and Updating Due Dates for Recommended Content as an Admin (https://www.linkedin.com/help/learning/topics/14043/14300/72044)
+Recommendation History for Admins in LinkedIn Learning (https://www.linkedin.com/help/learning/topics/14043/14300/88138)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

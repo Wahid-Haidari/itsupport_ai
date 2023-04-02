@@ -1,0 +1,121 @@
+
+  Canvas - Entering Scores for Missing and Excused Assignments
+
+
+By default, Canvas uses a 'running total' method of scores for a current Total score. Only activities with scores are included in the Total score. Missing scores for activities that are closed (past due) will need to have zeros/incompletes entered manually, unless you set a Missing Assignment Policy when you initially set up your course. However, there is a quick and easy way to enter those scores for each activity in the gradebook.
+
+From the Canvas course menu select Grades.
+
+In the Gradebook scroll to the appropriate activity column.
+
+In the column header, hover the cursor over and then click on the three dots menu.
+
+
+
+Select Set Default Grade.
+
+
+
+On the Set Default Grade for AssignmentName:
+
+	
+Enter 0 for the grade value.
+DO NOT select Overwrite already-entered grades.
+Click Set Default Grade.
+
+
+
+Enter 0 for the grade value.
+
+DO NOT select Overwrite already-entered grades.
+
+Click Set Default Grade.
+
+ 
+
+Zeros will be entered for all cells of that activity that have no score. The Total column will reflect the change of the new score.
+
+A Missing Submission Policy can be set at the beginning of the term to ensure that missing assignments will be treated as zeros. Please note:
+
+Setting a Missing Submission policy affects all assignments in a course, including assignments with due dates in the past. To exclude a specific assignment, mark the submission as something other than Missing in the Grade Detail Tray.
+
+Applying a missing submission policy will not affect previously graded missing submissions. Therefore, the Missing Submission policy should be set up when a course is created prior to creating assignments.
+
+The Missing Submission policy will not be automatically applied to No Submission, On Paper, or External Tool assignments. However, a Missing label can be added in the Grade Detail Tray.
+
+Disabling a course Missing Submission policy does not revert grades that were submitted when the policy was enabled.
+
+
+In Course Navigation, click the Grades link.
+
+2. Click the Settings icon.
+ (https://media.screensteps.com/image_assets/assets/001/215/857/original/77ffdd1e-67e3-44e9-a5af-42a8c75b1a3a.png)
+3. In Gradebook Settings, view the Late Policies tab.
+
+4.Click the Automatically apply grade for missing submissions checkbox. Selecting this checkbox will automatically apply the grade you set for any missing submissions in the course.
+
+5. Set a percentage in the Grade percentage for missing submissions field.
+
+6. Click the Update button.
+
+7.View the affected grades in the Gradebook.
+
+8. In the Grade Detail Tray, you can view details about the submission. When a submission applies to a missing policy, the Grade Detail Tray displays the given grade. To remove the late penalty from a submission, enter a grade in the grade field. Once a grade has been manually assigned, the Missing submission policy will no longer apply.
+Please note that manually entering a grade will not remove the Missing label. To remove the Missing label, choose a status other than Missing in the Grade Detail Tray.
+
+
+
+In Course Navigation, click the Grades link.
+
+
+
+2. Click the Settings icon.
+
+ (https://media.screensteps.com/image_assets/assets/001/215/857/original/77ffdd1e-67e3-44e9-a5af-42a8c75b1a3a.png)
+
+3. In Gradebook Settings, view the Late Policies tab.
+
+
+
+4.Click the Automatically apply grade for missing submissions checkbox. Selecting this checkbox will automatically apply the grade you set for any missing submissions in the course.
+
+
+
+5. Set a percentage in the Grade percentage for missing submissions field.
+
+
+
+6. Click the Update button.
+
+
+
+7.View the affected grades in the Gradebook.
+
+
+
+8. In the Grade Detail Tray, you can view details about the submission. When a submission applies to a missing policy, the Grade Detail Tray displays the given grade. To remove the late penalty from a submission, enter a grade in the grade field. Once a grade has been manually assigned, the Missing submission policy will no longer apply.
+
+Please note that manually entering a grade will not remove the Missing label. To remove the Missing label, choose a status other than Missing in the Grade Detail Tray.
+
+Read more about setting a Missing Assignment Policy (https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-apply-a-Missing-Submission-policy-in-the-Gradebook/ta-p/963).
+
+As needed, you can use the Gradebook to excuse a student from an assignment, discussion, or quiz. You can also excuse a student from a group assignment. Excused assignments are not calculated as part of a student’s total grade.
+
+When an assignment is excused, the assignment page and the student grade page will show the student that he or she has been excused from the assignment. Students cannot submit excused assignments.
+
+In Course Navigation, click the Grades link.
+
+In the Gradebook, locate the student and assignment you want to excuse.
+
+In the relevant cell, type EX. Then press the Enter key.
+
+The cell should now say “Excused.”
+
+Read more about entering and editing grades (https://guides.instructure.com/m/4152/l/813671-how-do-i-enter-and-edit-grades-in-the-gradebook).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

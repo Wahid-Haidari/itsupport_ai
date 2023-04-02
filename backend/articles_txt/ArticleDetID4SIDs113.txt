@@ -1,0 +1,34 @@
+
+  Printing from Canvas on WEPA Kiosk
+
+
+To print documents from your Canvas account on a WEPA Kiosk, you will first need to connect your Canvas account to your WEPA account. You will only need to do this the first time you print from Canvas on a WEPA Kiosk.
+
+Log in to a WEPA Kiosk using your Sooner Card.
+
+Press the Canvas button on the right side of the screen.
+
+Enter your Canvas login information (OUNet ID and password).
+
+Press Authorize in the popup to allow WEPA to access your Canvas documents.
+
+You can now print files that are stored through your Canvas account just like you would from Dropbox or Google Drive.
+
+Navigate to your document(s) through your Canvas directory.
+
+Select your document(s).
+
+Press Done.
+
+Wait a moment for WEPA to prepare your documents for printing.
+
+Press Print.
+
+Select a payment option.
+
+Follow this link (http://print.ou.edu) for more information on WEPA printing at OU.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,60 @@
+
+  Zoom In-Meeting Security
+
+
+Removing Participants and Other Zoom Security Features
+
+This article will cover the various security features in Zoom to handle meeting disruptions. First, we will go over removing a disruptive participant and then the other features of the Security icon.
+
+Removing Participants from a Meeting
+
+If a participant is being disruptive and you want to remove them from your meeting, press the Security icon in the toolbar.
+
+
+
+ 
+
+2. With the security options displayed click Remove Participant….
+
+3. Click Remove next to the participants name, then click Remove in the pop-up to remove them from the meeting. The participant will be unable to rejoin the meeting.
+
+
+
+ 
+
+
+
+Reporting Participants
+
+If someone has entered your meeting and is posting or displaying offensive material in your meeting, you can remove them, as well report their account to Zoom for further action. The steps to report a participant are listed below.
+
+Click on Participants in the tool bar > Hover your mouse over the participant you want to report against> click on More > click Report.
+
+
+
+ select the other criteria you wish to include in the report. You also have the option to include a screenshot of the offensive material they posted in your meeting, as well as the ability to upload attachments to include with the report if need be.
+
+
+
+ 
+
+Allow Particpants to Screen Share, etc.
+
+The middle section of options after clicking the Security icon is for what participants are allowed to do in your meeting. We will explain in each option in detail below.
+
+Share Screen – By selecting this option, particpants are able to share their screen in the meeting. We recommend having this option turned off unless your meeting requires particpants to share their screen.
+
+Chat – Participants can use the Chat feature to communicate with one another or with the host by posting questions or comments.
+
+Rename Themselves – Particpants can change their name in the meeting to be different than the name on their Zoom account.
+
+Additional Security Features
+
+Zoom also allows you to lock the meeting so that no one else is able to join and enable the waiting room for the meeting. When selecting or deselecting these options, you will see a pop-up saying that the setting has been changed. An example is shown below.
+
+
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

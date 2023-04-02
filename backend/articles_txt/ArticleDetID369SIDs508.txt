@@ -1,0 +1,37 @@
+
+  Add a YouTube Video to MyMedia
+
+
+OU MyMedia enables you to add an existing, public YouTube video to your account for easy access. Please note that if the video is removed from YouTube it will no longer be playable from your account. To add a video from YouTube to OU MyMedia, please do the following:
+
+Log in at https://mymedia.ou.edu.
+
+Click the Add New dropdown
+
+Click YouTube
+
+Paste the video link, and click Preview
+
+Modify the following as desired
+	
+Name
+Description
+Tags
+Privacy
+
+
+
+Name
+
+Description
+
+Tags
+
+Privacy
+
+Click Save
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

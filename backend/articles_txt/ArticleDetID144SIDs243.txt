@@ -1,0 +1,16 @@
+
+  Amazon Fire, Amazon Nexus, Apple Airplay, Apple TV, Bonjour, Chromecast, and Roku Support
+
+
+At the present time the general University of Oklahoma wireless network does not support multicast networking, however some dorms have been upgraded to support this functionality. Because multicast is unsupported, Apple Airplay, Bonjour, Google Cast, and other multicast services are not supported in most buildings for WIFI@OU usage. Please note though that some classrooms or conference rooms may be configured to support such services.
+
+As of Fall 2017, all dorms except for Adams Tower, Cate 3, and the Kraettli Apartments have been upgraded to support these services. In unsupported dorms these services may work if plugged into the Ethernet network, but this will only allow display from another Ethernet cabled device, not via Airplay or Google Cast. Such devices may still be connected to WIFI@OU or Ethernet, and will maintain most functionality. For instructions on registering your device please see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=135).
+
+If you are a full time faculty/staff and would like to inquire about adding these services for your lab, classroom or office, please call us at 325-HELP (4357). Our network team will investigate whether the networking equipment in your area will support these services. Please also note these services will be functional on a case by case basis.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

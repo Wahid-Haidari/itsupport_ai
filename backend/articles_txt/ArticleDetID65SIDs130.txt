@@ -1,0 +1,54 @@
+
+  Minimum System Requirements
+
+
+The OU IT Service Centers require any checked in computers to meet at least the following minimum system requirements. Meaning the base level computers have to be at least Windows 10 or above or those Apple machines not designated as vintage:
+
+Windows minimum system requirements:
+
+Windows 10
+
+
+Processor: 1 gigahertz (GHz) or faster processor or SoC
+
+
+Processor: 1 gigahertz (GHz) or faster processor or SoC
+
+
+RAM: 1 gigabyte (GB) for 32-bit or 2 GB for 64-bit
+
+
+RAM: 1 gigabyte (GB) for 32-bit or 2 GB for 64-bit
+
+
+Hard disk space: 16 GB for 32-bit OS or 20 GB for 64-bit OS
+
+
+Hard disk space: 16 GB for 32-bit OS or 20 GB for 64-bit OS
+
+
+Graphics card: DirectX 9 or later with WDDM 1.0 driver
+
+
+Graphics card: DirectX 9 or later with WDDM 1.0 driver
+
+
+Display: 800 x 600
+
+
+Display: 800 x 600
+
+For more information visit Microsoft.com (https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715).
+
+ 
+
+OS X system requirements:
+
+Supported devices will generally include recent machines not currently designated as "vintage" by Apple (https://support.apple.com/en-us/HT201624).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

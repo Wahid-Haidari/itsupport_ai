@@ -1,0 +1,97 @@
+
+  Canvas – Creating a Turnitin Assignment with the External Tool
+
+
+Note: The Turnitin Plagiarism Framework is the recommended method for setting up Turnitin within Canvas, as it is a smoother integration than the External Tool. Visit our article on the Plagiarism Framework (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=404) for more information. 
+
+Turnitin is enabled on a per-assignment basis in Canvas. The Turnitin LTI (external tool) currently includes a few limitations when creating assignments: 
+
+
+You cannot use Turnitin LTI with group assignments.  
+
+
+You cannot use Turnitin LTI with group assignments.  
+
+
+Turnitin LTI assignments cannot include more than one submission date; differentiated due dates are not supported. 
+
+
+Turnitin LTI assignments cannot include more than one submission date; differentiated due dates are not supported. 
+
+
+You cannot restrict student submission types. By default, Turnitin always allows students to submit their assignment as a text entry or upload any supported file type: Text (.txt), Microsoft Word (.doc/.docx), Microsoft PowerPoint (.ppt/.pptx), Postcript (.ps), Portable Document Format (.pdf), Rich Text Format (.rtf), HyperText Markup Language (.html), WordPerfect (.wp), Hangul (.hwp), or Open Office (.odt/.ods/.odp). They can also upload an assignment from Google Drive or Dropbox. Turnitin does not allow students to submit unsupported file types. 
+
+
+You cannot restrict student submission types. By default, Turnitin always allows students to submit their assignment as a text entry or upload any supported file type: Text (.txt), Microsoft Word (.doc/.docx), Microsoft PowerPoint (.ppt/.pptx), Postcript (.ps), Portable Document Format (.pdf), Rich Text Format (.rtf), HyperText Markup Language (.html), WordPerfect (.wp), Hangul (.hwp), or Open Office (.odt/.ods/.odp). They can also upload an assignment from Google Drive or Dropbox. Turnitin does not allow students to submit unsupported file types. 
+
+
+The TurnItIn LTI does not support multiple file submissions from students; each previous submission will be overwritten.  
+
+
+The TurnItIn LTI does not support multiple file submissions from students; each previous submission will be overwritten.  
+
+
+If you want to use a Canvas rubric for the assignment, you must add the rubric (https://community.canvaslms.com/docs/DOC-2870) before setting the External Tool submission type. Create the assignment with any other submission type, save the assignment, add the rubric, and then edit the assignment to select the External Tool. 
+
+
+If you want to use a Canvas rubric for the assignment, you must add the rubric (https://community.canvaslms.com/docs/DOC-2870) before setting the External Tool submission type. Create the assignment with any other submission type, save the assignment, add the rubric, and then edit the assignment to select the External Tool. 
+
+
+In Course Navigation, click the Assignments link. 
+
+
+In Course Navigation, click the Assignments link. 
+
+
+Click the Add Assignment button. 
+
+
+Click the Add Assignment button. 
+
+
+Add assignment details (name, description, points, assignment group, display grade as). 
+
+
+Add assignment details (name, description, points, assignment group, display grade as). 
+
+
+In the Submission Type drop-down menu, select the External Tool option. 
+
+
+In the Submission Type drop-down menu, select the External Tool option. 
+
+
+In the URL field, click the Find button. 
+
+
+In the URL field, click the Find button. 
+
+
+Click the Turnitin LTI tool, then check the Load in a new tab checkbox. Click the Select button. 
+
+
+Click the Turnitin LTI tool, then check the Load in a new tab checkbox. Click the Select button. 
+
+
+Set due or availability dates for the assignment (these dates appear throughout Canvas like regular assignments). 
+
+
+Set due or availability dates for the assignment (these dates appear throughout Canvas like regular assignments). 
+
+
+Click the Save button. 
+
+
+Click the Save button. 
+
+Turnitin has resources available for both integrations. Select Turnitin Classic for help with the External tool version and or Feedback Studio for assistance with the Plagiarism Framework version. 
+
+Click for Instructor guides  (https://help.turnitin.com/feedback-studio/lti/instructor/instructor-category.htm)
+Click for Student guides (https://guides.turnitin.com/03_Integrations/Turnitin_Partner_Integrations/Canvas/Canvas_Plagiarism_Framework_(beta_program)/Student) 
+
+For Turnitin Support, please utilize the Support Wizard (https://www.turnitin.com/self-service/support-wizard.html). 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,16 @@
+
+  HIPAA and FERPA policy for Qualtrics
+
+
+The University of Oklahoma has executed a HIPAA Business Associate Agreement (BAA) with Qualtrics allowing the Health Science Center health care components (HCC) to utilize the Qualtrics online survey and analytics tool with ePHI.
+
+With this update, please know that the use of University PHI for research, analytics, and reporting is still governed by the University’s HIPAA polices (https://apps.ouhsc.edu/hipaa/secured/default.asp?page=policies. (https://apps.ouhsc.edu/hipaa/secured/default.asp?page=policies.)) If you have any questions, please reach out to the University’s HIPAA Compliance Team at oucompliance@ouhsc.edu (mailto:oucompliance@ouhsc.edu)
+
+Qualtrics is still not authorized for FERPA data.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

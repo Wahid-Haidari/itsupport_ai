@@ -1,0 +1,98 @@
+
+  Entering Final Grades Directly into Banner from one.ou.edu
+
+
+Note: The process for entering Midterm Grades is similar. Simply select Midterm Grades instead of Final Grades where applicable. 
+
+If you are the Instructor of Record looking to add grades for your course in ONE, please follow the instructions below. However, if you already have your grades entered into Canvas, you may wish to import them into ONE instead of entering them manually. Learn more about importing Canvas grades into ONE (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=397). 
+
+Navigate to one.ou.edu (http://one.ou.edu/) and log in. 
+
+Some accounts have access to both the employee and student versions of ONE. Check you are on the employee version by clicking on your picture and ensuring that Employee is selected from the drop-down menu.
+	  
+
+Ensure you are on the Courses page. Use the left sidebar to navigate to the page if needed.  
+
+Find the course you would like to enter grades for, and click on it to view the course details. 
+
+Select the Grades tab, then the Edit grades in Banner button.
+	  
+
+A new window will open in Banner. If prompted, log in using your OU Net ID and password. 
+
+All of your courses that are available to be graded will be displayed in the top section of the page.  
+
+Select Final Grades and then select the appropriate course underneath. That course will be highlighted and the course roster will display on the bottom half of the page. 
+
+Note: To see additional course details, click the triangle icon in the upper right corner to see the sidebar. Basic instructions for the term will be displayed on the right column, under the Getting Started tab.
+	  
+
+The information in the course roster can be sorted by any of the columns by clicking on the arrows by each column heading. The columns are: 
+
+Full name 
+ID 
+Midterm Grade 
+Final Grade (this column will only show if late enough in the semester) 
+Rolled (this indicates whether the grade has been rolled to the student’s record. Once rolled, it is no longer available to be changed or updated on this page) 
+Last Attended Date (optional information, only necessary if the grade is F or AW). If a student never attended the class, assign the AW grade and enter the first day of the semester as the date. 
+
+
+
+Full name 
+
+ID 
+
+Midterm Grade 
+
+Final Grade (this column will only show if late enough in the semester) 
+
+Rolled (this indicates whether the grade has been rolled to the student’s record. Once rolled, it is no longer available to be changed or updated on this page) 
+
+Last Attended Date (optional information, only necessary if the grade is F or AW). If a student never attended the class, assign the AW grade and enter the first day of the semester as the date. 
+
+To begin entering grades, click on the Final Grade field on the line of the student you wish to grade.   
+
+A drop-down box will display the valid grades for this course, and you can select a grade from the list or you many simply type in the grade you wish to assign. 
+
+When you press Enter, the cursor will automatically take you to the Final Grade field for the next student. You do not have to tab through the other columns. 
+
+Once you have entered all of the grades you are prepared to enter at this time, or if you have a very large class and you want to save grades periodically as you go, press the Save button at the bottom of the page. A message will appear in the Notifications area at the top to verify that you have saved these grades successfully. 
+
+Additional information:  
+
+
+If you have entered a grade that is not valid for this course, an error message will appear at the top of the page. 
+
+
+If you have entered a grade that is not valid for this course, an error message will appear at the top of the page. 
+
+
+If you save grades with an invalid grade entered for a student, the invalid grade will not be saved, but any valid grades will be saved. 
+
+
+If you save grades with an invalid grade entered for a student, the invalid grade will not be saved, but any valid grades will be saved. 
+
+
+The saved grades will be noted with a check mark and the invalid grade will be noted with an exclamation point. 
+
+
+The saved grades will be noted with a check mark and the invalid grade will be noted with an exclamation point. 
+
+
+In the left column you will also see information about the individual student that is currently highlighted/selected. 
+
+
+In the left column you will also see information about the individual student that is currently highlighted/selected. 
+
+
+It will show the student’s name, their credit hours in the course, and an email link to contact them if you need to email the student. 
+
+
+It will show the student’s name, their credit hours in the course, and an email link to contact them if you need to email the student. 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

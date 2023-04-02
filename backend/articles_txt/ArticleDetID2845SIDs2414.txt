@@ -1,0 +1,118 @@
+
+  Submitting and Reviewing your Vaccine Documentation
+
+
+To submit or review your University vaccine documentation, please visit the employee Self Service site. From here, one may submit their vaccine and booster documentation, or apply for an accommodation. To begin,
+
+Navigate to https://selfservehc.ou.edu (https://selfservehc.ou.edu/)
+
+Log in using your campus user ID and password.
+
+Click on the Submit/Review Vaccine Info button. 
+
+From this screen one may:
+	
+Submit Vaccine Information - Submit vaccine or booster documentation, or apply for an accommodation.
+Update Vaccine Information - Edit a saved request that has yet to be submitted for approval.
+View Vaccine Information - View any saved, submitted or withdrawn requests.
+
+
+
+Submit Vaccine Information - Submit vaccine or booster documentation, or apply for an accommodation.
+
+Update Vaccine Information - Edit a saved request that has yet to be submitted for approval.
+
+View Vaccine Information - View any saved, submitted or withdrawn requests.
+
+Under Submit Vaccine Information, the system will automatically populate many fields with your account information. Any fields with a * notation are required. While actively working on the page, one may click the Save button to save the current state of any information one has provided. Clicking Submit will submit your provided information for approval. Clicking Withdraw will cancel your request and withdraw the pending information. On this page you may submit your information to designate that:
+
+I am Vaccinated - Submit your initial vaccine information and documentation.
+
+I am Vaccinated and Boosted - Submit your initial vaccine and booster information, or add your booster information to previously submitted vaccine information.
+
+I Request an Accommodation - Request a medical or religious accommodation.
+
+ 
+
+I am Vaccinated
+
+By selecting "I am Vaccinated", one will be required to provide the name for the vaccine and your dosage date(s). You may also optionally provide the vaccine lot number and health or clinic site that performed the vaccination. 
+
+Additionally one will be required to identify the Vaccine Documentation Type and upload your records documenting the vaccination.
+
+Next one will need to Acknowledge that all the provided information is true and accurate.
+
+One may now choose to either:
+	
+Click Save, which will not submit the information. This allows one to review the currently entered information and change any needed fields before submission. One will need to use the "Update Vaccine Information" for this entry at a later date or locate the request using the "View Vaccine Information" option to submit the information for approval.
+Click Submit, which will immediately submit the provided information to the university.
+
+
+
+Click Save, which will not submit the information. This allows one to review the currently entered information and change any needed fields before submission. One will need to use the "Update Vaccine Information" for this entry at a later date or locate the request using the "View Vaccine Information" option to submit the information for approval.
+
+Click Submit, which will immediately submit the provided information to the university.
+
+ 
+
+I am Vaccinated and Boosted
+
+If you have previously submitted your "I am Vaccinated" documentation and are now boosted, or if you have been vaccinated and boosted and are submitting your documentation for the first time, one may choose the "I am Vaccinated and Boosted" option.
+
+In addition to the Vaccine Information and Documentation fields outlined in the above section, one will now also have a Booster Information section.  
+
+One will be required to provide the required information about the booster(s). Clicking the Insert a Row + button will allow one to enter the information for any additional boosters received.
+
+Next one will need to Acknowledge that all the provided information is true and accurate.
+
+One may now choose to either:
+	
+Click Save, which will not submit the information. This allows one to review the currently entered information and change any needed fields before submission. One will need to use the "Update Vaccine Information" for this entry at a later today to submit the information for approval.
+Click Submit, which will immediately submit the provided information to the university.
+
+
+
+Click Save, which will not submit the information. This allows one to review the currently entered information and change any needed fields before submission. One will need to use the "Update Vaccine Information" for this entry at a later today to submit the information for approval.
+
+Click Submit, which will immediately submit the provided information to the university.
+
+ 
+
+I Request an Accommodation
+
+If one needs to request an accommodation, they may select the "I Request an Accommodation" option.
+
+The individual will be asked to specify the Type of Accommodation. 
+
+By selecting Medical Accommodation, one will need to provide documentation of their disability
+By selecting Religious Accommodation, one is asked to explain the reasons for their requested accommodation. 
+
+
+
+By selecting Medical Accommodation, one will need to provide documentation of their disability
+
+By selecting Religious Accommodation, one is asked to explain the reasons for their requested accommodation. 
+
+Next they will need to provide their contact Employee Phone number.
+
+Next one will need to Acknowledge that all the provided information is true and accurate.
+
+One may now choose to either:
+	
+Click Save, which will not submit the information. This allows one to review the currently entered information and change any needed fields before submission. One will need to use the "Update Vaccine Information" for this entry at a later today to submit the information for approval.
+Click Submit, which will immediately submit the provided information to the university.
+
+
+
+Click Save, which will not submit the information. This allows one to review the currently entered information and change any needed fields before submission. One will need to use the "Update Vaccine Information" for this entry at a later today to submit the information for approval.
+
+Click Submit, which will immediately submit the provided information to the university.
+
+ 
+
+Selecting Update Vaccine Information will allow one to Search for and edit any current active requests which you have Saved but not Submitted. Once you have found and selected the Saved entry, you may update as need and then either Withdraw the request so that it is cancelled, or you may Submit the request for approval.
+
+ 
+
+Selecting View Vaccine Information will allow one to Search for all previously Saved, Submitted or Withdrawn requests.
+

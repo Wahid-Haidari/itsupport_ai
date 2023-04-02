@@ -1,0 +1,26 @@
+
+  Kaltura Capture: Overview
+
+
+Kaltura Capture combines painless recording, automated publishing, and interactive viewing to enable easy video capture in class, at the office, at home, or on-the-go. It is an end-to-end application with seamless recording-to-viewing, automatically captures audio/screen/PowerPoint and video, and allows interactive viewing through side-by-side picture-in-picture viewing.
+
+Content creators capture multi-stream recordings of up to three video inputs synchronized with a PowerPoint presentation or screen capture.
+
+Viewers can navigate to desired content, search through slide text, switch between video streams, and view picture in picture.
+
+CaptureSpace makes it simple to create searchable, interactive video that can be viewed on any device at any time.
+
+Pick and choose from a set of video widgets or components: media upload widget, clipping, trimming and thumbnail editing tools, a video gallery, video embed tool for WYSIWYG editors, video search, video analytics and more.
+
+All components are built with full cross-device and mobile support, responsive design and automatic device detection
+
+All components can be easily skinned and designed, as well as localized for international use
+
+Easily connects with plugins, developed both by Kaltura and Kaltura partners.
+
+Hosted on the Kaltura cloud – all new features and developments are automatically updated for all applications using the framework
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

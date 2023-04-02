@@ -1,0 +1,30 @@
+
+  Removing the "Allow my organization to manage my device" setting
+
+
+When one activates Office or signs into their PC with a new account, the user may receive a prompt that asks "Allow my organization to manage my device". If yes is selected, and the user signs in using their OU credentials, then the device will become managed by the university. Typically this setting is utilized for OU computers used by Faculty and Staff. When a normal OU user signs in on their personal machine in this way, their machine becomes included in that management and has new security policies and restrictions activated on it.
+
+This might result in messages such as "Some of these settings are hidden or managed by your organization." in Windows Settings, you might be required to add or change a login PIN, or you might see new restrictions when you attempt to use your computer. By choosing the proper configuration, you as computer owner will retain correct control of your personal device. This also means you may still install Microsoft applications like Office 365 without it affecting the rest of your device.
+
+If you used your OU account as your Windows login, please save your important files to an external device, sign out of your profile, and then sign back in using a personal Microsoft account. Note that this will not keep settings, configurations, and files that are only associated with your University account. Once your new sign in completes and your profile loads, you may download your files and folders back off your external drive.
+
+If Office 365 was installed and the "Allow my organization to manage my device" option was selected. You may need to uninstall Office 365 from Add/Remove Programs, then reinstall (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=246) without the "Allow my organization to manage my device" option being selected.
+
+If Windows is still linked to your OU account, even while using your personal Microsoft account, you may attempt to remove it by doing the following:
+
+Click Start, then the gear icon, then Accounts.
+
+In the left menu, select Email & accounts and look for an @ou.edu or @ouhsc.edu account under the heading Accounts used by other apps. Click your OU account to select it, then click the Manage button. Choose Delete account from this device in the window that appears.
+
+In the left menu, now select Access work or school and look for an OU account or a connection to the SOONER AD or HSC AD domain. Click on the connection to select it, then click the Disconnect button.
+
+Now that your computer has the OU account removed, you may also need to ensure your computer is fully removed from your OU account. The Microsoft account connected to your OU ID may be remembering the personal device that had the security policies applied to it in error.
+
+Go to the Microsoft Office web portal (https://portal.office.com/account/) and sign in with your OU account.
+
+Under the heading Office apps & devices, click the View apps & devices button to see Microsoft software that your account is licensed to use. In the Office box, click the drop-down menu on the word DEVICES. Now click Sign out next to any computer you do not recognize, and any computer name that might be your personal PC.
+
+Fully power off your personal PC, and wait 20 minutes for these changes to be applied.
+
+When you turn your PC back on, use your personal Microsoft account to sign in to Windows and not your OU account.
+

@@ -1,0 +1,24 @@
+
+  Canvas – Adding the OU Writing Center Page into your Canvas Course
+
+
+As an instructor, you can add the OU Writing Center page to your course.
+
+In course Navigation, click the Settings Link.
+
+ (https://itscnorman.ou.edu/wp-content/uploads/2019/11/2-6.png)
+In course Settings, click the Navigation tab.
+
+
+In course Navigation Tab, drag and drop the OU Writing Center tab from the disabled pages list to the course navigation list above.
+
+In course Navigation Tab, click save and you should have the OU Writing Center Tab added to your Navigation SideBar.
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

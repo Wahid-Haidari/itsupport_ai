@@ -1,0 +1,32 @@
+
+  Canvas – Inbox – About the Inbox
+
+
+The Inbox is a built-in messaging tool in Canvas. It is used instead of email to communicate with a course, a section, a group, or an individual student. The Inbox allows instructors to message their classes without having to manually create mailing lists. It also provides students with a way to communicate with classmates without having to exchange email addresses.
+
+Instructors – https://guides.instructure.com/m/4152/c/23836  (https://guides.instructure.com/m/4152/c/23836)
+How do I find my unread messages in the Inbox? (https://guides.instructure.com/m/4152/l/42679-how-do-i-find-my-unread-messages-in-conversations)
+How do I compose and send a message? (https://guides.instructure.com/m/4152/l/48305-how-do-i-compose-and-send-a-message)
+How do I send a message to an entire class or group as an instructor? (https://guides.instructure.com/m/4152/l/92750-how-do-i-send-a-message-to-an-entire-class-as-an-instructor)
+How do I reply to a message in the Inbox? (https://guides.instructure.com/m/4152/l/93419-how-do-i-reply-to-a-message-in-conversations)
+How do I privately respond to an individual in a larger conversation? (https://guides.instructure.com/m/4152/l/48332-how-do-i-privately-respond-to-an-individual-in-a-larger-conversation)
+How do I reply to submission comments in a conversation? (https://guides.instructure.com/m/4152/l/41317-how-do-i-reply-to-submission-comments-in-conversations)
+How do I add new people to an existing conversation? (https://guides.instructure.com/m/4152/l/42873-how-do-i-add-new-people-to-an-existing-conversation)
+How do I filter the Inbox as an instructor? (https://guides.instructure.com/m/4152/l/719679-how-do-i-filter-conversations-as-an-instructor)
+
+Students – https://guides.instructure.com/m/4212/c/23875  (https://guides.instructure.com/m/4212/c/23875)
+How do I use the Inbox? (https://guides.instructure.com/m/4212/l/48299-how-do-i-use-conversations)
+How do I find my unread messages in the Inbox? (https://guides.instructure.com/m/4212/l/42679-how-do-i-find-my-unread-messages-in-conversations)
+How do I privately respond to an individual in a larger conversation? (https://guides.instructure.com/m/4212/l/48332-how-do-i-privately-respond-to-an-individual-in-a-larger-conversation)
+How do I compose and send a message? (https://guides.instructure.com/m/4212/l/48305-how-do-i-compose-and-send-a-message)
+How do I reply to a message in the Inbox? (https://guides.instructure.com/m/4212/l/93419-how-do-i-reply-to-a-message-in-conversations)
+How do I send a message to my class or group as a student? (https://guides.instructure.com/m/4212/l/48310-how-do-i-send-a-message-to-my-class-as-a-student)
+How do I attach a media comment to a message? (https://guides.instructure.com/m/4212/l/48314-how-do-i-attach-a-media-comment-to-a-message)
+How do I filter the Inbox as a student? (https://guides.instructure.com/m/4212/l/718891-how-do-i-filter-conversations-as-a-student)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

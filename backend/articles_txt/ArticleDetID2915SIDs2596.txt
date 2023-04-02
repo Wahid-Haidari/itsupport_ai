@@ -1,0 +1,14 @@
+
+  Microsoft Forms Security
+
+
+You can control whether or not external users are allowed to collaborate with users in your organization on a form or quiz.
+
+On the Microsoft Forms pane, the Share setting has three options:
+
+Send a link to the form to people outside of your organization and collect responses from external people.
+
+Collaborate on the form (e.g. edit questions, change the theme design) with people outside of your organization.
+
+Share the form as a template so people outside of your organization can duplicate the form for their own purposes. 
+

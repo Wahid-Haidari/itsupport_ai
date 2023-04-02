@@ -1,0 +1,24 @@
+
+  EasyLock Removable Media Encryption Frequently Asked Questions
+
+
+When departments receive new MacBooks through the OU Computer Standardization Program, EasyLock Removable Media Encryption will be installed automatically. The below instructions will answer frequently asked questions on how to use this software.  
+
+If the drive is encrypted via EasyLock, you will be prompted for the password to be given readwrite access.
+
+If the drive is not encrypted via EasyLock, you will be prompted to encrypt the drive or make it read only.
+
+If you choose to encrypt the drive, the EasyLock utility will be deployed to the drive. The app should open automatically after deployed, but if it does not, browse to the drive and open the EasyLock utility. Use the app to transfer or edit files on encrypted drives.
+
+Insert the removable media drive.
+
+When prompted to encrypt the device, click Read Only. This will give you read access to the drive by using the EasyLock utility. You must copy files from the EasyLock app to a local storage drive if you want to edit files on the drive.
+
+The encrypted data can be opened by any user only after it is decrypted, therefore you must copy the information out of the EasyLock software. When your drive is encrypted an EasyLock utility is also saved on the drive. You can launch the utility to decrypt the drive and access data.
+
+Use services like OneDrive or SharePoint to share public information instead. Users outside OU will receive an email inviting them to collaborate. For Microsoft products like OneDrive and SharePoint, one can access their information from anywhere by visiting https://portal.office.com (https://portal.office.com).
+
+Purchase a new USB drive and assign a new password to encrypt the device. Explain to the user the process of opening the EasyLock utility on the device and using the password to decrypt the drive and access the data.
+
+ 
+

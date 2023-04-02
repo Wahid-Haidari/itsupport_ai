@@ -1,0 +1,46 @@
+
+  Managing your Distribution List or Security Group
+
+
+OU Distribution List and Active Directory Security Group Owners may manage the memberships for their groups online. The steps below will outline how to make these changes to these types of groups.
+
+Please note that if you wish to manage your -L lists.ou.edu e-mail account, please see those instructions here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=208).
+
+To manage your Distribution list or Security Group, please visit http://groups.ou.edu (http://groups.ou.edu/) in your internet browser.
+
+For the User name, enter your OUNet ID. This will be the OUNet ID which is the listed owner of the Distribution List or Security Group you wish to manage.
+
+For the Password, enter your OUNet ID password.
+
+After the site loads, you will see a list of all the groups listed in the Global Address Book.To locate your group, click the Magnifying Glass icon.
+
+
+Enter the name for your group and the click the Magnifying Glass icon again.
+
+Your group should now appear in the results box.
+
+
+Double click your group. If you are a listed owner of this group, you will be able to make membership changes to it.
+
+Click the “membership” tab.
+
+
+You may now add and remove users from the members list. Click the plus (+) to Add users, click the minus (-) to remove users.
+	
+Click the + to Add a user. You will be prompted to search for the user in question, click the Magnifying Glass icon and then perform a search for them in the Global Address Book. When you have located the user in question, double click their name or select them and then click “add->”. Once you have selected all the users you wish to add, click the OK button. Finally click Save to update your group membership.
+To Remove a user, click their name in your current user list. Once they are selected, click the – button. Finally click Save to update your group membership.
+
+
+
+Click the + to Add a user. You will be prompted to search for the user in question, click the Magnifying Glass icon and then perform a search for them in the Global Address Book. When you have located the user in question, double click their name or select them and then click “add->”. Once you have selected all the users you wish to add, click the OK button. Finally click Save to update your group membership.
+
+To Remove a user, click their name in your current user list. Once they are selected, click the – button. Finally click Save to update your group membership.
+
+When you are done making changes to your group, you may click your name in the upper right corner, then select Sign out.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

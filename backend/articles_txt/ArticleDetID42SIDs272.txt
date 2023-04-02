@@ -1,0 +1,16 @@
+
+  Security Consultation - Software and Technology Assessment
+
+
+The Information Technology (IT) Security group provides free consultation (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=64&SIDs=626) on Information Security best practices for the work environment. The IT Security group also provides guidance for establishing information technology security requirements for information assets and systems under the university’s defined control and for the personnel who access these systems. This can include determinations on whether your desired software or technology complies with federal and state laws or regulations and University policy for protecting University data.
+
+If you have questions like "How do I know if I can purchase this technology or software?", please see the Security Consultation page (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=64&SIDs=626) for a full breakdown of the consult, including the steps and timeline for the request process.
+
+The scope of this consultation process will be updated over time to reflect changes in University policies and infrastructure. The focus of security consultation will be to guide University standards based on the National Institute of Standards and Technology frameworks. To request a security consultation, please complete this form (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=64&SIDs=2433) in our Service Catalog. For help and questions, please contact security@ou.edu (mailto:security@ou.edu).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

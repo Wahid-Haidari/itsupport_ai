@@ -1,0 +1,50 @@
+
+  Canvas – Files – About Files
+
+
+Students: As a student, Files allows you to store files and assignments within Canvas. You can upload one or multiple files, view all details about your files, and preview files.
+
+You have access to files (documents, images, media, etc.) in three different places:
+
+User files, located in your user account
+
+Course files, located in each course where you are enrolled (if your instructor allows you to view Course Files)
+
+Group files, located in each group where you are a member
+
+Instructors: Files are where you upload course files, syllabi, readings, or other documents. As an instructor, you can lock the folders so students cannot access your files. Files can be placed in Modules, Assignments, or Pages. Files and folders are put in alphabetical order and cannot be rearranged.
+
+Canvas users will find access to files (documents, images, media, etc.) in three different places:
+
+Personal files, located in each user’s profile (students, teachers, and TAs)—View a video about personal files (https://vimeo.com/74772644)
+
+Course files, located in each course (students, teachers, and TAs unless files are locked by the teacher)—View a video about Course Files (https://vimeo.com/71138019)
+
+Group files, located in each group (students and teachers who are enrolled in groups)
+
+Instructors – https://guides.instructure.com/m/4152/c/23847  (https://guides.instructure.com/m/4152/c/23847)
+
+How do I use Files as an instructor? (https://guides.instructure.com/m/4152/l/314203-how-do-i-use-files-as-an-instructor)
+How do I move and organize my files as an instructor? (https://guides.instructure.com/m/4152/l/41387-how-do-i-move-and-organize-my-files-as-an-instructor)
+Where are my course Files as an instructor? (https://guides.instructure.com/m/4152/l/41466-where-are-my-course-files-as-an-instructor)
+How do I upload a file to my course? (https://guides.instructure.com/m/4152/l/41383-how-do-i-upload-a-file-to-my-course)
+How do I bulk upload files to my course? (https://guides.instructure.com/m/4152/l/41386-how-do-i-bulk-upload-files-to-my-course)
+How do I restrict files and folders to students in Canvas? (https://guides.instructure.com/m/4152/l/41391-how-do-i-restrict-files-and-folders-to-students-in-canvas)
+What types of media files are supported in Canvas? (https://guides.instructure.com/m/4152/l/41393-what-types-of-files-are-supported-in-canvas)
+What is my File Storage quota for my course? (https://guides.instructure.com/m/4152/l/41395-what-is-my-file-storage-quota-for-my-course)
+
+Students – https://guides.instructure.com/m/4212/c/23883  (https://guides.instructure.com/m/4212/c/23883)
+
+Where are my course Files as a student? (https://guides.instructure.com/m/4212/l/41990-where-are-my-course-files-as-a-student)
+Where are my group Files as a student? (https://guides.instructure.com/m/4212/l/314261-where-are-my-group-files-as-a-student)
+What types of media files are supported in Canvas? (https://guides.instructure.com/m/4212/l/41393-what-types-of-files-are-supported-in-canvas)
+How do I preview a File as a student? (https://guides.instructure.com/m/4212/l/41991-how-do-i-preview-a-file-as-a-student)
+How do I upload a file to my Files? (https://guides.instructure.com/m/4212/l/114368-how-do-i-upload-a-file-to-my-files)
+How do I move and organize files as a student? (https://guides.instructure.com/m/4212/l/41995-how-do-i-move-and-organize-files-as-a-student)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

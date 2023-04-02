@@ -1,0 +1,16 @@
+
+  Static IP Requests
+
+
+A static IP address provided through OU IT may be necessary for legacy printing (such as CICS printers) and off-campus access (of servers, for instance). Dynamic addressing via DHCP should be attempted before requesting a static IP address.
+
+A static IP address will prevent the device using it from changing IP addresses each time it connects. This type of IP address is called a dynamic IP address, and is the standard method of assigning IP addresses.
+
+If you would like to request a Static IP address, please visit the Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=39).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

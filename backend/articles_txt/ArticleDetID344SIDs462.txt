@@ -1,0 +1,73 @@
+
+  Troubleshooting Adobe Creative Cloud Errors
+
+
+If you are a full time OU faculty and staff member, you will have access to download and install Adobe software through the Adobe Creative Cloud app. This app will work alongside any previously installed versions of Adobe. To setup and install Creative Cloud, please follow the instructions here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=354). You may continue to use any existing versions of Adobe with your new Creative Suite application.
+
+If you have Adobe Creative Cloud enterprise access and your applications are showing as trial versions, or you are receiving an error stating "you don't have access to manage apps", follow the steps below regain access. 
+
+If you have logged in to the Adobe website and have installed the Creative Cloud app as outlined in the link above, you should see an Apps tab on your Creative Cloud App with Install options for the Adobe suite of products. If you do not see an Apps tab, this may mean that an existing installation of Adobe is causing a conflict. To resolve this issue, please follow the steps before for your operating system.
+
+Sign out from Creative Cloud desktop app.
+
+Check Task Manager and close all Adobe programs, services or processes which are running.
+	
+To view Task Manager, hit Control, Alt  and Delete in your keyboard and select Task Manager. Or right click on your task bar and select Task Manager.
+Any current Adobe apps, programs or processes should be listed under the Processes or Programs tab.
+
+
+
+To view Task Manager, hit Control, Alt  and Delete in your keyboard and select Task Manager. Or right click on your task bar and select Task Manager.
+
+Any current Adobe apps, programs or processes should be listed under the Processes or Programs tab.
+
+In your Window folder menu, navigate to the following folders and rename the OOBE folders to OOBE_BAK:
+	
+C:\Program Files (x86)\Common Files\Adobe
+C:\ProgramData\Adobe
+
+
+
+C:\Program Files (x86)\Common Files\Adobe
+
+C:\ProgramData\Adobe
+
+Sign in again to the Creative Cloud desktop app.
+
+Your app should now display the Apps tab with install options.
+
+Sign out from the Creative Cloud desktop app.
+
+Check activity monitor and close all Adobe programs, services or processes which are running.
+
+In your OS X folder menu, navigate to the following folders and rename the OOBE folders to OOBE_BAK.
+	
+Macintosh HD>Library>Application support>Adobe>OOBE
+/Users/yourusername/Library>Application support>Adobe>OOBE
+		
+Note that newer versions of OS X will hide your user Library folder from view. In order to view it, go into your Users folder and select View > Show View Options from your menu. Now check the box for “Show Library Folder”. The Library folder should now appear.
+
+
+
+
+
+Macintosh HD>Library>Application support>Adobe>OOBE
+
+/Users/yourusername/Library>Application support>Adobe>OOBE
+		
+Note that newer versions of OS X will hide your user Library folder from view. In order to view it, go into your Users folder and select View > Show View Options from your menu. Now check the box for “Show Library Folder”. The Library folder should now appear.
+
+
+
+Note that newer versions of OS X will hide your user Library folder from view. In order to view it, go into your Users folder and select View > Show View Options from your menu. Now check the box for “Show Library Folder”. The Library folder should now appear.
+
+Once you have renamed your folders, sign in again to the Creative Cloud desktop app.
+
+Your app should now display the Apps tab with install options.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

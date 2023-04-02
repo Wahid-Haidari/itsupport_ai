@@ -1,0 +1,42 @@
+
+  Azure Dev Tools for Teaching
+
+
+Azure Dev Tools for Teaching (Formerly known as Microsoft Imagine and DreamSpark) is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes.
+
+Azure Dev Tools for Teaching offers a variety of operating systems and software to students enrolled in the following colleges:
+
+College of Engineering
+
+College of Earth and Energy
+
+College of Architecture
+
+Price College of Business.
+
+You must be actively enrolled in a course within one of the above programs to have access to Azure Dev Tools for Teaching. The software provided includes (but is not limited to):
+
+Microsoft Windows Consumer Operating Systems (Windows 10, 8.1)
+
+Microsoft Windows Server Operating Systems (Windows Server 2016, 2012 R2)
+
+Microsoft Expression Studio/Design Suite
+
+Microsoft Visual Studio
+
+Microsoft Exchange Server
+
+Microsoft SQL Server
+
+Microsoft Project
+
+Microsoft Visio
+
+The Azure Dev Tools for Teaching site for the Colleges of Architecture, Business, Earth and Energy and Engineering is located here. (https://azureforeducation.microsoft.com/devtools)
+
+Your OU email address should be used as your username (the username may be your email alias OR the default email address (for example, your.email-1@ou.edu). To find your email address, visit accounts.ou.edu.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

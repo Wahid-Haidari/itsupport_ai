@@ -1,0 +1,77 @@
+
+  PingID Authentication for YubiKey
+
+
+PingID enables you to use your YubiKey hardware token to access your account with the added security of multifactor authentication.
+
+Before you can start using your YubiKey to authenticate, you'll need to pair it with your account. Pairing creates a trust between the YubiKey and your account, so you can use the YubiKey to authenticate during the login process.
+
+Note: PingID supports YubiKey models which support Yubico OTP authentication. See https:// (https://www.yubico.com/products/yubikey-hardware/compare-yubikeys/) www.yubico.com/products/yubikey-hardware/compare-yubikeys/  (https://www.yubico.com/products/yubikey-hardware/compare-yubikeys/)for a list compatible YubiKey models.
+
+ 
+
+Log in to your Ping ID account (https://link.ou.edu/pingid).
+
+Click your account name in the upper right hand corner and select Devices, then click the + Add button.
+
+If prompted, authenticate your login using your PingID app.
+
+In the Add a New Device pop up, select YubiKey.
+
+
+
+Insert the YubiKey into your computer USB port, make sure the YubiKey pop up window is the active window on your machine, and then tap the YubiKey.
+
+A one-time passcode (OTP) is automatically generated and inserted into the YubiKey Setup window and Verify is selected automatically. You'll see a green checkmark indicating the pairing request is successfully, and you are automatically signed into your account or app.
+
+Next time you want to log in to your account or application, you're be prompted to enter a YubiKey OTP. Press your YubiKey button to generate the OTP and click Sign On to authenticate and sign on.
+
+ 
+
+Authenticate using a YubiKey
+
+In a browser, log in to your account and then use your YubiKey hardware token to authenticate.
+
+Note: You must pair your YubiKey with your account to enable authentication.
+
+Log in to your account, or access an application that requires authentication. You'll see the YubiKey Authentication screen, prompting you to enter a YubiKey passcode.
+
+Insert the YubiKey into your computer USB port, and then press the YubiKey button. A one-time passcode (OTP) is automatically generated and inserted into the YubiKey Authentication window.
+
+Make sure the YubiKey Authentication window is selected as the active screen before you press the YubiKey button.
+
+Click Sign On.
+
+You'll see the green checkmark indicating authentication is successful and your access is approved.
+
+ 
+
+Unpair your YubiKey
+
+If you no longer want to use your YubiKey to authenticate using PingID, you'll need to unpair it. Follow the instructions below to unpair your device from your account portal.
+
+Note: If you do not have access to manage your devices from the My Devices page, you'll need to contact your helpdesk to ask your administrator to help you to unpair the device.
+
+Log in to your Ping ID account (https://link.ou.edu/pingid).
+
+	
+The My Devices page opens, showing the devices you currently have paired with your account. The primary device is shown in green.
+
+
+
+The My Devices page opens, showing the devices you currently have paired with your account. The primary device is shown in green.
+
+Select your YubiKey. You may be asked to authenticate using your primary (default) device.
+
+Click the menu icon to expand the entry of the device you want to remove, and then click the trash can. You'll be prompted to confirm your request.
+
+Click Remove to confirm.
+
+If you only have one device or authentication method paired with your account, next time you log on you will be prompted to register a device in order to access your account.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu)
+

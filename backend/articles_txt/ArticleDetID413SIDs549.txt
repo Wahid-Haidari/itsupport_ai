@@ -1,0 +1,26 @@
+
+  Canvas – Custom Course Creation
+
+
+OU faculty, staff and students have the ability to create non-course shells in Canvas, such as for faculty search groups, department committees and student organizations.
+
+Go to the Dashboard by clicking the icon on the Global Navigation Bar. The Dashboard is also the first page you see when you log in.
+
+In the Dashboard sidebar, click the Start a New Course button. You may need to scroll down to see this button.
+
+Add your course name by typing in the Course Name field. If your course name is longer than 21 characters, you can create a course code in the Short Name field.
+
+Set the content license by selecting the content license drop-down menu. This setting will help Canvas keep track of the default license for content inside of your course. By default all content is considered copyrighted, but you can also release your content to the public domain or choose a Creative Commons license. Learn more about Creative Commons licenses (https://creativecommons.org/licenses/). You can also change the license (https://guides.instructure.com/m/4152/l/57093?data-resolve-url=true&data-manual-id=4152) later in the course Settings.
+
+If you want to make the course available to anyone with a Canvas account, click the checkbox next to Make course publicly visible (student data will remain private).
+
+Click the Create course button.
+
+View the new course.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

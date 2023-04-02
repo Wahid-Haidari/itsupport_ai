@@ -1,0 +1,72 @@
+
+  Forgetting a Wireless Network
+
+
+Sometimes during wireless usage, your computer or device may have trouble using or reconnecting to a saved wireless connection such as WIFI@OU. You may wish to remove the network, and then re-add it.
+
+From the home screen, choose Settings.
+
+In the settings menu, choose Wi-Fi.
+
+Locate the network in question and tap or press and hold it.
+
+Choose Forget.
+
+If you wish to re-add the network, return to the list of available networks and select to connect to the network in question.
+
+ 
+
+Click the wifi symbol at the top of your screen, and select Open Network Preferences.
+
+In the lower-right corner, choose Advanced.
+
+Under Preferred Networks select the network you wish your computer to forget.
+
+Click the minus (-) button to forget.
+
+Click OK.
+
+If you wish to re-add the network, return to the list of available networks and select to connect to the network in question.
+
+ 
+
+From the home screen, choose Settings.
+
+In the settings menu, choose Wi-Fi.
+
+Locate the network you wish for your device to forget and click the blue symbol next to the name.
+
+If the option to forget the network is available, tap Forget this Network. If you do not see the option to forget the network:
+
+From the home screen, choose Settings.
+
+In the settings menu, choose General.
+
+Locate Profile and tap on it.
+
+Select the profile for the network.
+
+Tap on delete profile.
+
+If you wish to re-add the network, return to the list of available networks and select to connect to the network in question.
+
+ 
+
+Click the Network icon on the lower right corner of your screen.
+
+Choose Network & Internet settings.
+
+Click on Wi-Fi in the left menu.
+
+Under Manage known networks, select the network in question.
+
+Then click the Forget button.
+
+If you wish to re-add the network, return to the list of available networks and select to connect to the network in question.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

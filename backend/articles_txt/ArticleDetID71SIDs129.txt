@@ -1,0 +1,22 @@
+
+  Projector Display Issues
+
+
+There have been a number of incidents recently regarding difficulties displaying on the projectors. We have conducted several tests with computers running windows operating system, and they are projecting correctly. In our tests with computers running Mac OS, however, we have encountered issues with computers running the new Mac OS update. If you are using a computer running the new Mac OS update, we suggest you do the following when attempting to display through the projector:  
+
+Go to the “System Preferences”  
+
+Go to “Display” 
+
+Hold the Option key while clicking the Scaled button in the Display settings.  
+
+ Select one of the resolutions that appear on the screen 
+
+More detailed instructions can be found on this link to Apple’s support page https://support.apple.com/en-us/HT202471 (https://support.apple.com/en-us/HT202471).  
+
+If these issues persist or if you need more assistance, you can contact us at needhelp.ou.edu (http://needhelp.ou.edu/) or by calling 325-HELP. We will be more than happy to set up a time to meet before your class and resolve this issue. 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

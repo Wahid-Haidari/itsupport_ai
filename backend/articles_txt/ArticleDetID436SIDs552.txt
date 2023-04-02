@@ -1,0 +1,52 @@
+
+  Canvas – Profile and User Settings – About Profile and User Settings
+
+
+Students and Instructors: Profile and User Settings let you control your personal information in Canvas. You can control this information in the Help Corner.
+
+You can use your profile and user settings to:
+
+View and edit your user settings, (https://guides.instructure.com/m/4212/l/41957?data-resolve-url=true&data-manual-id=4212) such as display name, language preference (https://guides.instructure.com/m/4212/l/91042?data-resolve-url=true&data-manual-id=4212), and time zone (https://guides.instructure.com/m/4212/l/218818?data-resolve-url=true&data-manual-id=4212)
+
+Change your default email address (https://guides.instructure.com/m/4152/l/65392?data-resolve-url=true&data-manual-id=4152) or add an additional email address (https://guides.instructure.com/m/4152/l/41471?data-resolve-url=true&data-manual-id=4152) for notifications
+
+Add a text (SMS) contact method (https://guides.instructure.com/m/4152/l/41472?data-resolve-url=true&data-manual-id=4152) for notifications
+
+View or add a profile picture (https://guides.instructure.com/m/4212/l/41467?data-resolve-url=true&data-manual-id=4212)
+
+Set Notifications (https://guides.instructure.com/m/4212/l/73162?data-resolve-url=true&data-manual-id=4212) for your favorite communication channels
+
+Upload personal Files (https://guides.instructure.com/m/4212/l/41989?data-resolve-url=true&data-manual-id=4212)
+
+Create and manage ePortfolios (https://guides.instructure.com/m/4212/l/42001?data-resolve-url=true&data-manual-id=4212) of your course work
+
+Manage new user features (https://guides.instructure.com/m/4212/l/162488?data-resolve-url=true&data-manual-id=4212)
+
+Download your assignment submissions (https://guides.instructure.com/m/4212/l/366521?data-resolve-url=true&data-manual-id=4212) from current and previous courses
+
+Instructors – https://guides.instructure.com/m/4152/c/23860 (https://guides.instructure.com/m/4152/c/23860)
+
+How do I edit my Profile? (https://guides.instructure.com/m/4152/l/75098-how-do-i-edit-my-profile)
+How do I add a Profile picture? (https://guides.instructure.com/m/4152/l/41467-how-do-i-add-a-profile-picture)
+How do I change my User Settings? (https://guides.instructure.com/m/4152/l/41957-how-do-i-change-my-user-settings)
+How do I add contact methods to receive notifications? (https://guides.instructure.com/m/4152/l/40323-how-do-i-add-contact-methods-to-receive-notifications)
+How do I set my Notification Preferences? (https://guides.instructure.com/m/4152/l/73162-how-do-i-set-my-notification-preferences)
+How do I reset my password? (https://guides.instructure.com/m/4152/l/41952-how-do-i-reset-my-password)
+
+Students – https://guides.instructure.com/m/4212/c/23873 (https://guides.instructure.com/m/4212/c/23873)
+
+How do I edit my Profile? (https://guides.instructure.com/m/4212/l/75098-how-do-i-edit-my-profile)
+How do I add a Profile picture? (https://guides.instructure.com/m/4212/l/41467-how-do-i-add-a-profile-picture)
+How do I change my User Settings? (https://guides.instructure.com/m/4212/l/41957-how-do-i-change-my-user-settings)
+How do I change my default email address? (https://guides.instructure.com/m/4212/l/65392-how-do-i-change-my-default-email-address)
+How do I change my login password? (https://guides.instructure.com/m/4212/l/41958-how-do-i-change-my-login-password)
+How do I reset my password? (https://guides.instructure.com/m/4212/l/41952-how-do-i-reset-my-password)
+How do I add an additional email address as a contact method in Canvas? (https://guides.instructure.com/m/4212/l/41471-how-do-i-add-an-additional-email-address-as-a-contact-method-in-canvas)
+How do I add a text (SMS) contact method in Canvas? (https://guides.instructure.com/m/4212/l/41472-how-do-i-add-a-text-sms-contact-method-in-canvas)
+How do I add contact methods to receive notifications? (https://guides.instructure.com/m/4212/l/40323-how-do-i-add-contact-methods-to-receive-notifications)
+How do I set my Notification Preferences? (https://guides.instructure.com/m/4212/l/73162-how-do-i-set-my-notification-preferences)
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

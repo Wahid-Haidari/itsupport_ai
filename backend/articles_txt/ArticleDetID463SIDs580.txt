@@ -1,0 +1,18 @@
+
+  How do I Access Form 1098-T through one.ou.edu?
+
+
+The 1098-T (Tuition Statement) is a Federal tax form from OU to report payments received by or made by students. In order for a student to access their 1098-T Form, they will need to log in with Single Sign-On at one.ou.edu:
+
+Under the Financial Tab, click Bursar. 
+
+Click the “ Download 1098-T” link.
+
+Log in to Single Sign-On again. Then, click “View” in the 1098-T field under Statements.
+
+If you are having an issue logging into ONE with your OUNetID, please see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=267).
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

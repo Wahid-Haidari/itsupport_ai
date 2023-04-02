@@ -1,0 +1,46 @@
+
+  Using Zoom for Public Events: Meeting vs. Webinar License
+
+
+The Zoom Meeting and Webinar platforms offer similar features and functionality but have some key differences.
+
+Meetings are designed to be a collaborative event with all participants being able to screen share, turn on their video and audio, and see who else is in attendance.
+
+Webinars are designed so that the host and any designated panelists can share their video, audio and screen. Webinars allow view-only attendees. They have the ability to interact via Q&A, chat, and answering polling questions. The host can also unmute the attendees. Attendees in webinars, cannot rename themselves as well. 
+
+Customer-facing meetings
+
+Sales meetings
+
+Training sessions
+
+Town halls
+
+Quarterly updates
+
+Educational lectures
+
+Participant (https://support.zoom.us/hc/en-us/articles/200941109)
+
+Panelist (https://support.zoom.us/hc/en-us/articles/360000252726)
+
+Attendee (https://support.zoom.us/hc/en-us/articles/115004954946)
+
+Host can mute/request to unmute participants
+
+The Host can set all participants to mute upon entry
+
+Attendees join in listen-only mode*
+
+The Host can unmute one or more attendees
+
+ 
+
+*Note: If the host or co-host enables Allow to Talk for an attendee, they will be able to enable their microphone as well as mute and unmute themselves.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

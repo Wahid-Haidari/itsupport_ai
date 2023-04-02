@@ -1,0 +1,26 @@
+
+  Organization Accounts: Setting up a Shared Mailbox
+
+
+Organization Accounts with a Shared or Resource mailbox are not opened with a username and password. Instructions for opening a shared or resource mailbox on various platforms can be found in the following articles:
+
+Outlook Web App (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=191) (outlook.office365.com)
+
+Outlook for Windows (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=187)
+
+Outlook for Mac (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=237)
+
+Android and iOS (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=168)
+
+Each mailbox has an associated group used for managing access to the mailbox. Owners of those groups can add or remove members by searching for the group at groups.ou.edu (http://groups.ou.edu/).
+
+If you would like to change the name, email alias, group owner (who can modify shared mailbox permissions), or Point of Contact fo the account, please complete the Organizational Accounts Service Catalog form (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=3) by clicking "Request Service", then select the option to "Modify Existing Account". Account modifications must by approved by the account's current Point of Contact or the associated department's Dean/Director.
+
+For more information on Organization Account policies, please see here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=265).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

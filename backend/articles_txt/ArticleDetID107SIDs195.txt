@@ -1,0 +1,26 @@
+
+  Forgot Password
+
+
+Go to http://one.ou.edu (http://one.ou.edu/). and click "Forgot password?" under the login area.
+
+Enter your OUNet ID and click Continue.
+	
+An email containing a password reset link will be sent to the alternate email address (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2) provided for the account specified. The password reset link will expire after thirty (30) minutes.
+If no alternate email address has been provided, security questions from the previous account management system will be used if available.
+If no security questions have been defined and no recovery email address has been set for this account, you will need to contact OU IT at (405) 325-4357 for assistance to access this account.
+
+
+
+An email containing a password reset link will be sent to the alternate email address (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2) provided for the account specified. The password reset link will expire after thirty (30) minutes.
+
+If no alternate email address has been provided, security questions from the previous account management system will be used if available.
+
+If no security questions have been defined and no recovery email address has been set for this account, you will need to contact OU IT at (405) 325-4357 for assistance to access this account.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

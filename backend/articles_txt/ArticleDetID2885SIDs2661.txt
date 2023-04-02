@@ -1,0 +1,14 @@
+
+  PingID - I Changed My Device or Phone Number
+
+
+The PingID (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533) authentication system allows users to enroll multiple devices and methods (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2543) for their second factor authentication. If a user only has one method enrolled, such as a phone, which they upgrade or change the phone number on, then they may lose the ability to log in. If you have upgraded to a new phone, have uninstalled the PingID app or if you no longer have access to the previous method of authenticating with PingID, please call your local campus IT help desk or submit a help ticket to request that your old device or method be removed from your account:
+
+Norman Campus (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=124): 405-325-HELP [4357]
+
+HSC Campus (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=194&SIDs=1235): 405-325-HELP [4357]
+
+Tulsa Campus (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=112&SIDs=1083): 918-660-3550
+
+To avoid this issue, IT strongly recommends enrolling in secondary PingID authenticators such as PingID for Desktop (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2540). With this secondary method, one can log in and manage their enrolled devices, even if they lost access to their primary enrolled device.
+

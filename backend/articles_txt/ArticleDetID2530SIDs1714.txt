@@ -1,0 +1,30 @@
+
+  Adding Sooner Card to your Android Phone
+
+
+Add your Sooner Card to your Android Device and use it anywhere the physical Sooner Card is accepted.
+
+Here’s what you need:
+
+Your NFC-enabled Android device
+	
+To ensure NFC is enabled, go to Settings > Connections and toggle the NFC “switch” to on. On some devices this may be under Settings > Connected Devices > Connection Preferences. You can also go to Settings and type "NFC" in the search box. If you have NFC capabilities on your device you will see NFC options displayed. Depending on your Android device and/or operating system, your steps may vary.
+
+
+
+To ensure NFC is enabled, go to Settings > Connections and toggle the NFC “switch” to on. On some devices this may be under Settings > Connected Devices > Connection Preferences. You can also go to Settings and type "NFC" in the search box. If you have NFC capabilities on your device you will see NFC options displayed. Depending on your Android device and/or operating system, your steps may vary.
+
+PingID for two-factor authentication (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533)
+
+Transact eAccounts for Android
+
+ 
+
+To install the Transact eAccounts app on your mobile device, open Google Play Store (http://play.google.com/) and search for the “Transact eAccounts” app. Download the app to your device. Once installed, locate University of Oklahoma in the list of schools and select Norman Campus. Click to Continue to Sign in. The OU login screen will load. Log in and PingID approve the login. You will now be signed in to the app.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

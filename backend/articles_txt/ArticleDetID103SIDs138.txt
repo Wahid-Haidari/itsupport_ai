@@ -1,0 +1,14 @@
+
+  Setup Static IP for Network Printer
+
+
+In order to secure network printers, users may setup a static IP.  To request a static IP, you may you use the Static IP Request Form (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=39) located in the Service Catalog.
+
+The form will require the following information:
+
+
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

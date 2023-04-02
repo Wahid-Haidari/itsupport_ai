@@ -1,0 +1,70 @@
+
+  Alumni Email Setup
+
+
+Alumni Email Setup
+
+Log in to your alumni account through www.office.com (http://www.office.com/). To log in, you’ll enter the email address and temporary password provided to you when you requested your alumni email address.
+
+
+
+
+ 
+
+The first time you log in, you will be prompted to set a new password and provide at least one authentication method.
+
+Enter your temporary password and confirm a new one.
+
+
+Once you click “Sign in”, you will see the following prompt:
+
+
+Click “Next” to continue.
+
+You will need to set an Authentication Phone or Email in order to complete the set-up process for your alumni email account. Please choose a method that you expect to have access to for the foreseeable future, as the number/email you select is what will be used to reset your password if you forget it.
+
+
+
+To set an Authentication Phone or Email, click the appropriate “Set it up now” link.
+
+To set an Authentication Phone, choose your country or region, enter your phone number, and click “Text Me” or “Call Me”.
+
+
+
+If you choose the phone call, an automated message will play when you answer the phone and ask you to press a key on the phone to finish.
+
+If you choose the text, a six-digit code will be sent to your phone. Enter it to verify.
+
+
+To set up an Authentication Email, enter a valid email address to which you have access. Click email me. We do not recommend using you current @ou.edu address (if you have one); you should use another email account to which you expect to have uninterrupted access.
+
+
+Locate the email from Microsoft and then enter the six-digit code provided within it. Click “Verify”.
+
+
+Only one authentication method is required, but OU IT recommends configuring both options.
+
+Once you have set up your Authentication Phone and/or Authentication Email, click “Finish” to log in to your account.
+
+
+
+ 
+
+Updating Authentication Phone or Email
+
+Log into Outlook.com using your alumni email address.
+
+Open the Account Manager. This should be the icon in the top right of Outlook, with your initials or a profile picture.
+
+Click "View Account" from the dropdown.
+
+Find the box that says "Security Info", and select "Update Info".
+
+You may add new authentication options by clicking "+ Add Method", deleting existing options by choosing "Delete", or modifying the existing options.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

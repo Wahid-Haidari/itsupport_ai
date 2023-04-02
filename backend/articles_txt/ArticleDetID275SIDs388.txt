@@ -1,0 +1,14 @@
+
+  Users Hidden in Global Address List or with Directory Holds Unable to Set Up iCal or Outlook
+
+
+Users who have a directory hold or have hidden their information from the Global Address List (GAL) have been experiencing issues with setting up iCal or Outlook on their personal devices. When the user’s credentials are entered into either of these programs, their information cannot be synced.
+
+The only workaround for the iCal issue is to either have the directory hold lifted or unhide the account from the GAL. The previous workaround will also work for Outlook, along with contacting OU IT and asking for your unique username login string. Once you have this information, enter it into the ‘username’ field when setting up your Outlook account. If you need assistance with resolving either of these issues, you can contact OU IT through phone at 405-325-4357 or at needhelp.ou.edu (http://needhelp.ou.edu/).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

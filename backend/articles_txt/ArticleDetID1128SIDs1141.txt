@@ -1,0 +1,32 @@
+
+  Adding Top Hat Student Registration link (LTI) to Canvas course
+
+
+Instructors can add the TopHat student registration link to a module in their Canvas course(s). To add the registration link, please follow the instructions below.
+
+To add the TopHat student registration link to new Module:
+
+In your course, click on Modules, then click on +Module.
+
+Give it the name 'TopHat Registration' (or name of choice).
+
+Click Add Module.
+
+In the appropriate module, click the + icon in the header to add an item to the module; select External Tool from the dropdown menu.
+
+A list of external tools will populate. Scroll down and select Top Hat from the list. Check the box next to 'Load in a new tab', then click Add Item.
+
+Click the Publish icon to the right of the LTI tool link.
+
+If the module is not yet published, click the Publish icon to the right of the module title.
+
+Click the link for the app to test the integration.
+
+If you already have a module created, you can skip steps 1-3.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,45 @@
+
+  Tips for Using the Canvas Inbox
+
+
+To reduce some of the issues concerning sending messages using the Inbox tool in Canvas, we recommend the following:
+
+Add your OU alias email address to your Canvas profile
+Adding your OU alias email address allows you to receive, and respond to, Canvas emails directly from your Outlook inbox (once notifications are turned on). If you are unsure of what your alias email is (or you haven’t created one), please log in to one.ou.edu; Under Account settings > General tab > OU email section, you can verify your email alias information or create a new one.
+
+Instructions for adding alias email address to Canvas:
+
+Log into Canvas, click the Account link, then click the Settings link.
+
+In the Ways to Contact sidebar (located in top right of page), your account displays the default email associated with your account. To add your OU alias email address, click the Add Email Address link.
+
+On the Register Communication page, enter your alias email address, then click Register Email.
+
+You will receive a Confirm Email Address popup screen. Go to your OU Email inbox and click on the confirmation link located in the Canvas email to finish the registration process (you will be redirected to the Canvas log in screen).
+
+Click Login. Enter your OUNet ID and password (if prompted), then click Sign In.
+
+Go to your account settings. Under Ways to Connect, hover to the right of your alias email address and click the star icon next to your email address to confirm registration.
+
+Turn on instant notifications for the alias account/disable for default (dotted) email address
+Turning on instant notifications for the alias account allows users to receive notifications for Inbox messages that are sent to that account. Disabling notifications for the default email address prevents users from receiving duplicate notifications.
+
+Instructions for enabling instant notifications:
+
+In Canvas, click the Account link, then click the Notifications link.
+
+Each notification is set to a default preference. To change a notification for a contact method, locate the notification and click the icon to open a drop-down menu of delivery options, including the option to turn off a notification.
+
+There will be one column for your alias email address, and one column for your dotted (default) email address. To avoid receiving duplicate notifications, only enable notifications for your alias address.
+
+For additional information on notifications, visit our Notifications Preferences article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=405).
+
+Features of the Inbox tool
+Archiving – You can archive messages if you want to keep them but remove them from your Inbox. Note: Users cannot archive sent messages, but any successfully sent message will saved under the Sent tab in the Inbox.
+
+Filtering/Search – You can filter the messages in your Inbox for easier organization, especially if you are enrolled in multiple courses. Filtering allows you to selectively view messages by course, inbox, or user. You can also search for recipients using the Search box feature.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

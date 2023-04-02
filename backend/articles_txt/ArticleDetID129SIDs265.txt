@@ -1,0 +1,36 @@
+
+  Office Enterprise for Windows License Script
+
+
+The following instructions are for Enterprise installs of Office, seen on OU owned computers.
+
+With Office Enterprise for Windows, the university software contacts a licensing server in order to validate and open. If a user is on campus, they need to be connected through Ethernet or through OU Wifi. If one is off campus, they will need to connect to the OU VPN. Note that the non-Enterprise installations of Office which install through a Product Key will not need VPN.
+
+To access VPN, one needs to connect to the GlobalProtect VPN (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=128).
+
+If an Office for Windows user is having issues with Office not reaching this server, please try the following (also please ensure your date/time is correctly set):
+
+Open a command prompt as an administrator. To do this, type cmd in the Run dialogue, right click on the Command program and click Run as Administrator. In the command window which opens, type the following:
+
+cscript “c:\program files\microsoft office\Office16\ospp.vbs” /sethst:s2-mslicensing.net.ou.edu
+
+or, if you’re using 32-bit office on a 64-bit OS:
+
+cscript “c:\program files (x86)\microsoft office\Office16\ospp.vbs” /sethst:s2-mslicensing.net.ou.edu
+
+cscript C:\”Program Files (x86)”\”Microsoft Office”\Office16\ospp.vbs /act
+
+or, if you’re using 32-bit office on a 64-bit OS:
+
+cscript C:\”Program Files”\”Microsoft Office”\Office16\ospp.vbs /act
+
+ 
+
+This should point Office to the correct licensing server. If there are still issues present, please submit a help request.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

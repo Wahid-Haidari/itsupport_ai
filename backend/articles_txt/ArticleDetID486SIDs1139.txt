@@ -1,0 +1,88 @@
+
+  Adding Laserfiche Repositories in VDI
+
+
+Adding Laserfiche Repositories through the Laserfiche desktop App in VDI
+
+(mydesk.ou.edu and mydesknor.ou.edu)
+
+Login to Horizon VDI following the instructions at the links below.
+
+Norman programs (mydesknor.ou.edu) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=287)
+
+HSC programs (mydesk.ou.edu) (https://ouitservices.service-now.com/kb_view.do?sysparm_article=KB0012079)
+
+Tulsa – Use link for your program’s home campus
+
+ 
+
+Select COOP Remote Pool.
+
+
+
+ 
+
+Open the Laserfiche Application.
+
+
+
+ 
+
+To attach a repository, click the “Attach” button.
+
+
+
+ 
+
+In the address field of the popup window, enter the server name where your repository is hosted.
+
+See list of Servers and Repositories below.
+
+For example, to add a repository from the s2-lf-app4 server, type “s2-lf-app4.net.ou.edu” in the address field.
+
+Ensure the “Use SSL connection” box is unchecked.
+
+
+
+ 
+
+Select the repository you want to attach from the dropdown list.
+
+
+
+ 
+
+Click attach.
+
+
+
+ 
+
+At the Login popup window, choose “Windows authentication” and click “OK.”
+
+
+
+ 
+
+You now have access to the repository.
+
+
+
+ 
+
+To attach another repository, choose “File” and “Attach Repository” and follow the same you used to add the previous repository.
+
+
+
+ 
+
+To close the window for a repository, choose “File” and “Close Window.”
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,53 @@
+
+  MyMedia – Collaborations
+
+
+The Collaborations tab in the video editing portion of MyMedia allows you to credit other users who contributed to your project.
+
+Log in at mymedia.ou.edu with your OUNetID and password
+
+Click on the tab with your name (or log in) and then My Media on the top menu.
+
+ 
+
+ 
+
+Choose which video you would like information about.
+
+ 
+
+ 
+
+Underneath the lower-right-hand corner of the video, there exists a drop-down menu called Actions; select Edit from it.
+
+ 
+
+ 
+
+This will bring you to the General Editing Menu. This view allows you to preview your video, and choose a number of options using the tabs under the video.
+
+Clicking on the Collaborations Tab will bring up selected users that are allowed to edit the content metadata and related assets (such as caption files), and/or allowed to publish.
+
+The “Add Collaborator” button on the bottom right allows for additions of authorized accounts as Co-editors, Co-publishers, Co-Viewers or all.
+Note: Users must have logged in to MyMedia at least once before to be added as a Collaborator.
+
+ 
+
+
+
+ 
+
+The final drop-down menu allows you to organize Collaborator listing to either Co-Editors, Co-Publishers, Co-Viewers or all, with a corresponding table for easy management. Click on Add when finished.
+
+ 
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+
+ 
+

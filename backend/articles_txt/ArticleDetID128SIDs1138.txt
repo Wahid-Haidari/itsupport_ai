@@ -1,0 +1,30 @@
+
+  About OU VPN Options
+
+
+As technology advances, users are traveling more and still need access to on-campus services. A Virtual Private Network (VPN) creates a means for private communication between geographically distributed locations. The VPN options offered by OU offer a secure connection between any remote site and assets on the OU network, such as file servers, data stores, Virtual Labs, or other applications, which require access from on campus.
+
+Once connected to an OU VPN, your computer will become part of the OU network. You will then need to access whatever resources requiring OU network access using the required method for that resource. For example, while connected to VPN you may open your network drive to browse your files. You can also connect to a system resource such as a network restricted database or application that would otherwise not let you log in while off campus.
+
+Please see below for available VPN options.
+
+Cisco AnyConnect (Android) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=79)
+
+OU VPN (iOS) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=76)
+
+GlobalProtect (Windows) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=91) - PingID Required
+
+GlobalProtect (Mac) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=166) - PingID Required
+
+MyDesk VDI (Windows) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=285) - PingID Required
+
+MyDesk VDI (Mac) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=286) - PingID Required
+
+MyDesk VDI (Browser) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=287) - PingID Required
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

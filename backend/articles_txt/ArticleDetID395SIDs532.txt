@@ -1,0 +1,48 @@
+
+  Canvas – New Quizzes
+
+
+Students and Instructors: New Quizzes is a revamped quiz engine available in Canvas. Currently, Classic Quizzes is used by default, and New Quizzes can be optionally turned on. Eventually, Classic Quizzes will be removed and New Quizzes will be the sole quiz tool. 
+
+To enable New Quizzes in your course:  
+
+
+Visit the course’s Settings. 
+
+
+Visit the course’s Settings. 
+
+ 
+
+
+Select Feature Previews from the options at the top of the page. 
+
+
+Select Feature Previews from the options at the top of the page. 
+
+ 
+
+
+Find New Quizzes on the list. Click the red circle with an x, and select Enable from the drop-down menu that appears.  
+
+
+Find New Quizzes on the list. Click the red circle with an x, and select Enable from the drop-down menu that appears.  
+
+ 
+
+
+The circle should now be green with a check mark. 
+
+
+The circle should now be green with a check mark. 
+
+ 
+
+Features and functionality are still being added to New Quizzes.  If you are interested in using this tool or if your instructor has assigned an assessment in New Quizzes, below are some resources for getting started.  
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

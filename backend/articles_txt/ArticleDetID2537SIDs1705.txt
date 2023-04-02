@@ -1,0 +1,62 @@
+
+  PingID Authentication for Voice and SMS Text Messages
+
+
+PingID enables you to sign on to your account with the added security of multifactor authentication. Set up SMS (text message) or voice authentication is useful if you won't be using a smartphone that supports the use of the PingID application, do not wish to download an app to your device, or you want to define an additional device/number as a fallback in case you do not have your smartphone with you.
+
+To set up SMS (text message) or voice authentication, you need to pair the phone number with your account. Pairing the phone number creates a trust between your number and your account, so you can use a code sent to that number to authenticate during the login process. Once you have paired your number, each time you log in to your account, or application, you'll receive a one-time passcode (OTP) via SMS or voice call with which to authenticate.
+
+ 
+
+Log in to your Ping ID account (https://link.ou.edu/pingid).
+
+Click your account name in the upper right hand corner and select Devices.
+
+Click the +Add button.
+
+If you have another device/number set up already, you will be prompted to authenticate your login using your PingID. 
+
+In the Add a New Device pop up, select SMS or Voice
+
+Enter your phone number and then click Next.
+
+A one-time passcode (OTP) is sent to your mobile via SMS (text message) or voice call.
+
+Enter the passcode into the Authentication screen field, and then click Verify.
+
+When successfully verified, your phone number will be listed under your Device list.
+
+Next time you try to log in to your account or an application, an OTP (one time passcode) will be sent to your phone (text or voice call, depending on what you set up) and you are prompted to enter it in your browser. Enter the OTP in the Authentication window in your browser and click Sign On to complete the authentication.
+
+ 
+
+If you have set up authentication by SMS or voice, when you attempt to log in to your account or app you will be sent a passcode with which to authenticate.
+
+Log in to your account, or access an application that requires authentication. You'll see the Authenticating screen. You'll receive an SMS passcode, or you'll receive a voice message with the passcode.
+
+In the Authenticating screen, enter the passcode and click Sign On.
+
+If you didn't receive a passcode by SMS or voice call, click Resend Passcode.
+
+You'll see the green checkmark indicating authentication is successful and your access is approved.
+
+ 
+
+If you no longer want to use your number to authenticate using PingID, you'll need to unpair it. For SMS or voice authentication, you can do this from your account portal My Devices page.
+
+Note: If you are unable to log in to your PingID account for any reason, you'll need to contact the OU IT Service Desk for help unpairing the number.
+
+Log in to your Ping ID account (https://link.ou.edu/pingid).
+
+Click your account name in the upper right hand corner and select Devices.
+
+Click menu icon on the phone number in question to expand the entry of the number you want to delete, and then click the trash can icon. You'll be prompted to confirm your request.
+
+If you only have one device or authentication method paired with your account, next time you log on you will be prompted to register a device in order to access your account.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu)
+

@@ -1,0 +1,30 @@
+
+  Post Password Change Actions
+
+
+If you have recently changed your password you will need to update your password across all your devices, browsers, and any other location where your old password is saved. Here is a list of articles for changing your password in some common areas.
+
+Office 365 Mail Instructions (Windows, Mac, iOS, Android): https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=243  (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=243)
+
+Apple Internet Accounts/Mac Mail: https://support.apple.com/guide/mac-help/add-your-internet-accounts-mh35565/mac (https://support.apple.com/guide/mac-help/add-your-internet-accounts-mh35565/mac)
+
+iOS Internet Accounts: https://support.apple.com/en-us/ht201419 (https://support.apple.com/en-us/ht201419)
+
+Add a Password to a Keychain: https://support.apple.com/kb/PH20118?viewlocale=en_US&locale=en_US (https://support.apple.com/kb/PH20118?viewlocale=en_US&locale=en_US)
+
+Updating Passwords in Browser: AutoFill in Safari: https://support.apple.com/kb/PH21470?locale=en_US&viewlocale=en_US (https://support.apple.com/kb/PH21470?locale=en_US&viewlocale=en_US)
+
+Manage Saved Passwords in Chrome: https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en (https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en)
+
+Firefox Password Manager: https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import (https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
+
+Microsoft Edge Password Manager: https://support.microsoft.com/en-us/instantanswers/6da36bea-792a-439a-b2c9-21703ca39fbc/remember-passwords-in-microsoft-edge (https://support.microsoft.com/en-us/instantanswers/6da36bea-792a-439a-b2c9-21703ca39fbc/remember-passwords-in-microsoft-edge) 
+
+Microsoft Internet Explorer Password Manager: https://support.microsoft.com/en-us/help/17499/windows-internet-explorer-11-remember-passwords-fill-out-web-forms (https://support.microsoft.com/en-us/help/17499/windows-internet-explorer-11-remember-passwords-fill-out-web-forms)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

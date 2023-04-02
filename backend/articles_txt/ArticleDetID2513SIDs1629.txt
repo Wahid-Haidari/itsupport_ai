@@ -1,0 +1,24 @@
+
+  Zoom Security Settings for Faculty/Staff
+
+
+While scheduling zoom meetings, zoom requires all meetings to be secured with one at least one of the following security options:
+
+Passcode: Meetings and webinar passcodes (https://support.zoom.us/hc/en-us/articles/360033559832) protect your meetings by the passcodes which you can set manually (or zoom provides by default). This allows the people who have the passcodes to the meeting to join the zoom meeting and webinars.
+
+Waiting Room: Waiting rooms (https://support.zoom.us/hc/en-us/articles/115000332726) puts all the participants on the waiting room giving host the ability to accept/reject the participants for their meeting.
+
+Require authentication to join: Zoom provides Authentication Profiles for meetings and webinars (https://support.zoom.us/hc/en-us/articles/360037117472) features that allow only authenticated (people from the same organization) profiles to be in the meeting. Zoom also provide exceptional settings for allowing non-authenticated users to log in to the zoom meetings.
+
+Note: One of these security options must be selected in order to schedule a meeting. By default, Zoom enables Passcode and Require Authentication features turned on. 
+
+
+
+However, Faculty/Staff can change (unselect) these features and enable waiting room features or enable all three features alternatively.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

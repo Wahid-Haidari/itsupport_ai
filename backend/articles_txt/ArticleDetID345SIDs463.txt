@@ -1,0 +1,44 @@
+
+  Adobe Creative Cloud Suite Software Uninstall
+
+
+If you have downloaded and installed any apps through the Adobe Creative Cloud app, you may uninstall these apps through this same process.
+
+Launch your Adobe Creative Cloud app.
+
+Click on the Apps tab.
+
+Hover your cursor over the app you wish to uninstall. Now click the gear icon.
+
+Select the Uninstall option.
+
+Click Yes or OK if you are prompted to verify your user account wishes to remove the app.
+
+On the app, you may now see a prompt asking to close any affected programs. Save your work and exit these programs. Once done, click the Continue option.
+
+The App will now process the uninstall request.
+
+Once complete, the App will be removed from your Installed apps list and now appear in the Find Additional Apps list.
+
+Launch your Adobe Creative Cloud app.
+
+Click on the Apps tab.
+
+Hover your cursor over the app you wish to uninstall. Now click the gear icon.
+
+Select the Uninstall option.
+
+Choose whether you wish to keep any saved app preferences or remove them.
+
+On the app, you may now see a prompt asking to close any affected programs. Save your work and exit these programs. Once done, click the Continue option.
+
+The App will now process the uninstall request.
+
+Once complete, the App will be removed from your Installed apps list and now appear in the Find Additional Apps list.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

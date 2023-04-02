@@ -1,0 +1,31 @@
+
+  MyMedia – Attachments
+
+
+The Attachments tab in the video editing portion of MyMedia allows you to add additional materials to your project in the form of supplemental files.
+
+Log in at mymedia.ou.edu with your OUNetID and password
+
+Click on the tab with your name (or log in) and then My Media on the top menu.
+
+
+Choose which video you would like information about.
+
+Underneath the lower-right-hand corner of the video, there exists a drop-down menu; select Edit from it.
+
+
+This will bring you to the General Editing Menu. This view allows you to preview your video, and choose a number of options using the tabs under the video.
+
+Clicking on the Attachments Tab will bring up selected files that are provided by members allowed to edit the content metadata and related assets. 
+
+The “Upload File” button on the bottom right allows for additions of files by authorized accounts. Use the File Explorer to choose your file, provide a Title and a Description.
+
+
+The attached files can easily be managed below the video in an easy-to-read table, where videos can be edited, deleted or downloaded.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

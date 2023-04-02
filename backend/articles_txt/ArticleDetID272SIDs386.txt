@@ -1,0 +1,32 @@
+
+  How to filter OUMM (OU Mass Mail)
+
+
+Don’t want to receive OUMMs? While students are strongly advised to review OUMM messages before deletion, you can manage these messages by following the instructions below.
+
+To start a new rule, log in to https://outlook.office.com/ (https://outlook.office.com/):
+
+In your Mailbox, right click on the OUMM e-mail in question.
+
+Select Create rule….
+
+You should now be on the New inbox rule window.
+
+Set the Name of the rule to OUMM.
+
+If you wish to limit OUMM filtering to just that specific department or college, you may leave the first two Conditions listed for “it was received from…” and “and it was sent to…”. However if you want it to apply to all OUMM, you may select to remove those limitations and delete those particular conditions using the X option to the left of that line.
+
+The final condition, “It includes these words in the subject…”, should be edited before continuing, click the the words in blue to the right of this option which this condition looks for. If this was an OUMM e-mail, it should start “OUMM:” and then the rest of the subject line. You should receive a “Specify words of phrases” window at this point. Select the existing phrase it was using and click the pencil edit option to have the rule look for just OUMM in the subject line. When you are done, it should look like this:
+
+Click the OK button and you should now select where you want to move the messages.
+
+On the “Move the message to folder” line, click the Select one… option to choose to which folder you want to move these messages.
+
+You may now also set conditions if you want to add exceptions to this new rules, such as OUMM from a specific department or college e-mail address.
+
+When you are done setting the conditions, click the OK option. You new rule should now be in place.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

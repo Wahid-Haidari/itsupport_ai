@@ -1,0 +1,14 @@
+
+  Account Recovery E-Mail
+
+
+The first time a user logs into https://accounts.ou.edu (https://accounts.ou.edu/) they will need to enter an alternate e-mail address for account recovery.
+
+This e-mail address cannot be an ou.edu e-mail address. Thereafter, the alternate e-mail can be modified the same as any other data on the page.
+
+If you are unable to access your OU account because you no longer have access to your alternate e-mail address, you will need to contact OU IT by calling 325-HELP (4357) or needhelp.ou.edu for assistance.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

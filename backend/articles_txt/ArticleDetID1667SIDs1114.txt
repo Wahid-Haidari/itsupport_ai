@@ -1,0 +1,16 @@
+
+  Downloading the LastPass Browser Extensions or Apps
+
+
+LastPass by LogMeIn, offers browser extensions for Chrome, Firefox, Edge, Safari, and Opera. They also offer compatible MacOS and Windows Desktop apps, as well as Android and iOS mobile apps. To download LastPass, please visit the LastPass Downloads Page (https://lastpass.com/misc_download2.php).
+
+Please note that for optimal functionality, and support, LogMeIn recommends using the LastPass browser extensions as your primary method of access. 
+
+Once you have the browser extension installed, the LastPass icon will appear on your browser’s toolbar. The color of the icon indicates the status of your session. If the browser icon is red, you are logged in and your session is active. If the browser icon is yellow, your session has become inactive and you will need to re-authenticate to access your Vault. If the browser icon is black, you are not logged in.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,41 @@
+
+  MyMedia – Trimming or Clipping a Video
+
+
+When editing or saving a copy, due to how Kaltura handles those, the wait time will be longer than typical processing times.
+
+Trimming a video will replace your original media. This is not reversible.
+
+Clipping a video will save a new video clip to your MyMedia library.
+
+To Begin:
+
+Click on Your Name and then My Media
+
+ 
+
+Click Edit on the video you want to trim
+
+
+
+Click Launch Editor 
+
+
+​
+Click on the Video Editor icon
+
+
+
+Click and drag the ends of the video reel (yellow bars) to adjust the length
+
+
+Click Save a Copy to save a video Clip of your changes to your MyMedia library.
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

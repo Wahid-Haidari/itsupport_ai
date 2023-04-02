@@ -1,0 +1,38 @@
+
+  Canvas – Modules – About Modules
+
+
+Students: Depending on your instructor, modules can be used to organize course content by weeks, units, or a different organization structure. Modules are built to help you navigate the course content in an organized way.
+
+Each module can contain files, discussions, assignments, quizzes, and other learning materials the instructor decides to add. You can also expand and collapse each module.
+
+Instructors: Modules allow you to organize your content to help control the flow of your course.
+
+Modules are used to organize course content by weeks, units, or a different organizational structure that works for your course. With modules, you are essentially creating a one-directional linear flow of what you would like your students to do.
+
+Each module can contain files, discussions, assignments, quizzes, and other learning materials that you would like to use. You can easily add items to your module that you have already created in the course or create new content shells within the modules. Course content can be added to multiple modules or iterated several times throughout an individual module. Modules can be easily organized using the drag and drop feature. Elements within the modules can also be reorganized by dragging and dropping.
+
+Instructors – https://guides.instructure.com/m/4152/c/23855  (https://guides.instructure.com/m/4152/c/23855)
+
+How do I create a new Module? (https://guides.instructure.com/m/4152/l/41424-how-do-i-create-a-new-module)
+How do I edit a Module? (https://guides.instructure.com/m/4152/l/322085-how-do-i-edit-a-module)
+How do I reorder Modules? (https://guides.instructure.com/m/4152/l/41425-how-do-i-reorder-modules)
+How do I delete a Module? (https://guides.instructure.com/m/4152/l/41426-how-do-i-delete-a-module)
+How do I require students to move through each Module item in order? (https://guides.instructure.com/m/4152/l/41431-how-do-i-require-students-to-move-through-each-module-item-in-order)
+How do I lock a Module? (https://guides.instructure.com/m/4152/l/41432-how-do-i-lock-a-module)
+How do I set up prerequisite Modules? (https://guides.instructure.com/m/4152/l/41433-how-do-i-set-up-prerequisite-modules)
+How do I add requirements to a Module? (https://guides.instructure.com/m/4152/l/61967-how-do-i-add-requirements-to-a-module)
+How do I view the progress of my students in Modules? (https://guides.instructure.com/m/4152/l/102031-how-do-i-view-the-progress-of-my-students-in-modules)
+
+Students – https://guides.instructure.com/m/4212/c/44006 (https://guides.instructure.com/m/4212/c/44006)
+
+How do I view Modules as a student? (https://guides.instructure.com/m/4212/l/102802-how-do-i-view-modules-as-a-student)
+How do I expand or collapse Module contents as a student? (https://guides.instructure.com/m/4212/l/102803-how-do-i-expand-or-collapse-module-contents-as-a-student)
+Why can’t I access a Module as a student? (https://guides.instructure.com/m/4212/l/102804-why-can-t-i-access-a-module-as-a-student)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

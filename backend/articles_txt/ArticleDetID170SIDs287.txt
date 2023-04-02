@@ -1,0 +1,53 @@
+
+  Logging into Zoom From Your Browser or Client
+
+
+Navigate to https://oklahoma.zoom.us/ (https://oklahoma.zoom.us/)
+
+Click Sign In.
+
+
+Type in OU 4×4 and Password.
+
+
+Open Zoom client.
+
+Click Sign In, then Sign In with SSO.
+
+
+Type in Oklahoma
+
+
+
+
+Type in Oklahoma
+
+
+User will then have web browser open.
+	
+Type 4×4 and Password.
+
+
+
+
+Type 4×4 and Password.
+
+
+User will be prompted to Open zoom.us, click Open Zoom.us
+
+
+Client will show as having been logged in.
+
+
+After having successfully logged in, access Zoom link shared by professor and join course.
+
+For information about creating a free Zoom account, please visit this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=169).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+
+.
+

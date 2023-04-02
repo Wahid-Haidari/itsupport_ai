@@ -1,0 +1,22 @@
+
+  Locked Account
+
+
+OUNetID accounts can become locked causing the user to not have access to various campus sites. Here are some reasons this can occur:
+
+New Password Policy – OU has implemented a new annual password change policy taking effect February 22nd 2017. Users who have not changed their password in over a year will have their password expired. Please see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=265) for more information on what to do if your password has expired.
+
+The wrong password was entered more than 3 times. (Most common cause of this error message.)
+
+The password was recently changed password but a mobile device is still connected to your OU email with the old password.
+
+If you are unable to access your OU account and the site says your account is locked you will need to contact OU IT by calling 325-HELP (4357).
+
+If you have forgotten your password and need to have your account reset, Please refer to this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=107).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

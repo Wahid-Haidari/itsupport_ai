@@ -1,0 +1,42 @@
+
+  ArcGIS Download and Install
+
+
+ArcGIS for Desktop includes two primary applications that are used for mapping and visualization: ArcMap and ArcGIS Pro. ArcMap has been the primary application used in ArcGIS for Desktop for mapping, editing, analysis, and data management. ArcGIS Pro is the new application for creating and working with spatial data on your desktop. It provides tools to visualize, analyze, compile, and share your data, in both 2D and 3D environments.
+
+ArcGIS at OU is licensed for installation on university devices for faculty and staff. It is also licensed for students on personal computers. An online version for OU users is available through ArcGIS online (http://uok.maps.arcgis.com/), to install ArcGIS Pro, see the ArcGIS Online section below. For additional information on the ArcGIS suite on the OU campus, please see the service catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=47) page.
+
+To access ArcGIS Online, including ArcGIS Pro, from the Service Catalog page (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=47) please click "Access Software" or browse to https://uok.maps.arcgis.com (https://uok.maps.arcgis.com/) and click "Use your University of Oklahoma login" to be directed to sign-in via SSO.Once online.
+
+Download ArcGIS Pro for Windows from ArcGIS Online
+
+Follow these steps to download ArcGIS Pro for Windows from ArcGIS Online. Optionally, you can download a localized version. Note that there is not a ArcGIS Pro version available for MacOS. Mac users will need to utilize Windows through Boot Camp or through a program like Parallels.
+
+Ensure your device meets all system and software requirements (https://pro.arcgis.com/en/pro-app/latest/get-started/arcgis-pro-system-requirements.htm), including ensuring that the required Microsoft .NET version is installed.
+
+Sign in to your ArcGIS Online organization (https://uok.maps.arcgis.com).
+
+At the top of the page, click your user name and click My settings.
+
+On the My settings page, click the Licenses tab.
+
+Next to ArcGIS Pro, click Download.
+
+In the Download window, review the Language setting. If you want to download a localized version of ArcGIS Pro, change the setting to the language you want.
+
+Click Download. An executable file (.exe) is downloaded to your computer.
+
+Please follow these instructions (https://pro.arcgis.com/en/pro-app/latest/get-started/install-and-sign-in-to-arcgis-pro.htm) to install the software.
+
+ 
+
+Please speak with your department IT representative about requesting a network install of this software for multi-computer use. Once approved, the software can be installed.
+
+License server: 27050@ms-licentia.sooner.net.ou.edu 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,22 @@
+
+  Media Gallery Moderation: Student Uploads
+
+
+Once the student submits their media, a course moderator/instructor will receive an approval request. All pending approval submission will be listed in the Pending Tab. 
+
+Check the box on the left of the pending media.
+
+
+
+To approve or reject the submission, click on the approve or reject button respectively. (Note: approving the media automatically publishes it to the course media gallery and can be added to a course gallery playlist, if you choose to do so). 
+
+ 
+
+If a student visits the media gallery before moderators’ approval, student will receive a reminder that their media is still pending approval.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

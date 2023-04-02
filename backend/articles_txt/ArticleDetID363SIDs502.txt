@@ -1,0 +1,38 @@
+
+  MyMedia – Timeline and Chaptering
+
+
+The Timeline tab in the video editing portion of MyMedia allows you to add additional materials to your project in the form of slides and chaptering information to supplement your presentation.
+
+Log in at mymedia.ou.edu with your OUNetID and password
+
+Click on the tab with your name (or log in) and then My Media on the top menu.
+
+Choose which video you would like information about.
+
+Underneath the lower-right-hand corner of the video, Click on Actions> Click Edit. This will bring you to the General Editing Menu. This view allows you to preview your video, and choose a number of options using the tabs under the video.
+
+Clicking on the Timeline Tab will bring up a graphical depiction of a timeline to play in conjunction with your video. You can divide this timeline into chapters, associating each slide to a length of time.
+
+Clicking on the Create a New Chapter button (shown in the screenshot below) will show a number of dialog boxes under two subheadings: Chapter Thumbnail and Chapter Information.& 
+
+Under the Chapter Thumbnail, you can use an automatically generated picture for the picture associated with your video, or upload a specific frame/title panel you’d like used.
+
+Under the Chapter Information, you can set the Title of the chapter, give it a description, set its beginning time, and allow for searching via tags.
+
+When you click “Save”, the chapter will show up as a sliding button on the timeline graphic. You can view and edit it at any point by clicking on the button.
+
+Clicking on the Create a New Slide button (shown in the screenshot below) will bring up two similar subheadings: Upload Slide and Slide Information. 
+
+Under the Upload Slide, you can upload any image-based file (e.g. .jpg, .png, etc.).
+
+Under the Slide Information, you will see similar dialog boxes for information as the above Chapters.
+
+When you click “Save”, the chapter will show up as a sliding button on the timeline graphic. You can view and edit it at any point by clicking on the button.
+
+You can choose the “View in Player” option to have it play alongside your video while editing, as well as delete any unwanted chapters using the “Delete Chapter” button.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

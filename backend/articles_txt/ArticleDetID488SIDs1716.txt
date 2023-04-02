@@ -1,0 +1,80 @@
+
+  Alumni/Retiree Email Address
+
+
+OU IT is pleased to offer University of Oklahoma alumni and retirees continued email access using the OU alumni domain,@alumni.ou.edu. The OU Alumni account is not associated with @ou.edu or @ouhsc.edu email addresses, and OU IT is unable to facilitate data transfer (including a current account) into the alumni account.
+
+If you have a current University-provided account on @ou.edu or @ouhsc.edu, we strongly recommend the following steps to help ensure that you have continuous access to relevant data and services. 
+
+Back up or relocate personal emails, contacts, calendar items, etc. from your existing @ou.edu email account that you would like to keep. If you have any personal files saved in OneDrive that you would like to retain, you should move them as well. 
+
+Update your email address on any consumer services (streaming services, online retailers, automatic bill payments, etc.) that use your University-provided account for account access or communication. 
+
+We know that losing your @ou.edu or @ouhsc.edu address is difficult for many and that this transition will require a time commitment from you. We apologize for any frustration or inconvenience. If you would like to provide feedback, please fill out the IT Feedback survey here (http://www.ou.edu/ouit/feedback). 
+
+ 
+
+REQUESTING AN ACCOUNT 
+
+OU Norman Graduate and can currently log into your OUNetID account? 
+
+To create your alumni email account, visit http://www.ou.edu/ouit/alumni-email (http://www.ou.edu/ouit/alumni-email) and log in using your OUNetID.
+
+If you receive any permission errors and/or are a current OU employee, please visit http://www.soonerconnect.com/email (http://www.soonerconnect.com/email). Responses to this form may take several days to process.
+
+OU Norman Graduate and no longer have access to your OUNetID account?
+
+To request your alumni email account, please visit http://www.soonerconnect.com/email (http://www.soonerconnect.com/email). Please note: responses to this form may take several days to process.
+
+OUHSC Graduate?
+
+To request your alumni email account, please visit http://www.soonerconnect.com/email (http://www.soonerconnect.com/email). Please note: responses to this form may take several days to process. 
+
+University Retiree (OU/OUHSC)?
+
+To request your alumni email account, please visit http://www.soonerconnect.com/email (http://www.soonerconnect.com/email). Please note: responses to this form may take several days to process. 
+
+ 
+
+SETUP 
+
+How do I set up my alumni email account? 
+
+Instructions for setting up your account can be found here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=232). 
+
+How do I add my alumni email account to an email client or mobile device? 
+Please visit these articles (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=243) to find instructions on adding your alumni email account to an email client or mobile device. 
+
+Can I choose my alumni email address? 
+Alumni email addresses are automatically created based on your name on file with the University at the time of graduation/retirement. Addresses follow this standard: firstname.lastname@alumni.ou.edu. In the case of a duplicate address, a number is added: firstname.lastname1@alumni.ou.edu. We are unfortunately unable to provide the option for an email alias or name change.  
+
+ 
+
+EMAIL BACKUP AND TRANSITION 
+
+Will IT back up my University provided email (@ou.edu or @ouhsc.edu) and migrate it to my new @alumni.ou.edu account?  
+Only personal emails, contacts, and calendar items should be backed up or relocated from your University provided account. Unfortunately, IT cannot review your emails to identify personal communications to migrate. If you have access to an Outlook desktop client, please visit this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=181) for detailed instructions that you may find helpful. 
+
+How do I back up my personal emails if I do not have access to an Outlook desktop client? 
+You can forward personal emails individually, but if you choose not to do that then you will need to download an email client in order to back up your email. 
+
+KEY QUESTIONS 
+
+What if I am an alumnus/alumna and current OU employee or a returning student? 
+Current employees and/or alumni who return as students will retain their University provided email in addition to their alumni account. If an employee or student leaves OU, they will lose access to their University provided email address, but not their alumni email address. 
+
+Will I be able to log into OU systems and digital services using my @alumni.ou.edu address? 
+No. Your alumni email address cannot be used to access OU systems. 
+
+What if I need to conduct official OU business? 
+If you are affiliated with a department at OU, please contact the department head. 
+
+Can I pay to keep my @ou.edu or @ouhsc.edu email address? 
+No.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://ou.teamdynamix.com/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

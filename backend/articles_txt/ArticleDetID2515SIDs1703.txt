@@ -1,0 +1,89 @@
+
+  Outlook Prompt for PingID Setup
+
+
+As PingID is rolled out to OU applications to replace Duo, we recommend users enroll in PingID (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2543) to prepare for the change over. If one does not enroll before they are migrated to PingID, Outlook may prompt to set up PingID upon launching the application.
+
+ 
+
+Upon signing in at portal.outlook.com (http://portal.outlook.com), you may redirected to a screen asking you to download PingID.
+
+
+
+Find and install the PingID application in your device’s app store.
+
+
+
+ 
+
+Open the app and accept the terms of service.
+
+You may receive a prompt saying you need to allow camera and location permissions. Select “I Understand”.
+
+
+
+Next will be a “Welcome to PingID” page with information about PingID. At the bottom, select “Continue”.
+
+
+
+If prompted, grant permission for PingID to take pictures and to record video.
+
+Using your phone’s camera, either scan the bar code you received from Outlook.com or select “Enter Pairing Key Manually” and enter the 12-digit code.
+
+
+
+After verifying the barcode or pairing code, you may need to grant permission allowing PingID to access your device’s location.
+
+Choose a nickname for your PingID profile and select “Done”. You may add a profile picture if you wish.
+
+You may receive a prompt stating:
+	
+“Your company’s security policy may require you to always allow your location to authenticate, even when the app is closed. Your location is only used for authentication.”
+Select “Update Permissions” or “Remind Me Later”.
+
+
+
+“Your company’s security policy may require you to always allow your location to authenticate, even when the app is closed. Your location is only used for authentication.”
+
+Select “Update Permissions” or “Remind Me Later”.
+
+You will receive an email confirming the addition of your authentication device.
+
+
+
+ 
+
+Using PingID – Microsoft Outlook Application
+
+Once PingID has been set up, open Outlook.
+
+You will be prompted to re-enter your password.
+
+A grey box will appear, showing the device PingID is attempting to use for authentication.
+
+
+
+On the authentication device, approve the push notification request. If you do not have a push notification, you may need to open the app itself to approve the request.
+
+
+
+A successful authentication will be indicated by a green box and checkmark.
+
+
+
+If you are using a Mac OS device, you may also need to re-enter your password and authenticate your Exchange account within your System Preferences.  
+	
+Open System Preferences, then Internet Accounts.
+
+
+
+Open System Preferences, then Internet Accounts.
+
+     
+
+Re-enter your password.
+
+Authenticate using the same method as above.
+
+7. If you are using a Windows device, you will be prompted from within Outlook to re-enter your password.
+

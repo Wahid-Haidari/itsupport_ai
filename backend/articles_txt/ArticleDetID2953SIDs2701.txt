@@ -1,0 +1,40 @@
+
+  Changing IT Admin Password
+
+
+The following article identifies the process to reset your IT Admin (IT_, A_, ITA_, etc.) account. IT Admin accounts must be changed every 365 days and require 16 characters.
+
+Note:
+
+Your IT Admin account must be enrolled in PingID. OU IT recommends using an incognito browser to enroll your IT Admin account and change your IT Admin account.
+
+PingID Information:
+
+PingID Enrollment: https://link.ou.edu/pingid (https://link.ou.edu/pingid)
+
+PingID FAQ: https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2573 (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2573)
+
+Steps to change your IT Admin password:
+
+Using an incognito browser, go to https://one.ou.edu/ (https://one.ou.edu/)
+
+Enter your IT Admin account and password
+	
+During authentication, you will be prompted to approve the log in through PingID.
+
+
+
+During authentication, you will be prompted to approve the log in through PingID.
+
+Click "Change Password"
+
+Enter the "Old Password" and the "New Password". Please note, you may click on the eye icon to see the text.
+
+Click "Change Password"
+
+Additional Information:
+
+- If your IT Admin account is expired you need to submit a general ticket (https://itsupport.ou.edu (https://itsupport.ou.edu/)) to have an OU IT member assist you in the password change. By design, expired passwords cannot be changed without manual intervention.
+
+ 
+

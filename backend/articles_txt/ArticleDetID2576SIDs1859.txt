@@ -1,0 +1,36 @@
+
+  Qualtrics Groups
+
+
+While Groups can be useful, they are only necessary in specific instances. In most cases, the collaboration feature will meet your needs while also allowing you to review and update the list of those who have access to your survey easily. Collaboration allows you to:
+
+Share a survey with others who need to review or make edits to the survey, data, or reports.
+
+Determine what level of access collaborators have.
+
+Update the list of collaborators at will. This provides increased security during periods of staff turnover.
+
+Learn more about collaboration here. (https://www.qualtrics.com/support/survey-platform/my-projects/sharing-a-project/) Please review the collaboration tool and determine if it will meet your needs before requesting a group.
+
+In some situations, Collaboration may be insufficient and Groups may better fit your needs. Groups in Qualtrics allow you to create a shared library of contacts, survey templates, messages, and graphics. Survey templates can either be copied to create surveys, or can be referenced in a survey (https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/reference-surveys/) so that when the template is updated the survey will automatically update as well. Message and graphics libraries also provide the opportunity to make edits across multiple surveys at once. These features make it easier to have standardization across multiple surveys that may need periodic updates to verbiage or images.
+
+Group creation may be requested for the following reasons:
+
+A team needs to be able to access standardized materials for creating new surveys repeatedly.
+
+A team needs to standardize updates across different surveys that will be created and owned by multiple people.
+
+A team has a contact list within Qualtrics that multiple people need access to repeatedly. Note: For contact lists hosted elsewhere, Personal Links (https://www.qualtrics.com/support/survey-platform/distributions-module/email-distribution/personal-links/) may be used with compatible platforms.
+
+Please note that groups will not be created for one-time use, short-term projects, or class rosters given the difficulty in updating and maintaining them. They are a long-term solution for maintaining standardization and providing prebuilt resources across your department or team.
+
+Groups can only be created or updated by submitting a request to OU IT. Please use the Request Service form for your campus. (If your team is across multiple campuses, there is no problem. Fill out one form of your choice).
+
+Norman - Request Service (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=82&SIDs=1845)
+
+OKC - Request Service (https://itsupport.ou.edu/TDClient/34/OKC/Requests/ServiceDet?ID=82&SIDs=2326)
+
+Tulsa - Request Service (https://itsupport.ou.edu/TDClient/33/Tulsa/Requests/ServiceDet?ID=82&SIDs=2328)
+
+Our staff will consult with the point of contact for the group to ensure we have approval before making updates. For best security practices, we recommend updating group membership when new staff members join or leave.
+

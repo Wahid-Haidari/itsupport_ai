@@ -1,0 +1,40 @@
+
+  Zoom Focus Mode
+
+
+Zoom has introduced Focus Mode (https://support.zoom.us/hc/en-us/articles/360061113751#h_01FCC38MY9T4PAHYF8Q075500H) which helps students to stay attentive or work on their tasks while under supervision, without being distracted by others and their tasks. This allows the host and cohost to see videos of all participants without other participants seeking each other. This feature also helps with screen sharing feature as it allows the host to switch and view all participant’s shared screen, while the participants can only view their own content. Host can also allow any shared screen to be viewable by all participants.
+
+ 
+
+To enable Focus Mode:
+
+Log in to Oklahoma.zoom.us > Sign In
+
+Go to Settings.
+
+
+
+Under Meeting Tab > Click on In Meeting (Advanced). Locate Focus mode and enable it.
+
+
+
+ 
+
+In Meeting Focus Mode:
+
+Once you enable the Focus mode in the settings, you can now use Focus Mode in live Zoom Meetings. In the Zoom Tool Bar, Click on More icon > Click on Start Focus Mode.
+
+
+
+A dialog box will appear. Click on Start.
+
+
+
+For more information, please refer to this help article on Focus Mode. (https://support.zoom.us/hc/en-us/articles/360061113751#h_01FCC38MY9T4PAHYF8Q075500H)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,18 @@
+
+  MyMedia - Remove media from media gallery
+
+
+Under the media tab, click on the (...) more icon on the lower right of the media item. 
+
+ 
+
+Select Remove from channel. Note that the media will be deleted from the Media Gallery as well as playlist but not from your MyMedia repository.
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

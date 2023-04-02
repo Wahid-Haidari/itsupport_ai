@@ -1,0 +1,14 @@
+
+  What is Media Gallery in Canvas?
+
+
+Media Gallery is a central location within each course that users can search, or view media assigned to the course. Only users enrolled in that course will be able to view the media assigned to the course Media Gallery. Similarly, only the course instructor/managers can edit and change the settings of the videos (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=1119).
+
+Media Gallery is a subsection of MyMedia which is directly tied to Learning Management System such as Canvas. Media Gallery is a location/place in Canvas course where all MyMedia Content can be found. Instructors can manage and share their recordings from MyMedia to canvas through the Media Gallery (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=1118). However, first, they need to enable Media Gallery in their courses (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=1117). Students also can upload their medias from their MyMedia or directly if needed but instructor can choose to approve or discard the students’ uploads (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=1126) before they are made visible. One of the advanced features if Media gallery is the ability to create a playlist of related Medias. Instructors are only allowed to create playlist for their course (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=1121). However, they can share the media in any modules inside their courses (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=1127).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,48 @@
+
+  Canvas – Combining Sections into One Canvas Course
+
+
+Instructors can combine multiple sections into a single course in Canvas.
+
+Note: You can only combine courses in which you are listed as an instructor; you cannot combine another instructor's course with your own. Make sure to combine sections before publishing the Canvas course. We also recommend combining your courses BEFORE adding course material. If there is an error in combining your courses, course content and activities setup in the original existing courses may be deleted once a course is combined. Any existing student activity (discussions/assignment submissions/grades) could also be affected and combining courses after students have submitted work is not recommended.
+
+If you have already added content to your course, we recommend creating a back-up copy of your course content before combining courses (student submissions will not be backed-up). To create a back-up copy:
+
+Copy the course content from the official course(s) to a new course: How Do I Copy a Canvas Course? (https://guides.instructure.com/m/4152/l/239683-how-do-i-copy-a-canvas-course)
+
+Combine your official courses
+
+Copy content back into official course (if necessary): How do I import content from another Canvas course? (https://guides.instructure.com/m/4152/l/57077-how-do-i-import-content-from-another-canvas-course)
+
+Note: Please verify start and end dates for each section that was combined; individual section start and end dates are maintained, even after combining courses.
+
+Navigate to the main lecture/lab course and copy the course ID number, which is the last number in the URL for the course, i.e. https://canvas.ou.edu/courses/ (https://oklahoma.instructure.com/courses/6199)6199 (https://oklahoma.instructure.com/courses/6199) (6199 is the course ID number).
+
+Go to the course section you would like to combine with the main course. Click Settings on the bottom left side.
+
+Select the Sections tab.
+
+Under Course Sections, click on the name of the section.
+
+Click Cross-List this Section on the right side of the screen. Paste the course ID number from step 1 in the box next to ‘Or Enter the Course’s ID:’. Under Selected Course, verify that the main course title has populated.
+
+Click Cross-List This Section.
+
+Repeat steps 2-6 for each additional section.
+
+When you go into the main course and click on Sections (under Settings), you should see the sections that were combined.
+
+To restrict TAs/students to only having the ability to view their section in the course
+
+After the courses are combined, click on People in the navigation bar.
+
+Click on the name of the user you would like to edit.
+
+A side bar with user details will appear. In the side bar, click the user’s name again to bring up the full details page.
+
+Next to Privileges, click the link “Limit this user to only see fellow section users”. This will allow the user to only view those in their assigned course section(s).
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

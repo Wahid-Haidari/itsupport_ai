@@ -1,0 +1,40 @@
+
+  Connecting to WIFI@OU with Android and Chromebooks
+
+
+Go into the devices WIFI settings and select WIFI@OU.
+
+
+
+Make sure the settings match the screenshot below and then enter your OUNet ID and password under Identity and Password. Leave the anonymous identity field blank.
+
+Note: Chromebooks require this information as well.
+
+
+
+ 
+
+HUAWEI 
+
+Put the OUNetID in all caps under Identity.
+
+Put the OUNetID in all caps under Anonymous Identity.
+
+Chromebook
+
+You may need to try connecting multiple times and/or exiting the setup and trying again.
+
+ 
+
+If you have attempted to connect to any other OU networks such as OUGuest, you will need to first "forget" that network before attempting to connect to WIFI@OU.  For instructions on forgetting a wireless network, refer to the "Forgetting a Wireless Network" (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=159&SIDs=251) article.
+
+For more information about WIFI@OU, please visit the "Connecting to WIFI@OU (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=95)" article.
+
+For more information about all of OU's WIFI Networks, please visit the "OU WIFI Networks (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=131)" article. 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

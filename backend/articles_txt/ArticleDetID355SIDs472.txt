@@ -1,0 +1,14 @@
+
+  Student / Faculty-Staff OU Web Pages
+
+
+OU has transitioned personal OU webpage hosting options from students.ou.edu and faculty-staff.ou.edu to create.ou.edu. Create.ou.edu provides domain names and web space to members of the OU community, encouraging individuals to explore the creation and development of their digital identities. Users have access to a wide variety of open source tools to create and maintain websites and leaves the data in their control. This includes popular open-source applications such as WordPress, MediaWiki, Drupal, and Omeka. If you wish to set up a create.ou.edu site, click here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=431) for instructions. For more information please visit the FAQ for OU Create (https://create.ou.edu/faq/), Document Knowledge Base (https://create.ou.edu/docs/) or contact them at create@ou.edu (http://create@ou.edu/).
+
+For internal hosting of content or documents among your team members or collaborators, SharePoint may be a better option. Please see this page (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=429) for more information.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

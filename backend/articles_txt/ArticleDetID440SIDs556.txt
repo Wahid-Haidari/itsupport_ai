@@ -1,0 +1,39 @@
+
+  Canvas – Grades – About Grades
+
+
+Students: Grades can serve as a communication tool between students and instructors and allow instructors to track the progress of students.
+
+The Gradebook stores all information about student progress in the course, measuring both letter grades and course outcomes.
+
+Instructors: The Gradebook helps instructors easily input and distribute grades for students. Grades for each assignment can be calculated as points, percentages, complete or incomplete, pass or fail, GPA scale, and letter grades, and assignments can be organized into groups for weighting as well.
+
+You can also use SpeedGrader (https://guides.instructure.com/m/4152/l/55016?data-resolve-url=true&data-manual-id=4152) to help you assign out grades.
+
+Columns are automatically created in the Gradebook when you create and publish assignments, graded discussions, and graded quizzes and surveys. A column is also automatically added for the Attendance tool.
+
+Instructors – https://guides.instructure.com/m/4152/c/23849 (https://guides.instructure.com/m/4152/c/23849)
+
+How do I use Individual View in the Gradebook? (https://guides.instructure.com/m/4152/l/212381-how-do-i-use-individual-view-in-the-gradebook)
+How do I use multiple grading periods in my course? (https://guides.instructure.com/m/4152/l/465815-how-do-i-use-multiple-grading-periods-in-my-course)
+What do the icons and colors in the Gradebook represent? (https://guides.instructure.com/m/4152/l/95583-what-do-the-icons-and-colors-in-the-gradebook-represent)
+How do I enter and edit scores in the Gradebook? (https://guides.instructure.com/m/4152/l/54999-how-do-i-enter-and-edit-scores-in-the-gradebook)
+How do I leave comments for students in the Gradebook? (https://guides.instructure.com/m/4152/l/55000-how-do-i-leave-comments-for-students-in-the-gradebook)
+How do I curve Grades in the Gradebook? (https://guides.instructure.com/m/4152/l/55003-how-do-i-curve-grades-in-the-gradebook)
+How do I grade group assignments in a course? (https://guides.instructure.com/m/4152/l/55006-how-do-i-grade-group-assignments-in-a-course)
+How do I use the Notes column in the Gradebook? (https://guides.instructure.com/m/4152/l/170783-how-do-i-use-the-notes-column-in-the-gradebook)
+What is Moderated Grading? (https://guides.instructure.com/m/4152/l/477101-what-is-moderated-grading)
+What are What-If Grades? (https://guides.instructure.com/m/4152/l/55015-what-are-what-if-grades)
+
+Students
+
+How do I view my grades in a current course? (https://guides.instructure.com/m/4212/l/55064-how-do-i-view-my-grades-in-a-current-course)
+How do I approximate my assignment scores using the What-If Grades feature? (https://guides.instructure.com/m/4212/l/55065-how-do-i-approximate-my-assignment-scores-using-the-what-if-grades-feature)
+What do the icons and colors in the Grades page represent? (https://guides.instructure.com/m/4212/l/136679-what-do-the-icons-and-colors-in-the-grades-page-represent)
+How do I view my grades in a concluded course? (https://guides.instructure.com/m/4212/l/232803-how-do-i-view-my-grades-in-a-concluded-course)
+How do I view my Learning Mastery scores in the Grades page? (https://guides.instructure.com/m/4212/l/222211-how-do-i-view-my-learning-mastery-scores-in-the-grades-page)
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,34 @@
+
+  MyMedia – Sharing a video on another site
+
+
+Linking:
+
+Start at the viewing page for the video in question.
+
+Click share on under the video you want to share.
+
+It should default to sharing a link to a media page: 
+
+Copy the link and paste it where you want to share the video sharing a link may require the intended viewer to have an OUNet ID, depending on video privacy settings
+
+ 
+
+Embedding a video
+
+Click share under the video.
+
+Click Embed
+
+Select your preferred play size.
+
+Copy the html code in the textbox and paste it into the desired location to embed. 
+
+Note: You need to change the publish status to unlisted or public to make the video viewable to the ones who have your link or public respectively. To change the publish status, Click on the video title > Actions>Publish>Select desired option >Save.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

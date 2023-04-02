@@ -1,0 +1,84 @@
+
+  Connecting to WIFI@OU with Windows 7/8/8.1
+
+
+What is wrong with Windows 7/8/8.1?
+
+There is a known issue with verifying certificates in Windows 7/8/8.1. Anyone on the OU campus using those versions of Windows will need to uncheck a box to not verify the certificate to get on WIFI@OU. We generally recommend not using these OS, but if your work requires it, please proceed below.
+
+What do I do?
+Click the Windows Start menu and navigate to Control Panel > Network and Sharing Center > Manage wireless networks.
+
+Click on the Add button.
+
+Choose Manually create a network profile.
+
+Enter the following information:
+
+Network name: WIFI@OU
+Security type: WPA2-Enterprise
+Encryption Type: AES or TKIP
+
+Click on Next to proceed to the following step.
+
+
+
+ 
+
+Click on Change connection settings.
+
+
+
+
+ 
+
+From the Security tab, choose Microsoft: Protected EAP as the network authentication method.
+
+Click Settings
+
+
+
+ 
+
+Uncheck “Verify the server’s identity…”
+
+ 
+
+
+
+ 
+
+To bring up the EAP MSCHAPv2 Properties prompt to uncheck the box, select Configure under Select Authentication Method.
+
+Uncheck Automatically use my Windows logon on name and password if the computer is not on the SOONER domain.
+
+ 
+
+
+
+ 
+
+Additional Troubleshooting
+
+If the above steps do not work, you may need to enable single sign on in the advanced network settings.
+
+Go to Start > Control Panel > Network and Internet > Network and Sharing Center, then in the left-hand column, click Manage network connections.
+
+Right-click Local Area Connections and select Properties.
+
+Navigate to the Security tab, and then click Advanced settings.
+
+Check the box labeled "Enable single sign on for this network".
+
+
+
+ 
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

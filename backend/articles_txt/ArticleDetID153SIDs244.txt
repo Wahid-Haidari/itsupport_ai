@@ -1,0 +1,28 @@
+
+  Connecting to WIFI@OU on MacOS
+
+
+From the desktop, select the WIFI icon. On the drop down menu, select WIFI@OU SSID. 
+
+ 
+
+Enter your OU Net ID and password. 
+
+ 
+
+Select Continue when the Verify Certificate prompt appears. 
+
+ 
+
+Enter your computer’s username and password to update the Certificate Trust Settings. NOTE: This is not your OU Net ID and password. ​​​​​​​
+
+ 
+
+For more information about WIFI@OU, please visit this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=95).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,12 @@
+
+  Microsoft Teams Security
+
+
+By default, only Teams members can access stored files. Exercise caution when authorizing access to Teams files.
+
+Create different channels in Teams to direct conversations to authorized individuals only.
+
+Share files to Teams with specific individuals, never with "everyone" or the "public".
+
+Regularly review shared files by clicking the Files menu in any version of the Teams app (mobile, desktop, or web), and selecting Microsoft Teams or Recent to view history.
+

@@ -1,0 +1,22 @@
+
+  Adobe - OU Email as Adobe ID Causes Issues for Adobe Individual Licenses
+
+
+When purchasing licenses for Adobe products while at the University, we strongly recommend users do not create an Adobe ID with their OU email address, as this can cause licensing conflicts with your license through the university. This is because OU maintains an active Adobe Business license that OU Email accounts are listed in. As a result, attempting to cancel an individual license that uses your individual OU email address, will cause Adobe to think your account is a Business account and managed by OU, even though it is not.
+
+If you have created an Adobe ID using your OU email address, we recommend logging in to your Adobe profile and updating your address to a non-OU email address. Please also note this will need to be an email address not associated with any existing Adobe accounts you have created in the past.
+
+To update your Primary email address, sign in at https://account.adobe.com/profile (https://account.adobe.com/profile).
+
+In the Account information and access section, select Change next to Primary email.
+
+Confirm the new non-OU primary email address that you want to associate with your Adobe ID.
+	
+Adobe will now send you an email to verify the change. If you don’t receive the email, see Didn’t receive expected email from Adobe (https://helpx.adobe.com/manage-account/kb/no-email-received.html).
+
+
+
+Adobe will now send you an email to verify the change. If you don’t receive the email, see Didn’t receive expected email from Adobe (https://helpx.adobe.com/manage-account/kb/no-email-received.html).
+
+After the address updates, that should allow you to make any necessary licensing changes.
+

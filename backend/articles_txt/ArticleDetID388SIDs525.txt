@@ -1,0 +1,139 @@
+
+  MyMedia Policy
+
+
+MyMedia is a content repository solution, serviced by Kaltura, for higher education that provides a means for managing, delivering, creating, and accessing university-related content to all interested individuals.
+
+MyMedia provides Norman faculty and staff the ability to create, upload, and distribute multimedia content through mobile, online, and offline environments. It allows content owners to publish, manage, monetize and analyze their video and other rich-media content. For students and visitors, MyMedia provides a host of possibilities to access content on a wide variety of subjects including course lectures, presentations, university news, department or program information, and training sessions. For HSC Faculty, Staff, and Students, MyMedia provides the ability to view previously uploaded content for training purposes.
+
+Public Content: Any content that is uploaded to a public MyMedia page must meet guidelines for accessibility as governed by the University of Oklahoma Web Policies (http://www.ou.edu/publicaffairs/WebPolicies.html) (opens new window), Title 62 of Oklahoma Statues O.S. 2001, Section 41.5e as amended (H.B. 2197 (https://www.okhouse.gov/Policies/Accessibility.aspx) (opens new window)), and Section 508 (https://www.section508.gov/manage/laws-and-policies) (opens new window) of the federal Rehabilitation Act of 1973, as amended (29 U.S.C. 794d). For public audio and video content, this means that a content creator should provide video captioning, a script, or a transcript.
+
+Course Content: For content that is available only to students in a course, the following guidelines apply:
+
+If the sole means of distributing the content takes place via audio or video, captioning or a transcript should be provided as an equivalent alternative for students with visual or auditory disabilities.
+
+If the audio or video is an alternative form of content that was already disseminated to students through classroom lectures or other text-based content, no transcript or captioning is required.
+
+The National Center for Accessible Media (http://ncam.wgbh.org/) (opens new window) has produced Accessible Media, which are samples of accessible video and audio clips.
+
+Students
+In accordance with University of Oklahoma policies and state and federal regulations, the University of Oklahoma is committed to full academic access for all qualified students, including those with disabilities. Faculty members are required to provide reasonable accommodations to students with disabilities, so as not to discriminate on the basis of that disability. Therefore, it is up to the individual content provider/department to provide accommodations where needed.
+
+Students are responsible for informing faculty of their need for accommodation and in providing authorized documentation through designated administrative channels. Information regarding specific diagnostic criteria and policies for obtaining academic accommodations can be found at the OU Disability Resource Center (http://www.ou.edu/drc/home.html) (opens new window) website.
+
+MyMedia content is stored on hosted servers by Kaltura. The MyMedia interface and associated technical infrastructure are maintained and supported by OU Information Technology. If you have any questions regarding MyMedia, please submit your inquiries at needhelp.ou.edu (http://needhelp.ou.edu/).
+
+All colleges, departments, and University groups using MyMedia are responsible for the uploading and management of all private, protected, and public content for their respective areas as well as the creation and maintenance of site galleries and or collections.
+
+All protected content is maintained by the respective content author/contributor for the respective course or private page the content is tied to. Protected content within MyMedia is only accessible to members of the OU community with a valid OUNetID via authentication. If a private course is created for a college or department that already maintains a public site, the private course will be created under that respective college or department and is subject to internal college or departmental policies governing content contained within MyMedia.
+
+Uploading content is the responsibility of the content creator or producer. University of Oklahoma Information Technology offers training courses in how to utilize MyMedia.
+
+Backup of materials uploaded to MyMedia is the sole responsibility of the content provider. Neither Kaltura nor OU Information Technology is responsible for maintaining backups.
+
+In the event that content includes pictures, audio, or video recording of students, faculty, staff, or any other third party, the content author and/or contributor may need to obtain written permission from them in advance of posting content to MyMedia. Contributors and/or content authors and publishers are responsible to maintain all obtained permissions in their records through the use of an OU Talent Release Form.
+
+For specific details and more information regarding talent release information as well as to download an OU Talent Release Form, please visit the OU Public Affairs Branding at Photo and Video Content (https://www.ou.edu/brand/photo-and-video-content) (opens new window).
+
+All materials uploaded to MyMedia maintain their prior ownership when uploaded. Ownership is covered by the University of Oklahoma’s copyright (http://www.ou.edu/publicaffairs/WebPolicies/copyright.html) and intellectual property (http://ipmo.ou.edu/process/index.html) policies (links open in new window) for faculty, staff and students.
+
+A University of Oklahoma college, department, faculty, or staff member must sponsor materials uploaded to MyMedia. OU Student Organizations may upload content to MyMedia but must have a faculty sponsor for their account.
+
+The University of Oklahoma encourages faculty and event sponsors to arrange for the recording of material of potential interest to MyMedia and to secure talent release forms (https://www.ou.edu/brand/photo-and-video-content) (opens new window) from all participants at the time of recording.
+
+Content considered to be inappropriate may be removed from MyMedia without warning and pending the outcome of further investigation. Content may also be removed by its owner without warning. Content may be removed by site or section administrators in accordance with expiration procedures.
+
+MyMedia is neither an official data repository nor an archival database for the University of Oklahoma. Policies and procedures regarding data retention and legal discovery must take this fact into account. Content on MyMedia may be downloaded and uploaded regularly; not only by users but by site administrators. Content on MyMedia is considered an unauthenticated copy of content that exists elsewhere and is not considered a University permanent “record”.
+
+The content on MyMedia cannot be said to be original content nor should it be expected that the copy of the content on MyMedia is the only copy of that content that exists. This is made clear to all content providers through consultation as well as during their initial online request for use.
+
+By accessing MyMedia or uploading and/or downloading content on MyMedia, you agree to the Terms of Use (http://www.ou.edu/publicaffairs/WebPolicies/termsofuse.html) (opens new window) policy for the University of Oklahoma.
+
+Content may be classified as private, protected, or public within MyMedia.
+
+Private Content: Content that is only visible in the MyMedia Portal to the content owner and can only be shared by the content owner. This is the default setting when content is uploaded.
+
+Protected Content: Content that only members of the OU community can view and requires a secure login to access via an OUNetID should be classified under this area.
+
+Public Content: Content that is shared with everyone can be viewed by the public and does not require secure login should be classified as public content.
+
+Content uploads to MyMedia may fall into one of the following areas:
+
+Public Affairs & Marketing – Content for the purpose of marketing the University of Oklahoma to prospective students, alumni, donors, and the public. Content uploaded to this section may be subject to review by OU Public Affairs.
+
+Events, Conferences, and Symposiums – Content in this category is for the promotion and sharing of University of Oklahoma events and activities. Content that falls into this category will typically require the completion of a talent release form (https://www.ou.edu/brand/photo-and-video-content) (opens a new window).
+
+Teaching and Learning – Content in this category supports the academic mission of OU (instructor lectures, student assignments, experimental videos, college activities, etc.). Content in this category will typically be classified as protected (viewable by OU students, faculty, and staff via secured login), unless approved by the designated college or department administrator.
+
+Development & Training – Content in this category includes informational or training materials for OU faculty, staff, and students.
+
+Overview
+According to the U.S. Copyright Office (http://www.copyright.gov/) (opens new window), copyright is a protection provided to “authors of [original works], including literary, dramatic, musical, artistic, and certain other intellectual works.”
+
+All faculty, staff, and students of the University of Oklahoma must abide by copyright (http://www.ou.edu/publicaffairs/WebPolicies/copyright.html) (opens new window) and intellectual property laws, as defined in the OU Intellectual Property Policy (http://ipmo.ou.edu/process/index.html) from the OU Intellectual Property Management Office (http://ipmo.ou.edu/) and the OU Norman Campus Faculty Handbook (http://www.ou.edu/provost/pronew/content/fhbmenu.html) (links open in new window).
+
+Do Not Redistribute Files
+You are not permitted to redistribute audio, video, or PDF files without the permission of the copyright holder (usually the original content author and/or publisher).
+
+Uploading Files
+Faculty, staff, and students with upload privileges can make audio, video, and files available through MyMedia. It is your responsibility to make sure the files you upload to comply with U.S. Copyright Law (http://copyright.gov/) and University of Oklahoma copyright (http://www.ou.edu/publicaffairs/WebPolicies/copyright.html) and intellectual property rights (http://ipmo.ou.edu/process/index.html) (links open in new window) policies.
+
+If the University of Oklahoma reasonably believes or is notified that any of your files violate copyright law, they may be removed from MyMedia without notice.
+
+Original audio, video, and PDF files that you create are protected by copyright, even if they are made available in MyMedia.
+
+If you have any questions regarding policies or procedures, concerning MyMedia and need assistance, please submit your questions at needhelp.ou.edu (http://needhelp.ou.edu/) and a team member will follow up with you as soon as possible.
+
+If you need assistance or have questions regarding the administration of your account or the access to MyMedia or any other technical problems you may be encountering, please visit the IT Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=124).
+
+ 
+
+Why utilize MyMedia?
+MyMedia provides an opportunity to widely distribute digital lectures, music, performances, speaker presentations, and more that convey academic and intellectual opportunities at the University of Oklahoma. MyMedia provides a way to reach a much wider global audience and enhances the educational experience.
+
+What formats are supported with MyMedia?
+MyMedia supports the distribution of compressed audio and video files. MyMedia recommends using the following formats when you output your audio and video content:
+
+Audio files: (AAC, MP3) with appropriate file extensions (.m4a, .mp3). For best results during playback, MyMedia recommends the following specifications:
+
+Audio Format: Baseline Low-Complexity Profile with AAC-LC (Music)
+
+Data Rate: Up to 160 Kbps
+
+Channels: Stereo in .m4v, .mp4, and .mov formats
+
+Output Sample Rate: 48 kHz
+
+Encoding Quality: Better
+
+Video files: (MPEG-4 with H.264 compression) with appropriate file extensions (.mp4, .m4v, .mov). For best results during playback, MyMedia recommends the following specifications:
+
+Data Rate: Up to 1.5 Mbps
+
+File Size: Not to exceed 2GB
+
+Frame Rate: 30 frames per second
+
+Key Frame: Every 24 frames
+
+Audio Tracks: Baseline Low-Complexity Profile with AAC-LC audio up to 160 Kbps
+
+Are there any proprietary digital rights management (DRM) schemes inserted into content on MyMedia?
+No, all content within MyMedia is free of any digital rights management. Ownership of all content uploaded to MyMedia remains with the content author and/or creator.
+
+How long will content remain on MyMedia?
+Although most content on MyMedia is intended to remain indefinitely, there is no guarantee on how long content will remain on MyMedia. It is not intended to be a permanent or long-term repository or archive for audio and video content or course materials. All content contributors are responsible for backing up their content.
+
+Will training and support be provided?
+OU Information Technology will be offering ongoing training and support on how to create, upload, and maintain content in MyMedia. If you require immediate assistance, please visit the IT Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=124).
+
+Is content uploaded to MyMedia exempt from copyright or intellectual property right restrictions?
+No, all content uploaded and contained within MyMedia is not exempt from copyright and intellectual property laws. Unless you have written permission from the author of the copyrighted work, it is not legal to include that work in your content. It is the responsibility of the content creator to verify that the information contained within their content is not violating any copyright or intellectual property right laws.
+
+Will I need an OUNetID to view content?
+No, all public content on MyMedia is free of charge and does not require a login with an OUNetID to view the content. Some content on MyMedia is considered protected and will require authentication with an OUNetID and password to verify whether the content creator has given you the necessary permissions to view their content.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,72 @@
+
+  Managing Your Sooner Card in Apple Wallet
+
+
+Once you’ve added your Sooner Card in Apple Wallet, what happens if you’ve misplaced your iPhone or Apple Watch? First, used Lost Mode if you’ve lost your device. Here’s what to do if you want to temporarily suspend your Sooner Card or remove your card from Apple Wallet.
+
+Suspend your Sooner Card using Blackboard eAccounts
+
+Tap the cogwheel on the eAccounts main page.
+
+Choose Lost Card and select the specific Sooner Card credential you want to suspend.
+
+Select Deactivate.
+
+You will receive a confirmation email that your Sooner Card credential has been suspended.
+
+Re-enabling your Sooner Card is as simple as following the same steps under the Found Card section of eAccounts.
+
+Suspend your Sooner Card using iCloud and Find My iPhone
+
+You may temporarily suspend the use of your Sooner Card in Apple Wallet by placing your iPhone or Apple Watch in Lost Mode at iCloud.com (http://icloud.com/) or using the Find My iPhone app. For more information, please visit apple.com (http://apple.com/).
+
+iCloud: Lock and track your device using Lost Mode in Find My iPhone (https://support.apple.com/kb/PH2700?locale=en_US)
+
+Remove your Sooner Card from Apple Wallet
+
+Remove your Sooner Card using Blackboard eAccounts
+
+Tap your photo in the upper lefthand corner of the eAccounts main page.
+
+On the Campus ID, select the information  icon.
+
+Choose “Add or Remove Campus ID from Wallet”.
+
+Remove you Sooner Card from iPhone, Apple Watch, or both.
+
+Remove your Sooner Card using Apple Wallet or Watch App
+
+To remove from iPhone:
+
+Open Wallet and select your Sooner Card
+
+Click the (…) icon to view the back of your Sooner Card
+
+Select Remove Card
+
+To remove from Apple Watch:
+
+Open the Watch App on your iPhone
+
+Tap Wallet & Apple Pay
+
+Select your Sooner Card
+
+Select Remove Card
+
+Remove your Sooner Card using iCloud and Find My iPhone
+
+You may permanently remove your Sooner Card in Apple Wallet in iCloud settings by following the same steps used to remove credit cards.  For more information please visit apple.com (http://apple.com/).
+
+iCloud: Remove credit cards from Apple Pay (https://support.apple.com/kb/PH20540?locale=en_US)
+
+Still have questions?
+
+Give us a shout! Sooner Card is here to help. You can email us at soonercard@ou.edu (mailto:soonercard@ou.edu) or call our office at 405.325.3113. If you prefer to talk in person, visit our locations in the Oklahoma Memorial Union or Stubbeman Place.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

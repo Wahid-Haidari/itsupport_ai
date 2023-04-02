@@ -1,0 +1,134 @@
+
+  MyMedia – Creating a Video Quiz
+
+
+In MyMedia you can create interactive video quizzes. You can create quizzes for your viewers that will prompt them to respond at certain parts of any given video.
+
+ 
+
+Note: This feature currently only works for media uploads, webcam recordings and screen presentations. YouTube and audio are not currently supported.
+
+ 
+
+To begin, log into mymedia.ou.edu with your OUNet ID and password. Under the “Add New” menu, select “Video Quiz”.
+
+ 
+
+Select the media that you would like to add a quiz to.
+
+ 
+
+You will be taken to the quiz editor. Here you can add your questions and change the settings for your quiz.
+
+ 
+
+To add a question, play the video and pause at the point you would like to add your first question. You can also scrub to a certain point if you know the exact location you would like your first question. When you pause the video, four hexagons will appear, each referring to a certain type of questions:
+
+ 
+
+Multiple Choice –  Question with only one correct answer
+
+Reflection Point – Video pause with text
+
+Open Question – Free text answer
+
+True/False – Questions with the choice of True or False
+
+ 
+
+Click the hexagon of your choice to begin adding your quiz question.
+
+ 
+
+ 
+
+You can now add your first question. There is room for 120 characters, including spaces, for the question text box. This typically translates to two lines of text unless there are no spaces between characters. Click on the box you want to enter text into. Note that, for multiple choice questions,  questions must have a minimum of two responses and can have a maximum of four. Clicking the black hexagon will let you add more answers. You will always enter the correct answer into the top green answer box and incorrect into the black boxes. You can shuffle these by clicking and dragging or by clicking the shuffle button in the upper left-hand corner.
+
+ 
+
+You can also add feedback and a hint to each question. These can be added by clicking the light bulb in the upper right-hand corner. When you are finished editing your question, select “save”. The feedback or “why” text will display after a user has submitted a quiz, while the hint will display when the question loads during the quiz.
+
+ 
+
+You will be taken back to the quiz editor, where you can resume your video and add other questions. You can confirm that your first video was successfully added by looking for a tiny tiny cube on the timeline below the video.
+
+ 
+
+The layout of the editor will vary according to the type of question you are adding.
+
+ 
+
+When you are finished adding questions, you have two options. You can preview your quiz by selecting the “Preview” icon (the eye on the bottom-left-hand corner of the quiz editor). This will bring up the video with questions added so you can view the video quiz as your viewers will. The other option is to select “Done” and then “Go To Media”. This will skip the preview and automatically take you to the quizzes publishing settings.
+
+ 
+
+Once you are on the media page, you will need to publish your video quiz. This can be done by selecting “Actions” and then “Publish”.
+
+ 
+
+ 
+
+To the left of the video player, you can find three tabs to adit video quizzes.
+
+ 
+
+​In the Details tab, you can change the general information and actions of the video. You are able to change the name of the quiz, the welcome message, and you can decide whether users can download the questions or not and whether it is compulsory to answer all the questions from the video.
+
+ 
+
+In the Scores tab, there are four features to personalize the grading of the quiz:
+
+ 
+
+Allow multiple attempts – Select how many (min. 2) and which score will be kept on the system
+
+Do Not Show Scores – No scores will be shown. Only a message saying “Thank you” will be displayed when the quiz is done
+
+Show Scores – Once the quiz is submitted, users will be prompted a score page.
+
+Include answers – Users can see correct and incorrect answers.
+
+ 
+
+In the Experience tab, you may modify the following options:
+
+ 
+
+Allow answers change – This allows a review mode, in which users can modify answers before submitting the quiz
+
+Allow Skip – Users will be presented a “Skip for now” button
+
+Do not allow skip – Users must answer a question before going to the next one
+
+ 
+
+Make sure to Save the edits performed in all three tabs.
+
+ 
+
+ 
+
+Select how you would like to publish the video quiz. You have three settings for publishing the quiz-
+
+ 
+
+Private – You will be the only user able to view the quiz. This is the default publishing option.
+Unlisted – Anyone with a link to the page can view your quiz.
+Published – The live stream will be published to mymedia.ou.edu
+
+ 
+
+Select your option and then click save. You should receive a confirmation message that the media was published.
+
+ 
+
+Congrats! You have successfully made a video quiz.
+
+ 
+
+If you have further questions or need assistance completing a video quiz, please reach out here. (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,24 @@
+
+  Adding a MyMedia video Link to Canvas
+
+
+Navigate to mymedia.ou.edu
+
+Log in by clicking “Guest” in the top-right corner, then “Login” from the dropdown menu. Then, click your name and then “My Media” from that dropdown menu.
+
+
+Find the video you would like to make unlisted, and click on the title.
+
+Click on the “Actions” arrow and click on “Publish”.
+
+
+Click on “Unlisted” and hit “Save”.
+
+Now copy the URL at the top of the screen and paste it into a Canvas page/module.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

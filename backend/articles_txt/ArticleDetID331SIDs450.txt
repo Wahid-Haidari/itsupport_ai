@@ -1,0 +1,124 @@
+
+  Adding OU Contacts to your non-OU Skype Account
+
+
+If you are a non-OU account Skype user, you can add OU contacts to your contact list. Please see below for instructions based on whether you use a Windows machine or Mac.
+
+Please note that in some cases Skype Contact requests to Skype for Business users may not be transmitted. Microsoft is aware of this problem but no solution has currently been published. If your contact request does not go through, you may wish to contact the OU account user and have them add your Skype account to their Contact list, this should complete the Contact approval process and allow their account to appear on your Contact list. This process is outlined here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=330).
+
+Skype for Windows 10
+
+To add an OU user, first sign in to Skype using your e-mail address and password.
+
+Next click into the Search Skype field.
+
+Enter the user’s OU e-mail address to locate them in the Public Directory.
+
+Click the result to open their profile.
+
+Click their e-mail address to open their account options.
+
+Select Add Contact to add them to your contact list.
+
+The user will be sent a request to add them to your contact list.
+
+Finally click OK.
+
+The OU contact should now be listed in your desired Contact group.
+
+ 
+
+Skype for Windows (Full version aka non-App version)
+
+To add an OU user, first sign in to Skype using your e-mail address and password.
+
+Click the Contacts tab, then Add Contact then Search Skype Directory…
+
+Enter the user’s OU e-mail address to locate them in the Directory.
+
+Click the result to open their profile.
+
+Select Add to Contacts to add them to your contact list.
+
+The user will be sent a request to add them to your contact list.
+
+Once the OU contact accepts, they should be listed in your Contact list.
+
+ 
+
+Skype for Business
+
+To add an OU user, first sign in to Skype using your e-mail address and password.
+
+Next click the invite contacts button.
+
+Select Add a contact Not in My Organization.
+
+Select Skype for Business.
+
+Enter the user’s OU e-mail address.
+
+Select which Contact group you wish to add them to, as well as the privacy relationship.
+
+Finally click OK.
+
+The OU contact should now be listed in your desired Contact group.
+
+Web Skype Client
+
+To access, please open your web browser and go to https://web.skype.com/en (https://web.skype.com/en/).
+
+Sign in using your normal Skype login username and password.
+
+On the left hand side of the screen, click into the Search Skype field.
+
+Enter the user’s OU e-mail address and click the magnifying glass icon.
+
+By default, it will be unable to locate the address and say “No Results found”. Click the Search Skype Directory option below.
+
+The OU address should now be found in the Directory.
+
+Click on the address to bring up options.
+
+Click the Add to Contacts button. An approval will now be sent to the OU system to approve the contact addition. Within 4-5 minutes, the system should automatically approve the request.
+
+Note that some users report issues with these applications failing to send Contact approvals.
+
+Skype
+
+To add an OU user, first sign in to Skype using your e-mail address and password.
+
+Click on the Contacts tab, then Add Contact.
+
+Enter the user’s OU e-mail address and click Find.
+
+When the OU user’s e-mail address is found, click the invite user circle icon to the right of their name.
+
+Enter a message to request the OU user as a contact and hit Send.
+
+Once the OU user approves the addition, you will see them in your contact list.
+
+Web Skype Client
+
+To access, please open your web browser and go to https://web.skype.com/en (https://web.skype.com/en/).
+
+Sign in using your normal Skype login username and password.
+
+On the left hand side of the screen, click into the Search Skype field.
+
+Enter the user’s OU e-mail address and click the magnifying glass icon.
+
+By default, it will be unable to locate the address and say “No Results found”. Click the Search Skype Directory option below.
+
+The OU address should now be found in the Directory.
+
+Click on the address to bring up options.
+
+Click the Add to Contacts button. An approval will now be sent to the OU system to approve the contact addition. Within 4-5 minutes, the system should automatically approve the request.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

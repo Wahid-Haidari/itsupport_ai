@@ -1,0 +1,88 @@
+
+  LinkedIn Learning – Sharing Content with Learners
+
+
+As an instructor, you can recommend and share custom learning paths and collections to your learners. Learning paths curated by LinkedIn Learning are also available to recommend to, or share with, your learners. You can also edit learning paths to tailor them to the unique needs of your learners.
+
+Note: You must be granted sub-admin access before you can share LinkedIn Learning courses/links inside of your courses. To request access, please submit a request through the IT Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=99). Under Request Details, you can also request assistance with adding students to your group, if necessary.)
+
+Once your group request has been approved:
+
+To recommend a learning path or collection
+
+From the Admin Account Center, click  Content.
+
+Click the Learning Paths or Collections tab.
+
+Learning Paths suggest content in a specific order.
+
+Collections suggest content without a specific order.
+
+Locate the path or collection you wish to recommend, and click the  More icon.
+
+From the dropdown that appears, click Recommend.
+
+Enter the Learner or group names to whom you wish to recommend content, or check the box if you’d like to Recommend to all users.
+
+Enter a Message and Add due date, if desired.
+
+Click Send.
+
+To share a learning path or collection
+
+From the Admin Account Center, click  Content.
+
+Click the Learning Paths or Collections tab.
+
+Learning Paths suggest content in a specific order.
+
+Collections suggest content without a specific order.
+
+Locate the path or collection you wish to share, and click the  More icon.
+
+From the menu that appears, click Get shareable link.
+
+You’ll receive a confirmation message letting you know that the Shareable link has been copied to your clipboard.
+
+To recommend a LinkedIn Learning curated learning path:
+
+From the Admin Account Center, click  Content.
+
+In the Explore tab, browse or search for content you’d like to share with individual learners or groups.
+	
+Search for keywords in the search bar.
+Browse content topics by clicking the  Topics icon next to the search bar.
+Browse by profession by clicking the dropdown next to Recommendations by Job Title:.
+Scroll to the bottom of the Explore tab homepage to find Learning Paths for your organization that have been recommended by LinkedIn Learning.
+If you have multiple language libraries available to you, you can also browse for courses in languages like French, German, Japanese, and Spanish by clicking the Content language: dropdown next to the  Topics icon.
+
+
+
+Search for keywords in the search bar.
+
+Browse content topics by clicking the  Topics icon next to the search bar.
+
+Browse by profession by clicking the dropdown next to Recommendations by Job Title:.
+
+Scroll to the bottom of the Explore tab homepage to find Learning Paths for your organization that have been recommended by LinkedIn Learning.
+
+If you have multiple language libraries available to you, you can also browse for courses in languages like French, German, Japanese, and Spanish by clicking the Content language: dropdown next to the  Topics icon.
+
+Using the Filters in the left rail, click on Learning Paths under Type.
+
+Select the curated learning path you wish to recommend and click the  Share icon.
+
+Select if you’d like to Share to learners/groups or Get shareable link.
+
+If you choose to Share to learners/groups, enter the Learner or group names you wish to recommend content to, or check the box if you wish to Recommend to all users.
+
+Enter a Message and Add due date, if desired.
+
+Click Send.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

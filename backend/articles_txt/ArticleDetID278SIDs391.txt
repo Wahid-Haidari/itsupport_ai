@@ -1,0 +1,14 @@
+
+  What is an OUNetID?
+
+
+To log in to OU sites, you will use your OUNet ID and the password you setup at the Account Management site. Your OUNet ID consists of the first 4 letters of your last name + a series of 4 numbers.
+
+To retrieve your OU Net ID please visit https://one.ou.edu (https://one.ou.edu) and then click the “Forgot OUNetID?” link. If you are automatically logged in to One after clicking that link, you can click your photo account icon in the upper right corner of One and select Account Settings. Your OUNet ID will displayed on the right side of the page.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

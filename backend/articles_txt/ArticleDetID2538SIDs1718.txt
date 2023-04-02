@@ -1,0 +1,56 @@
+
+  MyMedia - Adding Users to a Channel
+
+
+Note: Canvas has a built-in MyMedia integration called Media Gallery that acts as a channel within your course. We recommend using Media Gallery when possible. Learn more about Media Gallery. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=394&SIDs=531)
+
+To Add users to your channel:
+
+Log in to mymedia.ou.edu. (http://mymedia.ou.edu/)
+
+ Click on your name (in the top right corner) to open a drop-down menu.
+
+Select My channels from the drop-down menu.
+
+Locate the channel you want to add/remove users and click on it.
+
+Click on the Users Tab.
+
+Click on + Add Users.
+
+
+
+Type the user's name, email or OUNetID (4x4) and select one of the relevant roles (refer to the table below to see the permission by role).
+
+Click Add.
+
+
+
+Role Name
+
+Activity/Permission
+
+Member
+
+Can only view the channel.
+
+Contributor
+
+Can view and add videos/media to the channel.
+
+Moderator
+
+Can view the channel, add videos/media to the channel and moderate the channel content.
+
+Manager
+
+Can view the channel, add videos/media to the channel, moderate the channel content and manage the channel.
+
+Note: Only the channel manager or owner can add members to the channel.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

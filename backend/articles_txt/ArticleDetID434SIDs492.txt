@@ -1,0 +1,34 @@
+
+  Validating Cognos reports using Report Studio
+
+
+This is an example of what is returned when a report is opened with Report Studio. It tells you that the package has been updated. You may click OK within the box or click the Verification ICON in the upper left corner of the screen.
+
+
+
+This next screen tells you that validation has begun.
+
+
+
+If your report requires Parameter input, the parameters must be supplied and ‘Finish’ selected at the bottom of the page (not shown here because the picture was taken before going to the bottom)
+
+
+
+This page comes back indicating that the specification are now valid with the new package.
+
+
+
+Before executing the report be SURE to update the validated report by saving the latest version when you click on the ‘Save’ ICON in the upper left corner. Now you can excute the report.
+
+
+
+ 
+
+Please Note: If you do not save after validation, it will ask you to do it again the next time you open the report.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

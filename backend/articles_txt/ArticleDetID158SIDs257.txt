@@ -1,0 +1,12 @@
+
+  Multiplayer Gaming on Campus
+
+
+Multiplayer network functionality varies by game and system. Unfortunately current OU network infrastructure does not currently support peer to peer connections needed for some games, voice chats and multi-player features. For that reason, some features or games may not work. OU IT is currently working with our vendors to find a solution.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

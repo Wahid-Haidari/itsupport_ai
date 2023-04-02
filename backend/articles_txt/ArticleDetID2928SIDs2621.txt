@@ -1,0 +1,42 @@
+
+  Canvas – New Analytics
+
+
+New Analytics allows you to track student class participation using an interactive chart graph or table. Data is for viewing only and cannot directly be changed. You can view analytics in both active and concluded courses.
+
+Course analytics will show you student activity, assignment submissions, grades, and student names. Page views and participation metrics include an aggregate across all devices, including Canvas mobile apps.
+
+Only active and completed student enrollments are included in the data for New Analytics. Deleted or inactive user enrollments will not generate data.
+
+By default, the analytics page displays an interactive chart graph of all data. However, you can switch and view data within a table (https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-view-average-course-grade-analytics-in-a-data-table-in/ta-p/1199) at any time.
+
+Notes:
+
+If you cannot view the New Analytics link in Course Navigation, you may have to make the link visible via the Navigation tab in Course Settings. If the New Analytics link is not available in the Navigation tab, your institution has disabled this feature.
+
+Data is refreshed in New Analytics every 24 hours. Please confirm the time the data was last updated in the course, as content may be outdated compared to recent course activity and student submissions.
+
+In order for New Analytics to display in Canvas, third-party cookies may need to be enabled in your browser settings.
+
+Use New Analytics to:
+
+View average course grade analytics as an interactive chart graph (https://community.canvaslms.com/docs/DOC-18032-4152984807) or a data table (https://community.canvaslms.com/docs/DOC-18034-how-do-i-view-average-course-grade-analytics-in-a-data-table-in-new-analytics)
+
+Compare the course average with an individual assignment, course section, or student filter using the chart graph comparison (https://community.canvaslms.com/docs/DOC-18037-4152984806) or data table comparison (https://community.canvaslms.com/docs/DOC-18033-4152984808)
+
+View average weekly online participation analytics as an interactive chart graph (https://community.canvaslms.com/docs/DOC-17994-41521081669) or a data table (https://community.canvaslms.com/docs/DOC-17997-41521081670)
+
+Compare the course average weekly online participation analytics with an individual student or section using the chart graph comparison (https://community.canvaslms.com/docs/DOC-17996-41521081671) or data table comparison (https://community.canvaslms.com/docs/DOC-17995-41521081672)
+
+Send a message to all students based on specific course grade (https://community.canvaslms.com/docs/DOC-18039-4152982519) or participation criteria (https://community.canvaslms.com/docs/DOC-18031-41521081673)
+
+Send a message to an individual student based on specific course grade (https://community.canvaslms.com/docs/DOC-18035-4152984805) or participation criteria (https://community.canvaslms.com/docs/DOC-18000-41521081674)
+
+View course grade and participation analytics for an individual student (https://community.canvaslms.com/docs/DOC-18036-41521113470)
+
+View and download reports (https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-view-and-download-reports-in-New-Analytics/ta-p/409936) on missing, late, or excused assignments, class roster, and course activity.
+
+View a report that displays if students have met online attendance criteria (https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-view-the-Online-Attendance-report-in-New-Analytics/ta-p/478617) that has been selected by an admin (https://community.canvaslms.com/t5/Admin-Guide/How-do-I-enable-the-New-Analytics-Online-Attendance-report-in-an/ta-p/478614).
+
+Visit the Canvas Help pages for other helpful guides on New Analytics (https://community.canvaslms.com/t5/Instructor-Guide/tkb-p/Instructor#NewAnalytics).
+

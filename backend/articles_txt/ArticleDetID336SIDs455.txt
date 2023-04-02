@@ -1,0 +1,14 @@
+
+  Adobe Cloud Storage
+
+
+Adobe Creative Cloud Storage is now active with our OU Enterprise Adobe license. This service provides each user with 20 Gb of storage space to use with Creative Cloud applications. This also enables the use of Adobe’s mobile apps for iOS and Android devices.
+
+As with all cloud storage, you must be aware of what you store and who has access to your files. Adobe Cloud Storage is not an approved environment to store sensitive data (HIPAA, FERPA, PCI, etc.). Please be aware you will be responsible for content you store in this service and the permissions required for access.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

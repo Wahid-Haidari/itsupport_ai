@@ -1,0 +1,28 @@
+
+  Canvas – Adding External Tools to your Course in Canvas
+
+
+To add an external tool to your course:
+
+Click on Modules in the navigation bar, and either create a new module (+Module) or edit an existing module.
+
+In the appropriate module, click the + icon in the header to add an item to the module; select External Tool from the dropdown menu.
+
+Select the desired LTI tool from the list.
+
+Check the ‘Load in a new tab’ box.
+
+Click Add item to save.
+
+Click the Publish icon to the right of the LTI tool link.
+
+If the module is not yet published, click the Publish icon to the right of the module title.
+
+Click the link for the app to test the integration.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,25 @@
+
+  Attendance Reports from Zoom
+
+
+This article will provide step-by-step instructions to get attendance reports from Zoom meetings. Reports for each meeting are generated and will have a list of attendees for that meeting. There may be duplicate attendees if someone left and rejoined for example.
+
+Sign into the Zoom website (oklahoma.zoom.us).
+
+On the side bar on the left side of the page, you will click on Reports, and this will take you to the Usage Reports.
+
+
+Next click Usage where you will able to view meetings, participants, and other date in a specified date range.
+
+
+Set the date range to the day you are wanting data from, click the search button, and Zoom will show the meetings in that range.
+
+
+You can either export this data as a CSV file to see the participant info or you can click the number of participants to view the list of participants.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

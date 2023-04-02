@@ -1,0 +1,20 @@
+
+  MyMedia - Recommended audio specifications
+
+
+Audio files: (AAC, MP3) with appropriate file extensions (.m4a, .mp3). For best results during playback, MyMedia recommends the following specifications:
+
+Audio Format: Baseline Low-Complexity Profile with AAC-LC (Music)
+
+Data Rate: Up to 160 Kbps
+
+Channels: Stereo in .m4v, .mp4, and .mov formats
+
+Output Sample Rate: 48 kHz
+
+Encoding Quality: Better
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

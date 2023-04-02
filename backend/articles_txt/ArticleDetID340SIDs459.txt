@@ -1,0 +1,69 @@
+
+  PeopleSoft Employee Self Service
+
+
+Employee Self-Service (https://selfservehc.ou.edu/) allows OU employees to do the following:
+
+View and print your earning statements and save them to your personal computer.
+
+View and update address information.
+
+View and update campus and phone numbers.
+	
+Updates made to the campus phone number in this system will also be reflected in the other campus databases. This includes the online faculty / staff directory at search.ou.edu and the global address book available in Outlook.
+A campus phone number is required; cell and/or home phone numbers are not displayed to the public. 
+
+
+
+Updates made to the campus phone number in this system will also be reflected in the other campus databases. This includes the online faculty / staff directory at search.ou.edu and the global address book available in Outlook.
+
+A campus phone number is required; cell and/or home phone numbers are not displayed to the public. 
+
+Enroll in Direct Deposit.
+
+View paycheck information.
+
+Create and update an emergency contact list.
+
+View compensation data.
+
+OU Norman program employees can update federal W-4 tax information.
+
+OU Norman program employees can print duplicate W-2 wage and tax statements for years starting with 2006.
+
+To access Employee Self-Service:
+
+Log in at http://selfservehc.ou.edu/ (http://selfservehc.ou.edu/) (opens new window).
+
+You will need to authenticate with Ping Mulfi-Factor Authentication.
+	
+To learn more about PingID, see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533).
+To learn more about what to expect when using Ping to access Employee Self-Service, see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2921).
+
+
+
+To learn more about PingID, see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533).
+
+To learn more about what to expect when using Ping to access Employee Self-Service, see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2921).
+
+Only employees who are currently listed as active employees according this system will be able to log in. 
+	
+Access should be available if the employee has reached their official start date and all hiring paperwork (including electronic approvals) is complete.
+If you are unable to log in, contact the HR representative in your department to verify that all of your paperwork/approvals have been completed.
+
+
+
+Access should be available if the employee has reached their official start date and all hiring paperwork (including electronic approvals) is complete.
+
+If you are unable to log in, contact the HR representative in your department to verify that all of your paperwork/approvals have been completed.
+
+Access to the system begins after your start date and ends after your position is terminated.
+
+Users who no longer work at OU that need to access W-2 tax information should contact Payroll. (https://www.ou.edu/payroll)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

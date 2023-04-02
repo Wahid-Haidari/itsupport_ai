@@ -1,0 +1,54 @@
+
+  MyMedia Hotspots: Introduction and how to add them
+
+
+Hotspots are clickable objects in a video. They usually have links relevant to the video’s content, which may include:
+
+Another video
+
+A form
+
+A wiki article
+
+A pdf
+
+A citation
+
+A different time point in the video
+
+ 
+
+Note: Hotspots cannot be used in Quiz videos.
+
+To access the Hotspot Menu, log in using your OUNet ID in mymedia.ou.edu
+Once you are logged in, click on Your Name on the top-right corner and the MyMedia on the drop down media.
+
+Then, click on the Edit icon to the right of the video in which you would like to add Hotspots.
+
+Click on the Launch Editor button.
+
+This will take you to the Video Editor window.
+
+Click on the Hotspot Tab in the video editor
+
+Next, drag the blue indicator in the time-bar to the point of the video in which you would like to add a hotspot
+
+Click on Add Hotspot
+
+ 
+
+Click on the media player at the spot in which you want to add the Hotspot. You can move it by clicking, holding and dragging to a new position. However, you cannot place it in the bottom part of the video.
+
+Add the text that you wish to display on the hotspot, select whether you want to add an URL or a different time within the same video.
+To change the format of the Hotspot, click on advanced settings. Aspects such as the style of text and shape and the timeline of the hotspot can be edited here.
+
+Click on Done.
+
+A Hotspot can be edited and duplicated after saved by clicking on the three dots on its right end.
+
+Click on Save when finished.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,12 @@
+
+  Enterprise Data Integration
+
+
+There are hundreds of different software systems used across campus on a daily basis, but all too often, there are no easy ways to exchange data between them. The Data Integration service is designed to provide a means of making data in one system available to another system, whether those systems are on premise or in the cloud. Our data migration specialists will use the latest tools available to create an automated, reliable method of sharing data between systems. For more information on this service or to request or modify the service, please visit our Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=67).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,42 @@
+
+  Updating Media Gallery Video settings and features
+
+
+To edit the video after being published: 
+
+Hover over the course in the media gallery page. 
+
+Click on the three dots at the bottom.  
+
+ 
+
+Then the pencil icon.
+
+This will allow you to edit the video settings. 
+
+Details will allow you to edit the name and description. 
+
+ 
+
+Publish will allow you to choose where to publish the media. 
+
+This feature allows you to publish your video in multiple courses. 
+
+ 
+
+Options controls comments and clipping by choosing to click on the check mark. 
+
+ 
+
+Collaboration is for adding a new co-editor, co-publisher, or co-viewer. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=367&SIDs=506)
+
+Captions is for adding new captions other than the automatically generated ones through MyMedia. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=379&SIDs=518)
+
+Replace Media allows you to choose another video to replace the existing one, either by uploading from your personal computer or inserting a media URL. Please note that replacing a media will remove the original video and OUIT recommends uploading a new one rather than replacing. 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

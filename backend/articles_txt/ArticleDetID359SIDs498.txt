@@ -1,0 +1,20 @@
+
+  MyMedia Avoiding Media Deletion
+
+
+The University of Oklahoma MyMedia storage policy has recently changed. Due to that change, users are now required to play their content within a two-year span to keep content from being deleted. Users who have content up for deletion will receive an email entitled: Action Required: MyMedia Video Deletion. Within that email, users will have titles of all videos that will need to be played within the following 60 days; otherwise, the video will be deleted. Below are steps that will allow users to search for the specific videos by title to play them and remove them from the deletion queue.
+
+Navigate to the MyMedia Homepage: Mymedia.ou.edu (https://mymedia.ou.edu/)
+
+After logging into MyMedia, click on My Media
+
+In Search My Media, type or paste the title of the video you are searching for:
+
+Once the title is input into the search bar, click enter, and videos with that title or words in the title will appear below. Click on videos to bring them up to play.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

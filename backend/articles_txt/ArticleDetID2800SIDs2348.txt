@@ -1,0 +1,46 @@
+
+  Qualtrics - Collaboration
+
+
+Qualtrics allows for working with collaborators on a survey project. This article covers both collaborating with other members of the OU community and collaborating with people outside the university.
+
+To collaborate with others at OU, everyone must first activate their Qualtrics accounts. For information on activating your account visit the first-time login article for your campus:
+
+Norman (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=342&SIDs=1668)
+
+OKC (https://itsupport.ou.edu/TDClient/34/OKC/KB/ArticleDet?ID=342&SIDs=2300)
+
+Tulsa (https://itsupport.ou.edu/TDClient/33/Tulsa/KB/ArticleDet?ID=342&SIDs=2311)
+
+Once everyone has an active account, follow the steps below to add OU collaborators.
+
+Open the survey builder. This is the default page when you first open the survey.
+
+Click the Tools dropdown menu.
+
+Select Collaborate.
+
+
+
+Select User and Group Address Book. NOTE: Using this method will ensure that the survey is linked correctly between the accounts and eliminates the need to accept a sharing invitation or use a collaboration code.
+
+
+
+Search for the person you wish to collaborate with.
+
+Select their account from the list. If they are not on the list, they may not have activated their OU account yet.
+
+Click Add Selected.
+
+
+
+Select what permissions your collaborator should have. Qualtrics has an article about Collaboration Permissions (https://www.qualtrics.com/support/survey-platform/my-projects/sharing-a-project/#SharingPermissions) if you would like more information.
+
+
+
+Click Save.
+
+ 
+
+OU accounts can collaborate with accounts outside OU. Visit Qualtrics’ help article on Collaborating Outside your Organization (https://www.qualtrics.com/support/survey-platform/my-projects/sharing-a-project/#SharingOutsideYourOrganizationAndWithNewUsers) for more information and step-by-step instructions.
+

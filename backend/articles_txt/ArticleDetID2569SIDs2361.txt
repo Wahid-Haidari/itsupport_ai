@@ -1,0 +1,18 @@
+
+  Looking up your Incidents and Requests on ITSupport
+
+
+For a listing of your ITSupport.ou.edu tickets that you have submitted, you may view a filterable list by using the steps below.
+
+To begin, navigate to itsupport.ou.edu (http://itsupport.ou.edu) and click Sign in in the upper right hand corner of the screen. Log in using your campus ID. 
+
+Once logged in, click the Portal for your campus or area.
+
+Your portal will now be displayed. 
+
+Next click on the Services tab to see the directory of service offerings. 
+
+Now click the Ticket Requests tab to see your current Open requests.
+
+You can select additional filter options to narrow your search. You may also click the headings for the results columns to sort by those columns. 
+

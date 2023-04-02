@@ -1,0 +1,26 @@
+
+  Canvas – Issues with Direct Replies from OU Email
+
+
+Some users have reported their inability to directly reply to Canvas messages from their OU email address. When users are loaded from our information system, they are assigned their default email address (FirstName.MiddleInitial.LastName-1@ou.edu (mailto:FirstName.MiddleInitial.LastName-1@ou.edu)) instead of the alias email address. When a user receives a notification about Canvas communication, it is sent to this default email address. When the user replies, it is usually coming from their alias address – which Canvas does not recognize so the reply isn’t processed.
+
+In order to resolve the issue, users need to add their alias email address to their Canvas profile as a contact method. The steps to do so are as follows:
+
+Log into Canvas, click the Account link, then click the Settings link.
+
+In the Ways to Contact sidebar (located in top right of page), your account displays the default email associated with your account. To add your OU alias email address, click the Add Email Address link.
+
+On the Register Communication page, enter your alias email address, then click Register Email.
+
+You will receive a Confirm Email Address popup screen. Go to your OU Email inbox and click on the confirmation link located in the Canvas email to finish the registration process (you will be redirected to the Canvas log in screen).
+
+Click Login. Enter your OUNet ID and password (if prompted), then click Sign In.
+
+Go to your account settings. Under Ways to Connect, hover to the right of your alias email address and click the star icon next to your email address to confirm registration.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

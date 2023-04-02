@@ -1,0 +1,18 @@
+
+  Virtual Labs
+
+
+Virtual labs are similar to a physical computer lab in that multiple students can utilize technology resources in a centralized location. A virtual lab, however, exists in a virtual environment. You simply connect your computer to the virtual lab, and access access computer lab resources. In this type of environment, an application runs entirely on the OU IT server. In many ways, using a virtual lab is similar to using a web-based application.
+
+OU IT partners with colleges and departments to offer these services to students, faculty, and staff within the college. Currently, we host virtual labs for two colleges.
+
+Gallogly College of Engineering Virtual Lab (https://www.ou.edu/coe/resources/tech/computer-labs)
+
+Mewbourne College of Earth and Energy Virtual Lab (https://www.ou.edu/mcee/resources/information-technology#vlab)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,36 @@
+
+  How to Add/Share Media Gallery Playlist to Canvas pages
+
+
+To Add or Share playlist in any canvas pages like modules, pages, assignment etc, you must first create a playlist in media gallery. Click here to learn on How to create playlist in media gallery. Note that only instructor or course moderator can add/share playlist anywhere in Canvas. 
+
+Follow through the following steps to add playlist in canvas outside media gallery. (Following example publishes playlist in the Discussion page of canvas)
+
+Go to the module where you want to add the playlist (Discussion in example) 
+
+
+
+Click on the Discussion edit menu if you want to add playlist to existing Discussion or create new Discussion by clicking on the + Discussion button. In the Text editor, click on the OU MyMedia (Kaltura) icon. 
+
+ 
+
+It will take you to the OU MyMedia where you will all your medias posted in MyMedia. 
+
+ 
+
+Click on the Media Gallery Playlists tab.  
+
+ 
+
+Find the media playlist you want to post/share. Click on </>Embed button located on the right of each playlist. You will see your playlist in the text entry. 
+
+ 
+
+Give appropriate title to the module and publish it. 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

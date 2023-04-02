@@ -1,0 +1,30 @@
+
+  Embed using MyMedia in Canvas
+
+
+Videos uploaded to your MyMedia account can be placed on any section of Canvas where the rich content editor (picture below) is available, such as discussion threads, announcements, assignments, etc. Videos placed on Canvas this way also bypass privacy settings on MyMedia so your videos can remain private on MyMedia while still being available for your students. This article will provide directions on how to place a MyMedia video on a Canvas course.
+
+
+
+Navigate to the Canvas course and new item (discussion, announcement, etc.) you want to embed video on.
+
+Click the multicolored sun/starburst icon (circled in the screenshot below) in the bottom row of options above the text box for the editor.
+
+
+
+You will now see different screen of OU MyMedia (Kaltura).
+
+
+
+4. Click Embed next to the video you want to include on this item. The video player will be placed in the text box and the video will be ready to view when you publish this item.
+
+
+
+5. You can also add a new webcam or screen recording from this menu as well by clicking Add New and selecting Kaltura Capture.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

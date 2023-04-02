@@ -1,0 +1,31 @@
+
+  Accessing Adobe Creative Cloud in Campus Labs
+
+
+Please Note: this article applies to computer labs only.
+
+Beginning at the launch of the Adobe Creative Cloud Application
+
+Step 1
+After logging into the computer, locate the Adobe Creative Cloud Icon and open the application.
+
+Step 2
+You will be prompted to enter your OU email into the email field. A password is not yet necessary. After entering your email, you will be redirected to another screen.*
+
+*If you entered an OU email that is associated with another Adobe Creative Cloud account, you will be asked if you want to login with your personal account or an Enterprise ID. Choose Enterprise ID.
+
+Step 3
+Login with your OUNetID (4×4). This is the same login you would use for Canvas, your OU email, or any other OU account
+
+Step 4
+After logging in with your OUNetID (4×4), you will be taken to the Adobe Creative Cloud application. Once you have access to the application, you will be able to access all the Adobe applications installed on the lab computer
+
+Step 5
+Open the start menu on the computer and navigate to the Adobe Application to launch your desired program
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

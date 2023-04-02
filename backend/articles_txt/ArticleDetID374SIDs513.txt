@@ -1,0 +1,55 @@
+
+  MyMedia - General Site Navigation
+
+
+Due to the increasing demand for digital content in course curriculum, a solution that enables our students and faculty to create, store, and distribute video content enhances the academic experience. MyMedia enhances lecture capture and live streaming, while also providing a framework for ADA/508 compliance.
+
+Go to mymedia.ou.edu. The recommended browser for MyMedia is Mozilla Firefox or Google Chrome. Some features may be unavailable or not work properly using Apple Safari or Microsoft Edge. 
+
+Click on the “LOGIN” tab on the top right-hand side.
+
+A dropdown menu will appear. In the dropdown menu select the last option titled “Login”.
+
+Enter your OUNetID and password to reach your MyMedia page.
+
+ 
+
+The main menu offers quick access to public files uploaded to MyMedia. This content is sorted by college, course, and department. The main menu also has links to help articles and additional support.
+
+Home-This is the first link on the main menu ribbon. It will take you to the MyMedia homepage which includes featured videos, new content, and most viewed content.​​​
+
+​Featured Courses – This tab shows materials from some courses in OU that can be completely taken online every session. Some of these courses are:
+	
+American Federal Government 1113
+US History
+
+
+
+American Federal Government 1113
+
+US History
+
+Libraries – This tab features new content published by OU Libraries. This can include anything from research tips to general library information. Currently, the content displayed here is divided into three topics:
+	
+Beyond OUr Walls
+Education Resources
+Open Education
+
+
+
+Beyond OUr Walls
+
+Education Resources
+
+Open Education
+
+OU Wellness – This tab features content created by or related to OU Wellness. These resources allow OU faculty and staff the ability to choose their own way by focusing on the goals that are most important to them. This tab shows a variety of videos whose topics vary from Goal Setting to Coaching and Health.
+
+Channels – Under this tab, you can find public channels. You can think of these as some sort of playlist, and create your own.
+
+Help Articles-Clicking on “Help Articles” will direct you to the OU IT Knowledgebase. Here you can find articles to help you navigate academic sites and spaces managed by OU IT.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

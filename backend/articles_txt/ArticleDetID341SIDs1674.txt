@@ -1,0 +1,101 @@
+
+  Qualtrics Support
+
+
+University IT support is available through needhelp.ou.edu (http://needhelp.ou.edu/) or 325-HELP (4357). 
+
+Support requests specific to Qualtrics can also be submitted at the support page for your campus. 
+
+Norman Support Request form (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=82&SIDs=1845)
+OKC Support Request form (https://itsupport.ou.edu/TDClient/34/OKC/Requests/ServiceDet?ID=82&SIDs=2326)
+Tulsa Support Request form (https://itsupport.ou.edu/TDClient/33/Tulsa/Requests/ServiceDet?ID=82&SIDs=2328)
+
+
+
+Norman Support Request form (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=82&SIDs=1845)
+
+OKC Support Request form (https://itsupport.ou.edu/TDClient/34/OKC/Requests/ServiceDet?ID=82&SIDs=2326)
+
+Tulsa Support Request form (https://itsupport.ou.edu/TDClient/33/Tulsa/Requests/ServiceDet?ID=82&SIDs=2328)
+
+Before using Qualtrics to collect sensitive data, please refer to the current HIPPA and FERPA policy for Qualtrics (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=334). We do not have an agreement in place for FERPA data and it should not be collected or stored via Qualtrics. For specific questions about sensitive data, contact grc@ou.edu (mailto:grc@ou.edu). 
+
+Qualtrics can also be contacted directly, if desired. To access the Qualtrics support page: 
+
+
+Log into your OU Qualtrics account at survey.ou.edu (http://survey.ou.edu). 
+
+
+Log into your OU Qualtrics account at survey.ou.edu (http://survey.ou.edu). 
+
+
+Click the question mark icon in the upper right corner.  
+
+
+Click the question mark icon in the upper right corner.  
+
+                                     
+
+
+A popup window with several options will show. Select Contact Support. 
+
+
+A popup window with several options will show. Select Contact Support. 
+
+
+A login screen will appear. Do not log in on this page. Instead, click on Sign in with SSO. 
+
+
+A login screen will appear. Do not log in on this page. Instead, click on Sign in with SSO. 
+
+          
+
+
+It will ask for an Organization ID. Enter ousurvey into the field. Once the Organization ID is submitted, it may let you in immediately or you may need to enter your OU Credentials.
+
+
+It will ask for an Organization ID. Enter ousurvey into the field. Once the Organization ID is submitted, it may let you in immediately or you may need to enter your OU Credentials.
+
+
+Select Get technical support.
+
+
+Select Get technical support.
+
+        
+
+
+There will be multiple topic options to choose from. For most issues, selecting Survey Platform will work. 
+
+
+There will be multiple topic options to choose from. For most issues, selecting Survey Platform will work. 
+
+       
+
+
+You can now choose how you would like to contact Qualtrics. Live chat works well for quick responses to short questions, while email works better for more complex questions and troubleshooting. Once you select an option, you will be asked to fill out a form with your information and a description of the problem.
+
+
+You can now choose how you would like to contact Qualtrics. Live chat works well for quick responses to short questions, while email works better for more complex questions and troubleshooting. Once you select an option, you will be asked to fill out a form with your information and a description of the problem.
+
+        
+
+Qualtrics has many online support articles at https://www.qualtrics.com/support/ (https://www.qualtrics.com/support/) 
+
+Any upcoming trainings offered by IT Learning Spaces will be posted on the OU IT calendar (https://calendar.ou.edu/ouit/all). Qualtrics To request training for your department, contact OU IT at 405-325-HELP (4357) or submit a ticket via the Support Request Form (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=82&SIDs=1845).  
+
+  
+
+Qualtrics ended support for Internet Explorer June 15th, 2022. The website may redirect to use Microsoft Edge. For users that are not automatically redirected, continuing to use Internet Explorer may result in unexpected behavior or errors. View supported browsers for Qualtrics. (https://www.qualtrics.com/support/survey-platform/getting-started/browser-cookies/)
+
+For more information please visit: 
+http://qualtrics.com/university/researchsuite/reporting/responses/combining-results/ (http://qualtrics.com/university/researchsuite/reporting/responses/combining-results/) 
+
+Qualtrics no longer offers support for email triggers. We recommend using Workflows (https://www.qualtrics.com/support/survey-platform/actions-module/setting-up-actions/) instead of email triggers on new survey projects. For existing projects, a malfunctioning email trigger can be replaced with an Email task (https://www.qualtrics.com/support/survey-platform/actions-module/email-task/) in Workflows. OU IT offers detailed instructions for replacing triggers both in written and video format. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2844&SIDs=2409)
+
+Please call OU IT at 405-325-HELP (4357) or submit a request (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=82&SIDs=1845).
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

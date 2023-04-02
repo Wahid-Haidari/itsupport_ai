@@ -1,0 +1,42 @@
+
+  Create a new screen capture in MyMedia
+
+
+Create a new screen capture recording in MyMedia.
+
+Log in at mymedia.ou.edu with your OUNetID and password
+
+At the top of the page, go to Add New > Kaltura Capture
+
+
+Once the Kaltura CaptureSpace Desktop Recorder has been installed, you will have to launch it from the website (Repeat Add New > Kaltura Capture)
+
+Select which screen (i.e. monitor) to capture, and whether it will be the full screen or a selected area
+
+If it is a selected area, you will be prompted to choose the area
+
+Select an audio source if applicable
+
+Once you have made your selections, a countdown to the recording will appear, followed by a toolbar during the actual recording
+
+​Click the Stop button (gray box) on the toolbar when you are finished. Then select Yes, Stop it
+
+
+You will be taken to a preview of your screen capture, where you can watch it
+
+Here, you can also add a title, a description, and tags to the video
+
+Next, you can Save, Save & Upload, or, if desired, Delete the capture.
+
+
+
+After Saving and Uploading, you will be taken to the library, in which you can find previous recordings and links to them.
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

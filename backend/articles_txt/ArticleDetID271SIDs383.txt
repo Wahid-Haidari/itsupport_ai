@@ -1,0 +1,13 @@
+
+  Student Directory Holds
+
+
+A Directory Hold forces the university to withhold all student information from release. This includes OU Search, Global Address Book in OU Exchange, etc. Having a directory hold also limits account modifications a user can make when calling OU IT Services. The hold will require the user to go in person to an IT Service Center and provide a photo ID for any account modifications. Also note that a Directory Hold can also preclude potential employers from being able to access your information.
+The only way to add or remove a Directory Hold is to go to Buchanan Hall, Office of Academic Records and fill out a “Request to Withhold Student Directory Information“. Academic Records can be contacted at 405-325-4147 for additional information.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

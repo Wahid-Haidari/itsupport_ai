@@ -1,0 +1,12 @@
+
+  Enterprise Data Migration
+
+
+The Data Migration service is designed to allow the data owners to give rules for the transformation of data from one system into another. We will work with the requestors to integrate the retiring system to our Data Repository, and from there build a series of transformations that can be fed into the new system at regular intervals. And because we will have rules on how to go from old to new, we also have rules to go from new to old, allowing reports to be written that can bridge both systems, if not all history is loaded into the new solution. For more information on this service or to request or modify the service, please visit our Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=67).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

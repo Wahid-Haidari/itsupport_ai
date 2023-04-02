@@ -1,0 +1,159 @@
+
+  OU VPN Client Connection Failure Due to DNS Issues
+
+
+The University of Oklahoma OU VPN client connects makes a user’s computer part of the OU network, even while they are off campus. Some issues may arise if your computer is configured with incorrect IP information for the VPN servers in the network hosts file. To correct this issue, any entries for the OU VPN servers in your hosts file will need to be removed. To check your hosts file, please do the following:
+
+In Windows 8, use the Search function to search for Notepad. When Notepad is found, right-click the Notepad program icon in the search results and choose to “Run as administrator”. Once Notepad opens, click File, then Open and enter the following: c:\windows\system32\drivers\etc\hosts
+
+This will open the hosts text file with your Notepad window. Look for the entry soonerconnect1.ou.edu and soonerconnect2.ou.edu. If they are listed, delete that line and the listed IP address from the file.
+
+For example, it would look like the following:
+
+0.0.0.0                  soonerconnect1.ou.edu
+
+Where 0.0.0.0 is replaced with whatever IP address numbers had been incorrectly saved for the soonerconnect1 and 2 entry. Delete the line for both soonerconnect entries and then click File, then Save.
+
+Once the hosts file has been updated, please run the nslookup query to verify your computer no longer retains the incorrect DNS information.:
+
+Press Win+X to open the WinX Menu.
+
+Right-click on Command Prompt and select Run as Administrator.
+
+Type the following command and press Enter: ipconfig /flushdns
+
+If the command was successful, you will see the following message: “Windows IP configuration successfully flushed the DNS Resolver Cache.”
+
+To verify if your computer is now resolving “soonerconnect1.ou.edu” and “soonerconnect2.ou.edu” properly, in your Command Prompt window, enter the following:
+	
+nslookup soonerconnect1.ou.edu
+The above command should result in the following IP: 156.110.27.173
+Next, check the second soonerconnect server:
+nslookup soonerconnect2.ou.edu
+The above command should result in the following IP: 156.110.27.172
+
+
+
+nslookup soonerconnect1.ou.edu
+
+The above command should result in the following IP: 156.110.27.173
+
+Next, check the second soonerconnect server:
+
+nslookup soonerconnect2.ou.edu
+
+The above command should result in the following IP: 156.110.27.172
+
+If you still receive a different IP address, please verify you have updated your hosts file as instructed above. If you still continue to have problems or have any questions, please call the OU IT help line at 325-HELP (4357).
+
+To access the hosts file in Windows 7, click on Start, All Programs then Accessories. Right click Notepad, and select Run as Administrator from the popup menu. Once Notepad opens, click File, then Open and enter the following: c:\windows\system32\drivers\etc\hosts
+
+This will open the hosts text file with your Notepad window. Look for the entry soonerconnect1.ou.edu and soonerconnect2.ou.edu. If they are listed, delete that line and the listed IP address from the file.
+
+For example, it would look like the following:
+
+0.0.0.0                  soonerconnect1.ou.edu
+
+Where 0.0.0.0 is replaced with whatever IP address numbers had been incorrectly saved for the soonerconnect1 and 2 entry. Delete the line for both soonerconnect entries and then click File, then Save.
+
+Once the hosts file has been updated, please run the nslookup query to verify your computer no longer retains the incorrect DNS information.:
+
+Click the Start button.
+
+Enter cmd in the Start menu search field.
+
+Right-click on Command Prompt and select Run as Administrator.
+
+Type the following command and press Enter: ipconfig /flushdns
+
+If the command was successful, you will see the following message: “Windows IP configuration successfully flushed the DNS Resolver Cache.”
+
+To verify if your computer is now resolving “soonerconnect1.ou.edu” and “soonerconnect2.ou.edu” properly, in your Command Prompt window, enter the following:
+	
+nslookup soonerconnect1.ou.edu
+The above command should result in the following IP: 156.110.27.173
+Next, check the second soonerconnect server:
+nslookup soonerconnect2.ou.edu
+The above command should result in the following IP: 156.110.27.172
+
+
+
+nslookup soonerconnect1.ou.edu
+
+The above command should result in the following IP: 156.110.27.173
+
+Next, check the second soonerconnect server:
+
+nslookup soonerconnect2.ou.edu
+
+The above command should result in the following IP: 156.110.27.172
+
+If you still receive a different IP address, please verify you have updated your hosts file as instructed above. If you still continue to have problems or have any questions, please call the OU IT help line at 325-HELP (4357).
+
+Open Terminal (Using Spotlight, type Terminal and press the enter key).
+
+In the terminal window, type the following:
+	
+sudo nano /private/etc/hosts
+
+
+
+sudo nano /private/etc/hosts
+
+Enter your administrator password when prompted.
+
+The HOSTS file will appear in the Terminal window.
+
+Use the arrow keys on the keyboard to navigate through the HOSTS file and delete the entries for soonerconnect1.ou.edu and soonerconnect2.ou.edu.
+
+Hit Control+O and then press the enter key to save changes. Press Control+X to exit the HOSTS file.
+
+Next you will need to flush your DNS cache, For OS X 10.7 and 10.8 type:
+	
+sudo killall -HUP mDNSResponder
+
+
+
+sudo killall -HUP mDNSResponder
+
+For OS X 10.5 and 10.6 type:
+	
+sudo dscacheutil -flushcache
+
+
+
+sudo dscacheutil -flushcache
+
+To verify if your computer is now resolving “soonerconnect1.ou.edu” and “soonerconnect2.ou.edu” properly, in your Terminal window, enter the following:
+	
+nslookup
+You should then receive a > prompt, so enter: soonerconnect1.ou.edu
+The above command should result in the following IP: 156.110.27.173. Next, check the second soonerconnect server:
+nslookup
+You should then receive a > prompt, so enter: soonerconnect2.ou.edu
+The above command should result in the following IP: 156.110.27.172
+
+
+
+nslookup
+
+You should then receive a > prompt, so enter: soonerconnect1.ou.edu
+
+The above command should result in the following IP: 156.110.27.173. Next, check the second soonerconnect server:
+
+nslookup
+
+You should then receive a > prompt, so enter: soonerconnect2.ou.edu
+
+The above command should result in the following IP: 156.110.27.172
+
+If you receive a different IP address, please verify you have updated your hosts file as instructed above. If you have any questions, please call the OU IT help line at 325-HELP (4357).
+
+Type exit to logout of Terminal. To quit Terminal, right click the Terminal icon and choose Quit.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,50 @@
+
+  Qualtrics - Replacing an Email Trigger with an Email Task
+
+
+Qualtrics is no longer offering support for email triggers. While they are still available for use, if one breaks it cannot be fixed and must be replaced with a Workflow. The Workflows tool can be used to build a variety of automated tasks in Qualtrics, including one option that works similarly to email triggers. OU IT recommends that all new surveys be built with Workflows. Existing triggers can continue to be used so long as they remain functional. Existing triggers can also be replaced proactively if desired, though Qualtrics does plan to release an automatic conversion tool in the coming months. The steps below outline the process for creating a Workflow. If created to replace an email trigger, remove the trigger once the Workflow is completed and working correctly. Changes to Workflows go live immediately and do not need to be published. However, the survey will need to be republished after removing the email trigger for this change to take effect. When possible, testing Workflows before sending the survey to respondents is recommended.
+
+The instructions below describe how to create a Workflow that works like an email trigger. A video version of the instructions (https://mymedia.ou.edu/media/How+to+Create+Email+Triggers+in+Qualtrics+Using+Workflows/1_0u6mu5xz) is also available.
+
+First, open the project that needs to have an automated email.
+
+Next, go to the “Workflows” tab and click “Create a workflow.”
+
+Workflows can be triggered either by events or can be scheduled for specific times. To recreate a trigger, select “Started by an event.” Then click “Get started.”
+
+Next, choose “Survey response.” This will be the type of event that will cause the Workflow to run.
+
+It will ask what type of responses should start the Workflow. Select “Newly created responses” and click “Finish.”
+
+Next, decide on the details of the Workflow. Click the + button to reveal a dropdown menu with the option to select a task or condition. Conditions are optional and can be used to add extra restrictions to a Workflow. Respondents can be filtered based on their response to a question or other saved information, so that only a subgroup of the respondents receives the automatic message. The task is the action the Workflow will take once triggered and any conditions have been met. Qualtrics reads the Workflow components in order from the top down, so in most cases any conditions must be listed before the task.
+
+In the dropdown, click on “Task” and select the “Email” task.
+
+A popup box with several fields will appear. Some information on these fields:
+
+To: This field indicates who will receive the message. One or more email addresses can be entered separated by commas. Piped text can also be used by selecting the button with this symbol: {a}. For example, if respondents enter their email address into a survey question, that email address can be automatically used here. If piped text is used, it will generate a string of code. Avoid making any edits to the string of code, but other piped text or email addresses can be added after it. Separate each string of code and e-mail address with a comma.
+
+From Address: This is not a real email address, but respondents will see it in the “From” address in their email inbox. By default, the address is “noreply@qemailserver.com.” The first part of the address can be left as “noreply” or changed to something else if preferred. The second part of the address, “qemailserver.com,” needs to be changed to “ou.edu” or “ouhsc.edu” to prevent email servers from blocking the message.
+
+From Name: This is fully customizable and will be shown to respondents as the name of the person or organization sending the email.
+
+Reply-To Email: If someone tries to respond to the automated message, their response will go to the reply-to email address . By default this will be the email address of the person setting up the Workflow. It can be changed to another address.
+
+Subject: This is equivalent to a subject line in a regular email.
+
+When: Determines whether the message will be sent immediately after someone submits a response, or after a delay.
+
+Message: Load a previously recorded message or use the text box to create a new one. Piped text is also an option here to add customized greetings or other dynamic text. The piped text button looks like this: {a}
+
+Options: Used for including a copy of the respondent’s answers with the message.
+
+After filling in the necessary fields, click “Save.”
+
+The Workflow title can be selected to rename it. On most devices it will be in the upper left of the page. Naming Workflows is recommended to make them easier to identify.
+
+To exit the Workflow editing screen, click on the X in the upper right.
+
+Completed Workflows can be turned on and off with the toggle switch at any time. Additional Workflows for the project can also be created if desired.
+
+For additional information about creating Workflows, there are help articles online at www.qualtrics.com/support (http://www.qualtrics.com/support). OU IT is also available to help. For Qualtrics assistance, submit a ticket at link.ou.edu/qualtrics (http://link.ou.edu/qualtrics).
+

@@ -1,0 +1,44 @@
+
+  How to Configure Course Media Gallery?
+
+
+Only Course’s Managers or Instructors have the option to edit and configure the course media gallery. A courses’ manager will be able to see the edit icon on the top left right of the media gallery page. 
+
+To edit/configure, click on the edit menu and select Edit.
+
+ 
+
+You can add/edit a brief summary of the gallery in the Description entry which will display on the gallery’s page. In Tags entry, you can also use three or more descriptive tags to use in searches. 
+
+
+
+You have three Options that you can set for the media gallery. To activate any of these options simply check the box on the left of each option.
+
+Moderate Content: On activation, uploaded media will not appear in the media gallery unless approved by the gallery’s manager. 
+
+ 
+
+Enable comments in Media Gallery: On activation, users can make comments under any media published in the media gallery (Note that these comments are public, and all users can view and comment on each other’s comments). 
+
+ 
+
+Display embedded media in this Media Gallery: This option makes the medias embedded with the current media also visible to the users. 
+
+Save the changes to apply the changes by clicking on the save button below. 
+
+
+
+To comment on any media,  
+
+Go to Media Gallery>Click on media you want to comment on>Scroll down and use comment entry or reply entry to make comment. Only the original commenter or course moderator can delete the comment. 
+
+
+
+Students can also publish media to the course media gallery to share with the class and receive feedback. Students can publish media in the course media gallery in two ways: Adding to the course media gallery itself (click here to see how to upload media directly) and/or publishing from MyMedia.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

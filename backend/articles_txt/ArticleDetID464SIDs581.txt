@@ -1,0 +1,16 @@
+
+  How to Access Account Management Through ONE
+
+
+In order for a student to access Account Management through ONE, they will need to log in to Single Sign-On at one.ou.edu (http://one.ou.edu):
+
+On the home page, click the student’s picture in the upper right corner, and click “Account Settings”.
+
+Manage desired account settings on the Account Management page.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

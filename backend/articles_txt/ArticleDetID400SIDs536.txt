@@ -1,0 +1,35 @@
+
+  Accessing Lockdown Browser to Take a Quiz
+
+
+To install Respondus on your computer, visit https://link.ou.edu/respondus (https://link.ou.edu/respondus) to download the OU-specific software. Because we have a combined license with HSC, under the Install section, you will see the following: Install LockDown Browser for
+University of Oklahoma Health Science Center. You will need to click the yellow Install button, then follow the install prompts on your computer.
+
+Launch Lockdown Browser. This article will appear as the homepage. Then, click on this Canvas URL to access your quiz: https://canvas.ou.edu (https://canvas.ou.edu/)
+
+ 
+
+Students enrolled in HSC programs, please go to Brightspace by D2L https://learn.ouhsc.edu/ (https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearn.ouhsc.edu%2F&data=05%7C01%7Ccarolynhewes%40ou.edu%7C033c8a51be5949fea76408da98188e7a%7C9c7de09d903444c1b462c464fece204a%7C1%7C0%7C637989528475203666%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OvcfZRO6vB%2BXv0RYVZUrcCjGbFN6yhGBiK9CtENfZa0%3D&reserved=0) to download and install Respondus LDB to use in your quizzes.  
+
+The download link is available under the Assessments menu in most of your courses.  Alternatively, once you log into Brightspace, click on the red navigation bar menu Brightspace Help > LockDown Browser Installer.  
+
+You must first go to your Brightspace course and start your quiz taking process there.  After clicking on a quiz to enter, a “Launch LockDown Browser” button will appear at the bottom of the page. This is where you will then start LockDown Browser.
+
+After the initial download and installation of the software, LockDown Browser is only ever launched from within a Brightspace by D2L quiz. If you start the LockDown Browser app BEFORE you start your quiz process, you will end up back on this page.
+
+ 
+
+Respondus Support is available here: https://support.respondus.com/hc/en-us (https://support.respondus.com/hc/en-us)
+
+A support ticket to Respondus can be submitted here (https://support.respondus.com/hc/en-us/requests/new).
+
+Respondus Email Support is available through support@respondus.com (mailto:support@respondus.com).
+
+Please note that while OU IT can provide general support (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=124) regarding setting up Respondus, questions beyond the initial technical setup of Respondus should be handled by Respondus Support directly.
+
+For more information about Respondus, please visit this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=399).
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

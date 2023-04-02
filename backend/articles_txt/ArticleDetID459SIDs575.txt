@@ -1,0 +1,100 @@
+
+  Canvas – Getting Started
+
+
+New to Canvas by Instructure? Check out the articles below to get information about how to get started in Canvas. For more information, please visit Canvas’s documentation page (https://guides.instructure.com/).
+
+Instructors
+Which browsers does Canvas support? (https://guides.instructure.com/m/8472/l/41056-which-browsers-does-canvas-support)
+How do I use the Course Setup Checklist? (https://guides.instructure.com/m/8472/l/57104-how-do-i-use-the-course-setup-checklist)
+How do I use the Course Home Page as an instructor? (https://guides.instructure.com/m/8472/l/40307-how-do-i-use-the-course-home-page-as-an-instructor)
+How do I reorder and hide Course Navigation links? (https://guides.instructure.com/m/8472/l/57079-how-do-i-reorder-and-hide-course-navigation-links)
+How do I upload a file to my course? (https://guides.instructure.com/m/8472/l/41383-how-do-i-upload-a-file-to-my-course)
+How do I create a new Module? (https://guides.instructure.com/m/8472/l/41424-how-do-i-create-a-new-module)
+What are the different Assignment types available to instructors in Canvas courses? (https://guides.instructure.com/m/8472/l/54365-what-are-the-different-assignment-types-available-to-instructors-in-canvas-courses)
+How do I enter and edit scores in the Gradebook? (https://guides.instructure.com/m/8472/l/54999-how-do-i-enter-and-edit-scores-in-the-gradebook)
+
+Students
+Which browsers does Canvas support? (https://guides.instructure.com/m/8472/l/41056-which-browsers-does-canvas-support)
+How do I log in to Canvas? (https://guides.instructure.com/m/8470/l/41951-how-do-i-log-in-to-canvas)
+How do I view my Canvas courses? (https://guides.instructure.com/m/8470/l/103948-how-do-i-view-my-canvas-courses)
+How do I set my Notification Preferences? (https://guides.instructure.com/m/8470/l/73162-how-do-i-set-my-notification-preferences)
+How do I submit an online assignment? (https://guides.instructure.com/m/8470/l/41972-how-do-i-submit-an-online-assignment)
+How do I view my grades in a current course? (https://guides.instructure.com/m/8470/l/55064-how-do-i-view-my-grades-in-a-current-course)
+
+Observers
+What is the Observer role? (https://guides.instructure.com/m/4144/l/41856-what-is-the-observer-role)
+What can Observers do in a Canvas course? (https://guides.instructure.com/m/4144/l/41857-what-can-observers-do-in-a-canvas-course)
+How do I sign up for a Canvas account as a Parent? (https://guides.instructure.com/m/4144/l/73163-how-do-i-sign-up-for-a-canvas-account-as-a-parent)
+How do I accept an invitation to join a course as an observer? (https://guides.instructure.com/m/4144/l/41858-how-do-i-accept-an-invitation-to-join-a-course-as-an-observer)
+
+Announcements
+
+Students: The Announcements Index Page allows you to view and filter announcements in your course.
+
+Instructors: Announcements allow you to communicate with your students about course activities and post interesting course-related topics.
+
+Announcements can be useful when due dates change, as a reminder of approaching deadlines, or simply to welcome students to the course! Professors can include links,videos, and images relevant to the course or post internship opportunities for students.
+If students have activated Canvas notifications in their Profile they will receive an email or a text message when Announcements are posted. This increases the posts’ reach and makes it easier for busy students to keep track of the latest news for the course.
+
+Modules
+
+Students: Depending on your instructor, modules can be used to organize course content by weeks, units, or a different organization structure. Modules are built to help you navigate the course content in an organized way.
+
+Each module can contain files, discussions, assignments, quizzes, and other learning materials the instructor decides to add. You can also expand and collapse each module.
+
+Instructors: Modules allow you to organize your content to help control the flow of your course.
+
+Modules are used to organize course content by weeks, units, or a different
+organizational structure that works for your course. With modules, you are essentially creating a one-directional linear flow of what you would like your students to do. Each module can contain files, discussions, assignments, quizzes, and other learning materials that you would like to use.
+
+You can easily add items to your module that you have already created in the course or create new content shells within the modules. Course content can be added to multiple modules or iterated several .mes throughout an individual module. Modules can be easily organized using the drag and drop feature. Elements within the modules can also be reorganized by dragging and dropping.
+
+Note: You can use keyboard shortcuts to navigate the Modules page. Press the comma key and a pop-up window with keyboard shortcuts will appear for keyboard navigation.
+
+Grades
+
+Students: Grades can serve as a communication tool between students and instructors and allow instructors to track the progress of students. The Gradebook stores all information about student progress in the course, measuring both letter grades and course outcomes.
+
+Instructors: The Gradebook helps instructors easily input and distribute grades for students. Grades for each assignment can be calculated as points, percentages, complete or incomplete, pass or fail, GPA scale, and letter grades, and assignments can be organized into groups for weightng as well.
+
+You can also use SpeedGrader to help you assign out grades. OU Canvas supports the following grading systems: percentage, complete/incomplete/, letter grade, GPA and non-graded. Columns are automatically created in the Gradebook when you create and publish assignments, graded discussions, and graded quizzes and surveys. A column is also automatically added for the Attendance tool.
+
+TurnItIn.com provides an analysis of how much content in assignments has been
+plagiarized. It also offers a tool called GradeMark that is helpful for leaving comments and feedback on the electronic copies of papers that have been submitted.
+
+SpeedGrader
+
+Instructors: As an instructor, SpeedGrader allows you to view and grade student assignment submissions in one place using a simple point scale or complex rubric. Canvas accepts a variety of document formats and even URLs as assignment submissions. Some document assignments can be marked up for feedback directly within the submission. You can also provide feedback to your students with text or media comments.
+
+Quizzes
+
+Students: Quizzes in Canvas are assignments that can be used to challenge your understanding and assess comprehension of course material.
+	You can use Quizzes to:
+	
+Test your knowledge of course material
+View all available quizzes in your course
+Submit quizzes in your course
+View quiz questions one at a .me or all at once (depending on instructor
+		preference)
+Review quiz results
+
+
+
+Test your knowledge of course material
+
+View all available quizzes in your course
+
+Submit quizzes in your course
+
+View quiz questions one at a .me or all at once (depending on instructor
+		preference)
+
+Review quiz results
+
+Instructors: Quizzes in Canvas can be used to challenge student understanding and assess comprehension of course material. The quiz tool is used to create and administer online quizzes and surveys. You can also use quizzes to conduct and moderate exams and assessments, both graded and ungraded.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

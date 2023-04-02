@@ -1,0 +1,28 @@
+
+  Canvas – Collaborations – About Collaborations
+
+
+Students and Instructors: Canvas leverages cloud technology to allow multiple users to work together on the same document at the same time. Collaborative documents are saved in real-time, meaning a change made by any of its users will be immediately visible to everyone. Collaborations can be created using Google Docs or Microsoft 365.
+
+Note: Google Docs allows you to add up to 50 users per collaboration, and all users can view and edit a document at the same time. However, Google collaborations has a limit as to the number of users who can access a collaboration at any time. Learn more about creating a Google Collaboration. (https://community.canvaslms.com/docs/DOC-2641)
+
+Instructors
+
+How do I create a Google Docs Collaboration? (https://guides.instructure.com/m/4152/l/55283-how-do-i-create-a-google-docs-collaboration)
+How do I create a Microsoft 365 Collaboration? (https://guides.instructure.com/m/4152/l/719676-how-do-i-create-a-microsoft-office-365-collaboration-as-an-instructor)
+How do I delete a Collaboration? (https://guides.instructure.com/m/4152/l/719675-how-do-i-delete-a-collaboration-as-an-instructor)
+How do I use the Collaborations Index Page? (https://guides.instructure.com/m/4152/l/708106)
+
+Students
+
+How do I edit a Collaboration? (https://guides.instructure.com/m/4212/l/55293)
+How do I create a Google Docs Collaboration? (https://guides.instructure.com/m/4212/l/55283-how-do-i-create-a-google-docs-collaboration)
+How do I create a Microsoft 365 Collaboration? (https://guides.instructure.com/m/4212/l/717354-how-do-i-create-a-microsoft-office-365-collaboration-as-a-student)
+How do I delete a Collaboration? (https://guides.instructure.com/m/4212/l/717355)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

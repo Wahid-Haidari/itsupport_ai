@@ -1,0 +1,42 @@
+
+  Adding a Shared Mailbox to Mobile Devices
+
+
+Please note that while Shared Mailboxes should work with the below method, Resource or Room mailboxes may by unsupported with this method on your device.
+
+Open the Outlook app and then open the navigation menu in the top left.
+
+
+
+ 
+
+On the left, find and click the icon of an envelope with a + sign.
+
+
+
+ 
+
+Select “Add a shared mailbox”.
+
+
+
+ 
+
+Select an account to log in with – it is most likely your @ou.edu account.
+
+Please Note: this screen will only appear if you have more than one account added to the Outlook app.
+
+
+
+ 
+
+Enter the shared mailbox account name and then click “Continue” to finish.
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

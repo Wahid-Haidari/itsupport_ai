@@ -1,0 +1,14 @@
+
+  Web Page Blocks on OU Networks
+
+
+OU networks now have security enhancements targeted at blocking malicious websites. These new blocks do not target content, rather the security system will look for potential security exploits which seek to infect or harm ones computer through their browser visit. An example of this block can be found below.
+
+
+
+This system may flag safe sites as unsafe. If you believe that the system has incorrectly flagged a safe site, please submit a request (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=124&SIDs=147) through the IT Service Catalog. Our Security team will then review your report and make a determination on the submission. If the request is not approved after review, you will be contacted to let you know it has not been unblocked.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

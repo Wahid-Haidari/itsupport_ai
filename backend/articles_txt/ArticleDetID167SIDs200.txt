@@ -1,0 +1,62 @@
+
+  Alumni Email Password Reset
+
+
+Please Note:
+
+This is for your @alumni.ou.edu email address, not an @ou.edu email address. To reset your @ou.edu password, please see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=107).
+
+When changing their alumni account password, some individuals may receive an error message informing them to “Contact your administrators”. This is most likely due to the fact that a recovery email address or phone number has not been set up. If you receive this message, please call 325-HELP or contact us through our website (https://needhelp.ou.edu) in order to have your password reset.
+
+ 
+
+To reset your @alumni.ou.edu password, please do the following:
+
+Go to office.com, select Sign-in.
+
+Select “Can’t access your account?”
+
+
+
+ 
+
+Choose “Work or school account”.
+
+
+
+ 
+
+Enter your User ID. This is your alumni email and most likely follows the format of firstname.lastname@alumni.ou.edu.
+
+Then, enter the characters in the picture or the words in the audio.
+
+
+
+ 
+
+Next, you will need to verify your identity using one of three options:
+
+Email my alternate email – this is the alternate email you entered when you set up your alumni email.
+
+Text my mobile phone – this is the phone number you entered when you set up your alumni email.
+
+Call my mobile phone – this should be the same number as option #2.
+
+Please note – it was not required that you set up both an alternate email AND a mobile phone number when you set up your alumni email. You may not have all options available to you, but you should have at least one.
+
+If you choose the email or text option, you will need to enter the verification code to continue. If you choose the phone call, you will need to follow the automated instructions.
+
+ 
+
+ 
+
+Once you have successfully verified your account, enter a new password.
+
+ 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

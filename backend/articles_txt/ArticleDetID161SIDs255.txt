@@ -1,0 +1,54 @@
+
+  Mapped Network Drives – CoE
+
+
+College of Engineering students receive space on the washington.ou.edu share to store files.
+
+To connect to the COE network drive (commonly referred to as the H:\ drive), users must either be on the campus network or be connected through a OU VPN client (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=128).
+
+Windows
+
+Go to This PC, which is found opening a Windows folder and clicking This PC in the left menu.
+
+Now hit Map Network Drive, once the new window pops up. Enter in \\washington.ou.edu\OUNetID
+
+Now if you are on a computer that isn’t connected to the sooner domain. That a network logon will pop up and you will have to enter in sooner\OUNetID and your password.
+
+Mac OS
+
+Minimize all open windows and single-click anywhere on the background to make sure ‘Finder’ is the active application on the top left of the screen.
+
+Once you see ‘Finder’ in the top right corner, click the ‘Go’ button. Scroll down and click ‘Connect to Server’.
+
+Now you want to enter this in Server Address: smb://Washington/OUNetID
+
+Once the path is entered click the “+” sign, and then click “Connect”.
+
+Now enter in your OUNet ID and password.
+
+To have the mapped network drive automatically remount and appear on the desktop, do the following:
+
+Hit Go, then Connect to Server.
+
+Enter the path to the network drive you want to map, ie: smb://coa-wright/coa-sthomes/OUNetID and then click Connect.
+
+Enter sooner\OUNet ID for your username and your OU password and then click OK.
+
+The drive is now mounted. Now enter into System Preferences, from the Apple menu.
+
+Click on Accounts -> Login Items and then click on the + button to add another login item.
+
+Locate the network drive you previously mounted and click Add. Exit out of System Preferences and your network drive will now be mapped and automatically remounted when you reboot your Mac.
+
+To make the mapped network drive visible on the Mac desktop, do the following additional steps:
+
+Go to the Finder menu -> Preferences and then click the General tab.
+
+Select the checkbox next to Connected Servers.  Close Finder Preferences and the drive should display on your desktop.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

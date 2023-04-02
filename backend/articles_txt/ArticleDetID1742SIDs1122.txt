@@ -1,0 +1,32 @@
+
+  Enabling the LastPast Extension in a Private/Incognito Browser Window
+
+
+If you are running LastPass for the first time and normally navigate the web in your browser's Private or Incognito mode, the LastPass extension may not load when you launch your browser. To enable the extension, please try the following:
+
+To begin, ensure the browser is installed for your preferred browser.
+
+Next, right click on the LastPass extension icon in a normal browser window and select Manage Extension(s).
+
+Toggle the option or set to Allow to:
+	
+Allow in InPrivate (Edge)
+Allow in Incognito (Chrome)
+Run in Private Windows (Firefox)
+
+
+
+Allow in InPrivate (Edge)
+
+Allow in Incognito (Chrome)
+
+Run in Private Windows (Firefox)
+
+When you re-launch in a private browser window, the extension should now also load.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

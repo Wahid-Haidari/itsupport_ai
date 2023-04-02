@@ -1,0 +1,42 @@
+
+  OU Network – Malware and Security Blocks
+
+
+OU IT protects and maintains the security and stability of the OU network by preventing infected machines from staying connected to the OU network. If your machine has become infected and has been blocked by security scans, you will be alerted by a notification sent to your OU e-mail account. If you receive this alert, please look over the steps below:
+
+If your machine contains protected or sensitive data, please contact OUIT immediately. This includes the following:
+	
+Social security numbers.
+Driver’s license/State ID numbers.
+Financial account information.
+Any credit or debit card number.
+Any security code, access code, or password providing access to a financial account.
+Any personal health-related data.
+Student education records
+
+
+
+Social security numbers.
+
+Driver’s license/State ID numbers.
+
+Financial account information.
+
+Any credit or debit card number.
+
+Any security code, access code, or password providing access to a financial account.
+
+Any personal health-related data.
+
+Student education records
+
+Perform a virus scan on your computer and remove any found viruses or malware. Respond to the incident alert e-mail once your machine is fully clean of infections.
+
+Once these steps are complete, please contact the Service Center (325-HELP) to remove the network block. Please reference the incident number (example: INC012345), which is included in the email when you speak with the phone specialist.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,20 @@
+
+  Create.ou.edu
+
+
+Create.ou.edu (http://create.ou.edu/) offers students, faculty, and staff the opportunity to build and maintain a digital identity by facilitating both the registration of web domains (.com, .org, .net) or subdomain and easy installation of popular open-source applications such as WordPress, MediaWiki, Drupal, and Omeka. In providing users with access to these tools, Create aims to empower all members of the OU community to craft and control their digital narrative through the use of blogs, portfolios, wikis, and more.
+
+Activate Create Webspace
+
+Go to http://create.ou.edu/dashboard/ (http://create.ou.edu/dashboard/) (opens in new window).
+
+Log in using OUNetID and password.
+
+Now follow the onscreen prompts to create your sub-domain or domain address. Note that sub-domains are free for OU students, faculty and staff. Custom domains can be acquired through the site for $12/year.
+
+Additional support information is available through the create.ou.edu support site here (http://create.ou.edu/support-main/). Assistance options include a FAQ section, a Wiki with support documentation, LinkedIn Learning training and in person training events.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

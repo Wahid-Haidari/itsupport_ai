@@ -1,0 +1,74 @@
+
+  What is an Account Lock?
+
+
+In some instances, OU IT may deem it necessary to lock a user account. This action is necessary to prevent unauthorized access by malicious third parties to OU Systems, networks, and services, and/or to protect that affected user and the University from loss or theft of sensitive personal information.
+
+OU IT has worked diligently to ensure that legitimate user access is protected, while ensuring that compromised accounts are quickly locked to limit the risk of unauthorized access and data loss. OUIT utilizes automated tools and techniques to analyze account usage and behavior. The results are used to determine if an account is compromised and should be locked.
+
+The following activities can reduce your risk of exposing your account to malicious third parties:
+
+Do not intentionally expose or share your password;
+
+Do not use the same password between your OU account and other sites or services;
+
+Change your account password regularly;
+
+Run a current, up-to-date antivirus / anti-malware program;
+
+Do not open attachments in emails from unknown senders or respond to a Phishing attempt.
+
+If you feel any of the above may apply to you, please be proactive and install a reputable AV product and run a virus scan on your machine. Once this is done, and your machine is cleared of any malware or virus, visit accounts.ou.edu (http://accounts.ou.edu/) immediately to change your password. This will remove the threat and prevent the account from being accessed by unknown individuals.
+
+Log in to http://outlook.office.com (http://outlook.office.com/) to verify your e-mail is not being forwarded to an unapproved account. Check this page (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=259) for instructions on updating your forward. Additionally, check your mailbox to ensure no new Rules were added to filter or send your e-mail to another address. See this page (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=258) for instructions on checking your rules.
+
+If you are faculty, staff or student employee of the university, check your direct deposit information and street address that are on file for you at the human resources office and payroll.
+
+If you are student, check your financial information in http://one.ou.edu (http://one.ou.edu/) to ensure your financial aid and/or payment information on file for you is still correct. If you have questions about your financial information, please contact the Student Financial Center office at 325-9000.
+
+The following criteria is used to determine whether or not an account has been compromised:
+
+Notification from a trusted 3rd party that the account is compromised;
+
+Automated tools see the account being accessed from multiple countries across the globe in a time span shorter than what it would reasonably take to travel to each location;
+
+Source IP addresses used for account access have a reputation for spam, anonymization or other malicious activity;
+
+The account is sending spam;
+
+Network tools determine that the computer is infected and showing signs of compromise (e.g., malware callbacks, exploit kit signatures, suspicious/malicious DNS requests);
+
+A combination of any of these or other suspicious activity.
+
+If the user does not remove the threat as described above through AV and by changing the account password – or if it is deemed necessary to immediately protect the user or University from a confirmed breach – the account will be locked. Once an account has been locked based upon this determination, the account will be unusable by a malicious third party thereby limiting the exposure and risk to the user and the University.
+
+If your account has been locked, please install and run an up-to-date virus scan on your machine. Once this is done, and your machine is cleared of any malware or virus, please contact 325-4357 or visit itsupport.ou.edu (http://itsupport.ou.edu) to submit a ticket requesting that your account be unlocked.
+
+If you do not have admin rights to install and run an AV product you will need to contact your local IT representative to have them install AV and run a virus scan of your machine prior to requesting the account be unlocked. Once OU IT receives confirmation that the machine is cleared of any malware, the account will be unlocked.
+
+After an account is unlocked by OU IT, the user will need to go to one.ou.edu (http://one.ou.edu) and click the  “New to OU? Setup your OU account” link on the bottom of the sign in page to set a new password.
+
+It is important not to utilize the same or even a similar password to prevent continued or repeated access by a malicious third party to your account causing it to be locked again. The password requirements are:
+
+Your password must have a minimum of  12 character.
+
+At least one upper case letter.
+
+At least one lower case letter.
+
+At least one numeral OR one symbol.
+
+Contain no invalid characters or common words.
+
+Can not be the same as your user ID or any of the last six passwords you have used with this account.
+
+May not use your first or last name.
+
+While complex passwords are important, being able to remember your password is also important. Did you know most 8-character passwords can be compromised in less than a day? Longer passwords are actually more secure. Try to use a passphrase like “StinkyF33tAreSuperSme!!y”.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

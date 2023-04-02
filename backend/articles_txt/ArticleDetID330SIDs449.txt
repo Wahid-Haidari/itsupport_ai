@@ -1,0 +1,50 @@
+
+  Adding non-OU Contacts to your OU Skype for Business Account
+
+
+ 
+
+If you are an OU user using Skype for Business, you can add non-OU contacts to your contact list. Please see below for instructions based on whether you use a Windows machine or Mac.
+
+Skype for Business
+
+To add a non-OU user, first sign in to Skype for Business using your OU e-mail address and password.
+
+Next click the invite contacts button.
+
+Select Add a contact Not in My Organization.
+
+Select Other.
+
+Enter the user’s Skype IM e-mail address.
+
+Select which Contact group you wish to add them to, as well as the privacy relationship.
+
+Finally click OK.
+
+The non-OU contact should now be listed in your desired Contact group.
+
+ 
+
+Skype for Business
+
+Unfortunately you can’t use Skype for Business on Mac to communicate with people who are using the free Skype app. You can only use it to find and communicate with people in your organization who are using Skype for Business. Microsoft is currently exploring adding this functionality to this version of Skype.
+
+ 
+
+Lync for Mac 2011
+
+To add a non-OU user, first sign in to Lync using your OU e-mail address and password.
+
+On the Contacts tab, in the Find a contact or dial a number search box, type the e-mail address of the person who you want to add.
+
+Click the Add button next to the contact, you can then select which group to add them to.
+
+The non-OU contact should now be listed in your desired Contact group.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

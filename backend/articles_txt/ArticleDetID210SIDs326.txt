@@ -1,0 +1,24 @@
+
+  Setting up Single Sign On (SSO) with Concur Mobile App
+
+
+Concur mobile app is available from the App store for Apple and Android devices.  If you are using the mobile app and would like to use SSO, please be advised that ExpenseIT is NOT integrated in SSO.  (For the ExpenseIT app you would still need to use your native Concur username (email address) and password (NOT SSO).
+
+Instructions for setting up SSO on the Concur mobile application:
+
+1. If you haven’t already, download the Concur Mobile app for your device.
+
+2. If you already have Concur download, please log out of the app.
+
+3. When you arrive at the sign in page, click SSO Company Code Sign In
+
+4. Type in DPNYBL and Proceed To Sign In
+
+5. You are now on the University of Oklahoma Single Sign On page. Sign in with your University of Oklahoma credentials and click Sign In to be directed to Concur Mobile.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

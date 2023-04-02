@@ -1,0 +1,52 @@
+
+  Canvas – Calendar – About Calendar
+
+
+Students: The Calendar helps students see what assignments and events are coming up in the course. You can also create personal events such as study groups.
+
+When would I use the Calendar as a student?
+
+View course calendars (https://guides.instructure.com/m/4212/l/710322-how-do-i-use-the-calendar-as-a-student) and group calendars (https://guides.instructure.com/m/4212/l/81728?data-resolve-url=true&data-manual-id=4212).
+
+Create personal calendar reminders (https://guides.instructure.com/m/4212/l/716710-how-do-i-add-an-event-to-my-calendar-as-a-student).
+
+Filter the calendar view (https://guides.instructure.com/m/4212/l/54670?data-resolve-url=true&data-manual-id=4212) to only see specific calendars.
+
+Copy the iCal feed for all of your courses and import it to your preferred personal Calendar, such as Google (https://guides.instructure.com/m/4212/l/54708?data-resolve-url=true&data-manual-id=4212) or Outlook. (https://guides.instructure.com/m/4212/l/54673?data-resolve-url=true&data-manual-id=4212)
+
+Instructors: As an instructor, use the Calendar to:
+
+View and create activities in your course as well as events (https://guides.instructure.com/m/4152/l/41296?data-resolve-url=true&data-manual-id=4152) and personal reminders (https://guides.instructure.com/m/4152/l/41985?data-resolve-url=true&data-manual-id=4152); you can also filter the calendar view (https://guides.instructure.com/m/4152/l/54670?data-resolve-url=true&data-manual-id=4152) to only see specific calendars.
+
+Quickly add Assignments (https://guides.instructure.com/m/4152/l/54671?data-resolve-url=true&data-manual-id=4152) to a blank course. Fill in the details of those Assignments later.
+
+Adjust the dates of Assignments (https://guides.instructure.com/m/4152/l/54672?data-resolve-url=true&data-manual-id=4152) that have been imported from previous terms. Canvas makes it easy to drag and drop events across multiple months.
+
+Copy the iCal feed for all of your courses and import it to your preferred personal Calendar, such as Google (https://guides.instructure.com/m/4152/l/54708?data-resolve-url=true&data-manual-id=4152) or Outlook. (https://guides.instructure.com/m/4152/l/54673?data-resolve-url=true&data-manual-id=4152)
+
+Schedule appointments with students using the Scheduler (https://guides.instructure.com/m/4152/l/61285?data-resolve-url=true&data-manual-id=4152) (optional feature).
+
+Instructors – https://guides.instructure.com/m/4152/c/23832 (https://guides.instructure.com/m/4152/c/23832)
+
+How do I use the Calendar? (https://guides.instructure.com/m/4152/l/54669-how-do-i-use-the-calendar)
+How do I filter my Calendar view by course? (https://guides.instructure.com/m/4152/l/54670-how-do-i-filter-my-calendar-view-by-course)
+How do I add an event to the course Calendar? (https://guides.instructure.com/m/4152/l/41296-how-do-i-add-an-event-to-the-course-calendar)
+How do I create an Assignment shell from the Calendar? (https://guides.instructure.com/m/4152/l/54671-how-do-i-add-an-assignment-from-the-calendar)
+Where can I find the Calendar iCal feed? (https://guides.instructure.com/m/4152/l/54707-where-can-i-find-the-calendar-ical-feed)
+What is the Scheduler? (https://guides.instructure.com/m/4152/l/61285-what-is-the-scheduler)
+How do I create an appointment group in the Scheduler? (https://guides.instructure.com/m/4152/l/59601-how-do-i-create-an-appointment-group-in-the-scheduler)
+
+Students – https://guides.instructure.com/m/4212/c/26415  (https://guides.instructure.com/m/4212/c/26415)
+
+How do I use the Calendar? (https://guides.instructure.com/m/4212/l/710322-how-do-i-use-the-calendar-as-a-student)
+How do I filter my Calendar view by course? (https://guides.instructure.com/m/4212/l/54670-how-do-i-filter-my-calendar-view-by-course)
+How do I access my group Calendar? (https://guides.instructure.com/m/4212/l/81728-how-do-i-access-my-group-calendar)
+Where can I find the Calendar iCal feed? (https://guides.instructure.com/m/4212/l/54707-where-can-i-find-the-calendar-ical-feed)
+How do I sign up for an appointment using the Scheduler? (https://guides.instructure.com/m/4212/l/354555-how-do-i-sign-up-for-an-appointment-using-the-scheduler)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

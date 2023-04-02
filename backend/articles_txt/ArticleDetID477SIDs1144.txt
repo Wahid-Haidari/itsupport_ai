@@ -1,0 +1,43 @@
+
+  Adobe Creative Cloud License Errors
+
+
+Adobe Creative Cloud users who previously had individual Adobe Creative Cloud subscriptions or were utilizing a Adobe Creative Cloud for Teams subscription may receive a persistent pop-up which will ask the user to login with a licensed Adobe account or state that they only have X number of days remaining on the license. This message will continue to appear even after completely uninstalling previous versions of Creative Cloud applications and reinstalling the suite with the new enterprise packages and serializing.
+
+These issues present themselves because the software is still holding on to the old licensing configuration. To resolve the issue, please try the following:
+
+Ensure that all previous versions of Adobe Creative Cloud software have been uninstalled.
+
+If installing multiple products or packages, be sure to follow the de-serialization and re-serialization steps included in the installation instructions.
+
+If these issues persist, close any running Adobe applications then locate the SLCache and SLStore folders:
+	
+On Windows
+		32 bit: Program Files\Common Files\Adobe\SLCache
+		64 bit: Program Files (x86)\Common Files\Adobe\SLCache
+		C:\ProgramData\Adobe\SLStore
+On OS X
+		Library/Application Support/Adobe/SLCache
+		Library/Application Support/Adobe/SLStore
+
+
+
+On Windows
+		32 bit: Program Files\Common Files\Adobe\SLCache
+		64 bit: Program Files (x86)\Common Files\Adobe\SLCache
+		C:\ProgramData\Adobe\SLStore
+
+On OS X
+		Library/Application Support/Adobe/SLCache
+		Library/Application Support/Adobe/SLStore
+
+Create a backup copy of these files on the desktop. Then, in their original directories, rename each to SLCache.old and SLStore.old respectively.
+
+Rerun the serialization software. This should generate fresh SLCache and SLStore folders with the new enterprise licensing configuration.
+
+Launch any of the installed CC apps and verify that the error messages above no longer pop up.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

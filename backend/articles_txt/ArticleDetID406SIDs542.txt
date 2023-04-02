@@ -1,0 +1,52 @@
+
+  Exporting a Respondus quiz to Canvas
+
+
+When you are ready to export your quiz to Canvas, click the Preview & Publish tab in Respondus
+
+Click Publish to Canvas on the left navigation pane, then click Publish Wizard
+
+Click the Canvas Server drop down menu
+
+Click add new server then press next
+
+Enter a name for the server such as ‘OU Canvas’
+
+Next, you need to enter your OUNet ID information for the Username and Password
+
+Click save my User Name and Password check box, then click next
+
+If you see a security warning, click no
+
+You should see a login video for Canvas, click Login
+
+If you see any more error messages, click Yes.
+
+Enter your OUNet ID information and click Sign in
+
+Click authorize to authorize the quiz builder to canvas
+
+Finally click next then click finish
+
+You have successfully added the server settings for canvas. Click Next to continue
+
+If you are publishing a non-randomized created quiz, select Graded Quiz in the window that appears. If you are publishing a question bank for a randomized quiz, select Question Bank
+
+Enter a name for a quiz on canvas
+
+If you made changes to quiz settings on canvas, select the Apply Settings check box
+
+Click next
+
+Select the course you would like to import the Quiz or Question Bank into and click next
+
+The quiz will automatically be sent to the course you selected. When the publishing process is completed, click finish and close Respondus
+
+Double check in Canvas to see if all your settings and questions have successfully transferred from Respondus to Canvas. Click edit to check if each question has transferred.
+
+If you would like to watch a video tutorial click this link: https://mymedia.ou.edu/media/0_zkjfhyae (https://mymedia.ou.edu/media/0_zkjfhyae)
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

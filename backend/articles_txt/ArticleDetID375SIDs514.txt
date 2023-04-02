@@ -1,0 +1,88 @@
+
+  MyMedia - Publicly Shared Playlist
+
+
+Note: Playlist should only be shared with external users. For sharing playlists with a class, the Media Gallery Canvas integration (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=394&SIDs=531) is recommended. 
+
+Playlists are a series of videos that will play one after another in the order set on the playlist. 
+
+To make a playlist or add videos to a playlist: 
+
+
+Go to a video you would like in the playlist 
+
+
+Go to a video you would like in the playlist 
+
+
+Click Actions and then Add to playlist 
+
+
+Click Actions and then Add to playlist 
+
+ 
+
+NOTE: If you have not agreed to terms and conditions for the specific media, you will see the notification as shown below. Click Edit > Agree to terms and conditions >Save. 
+
+ 
+
+ 
+
+ 
+
+
+Go to the Media you just edited (agreed terms and conditions to) >Actions >Add to Playlist. 
+
+
+Go to the Media you just edited (agreed terms and conditions to) >Actions >Add to Playlist. 
+
+
+If you have made the playlist you want to add it to already, click the box. Otherwise, create new playlist by clicking on the + Create New Playlist > Type the Title > Create. 
+
+
+If you have made the playlist you want to add it to already, click the box. Otherwise, create new playlist by clicking on the + Create New Playlist > Type the Title > Create. 
+
+ 
+
+Managing a playlist 
+
+
+Click on Your Name in the header bar and then on My Playlists 
+
+
+Click on Your Name in the header bar and then on My Playlists 
+
+
+Click on the X to delete a video from the playlist 
+
+
+Click on the X to delete a video from the playlist 
+
+
+Click on the Arrows and drag the video to reorder the playlist 
+
+
+Click on the Arrows and drag the video to reorder the playlist 
+
+
+When you are done adjusting your playlist, click Save Changes 
+
+
+When you are done adjusting your playlist, click Save Changes 
+
+NOTE: Only the playlist consisting of videos with publish statuses of “unlisted” or “public” can be shared to people outside organization (Non-OU Members cannot view the playlist that consists of the videos that are private). Refer to our article on publishing status (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=392) for more information. 
+
+Sharing the playlist: 
+
+To Share the playlist, go to your “My Playlist” page in MyMedia. Locate the playlist you want to share. Click on the Share &Embed option located below the playlist. 
+
+ 
+
+On the Share & Embed box, click on the Copy Link. Depending upon the privacy setting for the playlist share, others may or may not view and/or edit your playlist. 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

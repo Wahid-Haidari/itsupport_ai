@@ -1,0 +1,22 @@
+
+  Removing Media from MyMedia
+
+
+Remove a video from MyMedia
+
+Log in at mymedia.ou.edu with your OUNetID and password.
+
+Click Your User Tab on the top right of the home screen.
+
+Select My Media from the dropdown menu. This will bring up a list of your personal uploads.
+
+Next to the video click the Delete option.
+
+Click Yes to confirm deletion.
+
+This can be done in bulk by checking multiple videos on the My Media page and clicking Delete.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

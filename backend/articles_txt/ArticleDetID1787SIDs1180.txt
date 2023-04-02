@@ -1,0 +1,43 @@
+
+  Saving Live Transcription from Zoom
+
+
+Enabling Live Transcription on Your Zoom Account
+
+For directions on how to enable closed captioning and live transcription for your account, please use this Zoom Support Link (http://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription#h_5ae2ddf1-fca4-40ac-9776-3d8a483d9df9).
+
+You will also need to enable the “Save Captions” option directly beneath where you enabled live transcription. If this setting is not enabled, the transcript cannot be saved to your computer.
+
+
+
+After configuring these settings, the Closed Captions options will be available to you in the Zoom Client during your next meeting.
+
+Starting and Saving Live Transcription 
+
+Start a Zoom meeting.
+
+Click the Closed Captions icon in the toolbar, it will say “Live Transcript” beneath it.
+
+
+
+To enable Live Transcription, click “Enable Auto-Transcription” and the live transcription will start automatically. The transcription will be seen as subtitles on the screen whenever someone is speaking.
+
+An arrow pointing up will now be near the Closed Captions icon, click this arrow to view the full transcript for the meeting, change caption settings, or to hide the captions on screen.
+
+
+
+If you click “View Full Transcript” you can see the entire transcript for the meeting, as well as save the transcript to your computer. Click “Save Transcript” to save the transcript to a folder on your computer. The transcript does not automatically save to your computer, you must click “Save Transcript.”
+NOTE: It is best to save the transcript when you are finished with any talking and discussion in your meeting to save the entire transcript. It is also recommended to wait a few seconds after all talking has ceased to save the transcript to ensure all audio has been transcribed.
+
+
+
+After ending the meeting, the folder containing the transcript will pop-up and you can review the transcript.
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

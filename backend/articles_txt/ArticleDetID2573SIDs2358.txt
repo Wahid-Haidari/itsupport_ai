@@ -1,0 +1,88 @@
+
+  PingID FAQ
+
+
+PingID Replacing Duo for Multi-Factor Authentication
+
+OU IT has transitioned from Duo to PingID for multi-factor authentication (MFA), which is required for mobile and off-network access to enterprise software and services like your OU/OUHSC email and PeopleSoft.
+
+Multi-factor authentication is a critical component of a secure IT environment that enables you to verify your identity using your phone or other personal device and prevents unauthorized users from logging into your account, even if they know your password.
+
+ 
+
+Recommended Actions
+
+Enroll in PingID now (https://link.ou.edu/pingid) to eliminate any disruptions to your access. For instructions on enrolling, click here (http://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2543&SIDs=1701). There are several different ways to authenticate using PingID, such as a mobile app, a desktop app, a phone call, text message, or using a physical security token (such as a YubiKey).
+
+OU IT recommends registering several different methods of authentication, such as installing the app on both a mobile device and registering a phone number to receive passcodes via call or text (SMS). Users who choose to register just one device/method have an increased risk of being unable to access their accounts in a timely manner due to losing access to the single device/method. 
+
+Install the mobile app for Apple or Android devices (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2543&SIDs=1701), including ipads.
+
+Install the desktop app (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2540) to authenticate using your Windows or Mac desktop/laptop
+
+Register your phone number (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2537) to receive a passcode via phone call or SMS (text message) 
+
+For more information:
+
+PingID Multi-Factor Information (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2533&SIDs=1699) - general information about PingID
+
+PingID Enrollment (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2543&SIDs=1701) - how to enroll several different methods of authentication
+
+PingID Authentication for iPhone (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2535&SIDs=1698) - how to use the PingID app for iPhone/iPad
+
+PingID Authentication for Android (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2534&SIDs=1700) - how to use the PingID app for Android device
+
+ 
+
+Failing to Approve a PingID Prompt Authentication
+
+For sites and applications that require PingID, ignoring or not approving the authentication prompt will fail to load the site or application in question. This can result in one not being able to access the service, or content updates not being downloaded.
+
+In Outlook, this may mean that you will not receive your latest mail.
+
+In applications like OneDrive or Teams, you may receive messages like "There was a problem signing you in" or "We're sorry, we've run into an issue". This may also lock up the application and make it difficult to exit while it waits on the needed PingID approval.
+
+For websites, your screen may hang or stop loading after submitting your user name and password as it waits for approval from your PingID authentication method.
+
+ 
+
+Common Issues After Enrollment
+
+Mobile App - If you are not receiving the push notifications, check your phone's notification settings. You may also opt to open the app and approve any prompts. 
+
+Computer App - You must locate and open the app on your computer in order to view the passcode needed to authenticate.
+
+SMS Text or Voice Passcode - If you are not receiving a phone call or text, ensure that your phone is not set to "Do Not Disturb".
+
+ 
+
+PingID Roll-Out Timeline
+
+10/16/22 - Recent OU Norman graduates (email and Office365)
+
+10/16/22 - Norman Exception Accounts (email and Office365)
+
+TBD - All remaining accounts (email)
+
+Completed:
+	
+VPN (GlobalProtect) and VDI. This change is system wide and impacts all users with @ouhsc.edu or @ou.edu addresses.
+December 7th, 2021 – OUHSC account access to Microsoft Teams, OneDrive, and portal.office.com.
+Q1 2022 - OUHSC email account migration to Microsoft 365 Exchange
+Q3 2022 - Most OU account access to email, Office365 applications, and portal.office.com (all current faculty/staff/students)
+Q4 2022 - HR Self-Service (Peoplesoft), Virtual Labs, and several other campus applications 
+
+
+
+VPN (GlobalProtect) and VDI. This change is system wide and impacts all users with @ouhsc.edu or @ou.edu addresses.
+
+December 7th, 2021 – OUHSC account access to Microsoft Teams, OneDrive, and portal.office.com.
+
+Q1 2022 - OUHSC email account migration to Microsoft 365 Exchange
+
+Q3 2022 - Most OU account access to email, Office365 applications, and portal.office.com (all current faculty/staff/students)
+
+Q4 2022 - HR Self-Service (Peoplesoft), Virtual Labs, and several other campus applications 
+
+If you need additional assistance installing or setting up PingID or if you have set up PingID in the past and are now having issues with the app on your device, please feel free to stop by one of our service centers (Norman (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=124&SIDs=147) | Oklahoma City (https://itsupport.ou.edu/TDClient/34/OKC/Requests/ServiceDet?ID=194) | Tulsa (https://itsupport.ou.edu/TDClient/33/Tulsa/Requests/ServiceDet?ID=112)) or contact us via phone (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2885).
+

@@ -1,0 +1,12 @@
+
+  OU.edu Custom URL Requests
+
+
+A URL Request allows OU website owners to request custom URLs for their domain, redirects to another OU web address or to set up addresses for departmental file shares. These new domain requests will be approved for content and clarity before being enabled on the ou.edu domain. Your site should also comply with all OU web policies (http://www.ou.edu/content/brand/web/web_policy.html). If you are a OU web site owner or developer and wish to request a custom URL, please visit the Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=126).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

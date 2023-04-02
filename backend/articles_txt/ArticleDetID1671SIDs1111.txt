@@ -1,0 +1,74 @@
+
+  LastPass Premium as Perk Account - How do I reset my LastPass Premium account?
+
+
+If you cannot remember your Master Password and are unable to recover it using all of the recovery options, unfortunately it means that your account must be reset so that you can create a new Master Password. This will allow you to start over using the same email address as you used before.
+
+For instructions on how to delete your account to purge all of your LastPass Vault data, see How do I delete my LastPass account (http://support.logmeininc.com/lastpass/help/delete-your-lastpass-account-lp010012)?.
+
+Please be aware that OU and LastPass Customer Care has no knowledge of a user's Master Password. It is not possible for us to reset or change a user's Master Password if it is forgotten.
+
+Sites
+
+Secure notes
+
+Form fill items
+
+Identities
+
+Established multifactor authentication options
+
+Approved trusted devices
+
+Some of your established account settings, including but not limited to the following:
+
+Preferences
+
+History
+
+Your account status, including current trial or paid subscription plan.
+
+Navigate to https://lastpass.com/reset_account.php (https://lastpass.com/reset_account.php).
+
+Click Reset.
+	
+
+
+
+
+When prompted, click No to indicate that you do not know your Master Password.
+	Note:  Your Master Password cannot be recovered by Customer Care as it is never available or known to LastPass.
+
+
+A warning message will appear stating that resetting your account will permanently destroy all of your data, and will encourage you to export your Vault data before resetting (https://lastpass.com/?ac=1&from_uri=%2Fexport.php) if you know your Master Password. However, if you do not know your Master Password, it is not possible for you to export your data as it requires you to log in to LastPass to do so.
+
+Enter your LastPass email address, then click Send Email.
+	An email is sent to your inbox that contains instructions and a link to create a new Master Password.
+	Note:  Clicking Send Email only sends instructions for resetting your LastPass account. If you decide at this point that you do not need to reset your account, you can simply ignore the email.
+
+
+
+To proceed with resetting your LastPass account, click the link within the email to create a new Master Password. To create a strong and secure Master Password, we recommend the following best practices:
+	
+Use a minimum of 12 characters, but the lengthier the better.
+Use upper case, lower case, numeric, and special character values.
+Make it pronounceable and memorable, but not easily guessed (for example, a passphrase).
+Make sure that it is unique.
+Do not use personally identifying information.
+
+
+
+Use a minimum of 12 characters, but the lengthier the better.
+
+Use upper case, lower case, numeric, and special character values.
+
+Make it pronounceable and memorable, but not easily guessed (for example, a passphrase).
+
+Make sure that it is unique.
+
+Do not use personally identifying information.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

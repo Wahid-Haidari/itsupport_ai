@@ -1,0 +1,21 @@
+
+  Adobe Creative Cloud Minimum Requirements
+
+
+The base minimum requirements for the Adobe Creative Cloud suite is listed below. Note that some software within the suite requires higher than the minimum requirements listed however.
+
+OS: Windows 7 SP1 or higher for Windows, OS X 10.9 or higher for OS X
+RAM: 4GB
+HDD: 15GB per application; 5400 RPM; SpeedGrade and Premier require 7200 RPM
+Processor: Core 2 Duo or Phenom II for Windows, Intel-based processor for OS X
+Display: 1280×1080 (1680×1050 or 1920×1080 for SpeedGrade)
+Required Software: OpenGL 4.x or newer, QuickTime 7.646 or newer, Flash Player 11.4 or newer, Adobe Air 3.4 or newer, Java JDK.
+
+A breakdown of system requirements for the full suite can be found here (https://helpx.adobe.com/creative-cloud/system-requirements.html).​
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

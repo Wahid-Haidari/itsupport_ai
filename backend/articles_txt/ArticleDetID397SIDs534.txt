@@ -1,0 +1,83 @@
+
+  Publishing Final Grades from Canvas to one.ou.edu
+
+
+The process for entering Midterm Grades is similar. Simply select Midterm Grades instead of Final Grades where applicable. 
+
+Please note that you MUST enter last date of attendance for F/AW directly in ONE (one.ou.edu) when submitting your grades. Also, you MUST be listed as the Instructor of Record for the course to submit grades in ONE.
+
+Navigate to canvas.ou.edu (http://canvas.ou.edu). Log in and open your course.
+
+Go to the course Settings in the side navigation.
+
+
+On the Course Details tab, scroll down to find the checkbox next to Grading Scheme.
+
+Check the box to Enable course grading scheme.
+
+Click set grading scheme.
+	
+For a standard grading scheme (A = 90 & up, B = 80 & up, etc.) complete the process below. If not, skip to step 6.
+
+​​Click Select Another Scheme. ​Choose the Letter Grade or Pass/Fail scheme that applies to the course.
+Click Use This Grading Standard.
+Click Done. Skip to step 10.
+
+
+
+
+
+For a standard grading scheme (A = 90 & up, B = 80 & up, etc.) complete the process below. If not, skip to step 6.
+
+​​Click Select Another Scheme. ​Choose the Letter Grade or Pass/Fail scheme that applies to the course.
+Click Use This Grading Standard.
+Click Done. Skip to step 10.
+
+
+
+​​Click Select Another Scheme. ​Choose the Letter Grade or Pass/Fail scheme that applies to the course.
+
+Click Use This Grading Standard.
+
+Click Done. Skip to step 10.
+
+For a non-standard grading scheme start by clicking the pencil icon.
+
+
+Edit the ranges and name (letter grade). The name must be the letter grades One will accept for your course. You can also delete unnecessary rows.
+
+Click Save.
+
+Click Done. ​Now, we’re ready to submit your grades:
+
+Navigate to one.ou.edu (http://one.ou.edu/) and log in. 
+
+Some accounts have access to both the employee and student versions of ONE. Check you are on the employee version by clicking on your picture and ensuring Employee is selected from the drop-down menu.
+	   
+
+Ensure you are on the Courses page. Use the left sidebar to navigate to the page if needed.  
+
+Find the course you would like to enter grades for, and click on it to view the course details. 
+
+Click on the Grades tab, and then click Import from Canvas.
+
+ONE will import your Canvas grades. It will display the “Canvas current grade” as well as the “Canvas calculated final grade”. If there are errors, they will display here. The most common causes of grading errors are 1) ungraded assignments, 2) muted assignments and 3) not having a grading scheme enabled.
+
+Note that “Show only discrepancies” will filter to show only students with missing grades or inconsistent grades.
+
+If any errors do appear, select View in Canvas to correct errors received.
+
+Once Canvas grades are updated, navigate back to ONE. Click Refresh Grades to update and reflect corrections. Select Submit final grades to Banner when ready to submit.
+
+Once grades have been received without error, you will receive confirmation the grades were successfully submitted.
+
+NOTE: Grades of F/AW must be entered directly in Banner; please click Edit in Banner to enter last date of attendance and to submit those grades.
+
+Review grades for accuracy.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

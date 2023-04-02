@@ -1,0 +1,17 @@
+
+  Canvas – Integrating Piazza with Canvas
+
+
+Piazza is a free Q&A platform. It can be described as a mixture between a wiki and a forum that can be used with learning management systems as an alternative to the standard Discussions area. Users can publicly (and anonymously, if the instructor allows it) ask questions, answer questions, and post notes. Each question prompts a collective answer to which any user can contribute and an instructor answer (shown directly below) which can only be edited by instructors. Users can attach external files to posts, use LaTeX formatting, view a post’s edit history, add follow-up questions, and receive email notifications when new content is added.
+
+Instructors can integrate Piazza with their Canvas courses using the following Key and Secret information:
+
+Key: ou.edu
+Secret: piazza_od3-8dv2
+
+Note: OUIT does not handle support for Piazza; support for Piazza can be found here: http://support.piazza.com/ (http://support.piazza.com/)
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

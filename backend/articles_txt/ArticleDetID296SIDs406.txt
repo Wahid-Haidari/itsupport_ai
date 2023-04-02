@@ -1,0 +1,32 @@
+
+  Removing a Participant from a Zoom Meeting
+
+
+Identify the participant who is disrupting the meeting
+
+
+
+Scroll to the meeting management ribbon and click “Manage Participants”
+
+
+
+If the disruption needs to be terminated immediately, simply click “Mute all” located at the bottom of the participants pane.
+
+
+
+Find the disruptive participant in the participants lists, hover over their name, with the cursor, and hit the “More” option to remove the participant
+
+
+
+Confirm this is the participant you want to remove and click “Okay”
+
+
+
+The User will not be able to rejoin the current meeting
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

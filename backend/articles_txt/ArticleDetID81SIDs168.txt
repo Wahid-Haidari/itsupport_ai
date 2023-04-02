@@ -1,0 +1,38 @@
+
+  OU Security Camera Software Update – Avigilon Control Center
+
+
+The University of Oklahoma has updated the security camera software for the new Avigilon Control Center Client. This new software will change the way departments check their security camera feeds. To continue to access ones feeds, users will need to install the latest client on their security camera monitoring PC. Note the client only currently supports installation on the Windows operating system.
+
+To install, please visit the Avigilon site (https://www.avigilon.com/software-downloads) to download the latest client (Motorola account required).
+
+After downloading the client, double click the .exe file to begin setup.
+
+Your installer will then begin the install process.
+
+Uncheck the ‘All users of this computer’ radial button to prevent the software from opening upon computer startup (see below).
+
+If you receive a prompt that the Control Center Client needs to be closed, click Next to close it and continue.
+
+If Direct X 9.0c is not found on your computer, the client will then install this component.
+
+Once it is finished installing Direct X, click Next.
+
+Check the box to accept the terms of the license agreement and then click Next.
+
+Choose the install path folder and then click Next.
+
+Select your start menu options and then click Next.
+
+Now click Next and the client will install.
+
+Once complete, click Finish to complete the install process.
+
+Training videos for using the client and monitoring video are available through the link below:
+
+https://partners.avigilon.com/avigilonstore (https://partners.avigilon.com/avigilonstore) (Motorola account required)
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

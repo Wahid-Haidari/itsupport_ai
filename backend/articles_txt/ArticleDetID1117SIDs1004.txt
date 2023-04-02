@@ -1,0 +1,20 @@
+
+  Enabling Media Gallery in Canvas
+
+
+Media Gallery is a tool that allows you access your MyMedia videos directly from within Canvas and create playlists tailored to your course. To use Media Gallery in your course, it must first be enabled in Course Navigation.
+
+Learn how to enable tools in Course Navigation. (https://guides.instructure.com/m/4152/l/57079-how-do-i-reorder-and-hide-course-navigation-links)
+
+Additional resources on Course Navigation. (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=444)
+
+Learn more about Media Gallery. (https://itsupport.ou.edu/TDClient/35/Norman/Shared/Search/?c=all&s=media+gallery)
+
+Note: If you would rather embed individual videos into course content such as pages and assignments, visit our article on embedding in the Rich Content Editor. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=357&SIDs=496)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

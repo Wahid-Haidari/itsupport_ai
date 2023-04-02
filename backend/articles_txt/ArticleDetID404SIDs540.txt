@@ -1,0 +1,47 @@
+
+  Canvas – Creating a Turnitin Assignment with the Plagiarism Framework
+
+
+Note: The Turnitin Plagiarism Framework is the recommended method for setting up Turnitin within Canvas, as it is a smoother integration than the External Tool.  
+
+The Canvas Plagiarism Framework, one of two Turnitin integrations for Canvas, is designed for instructors who want to use the Turnitin service solely for plagiarism detection. All assignment feedback and grading activities take place within SpeedGrader and/or the Canvas Gradebook. 
+
+To add the Plagiarism Framework to an assignment: 
+
+
+Start a new assignment or open the editing page for an upcoming assignment. 
+
+
+Start a new assignment or open the editing page for an upcoming assignment. 
+
+
+Under the Plagiarism Review section, use the drop-down menu to select Turnitin. 
+
+
+Under the Plagiarism Review section, use the drop-down menu to select Turnitin. 
+
+
+Once the Turnitin tool loads, select your preferred options. 
+
+
+Once the Turnitin tool loads, select your preferred options. 
+
+
+Save. 
+
+
+Save. 
+
+The Turnitin External Tool Integration should be utilized when an instructor would like to not only generate Turnitin Originality Reports but would also like to use some or all of the full suite of Turnitin Feedback and Grading Tools, such as Turnitin QuickMarks and Rubrics, Turnitin PeerMark, and ETS eRater. If an instructor intends to markup and score student papers using Turnitin Feedback and Grading Tools, then he/she should choose the External Tool Integration. The Turnitin Plagiarism Review should be utilized when an instructor would like to generate Turnitin Originality Reports but would also like to use Canvas features. If an instructor intends t markup and score student papers using Canvas SpeedGrader or wants to use additional Canvas features such as Group Assignments and multiple due dates, then he/she should choose the Plagiarism Review Integration. 
+
+Turnitin has resources available for both integrations. Select Turnitin Classic for help with the External tool version and or Feedback Studio for assistance with the Plagiarism Framework version. 
+
+Click for Instructor guides  (https://guides.turnitin.com/03_Integrations/Turnitin_Partner_Integrations/Canvas/Canvas_Plagiarism_Framework_(beta_program)/Instructor)
+Click for Student guides (https://guides.turnitin.com/03_Integrations/Turnitin_Partner_Integrations/Canvas/Canvas_Plagiarism_Framework_(beta_program)/Student) 
+
+For Turnitin Support, please utilize the Support Wizard (https://www.turnitin.com/self-service/support-wizard.html). 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

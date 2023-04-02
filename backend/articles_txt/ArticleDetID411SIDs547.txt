@@ -1,0 +1,28 @@
+
+  Canvas – Adding Users to Course
+
+
+As an instructor, you can enroll users as TAs, instructors, etc. in your Canvas course.
+
+In your course, click on People in the navigation bar, then click +People.
+
+Under Add user(s) by, select Login ID. Do not add users by email address, as this creates a duplicate account that is not tied to their OU account.
+
+In the box, type or copy/paste in the OUNet ID (also known as the 4x4) of the user(s) you would like to add to the course. If you are adding multiple users, separate their OUNet IDs with a comma.
+
+Choose the Role the user(s) should have and the Section they should be added to (if necessary). If you are adding multiple users at once, they will all be given the same permissions.
+
+If desired, check the box next to Can interact with users in their section only to restrict the user’s access. 
+
+Hit the Next button.
+
+You will see a verification screen. If the information is correct, click Add Users.
+
+If you need to add additional users with different permissions, repeat steps 1-7.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,28 @@
+
+  OneDrive File Syncing
+
+
+If you decide to sync OneDrive across multiple devices, be sure the security on the devices that your information is synced with meets the minimum-security standards below:
+
+Install virus/malware detection software with the latest definitions.
+
+Run a firewall that blocks in-bound traffic.
+
+Do not log into your workstation or device as an administrator (unless absolutely necessary).
+
+Keep your operating system and software up to date.
+
+Password-protect your workstation or device and use idle-time screen saver passwords where possible.
+
+Talk to your departmental IT support for help securing your computers and other devices.
+
+Syncing across multiple devices inherently creates the potential for unintended data leakage; syncing Category A data is therefore strongly discouraged.  Always take caution when transmitting sensitive information.
+
+By default, OneDrive is set up to sync all files and folders, but you have the ability to customize what is synced.
+
+Open your OneDrive app settings and navigate to Sync Settings.
+
+ (http://www.bu.edu/tech/files/2015/05/onedrive-sync-settings.jpg)
+
+Choose which folder(s) you decide to sync. Stop syncing any folders you choose.
+

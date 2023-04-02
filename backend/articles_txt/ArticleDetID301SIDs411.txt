@@ -1,0 +1,22 @@
+
+  Enabling Webcam in Zoom
+
+
+First ensure that your webcam is properly plugged into your computer.
+
+Navigate your Zoom meeting window, which should look like this:
+
+
+Click on the arrow next to the “Start Video” button.
+
+
+Ensure that your webcam is selected, then click on the “Start Video” button.
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

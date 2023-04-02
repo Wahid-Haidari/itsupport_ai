@@ -1,0 +1,26 @@
+
+  Canvas – Attendance – About Attendance
+
+
+Instructors: 
+
+The Attendance (Roll Call) tool is an external app (LTI) used for taking attendance in Canvas courses. The Attendance tool can be used for online or face-to-face courses. Enabled at the account level, the Roll Call Attendance tool can be used by all courses in the Canvas account.
+
+The Attendance tool always appears as a visible Course Navigation link, but it cannot be viewed by students, so hiding the link in Course Settings is not necessary. If instructors do not want to use the Attendance tool in their courses, no action is required.
+
+Note: The Attendance tool must be enabled for your institution before it can be used in Canvas courses.
+
+For more information, please visit: https://guides.instructure.com/m/4152/c/45706​ (https://guides.instructure.com/m/4152/c/45706)
+
+Instructors
+How do I configure the Roll Call Attendance tool for my course? (https://guides.instructure.com/m/4152/l/107406-how-do-i-configure-the-roll-call-attendance-tool-for-my-course)
+How do I edit the Roll Call Attendance Assignment? (https://guides.instructure.com/m/4152/l/430299-how-do-i-edit-the-roll-call-attendance-assignment)
+How do I take roll call using the Attendance tool? (https://guides.instructure.com/m/4152/l/107412-how-do-i-take-roll-call-using-the-attendance-tool)
+How is Roll Call Attendance graded in Canvas? (https://guides.instructure.com/m/4152/l/107414-how-is-roll-call-attendance-graded-in-canvas)
+How do I create a roll call seating chart using the Attendance tool? (https://guides.instructure.com/m/4152/l/107416-how-do-i-create-a-roll-call-seating-chart-using-the-attendance-tool)
+How do I run Roll Call Attendance reports for my course? (https://guides.instructure.com/m/4152/l/107417-how-do-i-run-roll-call-attendance-reports-for-my-course)
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,0 +1,106 @@
+
+  PingID Enrollment
+
+
+PingID enrollment configures your method of authentication into OU systems and applications. When one tries to log in to certain OU systems and applications, this authentication method you configured will be asked if this is a legitimate log in. You will then approve or deny the log in request. Please note you do not need to set up PingID on every device you use. You just need to set up a primary and backup authentication method. OU encourages users to set up two methods of authentication, on a primary device which you will always have on hand, such as your phone, as well as a backup device such as your desktop computer in case you lose or change your primary device.
+
+To enroll your mobile device for usage with PingID, we recommend the following (we've included a detailed PDF at the right of this article in the Attachments section):
+
+Enroll your primary phone with push authentication. You may alternately also configure the phone number to receive calls and text approval codes.
+
+Set up a secondary backup authentication method in case you do not have access to the first method.
+
+Navigate to the PingID site (http://link.ou.edu/pingid).
+
+Upon first log in, you will be prompted with a greeting and the My Devices screen.
+
+To add your device, click the + Add button. 
+
+You will have two options, to download the PingID app for iPhone & iPad (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2535) as well as the download for Android (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2534).
+
+Search your device's app store for PingID and install it. 
+
+After install, launch the app.
+
+Once installed, continue following onscreen prompts. Your pairing key and QR code are displayed in your web browser window from step 1 to pair your PingID account with your application. 
+
+On your device, tap Open. The PingID mobile app opens.
+
+The first time you access PingID mobile app, you'll be asked to accept the terms of service. Tap Accept.
+
+You'll also need to enable push notifications and location for PingID. Tap the "I Understand" button and then accept all PingID permission requests when prompted to do so (tap Allow and OK).
+
+From the PingID app on your device, point your device at the QR code on your browser to scan it.
+	
+If you are unable to scan the QR code, on your device tap Enter Pairing Key Manually and enter the pairing key as shown on the registration page.
+
+
+
+If you are unable to scan the QR code, on your device tap Enter Pairing Key Manually and enter the pairing key as shown on the registration page.
+
+Enter a nickname for your profile, optionally add a picture, and then tap Done.
+
+You'll see a green checkmark indicating the pairing request is successful. You may now need to hit X to exit.
+
+You'll see the PingID app screen showing the one-time passcode number and your organization name in the organization list. Setup is now complete. Please note you will need to keep the PingID app installed on your phone, as app based authentication prompts will appear in this application.
+
+With the app configured, you may also wish to configure the phone to receive call or text prompts to your phone number. Simply return to the PingID site (http://link.ou.edu/pingid) and click the +Add button again and choose SMS or Voice and follow the on screen prompts.
+
+ 
+
+Using PingID
+
+Now when you try to sign in to a PingID enabled OU website or application, an authentication request will be sent to your device for your approval. 
+	
+If the needed approval prompt is not received, one may use the one time passcode being provided by the app instead to complete your log in.
+
+
+
+If the needed approval prompt is not received, one may use the one time passcode being provided by the app instead to complete your log in.
+
+Once you are authenticated, you'll see a green checkmark confirming success, and you will be directed to the OU service or application that you wanted to access.
+
+ 
+
+Setting up a backup will ensure that even if you lose your phone, you will still have another activation method to get access to the site/app in question. This also ensures you can add or change your primary phone device if lost or changed.
+
+Navigate to our article on the PingID for desktop (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2540) app.
+
+Follow the steps listed for your device, either Windows or Mac.
+
+ 
+
+PingID offers multiple authentication options, including for your phone via the app, SMS text or voice. Via the Desktop app, or an attached security key. To add these additional options, simple visit the enrollment page (http://link.ou.edu/pingid) and hit the Add+ button to see the other available methods.
+
+Phone/Tablet:
+
+PingID Authentication for iPhone (Swipe, Fingerprint, One-Time Passcode) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2535)
+
+PingID Authentication for Android (Swipe, Fingerprint, One-Time Passcode) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2534)
+
+PingID Authentication for SMS/Voice (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2537)
+
+Additionally, one may choose choose the "Authenticator" option under Add+ to add PingID authentication to your existing Google Authenticator or Microsoft Authenticator apps. Please note that after scanning your QR code, you should also verify your authenticator by hitting Next in your browser and then entering the passcode displayed in your app.
+
+Windows/Mac Desktop App:
+
+PingID Authentication for Desktop App (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2540)
+
+Security Key:
+
+PingID Authentication for YubiKey (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2536)
+
+ 
+
+If you have more than one OU account that is required to use PingID, you will need to follow these enrollment steps for each different account. For each enrollment process, you should visit the PingID site (http://link.ou.edu/pingid) using a private/incognito browser, log in using that second account and then complete the needed enrollment.
+
+ 
+
+If you need additional assistance installing or setting up PingID or if you have set up PingID in the past and are now having issues with the app on your device, please feel free to stop by one of our service centers (Norman (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=124&SIDs=147) | Oklahoma City (https://itsupport.ou.edu/TDClient/34/OKC/Requests/ServiceDet?ID=194) | Tulsa (https://itsupport.ou.edu/TDClient/33/Tulsa/Requests/ServiceDet?ID=112)) or contact us via phone (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2885).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

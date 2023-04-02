@@ -1,0 +1,78 @@
+
+  Connecting Zoom Add-in to Outlook Web or Desktop Application
+
+
+Log in to the Outlook web app. (https://outlook.office.com/)
+
+Open the Add-ins menu
+	
+Select a message
+Select More Actions (three horizontal dots) at the top-right of the message
+
+At the bottom of the list, select Get Add-ins
+
+		 
+
+
+
+Select a message
+
+Select More Actions (three horizontal dots) at the top-right of the message
+
+
+At the bottom of the list, select Get Add-ins
+
+		 
+
+Once in the Add-ins menu, type “Zoom for Outlook” in the search bar. Click Add
+
+
+Zoom calendar functionalities will now be available in Outlook.
+
+Log in to the Outlook web app. (https://outlook.office.com/)
+
+Open the Add-ins menu
+	a. ​In the Options sidebar, under the General Tab, click on Manage add-ins
+
+
+
+You will be directed to Outlook’s browser Add-ins Manager.
+	a. Click on the plus icon > Add from the Office Store
+
+
+Once in the Add-ins menu, type “Zoom” in the search bar. Click on Get it now
+
+Zoom calendar functionalities will now be available in Outlook.
+
+NOTE: TO INSTALL ZOOM FOR OUTLOOK ON THE OUTLOOK DESKTOP APP, YOU MUST HAVE A MICROSOFT EXCHANGE ACCOUNT ADDED TO OUTLOOK.
+
+Open the Outlook desktop app and, for Windows users, go to File > Manage Add-ins.
+
+
+You will be directed to Outlook’s browser Add-ins Manager.
+	
+Click on the plus icon > Add from the Office Store.
+
+
+
+
+Click on the plus icon > Add from the Office Store.
+
+
+You will be re-directed to the Office Store. Search for Zoom for Outlook and click GET IT NOW
+
+Zoom calendar functionalities will now be available in Outlook.
+
+Go to click the Store icon on the Outlook ribbon
+
+
+You will be re-directed to the Office Store. Search for Zoom and click GET IT NOW
+
+Zoom calendar functionalities will now be available in Outlook.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

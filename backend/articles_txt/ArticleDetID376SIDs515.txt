@@ -1,0 +1,120 @@
+
+  MyMedia – Channels
+
+
+Note: Canvas has a built-in MyMedia integration called Media Gallery that acts as a channel within your course. We recommend using Media Gallery when possible. Learn more about Media Gallery. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=394&SIDs=531) 
+
+
+Click on your name in the upper right corner to open a drop-down menu. 
+
+
+Click on your name in the upper right corner to open a drop-down menu. 
+
+
+Select My Channels. 
+
+
+Select My Channels. 
+
+ 
+
+ 
+
+
+Click Create Channel. 
+
+
+Click Create Channel. 
+
+ 
+
+ 
+
+ 
+
+
+Fill in a Title, Description, and tags 
+
+
+Fill in a Title, Description, and tags 
+
+
+Set privacy settings 
+
+
+Set privacy settings 
+
+
+Note: If you are using a channel to share recorded lectures, do not make the channel public. This can potentially violate FERPA. Instead, keep the channel private or use the Media Gallery (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=394&SIDs=531) integration in Canvas. 
+
+
+Note: If you are using a channel to share recorded lectures, do not make the channel public. This can potentially violate FERPA. Instead, keep the channel private or use the Media Gallery (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=394&SIDs=531) integration in Canvas. 
+
+
+Select if you want the channel to be moderated (you must approve videos before they are shown in the channel), if comments are enabled, and if users can subscribe to the channel 
+
+
+Select if you want the channel to be moderated (you must approve videos before they are shown in the channel), if comments are enabled, and if users can subscribe to the channel 
+
+
+Click Save 
+
+
+Click Save 
+
+While creating/editing the channel, you can choose different privacy options depending upon your needs. The following are the options and their brief explanations: 
+
+Restricted: All logged in users can view content and only channel members can contribute content. (Only for non-Classroom content) 
+
+Private: Only channel members can view and contribute content. If you are a member of the channel, it is only accessible to you for viewing and editing. Refer to the adding users to a channel article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2538) to learn more about how to add students and limit their role in the channel. 
+
+Public, Restricted: Anyone can view content (including anonymous not logged-in users). Only channel members can contribute content according to their publishing entitlements. (Only for public forums or speaker series to be shared with the general public). For this settings, please contact IT Support. 
+
+ 
+
+To edit the privacy settings for the channel, go to your “My Channels”> Hover your mouse over the channel you want to edit> Click on the Pencil (edit) icon on the bottom right corner.  
+
+ 
+
+
+Go to your channels (step 1 above) 
+
+
+Go to your channels (step 1 above) 
+
+
+Select the channel you want to manage 
+
+
+Select the channel you want to manage 
+
+
+Click + Add to Channel to add media to the channel. 
+
+
+Click + Add to Channel to add media to the channel. 
+
+ 
+
+
+Check the box next to the media you would like on the channel 
+
+
+Check the box next to the media you would like on the channel 
+
+
+Click Publish 
+
+
+Click Publish 
+
+
+You can also add new media by clicking on Add New. 
+
+
+You can also add new media by clicking on Add New. 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

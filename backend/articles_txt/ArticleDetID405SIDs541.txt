@@ -1,0 +1,40 @@
+
+  Canvas – Default Notification Preferences
+
+
+When you first login to Canvas, the notification preferences will be on the default settings. You can customize these settings to adjust what notifications you receive and how you receive them.
+
+First, ensure that your preferred contact methods are specified in your account. These contact methods must be confirmed before notifications will send.
+
+How do I add contact methods as an instructor? (https://guides.instructure.com/m/4152/l/719736-how-do-i-add-contact-methods-to-receive-canvas-notifications-as-an-instructor)
+
+How do I add contact methods as a student? (https://guides.instructure.com/m/4212/l/710335-how-do-i-add-contact-methods-to-receive-canvas-notifications-as-a-student)
+
+Once your preferred contact methods are in Canvas, you can decide what types of notifications are sent. These preferences only apply to you; they are not used to control how course updates are sent to other users. Notifications have four setting levels: notify immediately, daily summary, weekly summary, or notifications off. If you change a setting, the change is made immediately to your account.
+
+How do I set my Canvas notification preferences as an instructor? (https://guides.instructure.com/m/4152/l/719738-how-do-i-set-my-canvas-notification-preferences-as-an-instructor)
+
+How do I set my Canvas notification preferences as a student? (https://guides.instructure.com/m/4212/l/710344-how-do-i-set-my-canvas-notification-preferences-as-a-student)
+
+To learn more about notification options and triggers, view the Canvas Notifications PDF (https://s3.amazonaws.com/tr-learncanvas/docs/CanvasNotifications.pdf).
+
+Notification settings apply to all your courses unless you set notification preferences for individual courses.
+
+How do I manage notification settings for a single course as an instructor? (https://guides.instructure.com/m/4152/l/1235672-how-do-i-manage-notifications-for-a-single-course-as-an-instructor)
+
+How do I manage notification settings for individual courses as a student? (https://guides.instructure.com/m/4212/l/1235713-how-do-i-manage-notifications-for-a-single-course-as-a-student)
+
+You can reply directly to email notifications outside of Canvas and have the reply appear in Conversations. However, please be aware that attachments added as part of an external reply are not included with the message shown in the Canvas Inbox.
+
+Note: The Canvas app supports setting notification preferences. However, setting preferences inside the app will override preferences in the browser version of Canvas.
+
+Instructors – Profile and User Settings (https://guides.instructure.com/m/4152/c/23860)
+Students – Profile and User Settings (https://guides.instructure.com/m/4212/c/23873)
+Notifications PDF: https://s3.amazonaws.com/tr-learncanvas/docs/CanvasNotifications.pdf (https://s3.amazonaws.com/tr-learncanvas/docs/CanvasNotifications.pdf)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

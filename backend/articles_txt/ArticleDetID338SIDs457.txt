@@ -1,0 +1,26 @@
+
+  Respondus Overview and Support
+
+
+Overview
+
+Respondus is a powerful tool for creating and managing exams that can be printed to paper or published directly to Blackboard, Canvas, and other learning systems. Exams can be created offline in a Windows environment, or moved from one LMS to another.
+
+Respondus offers several options for support for its products which include:
+
+Demo videos, which include how-tos on creating questions, moving exams, and publishing to various learning systems, can be found here: http://www.respondus.com/products/respondus/demos.shtml (http://www.respondus.com/products/respondus/demos.shtml)
+
+Respondus Support is available here: https://support.respondus.com/support/ (https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.respondus.com%2Fsupport%2F&data=04%7C01%7Choehne%40ou.edu%7Cc10a6f6ad6d643dfe48d08d8a06c519a%7C9c7de09d903444c1b462c464fece204a%7C1%7C0%7C637435734372977502%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=kF9negtFmNAii8Ak0X%2Bq6igMlMf7x%2F4ciUqJoFDlakY%3D&reserved=0)
+
+A support ticket to Respondus can be submitted here (https://support.respondus.com/support/index.php?/Default/Tickets/Submit/RenderForm/2).
+
+Respondus Email Support is available through support@respondus.com (mailto:support@respondus.com).
+
+Please note that while OU IT can provide general support (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=124) regarding setting up Respondus in Canvas, questions beyond the initial technical setup of Respondus in a course should be handled by Respondus Support directly.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

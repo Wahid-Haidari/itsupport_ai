@@ -1,0 +1,34 @@
+
+  Qualtrics – Useful Features and Tools
+
+
+Qualtrics has many useful features that can assist with automating tasks and customizing surveys to individual respondents. Below are selected resources on some of the most commonly used tools.
+
+When you apply Display Logic to a question, it will only display if certain conditions are met. These conditions might include how a respondent answered a previous question, embedded data, or other information. This tool works best if you only need to conditionally display individual questions. If you need to conditionally display whole sections of a survey, it may be better to use Survey Flow (https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/survey-flow-overview/) to create Branch Logic (https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/standard-elements/branch-logic/). Learn more about Display Logic (https://www.qualtrics.com/support/survey-platform/survey-module/question-options/display-logic/). 
+
+Skip Logic can be used to send a respondent to a later point in a survey based on how they answer a question. For example, if a respondent answers that they do not consent to participate, they can be skipped to the end of the survey. If your survey is complex and requires multiple skips, you may consider using Survey Flow (https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/survey-flow-overview/) to create Branch Logic (https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/standard-elements/branch-logic/) instead. Learn more about Skip Logic (https://www.qualtrics.com/support/survey-platform/survey-module/question-options/skip-logic/). 
+
+Note: If you would like filtered out respondents to have a customized end of survey message, you can achieve this using Survey Flow and Branch Logic.
+
+Survey Flow can be used to add different pathways into your survey. This can be automated to send respondents down particular branches based on their responses, randomization, embedded data, and more. Learn more about Survey Flow (https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/survey-flow-overview/).
+
+Survey Flow also contains several Elements to give you high levels of control of both respondents’ experiences and of how your data is collected. These tools can include functionality such as authentication, randomization, and alternative end of survey messages, among others. Learn more about the Survey Flow Elements (https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/survey-flow-overview/#ElementOptions).
+
+Question Blocks can be used to split the survey up into sections. One Question Block will show per page. They can be useful for breaking up the survey into chunks to reduce the need for respondents to scroll, or in Survey Flow to customize the survey experience. Learn more about Question Blocks (https://www.qualtrics.com/support/survey-platform/survey-module/block-options/block-options-overview/). 
+
+By default, each Question Block (https://www.qualtrics.com/support/survey-platform/survey-module/block-options/block-options-overview/) will be a single page in a survey. If you need additional Page Breaks within Question Blocks, these can be added manually. Some other tools (including Piped Text) in Qualtrics interact with Page Breaks (https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/add-page-break/#PageBreaksWithOtherFeatures) in different ways. Learn more about Page Breaks (https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/add-page-break/). 
+
+Response and Validation Requirements can be used to request or require that participants answer a question before continuing, or to require a specific type of answer, such as an email address. Response and Validation Requirements are added to individual questions. Learn more about Response and Validation Requirements (https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/validation/). 
+
+Piped Text is a powerful tool with a wide range of applications. It allows you to pull data from elsewhere (including a text response from a previous question, embedded data, and more) and display it to respondents within a question. Learn more about Piped Text (https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/piped-text/piped-text-overview/). 
+
+Workflows are used to automate tasks either on a schedule or based on events. For example, they can be used to send emails to yourself, other researchers, or respondents whenever a response is recorded. Event based Workflows can be fine-tuned with conditional logic. Workflows can also interact with Salesforce. Learn more about Workflows (https://www.qualtrics.com/support/survey-platform/actions-module/setting-up-actions/).
+
+Note: Email triggers are no longer recommended as Qualtrics has ended support for this feature. Workflows are recommended as an updated alternative. Learn about replacing Email Triggers with Email Tasks in Workflows (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2844&SIDs=2409).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

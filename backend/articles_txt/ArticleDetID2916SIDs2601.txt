@@ -1,0 +1,54 @@
+
+  PowerBI Security
+
+
+By default, only you can access your Power BI dashboards and workspaces. The different Power BI licenses allow for different ways of sharing your dashboards and reports.
+
+Power BI Free
+
+Users are unable to share live dashboards and interactive reports with Power BI Free. Users are able to print reports, export reports to PowerPoint and PDF, and create website embed codes. All use static data.
+
+Power BI Desktop
+
+Users save reports to a PBIX file, to share and distribute to other users using Power BI Desktop or Pro.  If users have a Power BI Pro license, they can upload or publish their reports and dashboards to Power BI, then share from there.  Exercise caution when sharing PBIX files.  There is no way to manage access once it has been shared.
+
+Power BI Pro
+
+Sharing Power BI dashboards/reports
+
+In a list of dashboards or reports, or in an open dashboard or report, select Share .
+
+In the top box, enter the full email addresses for individuals, distribution groups, or security groups. You can't share with dynamic distribution lists.
+
+
+
+To let your coworkers, share your content with others, check Allow recipients to share your dashboard (or report).
+
+Allowing others to share is called resharing. If you let them, they can reshare from the Power BI service and the mobile apps or forward the email invitation to others in your organization. The invitation expires after one month. People outside your organization can't reshare. As the owner of the content, you can turn off resharing, or revoke resharing on an individual basis.
+
+We do not encourage using this option.
+
+If you select Allow users to build new content using the underlying datasets, they can create their own reports in other workspaces based on the dataset for this dashboard.
+
+We do not encourage using this option.
+
+Select Share.
+
+
+
+Power BI sends an email invitation to the individuals, but not to groups, with a link to the shared content. You see a Success notification.
+
+Review Share Access
+
+In the list of dashboards and reports, or in the dashboard or report itself, select Share .
+
+In the Share dashboard or Share report dialog box, select Access.
+
+
+
+People outside your organization are listed as Guest.
+
+In this view, you can stop or change sharing permissions.
+
+User should review sharing permissions on at least a quarterly basis.
+

@@ -1,0 +1,18 @@
+
+  How to download Microsoft Visio and Project
+
+
+The download version of Microsoft Visio and/or Project are available to faculty and staff. If you have not already requested a Visio or Project license be applied to your account, please do so here (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=60). If you have already requested a license be applied to your account and were directed to this page through your ticket please proceed.
+
+You will need to log into portal.office.com with your OU email and password.
+
+Click on the "Install Office" button on upper right-hand side of the screen and then click on "Other install options". 
+
+You will click on "View apps & devices" located in the box "Office apps & devices". 
+
+You should have an area on this page that has Visio or Project listed and a button saying Install Visio or Install Project. 
+
+ 
+
+If you do not have this option and you received an email that the license has been applied to your account, please reply to that message to let our team know that you do not have an option to download the requested product with a screen shot if possible.
+
