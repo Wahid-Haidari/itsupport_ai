@@ -2,7 +2,7 @@ from llama_index import SimpleDirectoryReader, GPTSimpleVectorIndex
 import sys
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 def construct_index():
     global index
