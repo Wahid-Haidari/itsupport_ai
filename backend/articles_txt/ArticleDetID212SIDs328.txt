@@ -1,0 +1,101 @@
+
+
+	Article - Change Password
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Account and Identity Management
+Change Password
+Change Password
+The following instructions are for those users who know their current password. If you are having trouble with your current password or have forgotten it and need it reset, please see
+this article
+. Please note that one can not reset their OU password through the Office 365 profile area, attempting to do so will result in a "You can’t change your password here" message. OU account password changes should be completed using the instructions below.
+Changing your password
+Go to
+http://one.ou.edu
+.
+Log in with your OUNet ID and current password.
+Click your name in the upper right corner and select Account Settings.
+Select the Security tab.
+In the Password section, click the Change Password button.
+Enter your old password and your new password, following the stated password requirements.
+Click the Change password button when done, your password change will update fully the system after approximately 30 minutes.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+212
+Created
+Sun 9/6/20 2:11 PM
+Modified
+Tue 9/7/21 1:40 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=212&SIDs=328">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=212&SIDs=328</a><br /><br />Change Password
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

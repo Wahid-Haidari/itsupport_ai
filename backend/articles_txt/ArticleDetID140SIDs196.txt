@@ -1,0 +1,94 @@
+
+
+	Article - Voicemail Login Access Issues
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Account and Identity Management
+Voicemail Login Access Issues
+Voicemail Login Access Issues
+The Avaya Aura voicemail system requires a password to login. Receiving three password login failures for the system will lock you from your mailbox. If you have locked your voicemail login please visit the
+Voicemail service
+on the catalog and click Request Service.
+If you are a new user for your phone and a previous mailbox is still present on the line that you wish to update, please visit the
+Voicemail service
+on the catalog and click Request Service. Note that maintaining the existing mailbox and requesting a password reset can be performed without charge. If you wish to wipe out the old mailbox and create a new one, there will be a $10 programming change charge.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+140
+Created
+Thu 9/3/20 3:56 PM
+Modified
+Fri 1/8/21 4:37 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=140&SIDs=196">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=140&SIDs=196</a><br /><br />Voicemail Login Access Issues
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

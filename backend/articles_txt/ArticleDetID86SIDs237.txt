@@ -1,0 +1,148 @@
+
+
+	Article - WiFi Troubleshooting
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Device Management and Support
+WiFi Troubleshooting
+WiFi Troubleshooting
+If you are having problems connecting or staying connected to the OU wireless networks, please try the troubleshooting suggestions below.
+1. Forget WIFI@OU and OUGuest on your device.
+If your computer has saved the settings for OU wireless in the past, it may have problems reconnecting if that information has changed in some way. In these situations, it is recommended to remove those saved settings and try to reconnect from scratch.
+For more information on forgetting a network, click
+here
+. Once the connection is forgotten by the operating system, please attempt to reconnect to the connection once again.
+Please note: users with an OUNetID should never connect using OUGuest. This can cause connectivity problems even after disconnecting from it.
+2. Confirm your OUNet ID and password. Have they changed recently?
+For more information on on WIFI@OU, including specific instructions on connecting to it based on device type, click
+here
+. If you have recently changed your password and if your old one is still saved with the connection, you will need to have your machine forget WIFI@OU using the instructions above, then re-add the connection which should finally prompt for your username and updated password.
+3. Update Intel drivers, and install any other available device updates.
+Some users are experiencing connectivity issues in various buildings on campus. This is possibly because the Intel driver version they are using is not compatible with a new wifi protocol that has been released.
+Intel has released an article about this issue
+here.
+You can find the Intel wireless driver version by following these steps:
+Windows search box > Device Manager
+Look for Network Adapters
+Wireless Adapter
+Right-click Wireless Adapter > Properties
+Choose the driver tab
+Driver version
+4. Apple troubleshooting:
+Macbook Pro
+Verify that auto connect is checked in your network settings. Click
+here
+for details.
+Delete the WIFI@OU certificate and attempt to reconnect. Click
+here
+for details.
+Apple TV Gen 4-5
+Refer to
+THIS
+article for connecting an Apple TV Gen 4-5.
+Apple TV Gen 1-3 will use AccessOU.
+5. Windows troubleshooting:
+There is a known issue with verifying certificates in Windows 7/8/8.1. Click
+here
+for the workaround.
+Configuration Fix
+Press the Windows key and type Network
+Choose Troubleshoot Network
+Press Network and Sharing
+Press “Change Adapter Settings” on the left side
+Right click Wireless Network Adapter option
+Go to Properties
+Select Configure, then Advanced
+Change 802.11n Channel Width 2.4 to Auto
+Change 802.11n Mode to Disable
+6. If you are still unable to connect to WIFI@OU, please contact the OU IT Service Desk by calling 325-HELP during normal business hours OR go to needhelp.ou.edu and complete a General IT Support form.
+When calling or submitting a Service Request, please include this specific information:
+Your OUNet ID
+Your exact location when experiencing the problem: building, floor, room number, bedroom number (if applicable).
+The MAC address of
+every
+device (phone, laptop, etc.) that is unable to connect. Click
+here
+for more information on locating MAC addresses.
+A phone number that our technicians can use to contact you.
+Screenshots or descriptions of any error messages are helpful.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+86
+Created
+Thu 9/3/20 10:59 AM
+Modified
+Tue 3/28/23 11:12 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=86&SIDs=237">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=86&SIDs=237</a><br /><br />WiFi Troubleshooting
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

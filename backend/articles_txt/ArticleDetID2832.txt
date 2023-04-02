@@ -1,0 +1,326 @@
+
+
+	Article - Teamdynamix Single Sign on ...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Account and Identity Management
+Teamdynamix Single Sign on Troubleshooting
+Teamdynamix Single Sign on Troubleshooting
+Tags
+teamdynamix
+TDX
+SSO
+Troubleshooting Single Sign On Issues
+Overview
+This article will cover several common issues experienced by clients who utilize Single Sign On authentication in TeamDynamix and troubleshooting steps you can take to resolve them.
+Common Terms
+You may see the following terms used commonly throughout this article.
+SSO
+This refers to
+Single Sign On
+in general.
+SP
+This refers to a
+Service Provider
+of SSO. In this case, TeamDynamix is the SP because we are providing the SSO service to our clients.
+IdP
+This refers to an
+Identity Provider
+used by SSO SPs. Our clients (you) are the IdP. Common IdP systems are Shibboleth, Active Directory Federation Services, and CAS.
+EPPN
+This refers to the standard
+eduPersonPrincipalName
+attribute from the
+SAML 2.0 specification
+. This effectively is the username attribute in SSO and must be a fully scoped attribute. A scoped attribute must be in the format
+value@scope
+. For a username attribute like EPPN, that would be in the format of a full email address or UPN, such as
+user@domain.edu
+.
+SAML
+This refers to the common authentication data exchange format which SSO uses, named
+Security Assertion Markup Language
+. Similar to how web requests typically return HTML, SSO authentication requests communicate with SAML requests and responses. You may
+view the SAML 2.0 specification here
+.
+ADFS
+Microsoft's
+Active Directory Federation Services
+product. This is Microsoft's implementation of a SAML-based IdP.
+Common Error List
+Unable to Locate Metadata Error
+Continuous Page Redirects after Login
+You See a TeamDynamix Login Page after an SSO Login
+Current SSO Session Information URLs
+SAML Response Reported an IdP Error
+Assertion Contains an Invalid AudienceRestriction
+Unable to establish security of incoming assertion
+Failure receiving response to remoted message
+Unable to Locate Metadata Error
+Symptom
+You have SSO enabled for your organization and go to your organization's URL and click Sign In. You immediately see the below error message.
+Cause
+If you are seeing this message, it means that the metadata for your organization cannot be located. This is always for one of two reasons:
+TeamDynamix does not have a copy of your metadata.
+The entity ID you have listed in the TeamDynamix Admin application does not match up to the entity ID in your metadata.
+Resolution
+Take the following steps to ensure your metadata can be located and used for SSO authentication:
+Ensure that TeamDynamix does in fact have your metadata. If you are a part of the
+InCommon Federation
+, TeamDynamix will already have your metadata or will get it within 24 hours. If you are not a part of the InCommon Federation, confirm with TeamDynamix that they do have your metadata.
+Ensure that the entity ID value provided in the TeamDynamix Admin SSO Configuration page is correct. You can do this be looking at your own metadata file and looking for the
+entityID
+attribute. The line to look for in your metadata will look as follows:
+<EntityDescriptor ID="_idValueHere"
+entityID="myEntityIdValue"
+xmlns="urn:oasis:names:tc:SAML:2.0:metadata" xmlns:shibmd="urn:mace:shibboleth:metadata:1.0">
+In this example,
+myEntityIdValue
+would be the entity ID to put into the TeamDynamix Admin SSO Configuration page.
+Continuous Page Redirects after Login
+Symptom
+You have successfully exchanged metadata with TeamDynamix, configured your SSO settings in the TDAdmin application and are now trying to test things out. When you go to TeamDynamix on your custom URL, you are properly redirected your SSO login page. After signing into your SSO system, the browser page continuously redirects or displays an error about too many redirects.
+Cause
+This is typically happens for one of three reasons:
+The EPPN attribute is not being released to TeamDynamix at all.
+The EPPN attribute is being released to TeamDynamix but is not recognized as a valid, scoped attribute.
+The EPPN attribute is being released to TeamDynamix as a scoped attribute but the metadata in TeamDynamix does not contain the scope provided. For example, the username coming across from SSO is
+user@subdomain.domain.edu
+but the only allowed scope in your metadata is
+domain.edu
+.
+Resolution
+The way to resolve this issue is to ensure that you are releasing a valid, scoped EPPN attribute to TeamDynamix and that the scope of your EPPN values from SSO is contained in your metadata. Any EPPN value sent to TeamDynamix that is not scoped or not an accepted scope will be rejected.
+For ADFS SSO clients, you may not be able to directly modify the metadata you send to TeamDynamix to change which scopes are valid for your organization. In this case, contact TeamDynamix Support to request changes to the scopes allowed for your SSO implementation.
+See the
+SSO Self-Registration Attribute Mappings
+article in the
+Related Articles
+section of this KB for more information about all of the SSO attributes TeamDynamix accepts and how they should be formatted.
+Set the
+SSO with ADFS
+article in the
+Related Articles
+section of this KB for more information about how to configure an ADFS server to release attributes to TeamDynamix and how to configure an EPPN attribute.
+You See a TeamDynamix Login Page after an SSO Login
+Symptom
+You are trying to access TeamDynamix and have been redirected to your organization's SSO login page. After signing in, you are redirected to a TeamDynamix login page saying that
+Your username/password is invalid
+or that
+You do not have permission to access this application
+.
+Cause
+This means that either TeamDynamix could not find a user record in your organization whose TeamDynamix Username or Authentication Username matched the EPPN value coming out of SSO
+or
+that the user is trying to access an application they legitimately cannot access (e.g. Client Portal user trying to log into TDAdmin or TDNext).
+SSO authentication first tries to match the username value returned in the EPPN attribute to the user's Authentication Username value (found in the Auth tab of a User Profile in Admin). If it cannot find a match, it will then try to match against TeamDynamix Username.
+Below is an example of how username matching occurs in TeamDynamix using an example EPPN attribute value of
+jsmith@domain.edu
+.
+User with no Authentication Username
+Auth Username = [blank]
+This would be evaluated first and then SSO would check down to the TeamDynamix Usernames if no user is found to have an authentication username of jsmith@domain.edu.
+TeamDynamix Username = jsmith@domain.edu
+This user will be logged in.
+User with an Authentication Username
+Auth Username = jsmith@domain.edu
+Since this is checked first, this user would be logged in, regardless of the fact that their TeamDynamix username is sb.jsmith@teamdynamix.com.
+TeamDynamix Username = sb.jsmith@domain.edu
+This would never be evaluated.
+Resolution
+Ensure that the appropriate user record in TDAdmin has either their TeamDynamix Username or their Authentication Username value set to the value which will be coming out of SSO.
+Also ensure that the application the user is attempting to log into is actually an allowed application for that user. A URL containing TDNext would not allow a user without the TDNext application. Similarly, a URL containing TDAdmin would not allow a user who was not marked as an organizational Admin in the TDAdmin Organization Details page (in the Administrators tab). Note that changes to user applications or security role only take impact the
+next
+time the user logs in. And for SSO logins, you typically need to sign out of TDX entirely and close all browser windows to register a full "sign out" before attempting to sign in again and receive the updated applications list/security role.
+Troubleshooting Tools
+If you run into this issue, you can verify the information you are sending to the TeamDynamix SAML Service Provider by viewing our user session information page. The SAML user session page shows basic information that TeamDynamix received from your own SAML assertion (in your browser session). It will include information such as the identity provider used, session expiration dates and any SAML attributes and values included from the SAML assertion attribute statement. You can then compare the values sent to TeamDynamix with your actual SAML session values to see if they align. For instance, your SAML
+eppn
+value will need to match one of your TeamDynamix usernames, and this match
+is case-sensitive
+. If these values do not match, you will not be allowed into the TeamDynamix web applications.
+To access the session information page, use the following URLs as appropriate for your region and organization:
+Production & Sandbox
+United States:
+https://shib.teamdynamix.com/Shibboleth.sso/Session
+Canada:
+https://shib-cac.teamdynamix.com/Shibboleth.sso/Session
+SaaS Vanity URLs (any region):
+https://yourVanityUrlDomain/Shibboleth.sso/Session
+Release Preview (only available during preview periods)
+United States:
+https://shib.teamdynamixpreview.com/Shibboleth.sso/Session
+Canada:
+https://shib-cac.teamdynamixpreview.com/Shibboleth.sso/Session
+SAML Response Reported an IdP Error
+Symptom
+You are trying to access TeamDynamix and have been redirected to your organization's SSO login page. After signing in you are redirected to a TeamDynamix
+Oops! The system encountered an error during single sign-on
+page. The error message in this page is
+SAML response reported an IdP error
+and will look like the image below
+:
+Cause
+Some sort of error was encountered on the IdP side of the SSO process. Unfortunately, with the way SSO works, TeamDynamix is not able to tell what these sorts of errors are and only knows that an error was experienced on the IdP side of the SSO process.
+Resolution
+Since your organization is the IdP in the SSO process, you will need to forward this error to your organization's SSO administrators to investigate further. They can then work with TeamDynamix as necessary to resolve the issue.
+Assertion Contains an Invalid AudienceRestriction
+Symptom
+You are trying to access TeamDynamix and have been redirected to your organization's SSO login page. After signing in you are redirected to a TeamDynamix
+Oops! The system encountered an error during single sign-on
+page. The error message in this page is
+Assertion contains an invalid AudienceRestriction
+.
+Cause
+This means that the value entered for
+Audience
+or
+Audience Restriction
+in the IdP system does not match the
+entityID
+listed in the TeamDynamix SP metadata.
+Resolution
+Change the Audience or Audience Restriction value in the IdP system to match the entityID from the TeamDynamix SP metadata. Those values are:
+Production & Sandbox
+United States:
+https://www.teamdynamix.com/shibboleth
+Canada:
+https://shib-cac.teamdynamix.com/shibboleth
+Release Preview (only available during preview periods)
+United State:
+https://shib.teamdynamixpreview.com/shibboleth
+Canada:
+https://shib-cac.teamdynamixpreview.com/shibboleth
+Unable to establish security of incoming assertion
+Symptom
+You are trying to access TeamDynamix and have been redirected to your organization's SSO login page. After signing in you are redirected to a TeamDynamix
+Oops! The system encountered an error during single sign-on
+page. The error message in this page is
+Unable to establish security of incoming assertion
+.
+Causes
+This message can indicate one of several different issues and the resolution is different depending on the true case.
+Possible Causes
+The signing certificates in the IdP's metadata do not match the certificate the IdP is currently using to sign outbound SAML assertions. This is the
+most common cause
+in our experience, but the other causes can come into play as well.
+The IdP indicates that the Service Provicer (TDX) should expect signed assertions but is not in fact signing outbound assertions.
+The IdP is acting as a proxy/federating IdP that stands between TeamDynamix and further client-specific IdPs but is not running in
+transparent
+mode. This is typically called a proxy or hub/spoke setup. The point of the middle IdP is to act as a single contact point in/out of TeamDynamix while it further acts as a SP of sorts to the downstream client IdPs.
+The IdP's
+EntityID
+in the SAML assertion
+Issuer
+node is somehow different than what is reported in their own IdP metadata that the Service Provider uses (
+EntityDescriptor
+node,
+EntityID
+attribute).
+Resolutions
+There is likely a mismatch in some way between the IdP's current metadata and the copy of that metadata that the Service Provider (TDX) has stored. Typically this is due to changes in signing certificates as they expire and roll over. TeamDynamix refreshes client metadata sources every 2-4 hours. You may either wait longer for TeamDynamix to get a newer copy of your metadata or contact TeamDynamix support to ask that a manual refresh be triggered.
+We also suggest that, whenever possible, you should do the following in regards to signing certificate updates:
+If your IdP has the ability to do so, as your signing certificate is approaching expiration, generate your new certificate ahead of time and put it into the list of signing certificates in your metadata. In this way, it will distribute to Service Providers ahead of time, along with the current certificate. Most Service Providers will check through the list of signing certificates in the order listed in the metadata until one works or they all fail. Try to do this 30-60 days in advance of the actual signing certificate expiration if possible.
+When the old certificate fully expires, you change the signing certificate in the live IdP system and no outage is experienced, as the service providers already have both your old and new certificates.
+Change your signing certificate over in non-peak hours so as to avoid service disruptions.
+Repeat this process every time a signing certificate needs to be changed.
+Unfortunately not all IdP systems support this functionality. If that is the case for you, you likely need to just rely on 1.3 and make your change in an off-hours period where users are not in the system. Then wait 2-4 hours until things start working again. If you know you cannot change your certificate in off-hours, nor can you feed in a new certificate ahead of time, you may also contact TeamDynamix support to coordinate a time to make the change and immediately have TeamDynamix refresh your metadata.
+Please try to give at least 4-5 days advance notice if at all possible if you are contacting TeamDynamix support to coordinate a manual metadata refresh trigger.
+Either make your IdP start actually send signed assertions or do not indicate in your IdP metadata to expect signed assertions.
+TeamDynamix uses Shibboleth SP as our service provider software. You may need to set your IdP to work in
+transparent
+mode (rather than
+proxy
+mode). The Shibboleth SP docs indicate that this can be needed at least in hub/spoke setups. We are not 100% certain if this impacts all proxy IdP setups, but it is something to try if you are still having issues.
+Ensure that the IdP metadata which TeamDynamix consumes has the proper
+EntityID
+value that is going to be coming back from your IdP system. If what the IdP system sends back doesn't match what your metadata says to expect, we cannot bypass this validation on the TeamDynamix side. You have to fix this on the IdP side where your metadata is served up from.
+Failure receiving response to remoted message
+Symptom
+You are trying to access TeamDynamix and have been redirected to your organization's SSO login page. After signing in you are redirected to a TeamDynamix
+Oops! The system encountered an error during single sign-on
+page. The error message in this page is
+Failure receiving response to remoted message
+.
+Cause
+This means that our servers did not finish the SAML authentication process in a timely manner, so the request was timed out. Either the remote IdP server or the local Service Provider server took too long to send/receive the SAML authentication flow.
+This most commonly happens in the TeamDynamix Release Preview environments. The Release Preview environment does not have heavy resources dedicated to it and you should expect to see these errors from time.
+Resolution
+Simply try the SSO login process again. Do not just refresh the page, as this might not work properly, rather go back to the URL you were originally trying to access and start over.
+Additionally, you
+do not
+need to report these errors to TeamDynamix support if you are seeing them in the Release Preview environment. This environment gets updated often during preview period, and combined with a lighter set of resources dedicated to it, can be a little slower in the mornings. It may take a few retries in the Release Preview environment before it starts to pick up (if you are running into this error).
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2832
+Created
+Tue 4/19/22 9:54 AM
+Modified
+Tue 4/19/22 9:54 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2832">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2832</a><br /><br />Teamdynamix Single Sign on Troubleshooting
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

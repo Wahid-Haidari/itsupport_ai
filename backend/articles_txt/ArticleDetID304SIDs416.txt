@@ -1,0 +1,187 @@
+
+
+	Article - How to Join a Zoom Meeting
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+How to Join a Zoom Meeting
+How to Join a Zoom Meeting
+In this article, we will discuss how to join an instant meeting through an email invite, an instant messaging invite, from the browser, from the Zoom desktop and mobile application, from a landline or mobile phone, and with a H.323 or SIP device.
+Before joining a Zoom meeting on a computer or mobile device, you can download the Zoom app from
+the Download Center
+. Otherwise, you will be prompted to download and install Zoom when you click a join link and don't have Zoom installed.
+Prerequisites
+Each meeting has a unique 9, 10, or 11-digit number called a meeting ID that will be required to join a Zoom meeting
+If you are joining via telephone, will need the teleconferencing number provided in the invite
+To join on:
+Windows / Mac
+Open the Zoom Desktop client
+Click “Sign in”
+Click “Sign in with SSO”.
+Enter “oklahoma” as your company domain.
+You will be directed to the SSO page in your browser. Sign in using your OU username and password.
+If your browser prompts you to allow the page to open in “zoom.us”, click “Allow”
+Click “Join”
+Enter the meeting ID number and your display name
+If you’re signed in, change your name if you don’t want your default name to appear
+If you’re not signed in, enter a display name.
+Select if you would like to connect audio and/or video and click “Join”
+Android
+Open the Zoom mobile app. If you have not downloaded the Zoom mobile app yet, you can download it from the Google Play Store.
+Tap Sign In and select to sign in with SSO.
+Enter Oklahoma for the company name and hit Continue.
+A browser window will open for login. Once logged in, return to your app.
+Sign in to Zoom then tap “Join”
+Enter the meeting ID number and your display name
+If you’re signed in, change your name if you don’t want your default name to appear
+If you’re not signed in, enter a display name
+Select if you would like to connect audio and/or video and tap “Join Meeting”.
+IOS
+Open the Zoom mobile app. If you have not downloaded the Zoom mobile app yet, you can download it from the App Store.
+Tap Sign In and select to Sign in with SSO.
+Enter “Oklahoma” as your company name.
+You will be directed to the SSO page in your browser. Sign in using your OU username and password.
+If your browser prompts you to allow the page to open in “zoom.us”, click “Allow”
+Tap
+“Join a Meeting”.
+Now tap
+“Join”.
+Enter the
+meeting ID
+number and your display name.
+If you’re signed in, change your name if you don’t want your
+default name
+to appear.
+If you’re not signed in, enter a display name.
+Select if you would like to connect audio and/or video and select
+Join
+.
+Web Browser
+Google Chrome
+Open Chrome.
+Go to
+oklahoma.zoom.us
+Click “Sign in”.
+You will be directed to the SSO page in your browser. Sign in using your OU username and password.
+Click “Join A Meeting”
+Enter your meeting ID provided by the host/organizer.
+Click “Join."
+If this is your first time joining from Google Chrome, you will be asked to open the Zoom client to join the meeting.
+You can check "Always open these types of links in the associated app" to skip this step in the future.
+Click Open Zoom Meetings (PC) or Open zoom.us
+(Mac).
+Safari
+Open Safari.
+Go to
+oklahoma.zoom.us
+Click “Sign in”
+You will be directed to the SSO page in your browser. Sign in using your OU username and password.
+Click “Join a Meeting”.
+Enter your meeting ID provided by the host/organizer.
+Click Join.
+When asked if you want to open zoom.us, click Allow.
+Microsoft Edge or Internet Explorer
+Open Edge or Internet Explorer.
+Go to
+oklahoma.zoom.us
+Click “Sign in”
+You will be directed to the SSO page in your browser. Sign in using your OU username and password.
+Click “Join a Meeting”.
+Enter your meeting ID provided by the host/organizer.
+Click Join.
+Mozilla Firefox
+Open Firefox.
+Go to
+oklahoma.zoom.us
+Click “Sign in”
+You will be directed to the SSO page in your browser. Sign in using your OU username and password.
+Click “Join a Meeting”.
+Enter your meeting ID provided by the host/organizer.
+Click Join.
+If this is your first time joining from Firefox, you may be asked to open Zoom or the Zoom installer package.
+To skip this step in the future, check "Remember my choice for zoommtg links."
+Click
+Open Link.
+Telephone
+On your phone, dial the teleconferencing number provided in your in your invite. It will be below the “Dial by your Location”.  According to Zoom, either location number will work similarly.
+Enter the meeting ID number when prompted using your dialpad
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+304
+Created
+Tue 9/8/20 3:27 PM
+Modified
+Wed 2/1/23 3:48 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=304&SIDs=416">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=304&SIDs=416</a><br /><br />How to Join a Zoom Meeting
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

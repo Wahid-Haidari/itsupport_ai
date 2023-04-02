@@ -1,0 +1,100 @@
+
+
+	Article - Connecting to WIFI@OU with ...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+Connecting to WIFI@OU with Linux
+Connecting to WIFI@OU with Linux
+WIFI@OU Configuration on Fedora 27, ignoring CA certificate authentication. To connect to WIFI@OU on a Linux machine, please do the following:
+Go to Settings -> Wi-Fi
+Click the gear icon next to “WIFI@OU”
+Enter the following:
+Security: WPA & WPA2 Enterprise
+Authentication: Protected EAP (PEAP)
+CA Certificate: Check “No CA certificate is required”
+PEAP Version: Automatic
+Inner Authentication: MSCHAPv2
+Username: (OUNet ID)
+Password: (Password)
+Click Apply, you should now connect.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+150
+Created
+Fri 9/4/20 8:32 AM
+Modified
+Mon 8/16/21 4:02 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=150&SIDs=246">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=150&SIDs=246</a><br /><br />Connecting to WIFI@OU with Linux
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

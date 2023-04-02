@@ -1,0 +1,92 @@
+
+
+	Article - Users Hidden in Global Addr...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Account and Identity Management
+Users Hidden in Global Address List or with Directory Holds Unable to Set Up iCal or Outlook
+Users Hidden in Global Address List or with Directory Holds Unable to Set Up iCal or Outlook
+Users who have a directory hold or have hidden their information from the Global Address List (GAL) have been experiencing issues with setting up iCal or Outlook on their personal devices. When the user’s credentials are entered into either of these programs, their information cannot be synced.
+The only workaround for the iCal issue is to either have the directory hold lifted or unhide the account from the GAL. The previous workaround will also work for Outlook, along with contacting OU IT and asking for your unique username login string. Once you have this information, enter it into the ‘username’ field when setting up your Outlook account. If you need assistance with resolving either of these issues, you can contact OU IT through phone at 405-325-4357 or at
+needhelp.ou.edu
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+275
+Created
+Sun 9/6/20 3:39 PM
+Modified
+Wed 6/16/21 3:30 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=275&SIDs=388">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=275&SIDs=388</a><br /><br />Users Hidden in Global Address List or with Directory Holds Unable to Set Up iCal or Outlook
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

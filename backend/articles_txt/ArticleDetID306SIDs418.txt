@@ -1,0 +1,119 @@
+
+
+	Article - LinkedIn Learning – Adding ...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+LinkedIn Learning – Adding Users in Bulk via CSV
+LinkedIn Learning – Adding Users in Bulk via CSV
+Through the Admin Account Center, CSV file uploads can be used to add new users and update existing users on your account. You can also manually add users one by one.
+To download the CSV template and create your CSV file
+:
+From the
+Admin Account Center
+, click
+People
+.
+Click
+Add users
+from the
+Users
+tab.
+Select
+Add users by CSV
+from the dropdown.
+Click
+Download the CSV template
+from the pop-up window.
+Open the downloaded template in Microsoft Excel or a text editor application such as Microsoft Notepad. You can then replace/enter information for each user you’d like to add.
+After completing your CSV file, save it on your computer. Make sure to save your CSV with the file format as Comma Delimited or Comma Separated Value (.csv).
+To upload your CSV to the Account Center and save your changes
+From the Admin Account Center, click People.
+Click Add Users.
+Select Upload users by CSV from the dropdown.
+Select your CSV file to upload from your computer and click Open or Choose.
+A banner will appear on the All Users page notifying you if your upload was successful.
+After the CSV file has been uploaded:
+The file is processed and checked for errors. You’ll be notified if you need to update any information.
+An email will be sent to the users you’ve added, with instructions on how to activate their accounts. If a user has been added as an inactive user, a welcome email is not sent.
+The newly added users appear in People on your administrator account. Initially their status is Invited. After they’ve registered and activated their account, their status changes to Activated. If you have uploaded the user as inactive, they display in the user list as Unassigned.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+306
+Created
+Tue 9/8/20 3:45 PM
+Modified
+Tue 10/4/22 1:32 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=306&SIDs=418">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=306&SIDs=418</a><br /><br />LinkedIn Learning – Adding Users in Bulk via CSV
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

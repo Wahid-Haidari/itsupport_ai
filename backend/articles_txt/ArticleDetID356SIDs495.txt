@@ -1,0 +1,126 @@
+
+
+	Article - MyMedia Hotspots: Introduct...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+MyMedia Hotspots: Introduction and how to add them
+MyMedia Hotspots: Introduction and how to add them
+Hotspots are clickable objects in a video. They usually have links relevant to the video’s content, which may include:
+Another video
+A form
+A wiki article
+A pdf
+A citation
+A different time point in the video
+Note: Hotspots cannot be used in Quiz videos.
+To access the Hotspot Menu, log in using your
+OUNet ID
+in mymedia.ou.edu
+Once you are logged in, click on Y
+our Name
+on the top-right corner and the
+MyMedia
+on the drop down media.
+Then, click on the
+Edit
+icon to the right of the video in which you would like to add Hotspots.
+Click on the
+Launch Editor
+button.
+This will take you to the Video Editor window.
+Click on the
+Hotspot Tab
+in the video editor
+Next, drag the blue indicator in the time-bar to the point of the video in which you would like to add a hotspot
+Click on
+Add Hotspot
+Click on the media player at the spot in which you want to add the Hotspot. You can move it by clicking, holding and dragging to a new position. However, you cannot place it in the bottom part of the video.
+Add the text that you wish to display on the hotspot, select whether you want to add an URL or a different time within the same video.
+To change the format of the Hotspot, click on advanced settings. Aspects such as the style of text and shape and the timeline of the hotspot can be edited here.
+Click on
+Done.
+A Hotspot can be edited and duplicated after saved by clicking on the three dots on its right end.
+Click on
+Save
+when finished.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+356
+Created
+Wed 9/9/20 1:06 PM
+Modified
+Mon 8/16/21 9:15 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=356&SIDs=495">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=356&SIDs=495</a><br /><br />MyMedia Hotspots: Introduction and how to add them
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

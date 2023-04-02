@@ -1,0 +1,108 @@
+
+
+	Article - Minimum System Requirements
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+IT Professional Services
+Minimum System Requirements
+Minimum System Requirements
+The OU IT Service Centers require any checked in computers to meet at least the following minimum system requirements. Meaning the base level computers have to be at least Windows 10 or above or those Apple machines not designated as vintage:
+Windows minimum system requirements:
+Windows 10
+Processor:
+1 gigahertz (GHz) or faster processor or SoC
+RAM:
+1 gigabyte (GB) for 32-bit or 2 GB for 64-bit
+Hard disk space:
+16 GB for 32-bit OS or 20 GB for 64-bit OS
+Graphics card:
+DirectX 9 or later with WDDM 1.0 driver
+Display:
+800 x 600
+For more information visit
+Microsoft.com
+.
+OS X system requirements:
+Supported devices will generally include
+recent machines not currently designated as "vintage" by Apple
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+65
+Created
+Thu 9/3/20 10:08 AM
+Modified
+Thu 11/12/20 1:34 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=65&SIDs=130">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=65&SIDs=130</a><br /><br />Minimum System Requirements
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

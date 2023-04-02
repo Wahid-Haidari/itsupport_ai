@@ -1,0 +1,99 @@
+
+
+	Article - Attendance Reports from Zoom
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Attendance Reports from Zoom
+Attendance Reports from Zoom
+This article will provide step-by-step instructions to get attendance reports from Zoom meetings. Reports for each meeting are generated and will have a list of attendees for that meeting. There may be duplicate attendees if someone left and rejoined for example.
+Sign into the Zoom website (oklahoma.zoom.us).
+On the side bar on the left side of the page, you will click on
+Reports
+, and this will take you to the
+Usage Reports.
+Next click
+Usage
+where you will able to view meetings, participants, and other date in a specified date range.
+Set the date range to the day you are wanting data from, click the search button, and Zoom will show the meetings in that range.
+You can either export this data as a CSV file to see the participant info or you can click the number of participants to view the list of participants.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+305
+Created
+Tue 9/8/20 3:36 PM
+Modified
+Wed 8/18/21 1:27 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=305&SIDs=417">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=305&SIDs=417</a><br /><br />Attendance Reports from Zoom
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

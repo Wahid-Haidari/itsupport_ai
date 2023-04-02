@@ -1,0 +1,104 @@
+
+
+	Article - Connecting to WIFI@OU with ...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+Connecting to WIFI@OU with Windows
+Connecting to WIFI@OU with Windows
+From the taskbar on the desktop, select the WIFI icon and choose the network named WIFI@OU.
+When prompted, select that you wish to continue connecting.
+Enter your OUNetID and password.
+Additional Notes:
+There is a known issue connecting to WIFI@OU on Windows 7/8/8.1. For instructions on how to connect with those versions of Windows, click
+HERE
+.
+If you have attempted to connect to any other OU networks such as OUGuest, you will need to first "forget" that network before attempting to connect to WIFI@OU.  For instructions on forgetting a wireless network, refer to the
+"Forgetting a Wireless Network"
+article.
+For more information about WIFI@OU, please visit the "
+Connecting to WIFI@OU
+" article.
+For more information about all of OU's WIFI Networks, please visit the "
+OU WIFI Networks
+" article.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+152
+Created
+Fri 9/4/20 8:43 AM
+Modified
+Thu 3/3/22 2:07 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=152&SIDs=247">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=152&SIDs=247</a><br /><br />Connecting to WIFI@OU with Windows
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

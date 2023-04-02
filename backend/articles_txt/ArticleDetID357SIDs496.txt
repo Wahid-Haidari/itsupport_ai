@@ -1,0 +1,100 @@
+
+
+	Article - Embed using MyMedia in Canvas
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Embed using MyMedia in Canvas
+Embed using MyMedia in Canvas
+Videos uploaded to your MyMedia account can be placed on any section of Canvas where the rich content editor (picture below) is available, such as discussion threads, announcements, assignments, etc. Videos placed on Canvas this way also bypass privacy settings on MyMedia so your videos can remain private on MyMedia while still being available for your students. This article will provide directions on how to place a MyMedia video on a Canvas course.
+Navigate to the Canvas course and new item (discussion, announcement, etc.) you want to embed video on.
+Click the multicolored sun/starburst icon (circled in the screenshot below) in the bottom row of options above the text box for the editor.
+You will now see different screen of OU MyMedia (Kaltura).
+4. Click
+Embed
+next to the video you want to include on this item. The video player will be placed in the text box and the video will be ready to view when you publish this item.
+5. You can also add a new webcam or screen recording from this menu as well by clicking
+Add New
+and selecting
+Kaltura Capture
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+357
+Created
+Wed 9/9/20 1:09 PM
+Modified
+Mon 2/13/23 3:12 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=357&SIDs=496">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=357&SIDs=496</a><br /><br />Embed using MyMedia in Canvas
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

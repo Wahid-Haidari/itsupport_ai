@@ -1,0 +1,164 @@
+
+
+	Article - LinkedIn Learning
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+LinkedIn Learning
+LinkedIn Learning
+https://www.linkedin.com/learning/
+LinkedIn Learning
+is an online learning platform that enables individuals and organizations to achieve their objectives and aspirations. It has all the same great content formerly featured on Lynda.com, but with special insights and social engagement offered on LinkedIn.
+With more than 5,000 courses and personalized recommendations, you can discover, complete, and track courses related to your field and interests. You can also choose to add these courses and related skills to your LinkedIn profile once you’ve completed them.
+User account information, learning history (courses watched, courses saved, etc.), and certificates of completion from their Lynda.com account will be migrated to their LinkedIn Learning subscription.
+Accessing LinkedIn Learning (recommended method):
+Users can access LinkedIn Learning by navigating to
+lynda.ou.edu
+and entering their OU Credentials (OUNetID and Password) at the Single Sign On (SSO) page.
+Logging in methods:
+When users go to l
+ynda
+.ou.edu
+and log in for the first time, they will be asked whether or not they want to connect their LinkedIn Learning account with their LinkedIn profile (they have the option to decline). During this “activation” process, if they choose to connect their LinkedIn profile with their LinkedIn Learning account, on future logins, it’ll prompt them to log in with SSO, then their LinkedIn credentials. If they choose
+not
+to connect their LinkedIn profile with their LinkedIn learning account during this process, it will only prompt for SSO on future logins.
+For those that have paired their LinkedIn profiles with their LinkedIn Learning account, they can access the Learning content from Linkedin; if they log in to linkedin.com, then click on the Learning button, it will prompt them for SSO.
+To login for the first time via SSO (without connecting accounts):
+Go to
+lynda.ou.edu
+and log in with your OU credentials.
+Users will receive a prompt to connect their LinkedIn account; select ‘
+Continue without connecting my LinkedIn account
+‘.
+Enter your job title.
+Enter your desired skills (or skip this step).
+You should now be able to access content.
+To log in for the first time via SSO (connecting accounts):
+Go to
+lynda.ou.edu
+and log in with your OU credentials.
+User will receive a prompt to connect their LinkedIn account; select ‘
+Connect my LinkedIn account
+‘.
+Enter your LinkedIn credentials.
+Enter your job title.
+Enter your desired skills (or skip this step).
+You should now be able to access content.
+To log in for the first time via
+linkedin.com/learning
+(without connecting accounts):
+Go to
+linkedin.com/learning
+and click on
+Sign in
+.
+Enter your OU email address; you will be redirected to the SSO page. Enter your OU credentials.
+Users will receive a prompt to connect their LinkedIn account; select ‘
+Continue without connecting my LinkedIn account
+‘.
+Enter your job title.
+Enter your desired skills (or skip this step).
+You should now be able to access content.
+To log in for the first time via
+linkedin.com/learning
+(connecting accounts):
+Go to
+linkedin.com/learning
+and click on
+Sign in
+.
+Enter your OU email address; you will be redirected to the SSO page. Enter your OU credentials.
+Users will receive a prompt to connect their LinkedIn account; select ‘
+Connect my LinkedIn account
+‘.
+Enter your LinkedIn credentials.
+Enter your job title.
+Enter your desired skills (or skip this step).
+You should now be able to access content.
+For additional articles of interest, please keyword search "LinkedIn" on AskIT.
+For more information:
+LinkedIn Learning Help
+User Guide for Learners
+Comparing Lynda.com to LinkedIn Learning
+Video –
+How to Use LinkedIn Learning
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+13
+Created
+Wed 9/2/20 9:34 AM
+Modified
+Tue 10/4/22 1:52 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=13&SIDs=110">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=13&SIDs=110</a><br /><br />LinkedIn Learning
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

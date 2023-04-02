@@ -1,0 +1,116 @@
+
+
+	Article - OU IT Password Policy Updates
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Account and Identity Management
+OU IT Password Policy Updates
+OU IT Password Policy Updates
+Updated University Password Policy
+OU IT implemented a new University-wide Password Policy for 2021 that aligned OU user password requirements with industry standards for increased cybersecurity. The purpose of this policy is to establish guidance regarding the creation and management of OU accounts to protect the security of the network, protect data integrity, and protect information systems.
+The updated OU IT Password Policy was approved in 2020 after collecting feedback from OU and OUHSC faculty and staff through the IT Policy, Standard, & Procedure (PSP) Program. For more information on OU IT's commitment to collaborating with stakeholders to develop IT policies and standards, please visit
+https://www.ou.edu/ouit/cybersecurity/policies
+.
+OU.EDU Accounts
+Change your password now:
+https://one.ou.edu/account/security
+OUHSC.EDU Accounts
+Change your password now:
+https://www.ouhsc.edu/password
+OU.EDU and OUHSC.EDU Staff, Faculty, Student, and Sponsored Accounts
+All current and new accounts are subject to these password requirements.
+New Password Requirements:
+Minimum of 12 characters
+Must contain at least one upper AND lowercase letter
+Must contain at least one numeral OR one symbol
+Must be changed at least every 365 days
+Cannot be the same as your previous six passwords
+Cannot contain the words boomer, sooner, qwerty, or password
+Cannot contain your name, HSC Username, or OUNet ID (ex. Jane Doe would not be able to use "jane", "doe" or doe0023)
+For recommendations and guidelines, please see “
+How do I create a strong password?
+”.
+Special Account Requests
+For legacy systems and special circumstances that require 8-character passwords, please use the IT service catalog to
+request an 8-character password
+. Please note that 8-character passwords must be changed every 90 days.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2519
+Created
+Fri 8/13/21 8:15 AM
+Modified
+Mon 1/23/23 11:00 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2519&SIDs=1717">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2519&SIDs=1717</a><br /><br />OU IT Password Policy Updates
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

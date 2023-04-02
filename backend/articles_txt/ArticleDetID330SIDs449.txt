@@ -1,0 +1,105 @@
+
+
+	Article - Adding non-OU Contacts to y...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Account and Identity Management
+Adding non-OU Contacts to your OU Skype for Business Account
+Adding non-OU Contacts to your OU Skype for Business Account
+If you are an OU user using Skype for Business, you can add non-OU contacts to your contact list. Please see below for instructions based on whether you use a Windows machine or Mac.
+Windows
+Skype for Business
+To add a non-OU user, first sign in to Skype for Business using your OU e-mail address and password.
+Next click the invite contacts button.
+Select Add a contact Not in My Organization.
+Select Other.
+Enter the user’s Skype IM e-mail address.
+Select which Contact group you wish to add them to, as well as the privacy relationship.
+Finally click OK.
+The non-OU contact should now be listed in your desired Contact group.
+Mac
+Skype for Business
+Unfortunately you can’t use Skype for Business on Mac to communicate with people who are using the free Skype app. You can only use it to find and communicate with people in your organization who are using Skype for Business. Microsoft is currently exploring adding this functionality to this version of Skype.
+Lync for Mac 2011
+To add a non-OU user, first sign in to Lync using your OU e-mail address and password.
+On the Contacts tab, in the Find a contact or dial a number search box, type the e-mail address of the person who you want to add.
+Click the Add button next to the contact, you can then select which group to add them to.
+The non-OU contact should now be listed in your desired Contact group.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+330
+Created
+Wed 9/9/20 9:16 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=330&SIDs=449">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=330&SIDs=449</a><br /><br />Adding non-OU Contacts to your OU Skype for Business Account
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

@@ -1,0 +1,106 @@
+
+
+	Article - Qualtrics Basecamp
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Research
+Qualtrics Basecamp
+Qualtrics Basecamp
+What is Basecamp?
+Qualtrics has a
+support website
+full of help articles available for reference and research. This is an effective resource for finding answers to questions about the platform. However, a more structured curriculum is often useful for those new to the tool. Qualtrics’ Basecamp website offers articles and videos compiled together into courses. Upcoming webinars and recordings of select past webinars are also available.
+Login to Basecamp
+Because OU uses Single Sign On (SSO) to log in to Qualtrics, SSO is also used to log in to Basecamp. Basecamp will not automatically bring up the SSO page and attempting to log in to the regular login page will result in an error message. Follow these steps to log in to Basecamp via SSO:
+Visit
+https://basecamp.qualtrics.com/
+.
+Click “Log in.”
+A pop up will appear. Select "Qualtrics Credentials."
+Instead of filling in your username and password, click “Sign in with SSO.”
+Basecamp will ask for the Organization ID. Type in “ousurvey” and click continue.
+If prompted, type in your OU credentials.
+Recommended Courses
+OU provides a version of the “Core XM” Qualtrics software package to all students, faculty, and staff. There are trainings in Basecamp available for all different software packages offered by Qualtrics, so be sure a course is related to Core XM before spending time on it. Many of the courses offer the option to sit for a certification exam at the end. The training materials are included with your OU account, but the exams have an additional cost. For most people, completing the training materials will be sufficient. However, if you or your employee needs to sit for an exam, please reach out to OU IT at
+link.ou.edu/qualtrics
+before paying to check for any available discounts.
+Some courses OU IT recommends:
+Qualtrics Platform Essentials Certification Journey (L1)
+This training is excellent for beginners or for those that have used the tool before but would like to gain confidence and learn about tricks and features. Most but not all features described are included with OU’s license.
+CoreXM Expert Certification Journey (L2) (qualtrics.com)
+This training is intended for those who have already completed the L1 training but still need more advanced features like Loop and Merge, or those who wish to make full use of the built-in data analysis tools. While it does not cover every available feature, those who complete this training will have a deep understanding of the platform. Like the L1 training, most but not all features described are included with OU’s license.
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2833
+Created
+Tue 4/19/22 11:18 AM
+Modified
+Wed 2/1/23 2:50 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2833&SIDs=2394">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2833&SIDs=2394</a><br /><br />Qualtrics Basecamp
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

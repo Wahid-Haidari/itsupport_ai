@@ -1,0 +1,125 @@
+
+
+	Article - How to set up Red Hat Satel...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Software Catalog
+How to set up Red Hat Satellite 6
+How to set up Red Hat Satellite 6
+Registration
+To register systems to the RHN Satellite, customers will need to visit the OU IT Store for the .iso installers and registration script. The script will prompt for an OU Net ID, Name, and then updates the system with the latest available packages.
+Activation keys will be issued to departments or other groups that have several systems that require a higher level of management. There will be no unique keys for individuals.
+To request a unique activation key, please submit an incident at
+needhelp.ou.edu
+with the following information:
+– Name of group or department
+– Expected number of hosts to be registered
+– List of all 4+4s that will need access to the Satellite (please limit to 4-6 people max)
+Satellite Web Access
+Management URL:
+https://satellite.ou.edu
+(Accept the self-signed certificate)
+Satellite 6 Update
+Please note that Activation Keys have changed from Satellite 5. Users can get a new activation key by logging in to
+nor-rh-satellite6.ou.edu
+or by contacting IT at
+needhelp.ou.edu
+. Once you have your registration key, you’ll need to add it to the registration script.
+For full Satellite management, you will need to install the katello-agent. To begin, you must first enable the satellite-tools repo for your version. You can search for repositories by running the following:
+subscription-manager repos —list
+Then enable the repo with:
+subscription-manager repos —enable=<repo>
+You can then install the katello agent by running:
+yum install katello-agent -y
+Managing Subscribed Repositories
+You can view the available software repositories by running:
+subscription-manager repos —list
+You can pipe the output to `grep` or `less` to make it easier to find the repo you want to subscribe to. You can then subscribe to the repo by running:
+subscription-manager repos —enable=<repo label>
+If the repository you need is not available, please submit a ticket at
+needhelp.ou.edu
+.
+E-Mail Notification
+By default, all Satellite accounts will receive email notifications about newly updated packages and other information about their registered systems. To disable these alerts, log in and click on Preferences in the upper right corner of the window. Once on the Your Preferences page, the first option is Receive Email Notifications. Un-check to disable emails from the satellite.
+Red Hat Knowledge Base
+Unfortunately, RHN Satellite accounts do not provide access to the Red Hat Knowledge Base, as there is no link between accounts on the satellite host and the systems that Red Hat maintains.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+138
+Created
+Thu 9/3/20 3:50 PM
+Modified
+Wed 11/9/22 12:06 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=138&SIDs=264">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=138&SIDs=264</a><br /><br />How to set up Red Hat Satellite 6
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

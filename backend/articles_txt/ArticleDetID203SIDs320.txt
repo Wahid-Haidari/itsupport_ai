@@ -1,0 +1,106 @@
+
+
+	Article - Managing your Distribution ...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Account and Identity Management
+Managing your Distribution List or Security Group
+Managing your Distribution List or Security Group
+OU Distribution List and Active Directory Security Group Owners may manage the memberships for their groups online. The steps below will outline how to make these changes to these types of groups.
+Please note that if you wish to manage your -L lists.ou.edu e-mail account, please see those instructions
+here
+.
+To manage your Distribution list or Security Group, please visit
+http://groups.ou.edu
+in your internet browser.
+For the User name, enter your OUNet ID. This will be the OUNet ID which is the listed owner of the Distribution List or Security Group you wish to manage.
+For the Password, enter your OUNet ID password.
+After the site loads, you will see a list of all the groups listed in the Global Address Book.To locate your group, click the Magnifying Glass icon.
+Enter the name for your group and the click the Magnifying Glass icon again.
+Your group should now appear in the results box.
+Double click your group. If you are a listed owner of this group, you will be able to make membership changes to it.
+Click the “membership” tab.
+You may now add and remove users from the members list. Click the plus (+) to Add users, click the minus (-) to remove users.
+Click the + to Add a user. You will be prompted to search for the user in question, click the Magnifying Glass icon and then perform a search for them in the Global Address Book. When you have located the user in question, double click their name or select them and then click “add->”. Once you have selected all the users you wish to add, click the OK button. Finally click Save to update your group membership.
+To Remove a user, click their name in your current user list. Once they are selected, click the – button. Finally click Save to update your group membership.
+When you are done making changes to your group, you may click your name in the upper right corner, then select Sign out.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+203
+Created
+Sun 9/6/20 2:00 PM
+Modified
+Wed 6/16/21 3:27 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=203&SIDs=320">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=203&SIDs=320</a><br /><br />Managing your Distribution List or Security Group
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

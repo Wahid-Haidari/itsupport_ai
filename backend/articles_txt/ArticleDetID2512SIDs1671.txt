@@ -1,0 +1,147 @@
+
+
+	Article - Qualtrics – Viewing, Analyz...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Research
+Qualtrics – Viewing, Analyzing, and Presenting Your Data
+Qualtrics – Viewing, Analyzing, and Presenting Your Data
+Built in Data and Analysis Tools
+Qualtrics has built-in tools to assist with analyzing and presenting your data. Below are selected resources on these tools.
+Viewing Your Data
+Your data can be viewed in the
+Data and Analytics
+tab. Within this section, you can view the
+Data section
+. By default, only a few of your questions will be included in this view. The questions that are visible can be adjusted by
+choosing Columns
+. This data can also be
+filtered
+to show a subset of your data.
+Responses in Progress
+Responses in Progress
+occur when a respondent starts the survey but does not complete and submit it. Responses in Progress are grouped separately from
+Recorded Responses
+in the Data section. Click on Responses in Progress or Recorded Responses to reveal a drop down menu with options to switch between the two views.
+In managing your data, you may wish to
+close
+or
+delete
+Responses in Progress, depending on the situation.
+Exporting Your Data Set
+If you wish to
+export your data set
+, you can do this in the Data and Analytics tab in the Data section. A variety of file formats are available.
+When exporting data, there will be multiple options to choose to customize your export. To download the entirety of your data set, leave the box
+Download all fields
+checked. To download only the data fields currently visible in the Data section, uncheck the box. Using this method, it is possible to build a subset of the data set in the Data section using filters and by hiding or showing certain fields, and then export the subset.
+Exporting Individual Responses
+It is also possible to export individual responses. Individual responses must be exported one at a time. If you need to download data in bulk,
+export your data set
+instead.
+To download a PDF of an individual response:
+Navigate to Data and Analytics. Make sure you are in the Data tab.
+The right most column of the data set never changes. It has a gear icon at the top or the column, and three dot menus in each row. Find the row for the response you wish to export, then click the corresponding three dot menu.
+A drop down menu will appear. This will include the option to export to PDF. You can choose to name the file if you would like and set some basic formatting before downloading.
+Stats IQ
+Stats IQ
+is a built-in statistical analysis tool. OU's subscription level includes the describe, relate, regression, cluster, and pivot table tools.The benefit of using Stats IQ over an external tool is that it is simple to
+update your statistical analyses with new survey responses
+.
+Crosstabs
+Crosstabs
+is another built-in statistical analysis tool, specifically designed to handle multivariate analysis. Like Stats IQ,
+new responses can be incorporated seamlessly
+with just a few clicks.
+Analyzing Text
+The
+Text IQ
+feature can assist with sorting text responses to allow you to review them more effectively. OU currently has the
+Basic
+level subscription.
+Results Dashboard and Advanced Reports
+The Results Dashboard
+is designed to rapidly create visualizations based on your data. A default page of visualizations is automatically created as a starting point, but it is customizable. If you do not see any options to make changes, click the pencil icon in the upper right to enter editing mode. Both individual widgets and the full report can be downloaded as PDF or JPG files, making this tool helpful for generating images to insert into other publications. It can also be used to set up a recurring email that automatically sends an up-to-date copy of the report to stakeholders - but keep in mind that formatting options for the visualizations are limited.
+The Advanced Reports tool offers many of the same features, but has far more customization and formatting options as well as the ability to pull in data from other projects. An Advanced Report is built from scratch by the user and can be designed as a standalone report if desired, with the ability to add text boxes, titles, and more. It can also be used to set up a recurring email that automatically sends an up-to-date copy of the report to stakeholders. Advanced Reports
+can be shared multiple ways
+, from downloading the content as a PowerPoint to creating a publicly accessible viewing link.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2512
+Created
+Thu 8/5/21 10:55 AM
+Modified
+Tue 9/20/22 1:21 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2512&SIDs=1671">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2512&SIDs=1671</a><br /><br />Qualtrics – Viewing, Analyzing, and Presenting Your Data
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

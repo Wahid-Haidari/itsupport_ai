@@ -1,0 +1,132 @@
+
+
+	Article - Qualtrics - Getting Started
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Research
+Qualtrics - Getting Started
+Qualtrics - Getting Started
+Beginner Resources
+This article will provide resources on creating a basic survey and distributing it. Qualtrics keeps an up-to-date, illustrated online guide. You can
+browse the guide
+or read the below information to find select guide pages recommended by OU IT.
+Keep in mind that the first time you log in you will need to activate your account. For information on activating your account, visit the first time log in page for your campus:
+Norman
+OKC
+Tulsa
+Create Survey
+New surveys are created through the Catalog. You can start a blank survey or use a prebuilt template. For a step by step guide, visit
+Creating a Project
+.
+Add Collaborators
+If you are working on a survey project with others, you may wish to give them access to your survey. You can
+adjust the level of access each collaborator has
+.
+For collaboration set up instructions specific to OU, visit the help page for your campus:
+Norman
+OKC
+Tulsa
+Add Questions
+Once you create a survey, you will need to fill it out with questions. For the basics, read about
+Creating Questions
+, or check out this article on
+Question Types
+for more details.
+Previewing
+Before making your survey live, it is recommended to preview it. This allows you to ensure that the survey works well on both desktop and mobile, and provides an opportunity to check that any advanced features you have added are functioning properly. Read more about
+the Preview feature
+.
+Publishing and Distribution
+When you are ready to make your survey live, you will first need to
+publish it
+. Then, you can choose from a variety of
+distribution options
+.
+Note: select distribution options (ie, SMS) are not available on all accounts. Please contact OU IT if you need to use SMS or another unavailable option.
+If you need to make edits to your survey after publishing, be aware that some edits can affect your data. Before making changes, refer to Qualtrics’s
+recommendations for editing an active survey
+to
+avoid losing or altering data.
+Once you have determined it is safe to make changes and have completed the updates,
+the survey must be republished
+to make the changes visible to respondents.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2524
+Created
+Thu 8/19/21 2:31 PM
+Modified
+Tue 9/20/22 1:37 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2524&SIDs=1648">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2524&SIDs=1648</a><br /><br />Qualtrics - Getting Started
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

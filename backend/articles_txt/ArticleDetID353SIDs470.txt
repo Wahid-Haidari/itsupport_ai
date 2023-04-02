@@ -1,0 +1,111 @@
+
+
+	Article - Adobe Creative Cloud Disk S...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Software Catalog
+Adobe Creative Cloud Disk Space Usage Problem
+Adobe Creative Cloud Disk Space Usage Problem
+Users of Adobe Creative Cloud may notice system sluggishness or slowdown due to the Creative Cloud ACC.log file taking up a large amount of disk space. Adobe recommends users either update to the latest version of Creative Cloud or delete the ACC.log file.
+Solution 1: Update to the latest version of Creative Cloud
+In most cases, Creative Cloud downloads and installs the update automatically when you sign in. If you’re unable to sign in from the Creative Cloud application, then do the following:
+Open a browser and navigate to
+https://helpx.adobe.com/creative-cloud/help/creative-cloud-desktop.html
+.
+Sign in with the Adobe ID associated with your Creative Cloud account.
+Download and install the latest version of the Creative Cloud app.
+Launch Creative Cloud and sign in.
+Solution 2: Restart the system. Delete the ACC.log file, then start the Creative Cloud desktop app
+You can safely delete the ACC.log file from your computer.
+To do so, navigate to one of the following folders and delete the acc.log files:
+Windows 7/8: \Users\[user name]\AppData\Local\Temp
+Mac OS X: ~/Library/Logs/
+Note: Some files and folders are hidden on Windows. See
+Show hidden files, folders, filename extensions | Windows XP, Vista, Windows 7, 8
+for more information.
+Note: The user Library folder is hidden on Mac OS 10.7 and later. See
+Access hidden user library files | Mac OS 10.7 and later
+for more information.
+Updates on this issue can be found can be found on Adobe’s site
+here
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+353
+Created
+Wed 9/9/20 12:25 PM
+Modified
+Wed 9/9/20 12:25 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=353&SIDs=470">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=353&SIDs=470</a><br /><br />Adobe Creative Cloud Disk Space Usage Problem
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

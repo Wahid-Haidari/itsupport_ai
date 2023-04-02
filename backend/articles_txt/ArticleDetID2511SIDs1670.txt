@@ -1,0 +1,151 @@
+
+
+	Article - Qualtrics – Useful Features...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Research
+Qualtrics – Useful Features and Tools
+Qualtrics – Useful Features and Tools
+Customize the Survey Experience
+Qualtrics has many useful features that can assist with automating tasks and customizing surveys to individual respondents. Below are selected resources on some of the most commonly used tools.
+Display Logic
+When you apply Display Logic to a question, it will only display if certain conditions are met. These conditions might include how a respondent answered a previous question, embedded data, or other information. This tool works best if you only need to conditionally display individual questions. If you need to conditionally display whole sections of a survey, it may be better to use
+Survey Flow
+to create
+Branch Logic
+.
+Learn more about
+Display Logic
+.
+Skip Logic
+Skip Logic can be used to send a respondent to a later point in a survey based on how they answer a question. For example, if a respondent answers that they do not consent to participate, they can be skipped to the end of the survey. If your survey is complex and requires multiple skips, you may consider using
+Survey Flow
+to create
+Branch Logic
+instead.
+Learn more about
+Skip Logic
+.
+Note: If you would like filtered out respondents to have a customized end of survey message, you can achieve this using Survey Flow and Branch Logic.
+Survey Flow
+Survey Flow can be used to add different pathways into your survey. This can be automated to send respondents down particular branches based on their responses, randomization, embedded data, and more.
+Learn more about
+Survey Flow
+.
+Survey Flow also contains several Elements to give you high levels of control of both respondents’ experiences and of how your data is collected. These tools can include functionality such as authentication, randomization, and alternative end of survey messages, among others.
+Learn more about the
+Survey Flow Elements
+.
+Question Blocks
+Question Blocks can be used to split the survey up into sections. One Question Block will show per page. They can be useful for breaking up the survey into chunks to reduce the need for respondents to scroll, or in Survey Flow to customize the survey experience.
+Learn more about
+Question Blocks
+.
+Page Breaks
+By default, each
+Question Block
+will be a single page in a survey. If you need additional Page Breaks within Question Blocks, these can be added manually. Some other tools (including Piped Text) in Qualtrics
+interact with Page Breaks
+in different ways.
+Learn more about
+Page Breaks
+.
+Response and Validation Requirements
+Response and Validation Requirements can be used to request or require that participants answer a question before continuing, or to require a specific type of answer, such as an email address. Response and Validation Requirements are added to individual questions.
+Learn more about
+Response and Validation Requirements
+.
+Piped Text
+Piped Text is a powerful tool with a wide range of applications. It allows you to pull data from elsewhere (including a text response from a previous question, embedded data, and more) and display it to respondents within a question.
+Learn more about
+Piped Text
+.
+Workflows
+Workflows are used to automate tasks either on a schedule or based on events. For example, they can be used to send emails to yourself, other researchers, or respondents whenever a response is recorded. Event based Workflows can be fine-tuned with conditional logic. Workflows can also interact with Salesforce.
+Learn more about
+Workflows
+.
+Note: Email triggers are no longer recommended as Qualtrics has ended support for this feature. Workflows are recommended as an updated alternative.
+Learn about
+replacing Email Triggers with Email Tasks in Workflows
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2511
+Created
+Thu 8/5/21 10:25 AM
+Modified
+Thu 6/23/22 5:07 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2511&SIDs=1670">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2511&SIDs=1670</a><br /><br />Qualtrics – Useful Features and Tools
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

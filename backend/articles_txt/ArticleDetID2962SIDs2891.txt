@@ -1,0 +1,94 @@
+
+
+	Article - Adding external users to yo...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Communication and Collaboration
+Adding external users to your OU Teams site
+Adding external users to your OU Teams site
+If you wish to add an external user to your OU Teams site, you may do so by following the directions below. Please note that the user will need to have a Microsoft account associated with the email address you are going to invite. If they do not have a Microsoft account, they will need to create one. The option to create a Microsoft account should appear during the invite acceptance process that is explained below.
+Sending an invite
+To begin, launch the app "Microsoft Teams" from your program/application list.
+Towards the upper left, click the three ellipsis ... and then select Add Member. Please note that only group owners may add or remove a member from the Team.
+Type in the email of an external user you wish to invite, then click Add. Then click Close.
+The external user should now receive an invite in the email mailbox you added. Once they accept the invite, a guest account will be created for them.
+User Experience - What the Invitee Sees
+The recipient you invited should receive an email asking them to Open Microsoft Teams.
+After clicking the "Open Microsoft Teams" button link, they will need to sign in with their Microsoft account.
+If they do not have an account, they will be asked to create one. The user will need to enter the requested account information, and then a verification code will be sent to their email account.
+After validating their account and accepting the license terms, the user will finally be asked if they wish to use the web or desktop version of Teams. If they do not have access to the Teams app, they can select to use the web app. Your Teams site should now load for them.
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2962
+Created
+Mon 3/27/23 11:00 AM
+Modified
+Mon 3/27/23 11:25 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2962&SIDs=2891">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2962&SIDs=2891</a><br /><br />Adding external users to your OU Teams site
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

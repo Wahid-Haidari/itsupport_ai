@@ -1,0 +1,156 @@
+
+
+	Article - Register a Wired Device
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+Register a Wired Device
+Register a Wired Device
+Tags
+NetReg
+The following instructions will allow you to register any network-enabled device with a browser, such as a desktop or laptop computer to the OU
+wired
+network.
+If you wish to register a computer or device on the OU
+wireless
+network, please visit the
+Wifi@OU
+instructions.
+To manually register a network device which may not have a browser, such as a video game console, please visit visit
+https://net-reg.ou.edu
+(opens a new window) from a device
+with a browser
+. Once logged in, you will be able to manually register these additional devices. You will need to find these additional devices’ MAC addresses when registering. Instructions on locating the MAC address for your device can be
+found here
+(opens a new window).
+You must have an active OUNet Account to complete the NetReg process.
+Register a Device with a Browser
+The following article will provide step-by-step instructions on how to add your device at NetReg such as desktop, laptop, PlayStation or Xbox.
+Step 1
+: Navigate to
+https://net-reg.ou.edu
+Please enter your ‘
+OUNetID’
+in the Username field.
+Provide your ‘
+Password’
+(Enter your OUNetID password)
+Next, click-on
+Log On
+button to continue.
+Step 2
+: If you are logging in for the first time, please read and select
+‘I agree with the terms and conditions’
+and click on
+Submit
+to continue.
+Step 3
+: Click on ‘
+Register a Device
+’ tab to register a new device in NetReg.
+Step 4
+: Please, fill in the required details in the below tabs to add a device
+Note
+: if you don’t know the MAC address for your device. Please, click on ‘How do I find my Mac address’ option or click the below link to view the instructions:
+https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=134
+Select a device category from the above drop-down list.
+Select a device type from above list
+Above list appears only when you have selected a particular device category.
+Please, click on ‘Add’ button to register your device in NetReg.
+Step 5
+: After successful completion, you will be redirected to the below screen.
+This message shows you that the device is successfully registered in NetReg.
+If you have multiple devices, you can sort them by date, description, and MAC address.
+You can also register a new device by clicking on ‘
+Register a Device’
+tab.
+Here, you can verify the details of your latest device registration like MAC address, Description, and Device Type.
+Register a Device without a Browser
+To manually register a network device without a browser, such as a PlayStation or Xbox, visit
+https://net-reg.ou.edu
+(opens a new window) from a device
+with a browser (such as a laptop, smartphone or tablet).
+Once logged in, you will be able to manually register these additional devices.
+You will need to find these additional devices’ MAC addresses when registering. Instructions on locating the MAC address for your device can be
+found here
+(opens a new window).
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+135
+Created
+Thu 9/3/20 3:35 PM
+Modified
+Wed 2/1/23 8:48 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=135&SIDs=259">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=135&SIDs=259</a><br /><br />Register a Wired Device
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

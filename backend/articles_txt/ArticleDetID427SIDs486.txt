@@ -1,0 +1,91 @@
+
+
+	Article - Enterprise Data Migration
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+Enterprise Data Migration
+Enterprise Data Migration
+The Data Migration service is designed to allow the data owners to give rules for the transformation of data from one system into another. We will work with the requestors to integrate the retiring system to our Data Repository, and from there build a series of transformations that can be fed into the new system at regular intervals. And because we will have rules on how to go from old to new, we also have rules to go from new to old, allowing reports to be written that can bridge both systems, if not all history is loaded into the new solution. For more information on this service or to request or modify the service, please visit our
+Service Catalog
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+427
+Created
+Thu 9/10/20 8:43 AM
+Modified
+Mon 9/14/20 12:22 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=427&SIDs=486">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=427&SIDs=486</a><br /><br />Enterprise Data Migration
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

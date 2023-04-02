@@ -1,0 +1,119 @@
+
+
+	Article - Creating a quiz in Respondus
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Creating a quiz in Respondus
+Creating a quiz in Respondus
+Download Respondus from
+https://itsoftware.ou.edu/respondus
+Extract the folder and you should see a
+README FIRST
+document
+Open the file
+The license for Respondus is located in the
+README FIRST
+document
+Create a word document with the questions, answers, and correct answers. It is important that the document is formatted in the correct way otherwise Respondus will not create the quiz
+Each Question
+must begin with question number followed by a period or a parenthesis
+Example: 1) Who determined the exact speed of light? OR 1. Who determined the exact speed of light
+Each Answer must begin with a letter followed by a period or a parenthesis.
+Example: a) Albert Einstein OR a. Albert Einstein
+For T/F questions, True must be listed first or Respondus will not recognize the question as a true false question.
+For the correct answer, put an asterisk before the answer choice.
+Example: *a) True
+Open Respondus and make sure that the current personality is set to
+Instructure Canvas
+Next, click Import Questions
+Under Type of file, select Microsoft Word 2007
+For File name click browse and select the file you will be importing.
+For Create a new document named blank, insert the current name of the quiz. (NOTE: This will be the name of the quiz when it is imported into Canvas. You can change the name of the quiz later in Canvas as well)
+Click Preview to preview the document. Pay attention to any of the errors at the bottom of the dialog. It is okay to ignore the warning about duplicate question titles since Students cannot see the question title.
+The other warnings such as no correct answer or invalid or missing questions are usually caused by incorrect formatting.
+If you are satisfied with the Preview, select Finish
+Click the magnifying glass next to the question to see a preview
+The drop down menu next to the magnifying glass is access to the editor
+If you would like to watch a video tutorial :
+https://mymedia.ou.edu/media/0_thv8rkt8
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+410
+Created
+Wed 9/9/20 4:12 PM
+Modified
+Tue 8/23/22 10:51 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=410&SIDs=546">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=410&SIDs=546</a><br /><br />Creating a quiz in Respondus
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

@@ -1,0 +1,94 @@
+
+
+	Article - Canvas – Integrating Piazza...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Canvas – Integrating Piazza with Canvas
+Canvas – Integrating Piazza with Canvas
+Piazza is a free Q&A platform. It can be described as a mixture between a wiki and a forum that can be used with learning management systems as an alternative to the standard Discussions area. Users can publicly (and anonymously, if the instructor allows it) ask questions, answer questions, and post notes. Each question prompts a collective answer to which any user can contribute and an instructor answer (shown directly below) which can only be edited by instructors. Users can attach external files to posts, use LaTeX formatting, view a post’s edit history, add follow-up questions, and receive email notifications when new content is added.
+Instructors can integrate Piazza with their Canvas courses using the following Key and Secret information:
+Key: ou.edu
+Secret: piazza_od3-8dv2
+Note: OUIT does not handle support for Piazza; support for Piazza can be found here:
+http://support.piazza.com/
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+409
+Created
+Wed 9/9/20 4:11 PM
+Modified
+Fri 8/13/21 3:33 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=409&SIDs=545">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=409&SIDs=545</a><br /><br />Canvas – Integrating Piazza with Canvas
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

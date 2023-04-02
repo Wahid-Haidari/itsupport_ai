@@ -1,0 +1,143 @@
+
+
+	Article - Network Drives and Virtual ...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+Network Drives and Virtual Labs
+Network Drives and Virtual Labs
+Virtual lab is a software allowing students to virtually connect to a computer-like environment. Its purpose is to provide students with numerous specialized engineering applications without having to install them on their devices.
+Gallogly College of Engineering and Mewbourne College of Earth and Energy provide the virtual lab access to their students
+.
+In order to access the virtual lab, users need to have
+configured PingID
+and have a “Remote Desktop Connection” application. Windows devices have a built-in remote desktop client. If you are trying to access a Virtual Lab while off campus, you will also need to connect to VPN first. More information on OU VPN can be found
+here
+.
+Connecting to Virtual Lab through Windows
+In newer Windows devices, use the search option for “Remote Desktop Connection”
+Enter the
+server name
+into field “Computer” and click “Connect”
+MCEE students use –
+IT-CEEVLAB.OU.EDU
+GCOE students use –
+IT-COEVLAB.OU.EDU
+Username:
+sooner\OUNetID
+Password
+: OU account password
+When security warning appears click “Yes”.
+When prompted for multi-factor approval, agree through your designated PingID approval method.
+Connecting to Virtual Lab through Mac OS
+Download the “Remote Desktop Connection” for Mac here:
+https://apps.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12
+Click on Add Desktop or the Plus sign in the upper left corner.
+PC Name:
+MCEE students use –
+IT-CEEVLAB.OU.EDU
+GCOE students use –
+IT-COEVLAB.OU.EDU
+Click on the dropdown menu and choose option “Add User Account” when adding for the first time.
+Username:
+sooner\OUNetID
+Password:
+OU account password
+After inputting all the information, click “Save”.
+NOTE: if you need to access the virtual lab from off campus, you will need to install
+GlobalProtect VPN
+.
+When prompted for multi-factor approval, agree through your designated PingID approval method.
+Connecting to H:\ drives
+Please see the following articles:
+MCEE Mapped Drives
+COE Mapped Drives
+Basic Troubleshooting
+If you receive an access denied message from an existing set up of virtual lab, try to remove the connection and then re-add it using the connection settings above.
+If you have logged in to Virtual Lab in the past using your OU email address as the User Name, you should delete your credentials and log in using sooner\OUNetID
+If this is not done, your connection will not properly contact PingID for approval to authenticate your connection.
+In Windows this can be accomplished by opening the connection and clicking the "delete" link in "delete these credentials".
+If that still does not work, ensure you have access to your account by logging in at one.ou.edu.
+You must be currently enrolled in a College of Engineering or College of Earth and Energy course.
+If you are connecting from off-campus, you need to connect through the VPN.
+If you need assistance, call 405-325-HELP (4357).
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+303
+Created
+Tue 9/8/20 3:11 PM
+Modified
+Tue 10/18/22 1:38 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=303&SIDs=415">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=303&SIDs=415</a><br /><br />Network Drives and Virtual Labs
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

@@ -1,0 +1,125 @@
+
+
+	Article - Creating an SRT file
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Creating an SRT file
+Creating an SRT file
+If you don’t want to pay for captioning, it is possible to create your own captions, in what is called an SRT file. All you need is a basic text editor, such as Notepad.
+Open your text editor and go to
+File
+and then
+Save as
+.
+On the drop-down menu for file type, select
+All Files
+Save the file as
+YourVideoName.srt
+In the document, type a
+1
+, then hit
+Enter
+Insert the time at which you want the first line of captions to start in
+HH:MM:SS,sss
+format (where sss is milliseconds.) Both hours and milliseconds are required.
+add
+–>
+and then in the same timestamp format, when you want the caption line to end. Hit
+Enter
+.
+Type the line of the caption. Hit
+Enter twice
+.
+Type a
+2
+, and then repeat for the second line of captions.
+It should look something like this:1
+00:00:00,010 –> 00:00:08,052
+Hi. My name is Jennifer Anderson.
+This is my proposal for the major project in our literature class.
+2
+00:00:08,064 –> 00:00:16,057
+I would like to do a kind of literary analysis,
+multi-genre research paper
+Continue for as many captions as you need for your video, keeping a line break between each caption line.
+You can do basic formatting such as <i>text</i> to make text italicized or bold.
+Making an SRT file can take some time, but it isn’t too difficult to do. You can also upload the video to a site such as YouTube and have it create its own captions, then clean them up (YouTube is not 100% accurate, and jargon makes it significantly less accurate).
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+384
+Created
+Wed 9/9/20 2:34 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=384&SIDs=523">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=384&SIDs=523</a><br /><br />Creating an SRT file
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

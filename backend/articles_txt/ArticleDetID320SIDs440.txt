@@ -1,0 +1,98 @@
+
+
+	Article - Uploading Content to OUWWW/...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+Uploading Content to OUWWW/Organization Account Website
+Uploading Content to OUWWW/Organization Account Website
+If you would like to upload content to your organization account site, you can do so via FTP. You can use a free FTP client, such as Filezilla. Here’s some information you’ll need to upload the data to your site:
+Protocol: FTP
+Host Name:
+ftp://ouwww.ou.edu
+or ouwww.ou.edu
+Username: OU Net ID of related organization account
+Password: Password for organization account’s OU Net ID
+If you do not have a means to create content for your site, then we’d recommend using
+OU Create
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+320
+Created
+Tue 9/8/20 4:13 PM
+Modified
+Tue 3/28/23 8:49 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=320&SIDs=440">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=320&SIDs=440</a><br /><br />Uploading Content to OUWWW/Organization Account Website
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

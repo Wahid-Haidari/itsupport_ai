@@ -1,0 +1,129 @@
+
+
+	Article - What Happens If My Password...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Account and Identity Management
+What Happens If My Password Has Expired?
+What Happens If My Password Has Expired?
+University policy subjects all OUNet accounts to annual password changes. Once your password is 365 days old, your account will automatically be flagged, and access to all university services that require authentication with an OUNet account will be suspended. To regain access, you must reset your password.
+To reset your password once it has expired, visit
+One
+.
+You will see a page prompting you to enter your Username or OU email.
+If you have set a secondary email address, we will email you a password reset link. Simply follow the instructions and you’ll be all set!
+If you don’t have a secondary email address on file, we will ask you to verify some personal information and reset your password.
+A user that unknowingly has an expired password will encounter one of the following scenarios:
+If your password is flagged for expiration, and you try to access a university service behind Single Sign-On (SSO)
+You will see a page informing you that your account is expired, press continue to update to a new password.
+If you have set a secondary email address, we will email you a password reset link.  Simply follow the instructions and you’ll be all set!
+If you don’t have a secondary email address on file, we will ask you to verify some personal information and reset your password.
+A list of web services behind OU SSO can be found here:
+http://itnews.ou.edu/single-sign-on/
+.
+If a user with an expired password tries to access any Office 365 tools, they will receive the following error: “We don’t recognize this user ID or password”
+To reset your password once it has expired, visit
+One
+.
+You will see a page prompting you to enter your Username or OU email.
+If you have set a secondary email address, we will email you a password reset link. Simply follow the instructions and you’ll be all set!
+If you don’t have a secondary email address on file, we will ask you to verify some personal information and reset your password.
+If a user with an expired password tries to access a university service that is NOT behind SSO, they will receive a login error such as “Invalid username or password”, “Incorrect password”, “Unable to login this user”, etc. (This will vary from website to website)
+To reset your password once it has expired, visit
+One
+.
+You will see a page prompting you to enter your Username or OU email.
+If you have set a secondary email address, we will email you a password reset link. Simply follow the instructions and you’ll be all set!
+If you don’t have a secondary email address on file, we will ask you to verify some personal information and reset your password.
+If a user with an expired password tries to login to a PC on the SOONER domain
+Ensure the machine is on the Sooner domain and connected to a campus network via Ethernet or Wifi@OU.
+User will be required to change their password at the Windows login, and will be asked for “Old password”, a “New password”, and to “Confirm password”.
+This will effectively reset their password and all access will be regained.
+OU Email will stop syncing on mobile devices shortly after a user’s password expires
+To reset your password once it has expired, visit
+One
+.
+You will see a page prompting you to enter your Username or OU email.
+If you have set a secondary email address, we will email you a password reset link. Simply follow the instructions and you’ll be all set!
+If you don’t have a secondary email address on file, we will ask you to verify some personal information and reset your password.
+Don’t forget to update your account settings on your mobile device to use your new password!
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+108
+Created
+Thu 9/3/20 1:03 PM
+Modified
+Tue 11/2/21 11:53 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=108&SIDs=197">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=108&SIDs=197</a><br /><br />What Happens If My Password Has Expired?
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

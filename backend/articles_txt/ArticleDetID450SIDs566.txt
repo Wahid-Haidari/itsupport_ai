@@ -1,0 +1,105 @@
+
+
+	Article - Canvas – Attendance – About...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Canvas – Attendance – About Attendance
+Canvas – Attendance – About Attendance
+About Attendance (Roll Call)
+Instructors
+:
+The Attendance (Roll Call) tool is an external app (LTI) used for taking attendance in Canvas courses. The Attendance tool can be used for online or face-to-face courses. Enabled at the account level, the Roll Call Attendance tool can be used by all courses in the Canvas account.
+The Attendance tool always appears as a visible Course Navigation link, but it cannot be viewed by students, so hiding the link in Course Settings is not necessary. If instructors do not want to use the Attendance tool in their courses, no action is required.
+Note:
+The Attendance tool must be enabled for your institution before it can be used in Canvas courses.
+For more information, please visit:
+https://guides.instructure.com/m/4152/c/45706​
+Possible Articles of Interest
+Instructors
+How do I configure the Roll Call Attendance tool for my course?
+How do I edit the Roll Call Attendance Assignment?
+How do I take roll call using the Attendance tool?
+How is Roll Call Attendance graded in Canvas?
+How do I create a roll call seating chart using the Attendance tool?
+How do I run Roll Call Attendance reports for my course?
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+450
+Created
+Thu 9/10/20 10:10 AM
+Modified
+Fri 8/13/21 1:59 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=450&SIDs=566">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=450&SIDs=566</a><br /><br />Canvas – Attendance – About Attendance
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

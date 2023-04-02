@@ -1,0 +1,114 @@
+
+
+	Article - Webinar Security
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Webinar Security
+Webinar Security
+While scheduling a webinar in Zoom, Zoom does not require to secure the webinar. However, it is always recommended to secure the webinar in one or both of the following ways.
+Passcode
+:
+Webinar passcodes
+protect your meetings by the passcodes which you can set manually (or zoom provides by default). This allows the people who have the passcodes to the meeting to join the webinars.
+Require authentication to join
+: Zoom provides
+Authentication Profiles for meetings and webinars
+features that allow only authenticated (people from the same organization) profiles to be in the webinar.
+Enable Practice Session
+: Zoom Webinar offers the
+practice session
+feature. There can only be one active practice session for each webinar. For example, if the host starts a practice session, then an alternative host starts one, they will be in the same practice session. Also, Attendees will not be able to join the practice session. You can turn it on by simple checking in the box of Enable Practice Session.
+Live-Webinar Security
+While you are hosting a webinar, it is possible that for multiple reasons you may need to remove some participants from your webinar. To do that simply go to the tool bar of your webinar on the screen. Click Participants > Hover the mouse over the participant you want to remove> Click More> Remove. You will be displayed a box asking to confirm. Click OK, if it is the participant you want to remove.
+NOTE: Once you remove the participant from a webinar, the participant won’t be able to join the webinar again.
+Making Participant Panelist or Host:
+To make participant a host, you need to first promote them to panelist. To do that click on participants on webinar tool bar > go to Attendees tab > hover your mouse over the participant you want to promote > Click on More > Promote to Panelist. Now you will see them in the panelist tab and click on more and you can make them host or co-host.
+Chat Function:
+You can disable chat function totally or restrict it to panelist and host only. To do that, Click on Chat in the tool bar of webinar. Click on the three-horizontal dots as shown below and select the desired option.
+Allowing Participant to talk:
+By default, webinar restricts participants from turning on their audio (restricting participants to talk). But you can allow specific participants to talk. To do so, go to participant list > hover mouse over the attendees you want to grant permission > Click on Allow to Talk.
+Additional Security Features:
+While in the Webinar, in the zoom toolbar click on participants > Panelists > Below on the right corner, Click on the three horizontal dots (more).
+You can activate/enable these features by checking them or simply clicking on them. To deactivate or disable these features uncheck or click on them once again.
+Note: “Ask All to Unmute/mute” is for both Panelists and attendees.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2523
+Created
+Wed 8/18/21 10:52 AM
+Modified
+Mon 1/9/23 11:52 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2523&SIDs=1637">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2523&SIDs=1637</a><br /><br />Webinar Security
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

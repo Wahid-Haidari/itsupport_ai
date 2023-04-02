@@ -1,0 +1,117 @@
+
+
+	Article - MyMedia – Trimming or Clipp...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+MyMedia – Trimming or Clipping a Video
+MyMedia – Trimming or Clipping a Video
+When editing or saving a copy, due to how Kaltura handles those, the wait time will be longer than typical processing times.
+Trimming a video will replace your original media. This is not reversible.
+Clipping a video will save a new video clip to your MyMedia library.
+To Begin:
+Click on
+Your Name
+and then
+My Media
+Click
+Edit
+on the video you want to trim
+Click
+Launch Editor
+​
+Click on the
+Video Editor
+icon
+Click and drag the ends of the video reel (yellow bars) to adjust the length
+Click
+Save
+to make a
+permanent
+Trim.
+Saving permanently overrides any changes you made to your video. Your changes will affect captions and cue points as well.
+Click
+Save a Copy
+to save a video
+Clip
+of your changes to your MyMedia library.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+373
+Created
+Wed 9/9/20 2:17 PM
+Modified
+Wed 8/18/21 2:44 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=373&SIDs=512">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=373&SIDs=512</a><br /><br />MyMedia – Trimming or Clipping a Video
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

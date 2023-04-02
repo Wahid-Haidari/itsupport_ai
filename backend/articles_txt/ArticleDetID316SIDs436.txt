@@ -1,0 +1,97 @@
+
+
+	Article - Service Support with remote...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+IT Professional Services
+Service Support with remote.ou.edu
+Service Support with remote.ou.edu
+If you have contacted the OU IT help desk at 325-HELP (4357), you may have been directed to connect to a help agent using the remote.ou.edu client. When an agent has suggested this as a support method, you may use this service by doing the following:
+First navigate to
+remote.ou.edu
+in your internet browser.
+A listing of the currently active representatives will be presented. Your support agent should now direct you to click on their name on this page.
+You will now be prompted to download and install the remote agent program on your device. Select to save it to your computer. Please note where your are being prompted to save this file. Now navigate to this folder and double click on the file you downloaded.
+This should now launch the remote access program.
+You should now receive a screen prompt from your agent asking you to share your screen with them. Click Allow and the session should then begin.
+Your agent will be able to now view your desktop screen.
+If the agent needs to perform a system action that requires administrative or a higher level of access, you may receive a prompt to enter the admin credentials for your machine.
+When the agent is done, they will logout and your should receive a notification that the session has ended.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+316
+Created
+Tue 9/8/20 4:06 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=316&SIDs=436">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=316&SIDs=436</a><br /><br />Service Support with remote.ou.edu
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

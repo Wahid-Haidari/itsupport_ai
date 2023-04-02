@@ -1,0 +1,138 @@
+
+
+	Article - Connecting Zoom Add-in to O...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Connecting Zoom Add-in to Outlook Web or Desktop Application
+Connecting Zoom Add-in to Outlook Web or Desktop Application
+Connecting Zoom Add-in to Outlook Web Application
+WINDOWS USER
+Log in to the
+Outlook web app.
+Open the Add-ins menu
+Select a message
+Select
+More Actions
+(three horizontal dots) at the top-right of the message
+At the bottom of the list, select
+Get Add-ins
+Once in the Add-ins menu, type “Zoom for Outlook” in the search bar. Click
+Add
+Zoom calendar functionalities will now be available in Outlook.
+MAC USER
+Log in to the
+Outlook web app.
+Open the Add-ins menu
+a. ​In the
+Options
+sidebar, under the
+General Tab
+, click on
+Manage add-ins
+You will be directed to Outlook’s browser Add-ins Manager.
+a. Click on the
+plus icon > Add from the Office Store
+Once in the Add-ins menu, type “Zoom” in the search bar. Click on
+Get it now
+Zoom calendar functionalities will now be available in Outlook.
+Connecting Zoom plugin to Outlook Desktop Application
+NOTE: TO INSTALL ZOOM FOR OUTLOOK ON THE OUTLOOK DESKTOP APP, YOU MUST HAVE A MICROSOFT EXCHANGE ACCOUNT ADDED TO OUTLOOK.
+WINDOWS USER
+Open the Outlook desktop app and, for Windows users, go to
+File > Manage Add-ins.
+You will be directed to Outlook’s browser Add-ins Manager.
+Click on the
+plus icon > Add from the Office Store.
+You will be re-directed to the Office Store. Search for
+Zoom for Outlook and click
+GET IT NOW
+Zoom calendar functionalities will now be available in Outlook.
+MAC USER
+Go to click the
+Store
+icon on the Outlook ribbon
+You will be re-directed to the Office Store. Search for
+Zoom and click
+GET IT NOW
+Zoom calendar functionalities will now be available in Outlook.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+325
+Created
+Wed 9/9/20 8:40 AM
+Modified
+Wed 2/1/23 3:53 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=325&SIDs=445">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=325&SIDs=445</a><br /><br />Connecting Zoom Add-in to Outlook Web or Desktop Application
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

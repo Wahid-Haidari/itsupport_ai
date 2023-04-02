@@ -1,0 +1,93 @@
+
+
+	Article - Static IP Requests
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+IT Professional Services
+Static IP Requests
+Static IP Requests
+A static IP address provided through OU IT may be necessary for legacy printing (such as CICS printers) and off-campus access (of servers, for instance). Dynamic addressing via DHCP should be attempted before requesting a static IP address.
+A static IP address will prevent the device using it from changing IP addresses each time it connects. This type of IP address is called a dynamic IP address, and is the standard method of assigning IP addresses.
+If you would like to request a Static IP address, please
+visit the Service Catalog
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+101
+Created
+Thu 9/3/20 12:46 PM
+Modified
+Fri 9/11/20 8:55 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=101&SIDs=135">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=101&SIDs=135</a><br /><br />Static IP Requests
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

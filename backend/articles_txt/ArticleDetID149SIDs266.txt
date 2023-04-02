@@ -1,0 +1,147 @@
+
+
+	Article - OU VPN Client Connection Fa...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Software Catalog
+OU VPN Client Connection Failure Due to DNS Issues
+OU VPN Client Connection Failure Due to DNS Issues
+The University of Oklahoma OU VPN client connects makes a user’s computer part of the OU network, even while they are off campus. Some issues may arise if your computer is configured with incorrect IP information for the VPN servers in the network hosts file. To correct this issue, any entries for the OU VPN servers in your hosts file will need to be removed. To check your hosts file, please do the following:
+WINDOWS 8 OR 8.1
+In Windows 8, use the Search function to search for Notepad. When Notepad is found, right-click the Notepad program icon in the search results and choose to “Run as administrator”. Once Notepad opens, click File, then Open and enter the following: c:\windows\system32\drivers\etc\hosts
+This will open the hosts text file with your Notepad window. Look for the entry soonerconnect1.ou.edu and soonerconnect2.ou.edu. If they are listed, delete that line and the listed IP address from the file.
+For example, it would look like the following:
+0.0.0.0                  soonerconnect1.ou.edu
+Where 0.0.0.0 is replaced with whatever IP address numbers had been incorrectly saved for the soonerconnect1 and 2 entry. Delete the line for both soonerconnect entries and then click File, then Save.
+Once the hosts file has been updated, please run the nslookup query to verify your computer no longer retains the incorrect DNS information.:
+Press Win+X to open the WinX Menu.
+Right-click on Command Prompt and select Run as Administrator.
+Type the following command and press Enter: ipconfig /flushdns
+If the command was successful, you will see the following message: “Windows IP configuration successfully flushed the DNS Resolver Cache.”
+To verify if your computer is now resolving “soonerconnect1.ou.edu” and “soonerconnect2.ou.edu” properly, in your Command Prompt window, enter the following:
+nslookup soonerconnect1.ou.edu
+The above command should result in the following IP: 156.110.27.173
+Next, check the second soonerconnect server:
+nslookup soonerconnect2.ou.edu
+The above command should result in the following IP: 156.110.27.172
+If you still receive a different IP address, please verify you have updated your hosts file as instructed above. If you still continue to have problems or have any questions, please call the OU IT help line at 325-HELP (4357).
+WINDOWS 7
+To access the hosts file in Windows 7, click on Start, All Programs then Accessories. Right click Notepad, and select Run as Administrator from the popup menu. Once Notepad opens, click File, then Open and enter the following: c:\windows\system32\drivers\etc\hosts
+This will open the hosts text file with your Notepad window. Look for the entry soonerconnect1.ou.edu and soonerconnect2.ou.edu. If they are listed, delete that line and the listed IP address from the file.
+For example, it would look like the following:
+0.0.0.0                  soonerconnect1.ou.edu
+Where 0.0.0.0 is replaced with whatever IP address numbers had been incorrectly saved for the soonerconnect1 and 2 entry. Delete the line for both soonerconnect entries and then click File, then Save.
+Once the hosts file has been updated, please run the nslookup query to verify your computer no longer retains the incorrect DNS information.:
+Click the Start button.
+Enter cmd in the Start menu search field.
+Right-click on Command Prompt and select Run as Administrator.
+Type the following command and press Enter: ipconfig /flushdns
+If the command was successful, you will see the following message: “Windows IP configuration successfully flushed the DNS Resolver Cache.”
+To verify if your computer is now resolving “soonerconnect1.ou.edu” and “soonerconnect2.ou.edu” properly, in your Command Prompt window, enter the following:
+nslookup soonerconnect1.ou.edu
+The above command should result in the following IP: 156.110.27.173
+Next, check the second soonerconnect server:
+nslookup soonerconnect2.ou.edu
+The above command should result in the following IP: 156.110.27.172
+If you still receive a different IP address, please verify you have updated your hosts file as instructed above. If you still continue to have problems or have any questions, please call the OU IT help line at 325-HELP (4357).
+OS X
+Open Terminal (Using Spotlight, type Terminal and press the enter key).
+In the terminal window, type the following:
+sudo nano /private/etc/hosts
+Enter your administrator password when prompted.
+The HOSTS file will appear in the Terminal window.
+Use the arrow keys on the keyboard to navigate through the HOSTS file and delete the entries for soonerconnect1.ou.edu and soonerconnect2.ou.edu.
+Hit Control+O and then press the enter key to save changes. Press Control+X to exit the HOSTS file.
+Next you will need to flush your DNS cache, For OS X 10.7 and 10.8 type:
+sudo killall -HUP mDNSResponder
+For OS X 10.5 and 10.6 type:
+sudo dscacheutil -flushcache
+To verify if your computer is now resolving “soonerconnect1.ou.edu” and “soonerconnect2.ou.edu” properly, in your Terminal window, enter the following:
+nslookup
+You should then receive a > prompt, so enter: soonerconnect1.ou.edu
+The above command should result in the following IP: 156.110.27.173. Next, check the second soonerconnect server:
+nslookup
+You should then receive a > prompt, so enter: soonerconnect2.ou.edu
+The above command should result in the following IP: 156.110.27.172
+If you receive a different IP address, please verify you have updated your hosts file as instructed above. If you have any questions, please call the OU IT help line at 325-HELP (4357).
+Type exit to logout of Terminal. To quit Terminal, right click the Terminal icon and choose Quit.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+149
+Created
+Thu 9/3/20 4:57 PM
+Modified
+Thu 9/10/20 9:43 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=149&SIDs=266">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=149&SIDs=266</a><br /><br />OU VPN Client Connection Failure Due to DNS Issues
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

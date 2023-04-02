@@ -1,0 +1,127 @@
+
+
+	Article - Copy a Canvas Quiz
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Copy a Canvas Quiz
+Copy a Canvas Quiz
+There are a couple of methods for copying quizzes in Canvas that vary based on location of quiz, associated question banks, and how many copies.
+Course to Course
+The instructions below will guide you through the process of copying a quiz in Canvas from one course to another.
+Go to the course the quiz is being copied TO and click on
+Settings
+.
+Select
+Import Course Content
+.
+From the
+Content Type
+drop-down menu, select the option
+Copy a Canvas Course
+.
+In the
+Search for a course
+box, type in the name of the course you want to copy FROM, click the button next to ‘
+Select specific content
+’, then click
+Import
+.
+The import will now appear under
+Current Jobs
+. Click the red
+Select Content
+button and a window will appear listing all of the course content you can select from.
+Select the quiz and any associated question banks you would like to copy over into the course.
+Click the red
+Select Content
+button at the bottom right of the window once you are ready to import the content. The job status will immediately change to queued, running, and completed.
+The quiz has now been copied into the course.
+Important:
+If your quiz is pulling from a question bank and if you do not select the question banks during the import process, the newly copied quiz will not have those questions.
+Duplicate a Quiz within a Course
+To copy a quiz that is already in the course the same steps used for course-to-course copy (read above) will be used, but in the ‘
+Search for a course’
+box, type in the name of the current course.
+Important:
+This method can only be used once per quiz, question bank, or any content item.  Canvas warns that copying a quiz or content item more than once may overwrite previous copies. If you need to make more than one copy, we recommend to export the quiz to file and select the option to import QTI file and rename the quiz and question banks after each import.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+401
+Created
+Wed 9/9/20 3:52 PM
+Modified
+Wed 8/18/21 1:45 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=401&SIDs=1142">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=401&SIDs=1142</a><br /><br />Copy a Canvas Quiz
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

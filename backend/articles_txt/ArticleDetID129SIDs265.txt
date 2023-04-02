@@ -1,0 +1,104 @@
+
+
+	Article - Office Enterprise for Windo...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Software Catalog
+Office Enterprise for Windows License Script
+Office Enterprise for Windows License Script
+The following instructions are for Enterprise installs of Office, seen on OU owned computers.
+With Office Enterprise for Windows, the university software contacts a licensing server in order to validate and open. If a user is on campus, they need to be connected through Ethernet or through OU Wifi. If one is off campus, they will need to connect to the OU VPN. Note that the non-Enterprise installations of Office which install through a Product Key will not need VPN.
+To access VPN, one needs to connect to the
+GlobalProtect VPN
+.
+If an Office for Windows user is having issues with Office not reaching this server, please try the following (also please ensure your date/time is correctly set):
+Open a command prompt as an administrator. To do this, type cmd in the Run dialogue, right click on the Command program and click Run as Administrator. In the command window which opens, type the following:
+FOR OFFICE 2016:
+cscript “c:\program files\microsoft office\Office16\ospp.vbs” /sethst:s2-mslicensing.net.ou.edu
+or, if you’re using 32-bit office on a 64-bit OS:
+cscript “c:\program files (x86)\microsoft office\Office16\ospp.vbs” /sethst:s2-mslicensing.net.ou.edu
+TO MANUALLY ATTEMPT TO ACTIVATE OFFICE 2016 ON A KMS CLIENT:
+cscript C:\”Program Files (x86)”\”Microsoft Office”\Office16\ospp.vbs /act
+or, if you’re using 32-bit office on a 64-bit OS:
+cscript C:\”Program Files”\”Microsoft Office”\Office16\ospp.vbs /act
+This should point Office to the correct licensing server. If there are still issues present, please submit a help request.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+129
+Created
+Thu 9/3/20 3:18 PM
+Modified
+Tue 8/23/22 11:15 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=129&SIDs=265">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=129&SIDs=265</a><br /><br />Office Enterprise for Windows License Script
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

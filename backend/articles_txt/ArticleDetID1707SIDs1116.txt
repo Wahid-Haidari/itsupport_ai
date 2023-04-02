@@ -1,0 +1,111 @@
+
+
+	Article - Activating your LastPass En...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Account and Identity Management
+Activating your LastPass Enterprise Account
+Activating your LastPass Enterprise Account
+About LastPass
+LastPass is a secure password manager that remembers your passwords so you don't have to. For those employees of .75 FTE and above, you automatically qualify for an Enterprise account. All qualifying users will be sent an Enterprise activation email.
+Please note that access to LastPass Enterprise will be removed upon your employee status ending, as access officially ends on the last day of employment. So please make sure to remove or change over any account information before you lose access to your LastPass account.
+Activating your LastPass
+If you no longer have your activation email, please
+visit the LastPass service page
+and click the Request Service button to request a new activation code email.
+To begin, click the activate LastPass link in your invitation email.
+The LastPass site will load, and may ask you to enter your invitation activation code. This should be present in the email if you need to manually enter it. Please note that if you copy and paste this code, it may include a trailing blank space, you may need to delete this extra blank space before it will accept your code.
+The system will then check the strength of your master password and complete.
+If you have not installed the browser extension,
+please do so now
+by clicking the
+Install LastPass
+button on your Congratulations page.
+Please note that if you are activating your account in a private browser window, then your LastPass extension may not load in your browser, so you may need to relaunch in a full normal browser window. Once you have fully set up your account,
+you can go back and set to allow
+LastPass in a private window.
+With the extension installed, you can click it in your browser.
+You will be prompted to enter your address, and if you have a recently logged into a sso.ou.edu session, you will be automatically logged in, otherwise you might be directed to the OU sign in page for your OUNet account information.
+At this point you may be asked to link a personal LastPass account to your Enterprise account. This would allow you to save your personal passwords separate from your OU account password data.
+You may either perform this step or skip. If you choose to skip, you can always do so at a later time under "Link Personal Account" in your vault.
+Setup is complete, you can now click to go to your LastPass Vault.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+1707
+Created
+Mon 3/1/21 5:55 PM
+Modified
+Mon 4/11/22 10:35 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1707&SIDs=1116">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1707&SIDs=1116</a><br /><br />Activating your LastPass Enterprise Account
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

@@ -1,0 +1,120 @@
+
+
+	Article - Canvas – Issues with Direct...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Canvas – Issues with Direct Replies from OU Email
+Canvas – Issues with Direct Replies from OU Email
+Some users have reported their inability to directly reply to Canvas messages from their OU email address. When users are loaded from our information system, they are assigned their default email address (
+FirstName.MiddleInitial.LastName-1@ou.edu
+) instead of the alias email address. When a user receives a notification about Canvas communication, it is sent to this default email address. When the user replies, it is usually coming from their alias address – which Canvas does not recognize so the reply isn’t processed.
+In order to resolve the issue, users need to add their alias email address to their Canvas profile as a contact method. The steps to do so are as follows:
+Log into Canvas, click the
+Account
+link, then click the
+Settings
+link.
+In the
+Ways to Contact
+sidebar (located in top right of page), your account displays the default email associated with your account. To add your OU alias email address, click the
+Add Email Address
+link.
+On the
+Register Communication
+page, enter your alias email address, then click
+Register Email
+.
+You will receive a
+Confirm Email Address
+popup screen. Go to your OU Email inbox and click on the confirmation link located in the Canvas email to finish the registration process (you will be redirected to the Canvas log in screen).
+Click
+Login
+. Enter your OUNet ID and password (if prompted), then click
+Sign In
+.
+Go to your account settings. Under
+Ways to Connect
+, hover to the right of your alias email address and
+click the star icon
+next to your email address to confirm registration.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+455
+Created
+Thu 9/10/20 10:14 AM
+Modified
+Fri 8/20/21 2:55 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=455&SIDs=571">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=455&SIDs=571</a><br /><br />Canvas – Issues with Direct Replies from OU Email
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

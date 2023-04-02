@@ -1,0 +1,158 @@
+
+
+	Article - MyMedia – Channels
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+MyMedia – Channels
+MyMedia – Channels
+No
+te: Canvas has a built-in MyMedia integration called Media Gallery that acts as a channel within your course. We recommend using Media Gallery when possible.
+Learn more about Media Galler
+y
+.
+Creating a channel
+Click on
+your name in the upper right corner to open a drop-down menu.
+Select
+My Channels
+.
+Click
+Create Channel
+.
+Fill in a
+Title, Description, and tags
+Set privacy settings
+Note:
+If you are using a channel to share recorded lectures, do not make the channel public. This can potentially violate FERPA. Instead, keep the channel private or use the
+Media Galler
+y
+integration in Canvas.
+Select if you want the channel to be
+moderated
+(you must approve videos before they are shown in the channel), if
+comments
+are enabled, and if users can
+subscribe
+to the channel
+Click
+Save
+Privacy Settings for Channel:
+While creating/editing the channel,
+you can choose different privacy options depending upon your needs. The following are the options and their brief explanations:
+Restricted
+:
+All logged in users can view content and only channel members can contribute content.
+(Only for non-Classroom content)
+Private
+:
+Only channel members can view and contribute content. I
+f you are a member of the channel, it is only accessible to you for viewing and editing. Refer to the
+a
+dding
+u
+sers
+to a channel article
+to learn more about how to add students
+and limit their role in the channel.
+Public, Restricted
+:
+Anyone can view content (including anonymous not logged-in users). Only channel members can contribute content according to their publishing entitlements.
+(Only for public forums or speaker series to be shared with the general public). For this settings, please contact IT Support.
+To edit the privacy settings for the
+channel, go to your “My Channels”> Hover your mouse over the channel you want to edit> Click on the Pencil (edit) icon on the bottom right corner.
+Managing a channel:
+Go to your channels (step 1 above)
+Select the channel you want to manage
+Click
++
+Add
+to Channel
+to add media to the channel
+.
+Check the box next to the media you would like on the channel
+Click
+Publish
+You can also add new media by clicking on
+Add New
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+376
+Created
+Wed 9/9/20 2:22 PM
+Modified
+Wed 3/16/22 11:51 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=376&SIDs=515">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=376&SIDs=515</a><br /><br />MyMedia – Channels
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

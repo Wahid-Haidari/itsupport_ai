@@ -1,0 +1,99 @@
+
+
+	Article - Allow Participants to Scree...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Allow Participants to Screen Share in Zoom
+Allow Participants to Screen Share in Zoom
+Participant Sharing in a Zoom Meeting
+In Zoom meetings, it may be necessary at times for the participants to share screenshots or their own screen. This article will show you how to adjust your settings to allow participants to share their screen to the rest of the meeting.
+Changing in the Required Settings
+Log in on the Zoom client on your device. Or you can sign in to your account from the website (oklahoma.zoom.us).
+Click “New Meeting” and this will start your personal meeting room, we will use this for ease as an example. Other meetings you have will have the same options we will be discussing.
+In the meeting, go to the tool bar at the bottom of the screen and click the arrow next to the green Screen Share button.
+This will bring up the options for participant sharing. Click on Advanced Sharing Options. You can either choose one participant can share at a time or Multiple participants can share simultaneously (dual monitors recommended) depending on your need.
+Choosing “one participant can share at a time” option allows only one participant to share screen at a time and restricts other participants from sharing screen while somebody is already sharing screen.
+NOTE: Make sure to select All participants for both the questions as shown in the screenshot above.
+Choosing “Multiple participants can share simultaneously (dual monitors recommended)” option allows multiple participants to share screen at a time.
+NOTE: If screen share is not enabled for participants, they will not be able to share anything from their device.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+164
+Created
+Fri 9/4/20 12:19 PM
+Modified
+Wed 8/18/21 1:26 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=164&SIDs=600">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=164&SIDs=600</a><br /><br />Allow Participants to Screen Share in Zoom
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

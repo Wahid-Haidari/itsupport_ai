@@ -1,0 +1,103 @@
+
+
+	Article - Adobe Creative Cloud Licens...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Software Catalog
+Adobe Creative Cloud License Errors
+Adobe Creative Cloud License Errors
+Adobe Creative Cloud users who previously had individual Adobe Creative Cloud subscriptions or were utilizing a Adobe Creative Cloud for Teams subscription may receive a persistent pop-up which will ask the user to login with a licensed Adobe account or state that they only have X number of days remaining on the license. This message will continue to appear even after completely uninstalling previous versions of Creative Cloud applications and reinstalling the suite with the new enterprise packages and serializing.
+These issues present themselves because the software is still holding on to the old licensing configuration. To resolve the issue, please try the following:
+Ensure that all previous versions of Adobe Creative Cloud software have been uninstalled.
+If installing multiple products or packages, be sure to follow the de-serialization and re-serialization steps included in the installation instructions.
+If these issues persist, close any running Adobe applications then locate the SLCache and SLStore folders:
+On Windows
+32 bit: Program Files\Common Files\Adobe\SLCache
+64 bit: Program Files (x86)\Common Files\Adobe\SLCache
+C:\ProgramData\Adobe\SLStore
+On OS X
+Library/Application Support/Adobe/SLCache
+Library/Application Support/Adobe/SLStore
+Create a backup copy of these files on the desktop. Then, in their original directories, rename each to SLCache.old and SLStore.old respectively.
+Rerun the serialization software. This should generate fresh SLCache and SLStore folders with the new enterprise licensing configuration.
+Launch any of the installed CC apps and verify that the error messages above no longer pop up.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+477
+Created
+Thu 9/10/20 11:27 AM
+Modified
+Thu 9/10/20 2:12 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=477&SIDs=1144">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=477&SIDs=1144</a><br /><br />Adobe Creative Cloud License Errors
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

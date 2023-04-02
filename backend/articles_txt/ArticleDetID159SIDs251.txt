@@ -1,0 +1,120 @@
+
+
+	Article - Forgetting a Wireless Network
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+Forgetting a Wireless Network
+Forgetting a Wireless Network
+Sometimes during wireless usage, your computer or device may have trouble using or reconnecting to a saved wireless connection such as WIFI@OU. You may wish to remove the network, and then re-add it.
+Android:
+From the home screen, choose Settings.
+In the settings menu, choose Wi-Fi.
+Locate the network in question and tap or press and hold it.
+Choose Forget.
+If you wish to re-add the network, return to the list of available networks and select to connect to the network in question.
+Mac OS (Apple Laptop):
+Click the wifi symbol at the top of your screen, and select Open Network Preferences.
+In the lower-right corner, choose Advanced.
+Under Preferred Networks select the network you wish your computer to forget.
+Click the minus (-) button to forget.
+Click OK.
+If you wish to re-add the network, return to the list of available networks and select to connect to the network in question.
+Apple iOS ( iPhone or iPad):
+From the home screen, choose Settings.
+In the settings menu, choose Wi-Fi.
+Locate the network you wish for your device to forget and click the blue symbol next to the name.
+If the option to forget the network is available, tap Forget this Network. If you do not see the option to forget the network:
+From the home screen, choose Settings.
+In the settings menu, choose General.
+Locate Profile and tap on it.
+Select the profile for the network.
+Tap on delete profile.
+If you wish to re-add the network, return to the list of available networks and select to connect to the network in question.
+Windows 10:
+Click the Network icon on the lower right corner of your screen.
+Choose Network & Internet settings.
+Click on Wi-Fi in the left menu.
+Under Manage known networks, select the network in question.
+Then click the Forget button.
+If you wish to re-add the network, return to the list of available networks and select to connect to the network in question.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+159
+Created
+Fri 9/4/20 10:17 AM
+Modified
+Tue 11/24/20 1:38 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=159&SIDs=251">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=159&SIDs=251</a><br /><br />Forgetting a Wireless Network
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

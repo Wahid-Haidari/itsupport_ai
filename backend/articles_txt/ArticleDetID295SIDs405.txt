@@ -1,0 +1,198 @@
+
+
+	Article - Using Zoom for Public Event...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Using Zoom for Public Events: Meeting vs. Webinar License
+Using Zoom for Public Events: Meeting vs. Webinar License
+The Zoom Meeting and Webinar platforms offer similar features and functionality but have some key differences.
+Meetings are designed to be a collaborative event with all participants being able to screen share, turn on their video and audio, and see who else is in attendance.
+Webinars are designed so that the host and any designated panelists can share their video, audio and screen. Webinars allow view-only attendees. They have the ability to interact via Q&A, chat, and answering polling questions. The host can also unmute the attendees. Attendees in webinars, cannot rename themselves as well.
+Meetings versus webinars
+Meeting
+Webinar
+Description
+Zoom meetings are ideal for hosting more interactive sessions where you’ll want to have lots of audience participation or break your session into smaller groups.
+Think of webinars like a virtual lecture hall or auditorium. Webinars are ideal for large audiences or events that are open to the public. Typically, webinar attendees do not interact with one another. Though Zoom provides options for you to get more social with your attendees, your average webinar has one or a few people speaking to an audience.
+Best Used For
+Small to large groups (2+ participants) for:
+Customer-facing meetings
+Sales meetings
+Training sessions
+Large events and public broadcasts (50+ attendees) such as:
+Town halls
+Quarterly updates
+Educational lectures
+Cost
+Free for Faculty/Staff
+Contact your IT Representative for pricing
+FEATURES
+Meeting
+Webinar
+Capacity
+300
+Up to 50,000
+Participant Roles
+Host & Co-Host
+Participant
+Host and Co-Host
+Panelist
+Attendee
+Audio Sharing
+All participants can mute/unmute their own audio
+Host can mute/request to unmute participants
+The Host can set all participants to mute upon entry
+Only the Host and panelists can mute/unmute their own audio
+Attendees join in listen-only mode*
+The Host can unmute one or more attendees
+Video Sharing
+All participants
+Hosts and Panelists
+Screen Sharing
+Yes
+Yes
+Participants List
+Visible to all
+Visible to host and panelist
+Email Reminders
+N/A
+If registration is enabled
+Chat
+In-Meeting Chat
+Webinar Chat
+Nonverbal Feedback
+Yes
+Only
+Raise Hand
+Q & A
+N/A
+Yes
+Breakout Rooms
+Yes
+N/A
+Closed Captioning
+Yes
+Yes
+Recording
+Yes
+Yes
+Polling
+Polling for meetings
+Polling for webinars
+Livestream
+Facebook
+,
+YouTube
+,
+Workplace by Facebook
+,
+Custom Streaming Service
+Facebook
+,
+YouTube
+,
+Workplace by Facebook
+,
+Custom Streaming Service
+Registration
+Registration for meetings
+Registration for webinars
+Practice Session
+N/A
+Yes
+Waiting Room
+Yes
+N/A
+PayPal Integration
+N/A
+Yes
+Require Password to Join
+Yes
+Yes
+International Dial-In Numbers
+Yes
+Yes
+*Note: If the host or co-host enables
+Allow to Talk
+for an attendee, they will be able to enable their microphone as well as mute and unmute themselves.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+295
+Created
+Tue 9/8/20 10:48 AM
+Modified
+Mon 9/13/21 1:42 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=295&SIDs=405">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=295&SIDs=405</a><br /><br />Using Zoom for Public Events: Meeting vs. Webinar License
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

@@ -1,0 +1,133 @@
+
+
+	Article - MyDesk (VDI) Norman Work Fr...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Software Catalog
+MyDesk (VDI) Norman Work From Home Solution – Mac Client Install
+MyDesk (VDI) Norman Work From Home Solution – Mac Client Install
+Unsure on which Work From Home product to choose?
+Use this guide to help decide
+.
+In an effort to maintain productivity and maximize flexibility as the University responds to COVID-19, OU IT has extended the VMware Horizon Virtual Desktop service (VDI) to tri-campus Faculty and Staff.
+Please note, you will need to install PingID and then authenticate to get access to this program, please see
+this page
+for more.
+VDI delivers a CLEAN desktop with secure, encrypted access to network services.
+VDI does NOT duplicate your on-campus desktop computer.
+Files stored locally on your on-campus computer are not accessible via VDI.
+Accessing VDI via the Client:
+To begin, navigate to
+https://mydesknor.ou.edu/
+.
+You should have two options, a standalone installer and an option for HTML access. Select the option for “Install VMWare Horizon Client”.
+You will now be linked to the VMWare download website. Select the “Go to Downloads” link for your operating system.
+Next click the Download button for your download. Once downloaded, click to launch the installer.
+Mac Install
+When the installer file launches, you will be prompted to agree to the privacy agreement and license terms. Select to
+Agree
+.
+The installer will now load the installer package. Click to drag the application to the
+Applications
+folder.
+When the install completes, you may now find the application “VMWare Horizon Client” in the Applications folder.
+Upon launching the application, you may be prompted for your Admin username and password. Hit
+Continue
+and enter your computer’s admin credentials, then hit Ok.
+You may receive an alert prompt that the Security Extension has been blocked. Click
+Open Security Preferences
+.
+At the bottom of the Security & Privacy window, click the
+Allow
+option.
+At the “Enter the name of the Connection Server” prompt, enter
+mydesknor.ou.edu
+If you already have an existing connection, click the New Server option and then enter the server address above.
+You will now be prompted to enter your OUNet username and password. Enter this in and then click Login.
+You should also now be promoted to accept the authentication in PingID.
+The desktop window will now load for your instance.
+If you have problems connecting to Horizon VDI (mydesknor.ou.edu), please contact your local service desk.
+Norman IT Service Desk
+|
+Tulsa IT Service Desk
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+286
+Created
+Tue 9/8/20 9:22 AM
+Modified
+Wed 6/8/22 9:39 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=286&SIDs=398">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=286&SIDs=398</a><br /><br />MyDesk (VDI) Norman Work From Home Solution – Mac Client Install
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

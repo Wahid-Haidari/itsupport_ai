@@ -1,0 +1,108 @@
+
+
+	Article - Changing IT Admin Password
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Information Security
+Changing IT Admin Password
+Changing IT Admin Password
+Tags
+password
+Elevated
+Admin
+How to Change your IT Admin Password
+The following article identifies the process to reset your IT Admin (IT_, A_, ITA_, etc.) account. IT Admin accounts must be changed every 365 days and require 16 characters.
+Note:
+Your IT Admin account must be enrolled in PingID. OU IT recommends using an incognito browser to enroll your IT Admin account and change your IT Admin account.
+PingID Information:
+PingID Enrollment:
+https://link.ou.edu/pingid
+PingID FAQ:
+https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2573
+Steps to change your IT Admin password:
+Using an incognito browser, go to
+https://one.ou.edu/
+Enter your IT Admin account and password
+During authentication, you will be prompted to approve the log in through PingID.
+Click "Change Password"
+Enter the "Old Password" and the "New Password". Please note, you may click on the eye icon to see the text.
+Click "Change Password"
+Additional Information:
+- If your IT Admin account is expired you need to submit a general ticket (
+https://itsupport.ou.edu
+) to have an OU IT member assist you in the password change. By design, expired passwords cannot be changed without manual intervention.
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2953
+Created
+Mon 3/6/23 4:18 PM
+Modified
+Wed 3/8/23 8:43 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2953&SIDs=2701">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2953&SIDs=2701</a><br /><br />Changing IT Admin Password
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

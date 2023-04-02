@@ -1,0 +1,134 @@
+
+
+	Article - Accessing Lockdown Browser ...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Accessing Lockdown Browser to Take a Quiz
+Accessing Lockdown Browser to Take a Quiz
+OU-Norman students:
+How to Install LockDown Browser:
+To install Respondus on your computer, visit
+https://link.ou.edu/respondus
+to download the OU-specific software. Because we have a combined license with HSC, under the
+Install
+section, you will see the following:
+Install LockDown Browser for
+University of Oklahoma Health Science Center
+. You will need to click the yellow
+Install
+button, then follow the install prompts on your computer.
+How to take a quiz with LockDown Browser in Canvas:
+Launch Lockdown Browser. This article will appear as the homepage. Then, click on this Canvas URL to access your quiz:
+https://canvas.ou.edu
+OUHSC students:
+How to Install LockDown Browser:
+Students enrolled in HSC programs, please go to Brightspace by D2L
+https://learn.ouhsc.edu/
+to download and install Respondus LDB to use in your quizzes.
+The download link is available under the
+Assessments
+menu in most of your courses.  Alternatively, once you log into Brightspace, click on the red navigation bar menu
+Brightspace Help
+>
+LockDown Browser Installer
+.
+How to take a quiz with LockDown Browser in Brightspace by D2L:
+You must first go to your Brightspace course and start your quiz taking process there.  After clicking on a quiz to enter, a “Launch LockDown Browser” button will appear at the bottom of the page. This is where you will then start LockDown Browser.
+After the initial download and installation of the software, LockDown Browser is only ever launched from within a Brightspace by D2L quiz.
+If you start the LockDown Browser app BEFORE you start your quiz process, you will end up back on this page.
+Respondus Technical Support:
+Respondus Support is available here:
+https://support.respondus.com/hc/en-us
+A support ticket to Respondus can be submitted
+here
+.
+Respondus Email Support is available through
+support@respondus.com
+.
+Please note that while OU IT can provide
+general support
+regarding setting up Respondus, questions beyond the initial technical setup of Respondus should be handled by Respondus Support directly.
+For more information about Respondus, please visit
+this article
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+100% helpful - 1 review
+Blank
+Blank
+Blank
+Details
+Article ID:
+400
+Created
+Wed 9/9/20 3:51 PM
+Modified
+Thu 10/27/22 2:07 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=400&SIDs=536">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=400&SIDs=536</a><br /><br />Accessing Lockdown Browser to Take a Quiz
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

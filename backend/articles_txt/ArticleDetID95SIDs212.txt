@@ -1,0 +1,152 @@
+
+
+	Article - Connecting to WIFI@OU
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+Connecting to WIFI@OU
+Connecting to WIFI@OU
+What is WIFI@OU?
+WIFI@OU is the preferred WIFI network for members of the entire OU community.
+It will require you to log in with your OUNet ID and password.
+This network requires devices that support WPA2 Enterprise level encryption and 802.11g specification or newer (802.11a/g/n/ac).
+Additional WIFI@OU connection instructions by device
+iOS
+Mac
+Android
+(Note: follow this link for connecting Chromebooks as well)
+Windows
+Linux
+How to connect to WIFI@OU from your computer
+“Forget” OUGuest. For instructions on forgetting a wireless network, refer to this
+article
+.
+From the desktop, select the WIFI icon. On the drop down menu, select WIFI@OU as the SSID.
+Enter your OUNet ID and password.
+Select Continue when the Verify Certificate prompt appears (see below for further detail).
+Mac OS X will require you to update the Certificate Trust Settings. Enter your computer’s username and password when prompted. NOTE: This is
+not
+your OUNet ID and password, and requires you to have admin privileges on your computer.
+If you have changed your OUNet ID password recently and are now having difficulties logging in to WIFI@OU, one possible solution is to forget all OU WIFI networks.
+How to connect to WIFI@OU from your phone
+Go to Settings and then WIFI.
+Select WIFI@OU as the network.
+Enter your OUNet ID and password.
+Choose Trust when prompted to verify the Certificate.
+Verifying the new certificate​
+After entering your OUNet ID and password, you will be prompted to accept a new certificate.
+This is a normal part of the process to log in to WIFI@OU.
+Every device connected to WIFI@OU will receive a prompt to accept a new certificate once per year. This prompt is normal and connectivity will be restored once the certificate is accepted.
+PLEASE NOTE:
+There is a known issue connecting to WIFI@OU on Windows 7/8/8.1. For further instructions on how to connect with those versions of Windows, click
+HERE
+.
+Devices that do NOT support WIFI@OU (WPA2-Enterprise) [See Instructions Below]
+Amazon Kindle Wi-Fi and Wi-Fi + 3G
+Amazon Kindle Fire – NOTE: if Android OS has been installed on a Kindle Fire, then it can and should connect to WIFI@OU
+Video game consoles from Microsoft, Sony, and Nintendo
+Apple TV Generations 1-3
+Barnes & Noble Nook v1.5
+Roku HD/XD/XDS Streaming Player
+TiVo Wireless Network Adapter
+Chromecast
+Any WIFI Thermostat
+Google Home
+Amazon Echo
+All smart TVs
+My device doesn’t support WPA2-Enterprise! Now what?
+If the device you wish to connect to a network does not support WIFI@OU, you will need to connect it to
+AccessOU
+.
+Please note
+: If you are trying to connect a smart device such as Google Home, it will need to connect to AccessOU, while your smart phone connects to WIFI@OU. The two devices should still be able to interact.
+For more information about AccessOU, including how to connect, see
+this article.
+Nintendo Wii U, Nintendo Wii, Nintendo DS, Nintendo DSi and Nintendo 3DS will not be able to connect to any wireless network at OU, including AccessOU.
+Apple TV Gen 4-5 will use WIFI@OU, but requires additional steps. Please see this
+article
+.
+Trust Prompt for Access.ou.edu Certificate
+Please note that Apple devices will need to click “Trust” on the access.ou.edu Certificate – similar to when the device was first connected to WIFI@OU.
+Windows devices that are currently connected to WIFI@OU, or have been in the past, will receive a prompt asking if they would like to “Continue connecting?” – you will need to select “Connect”.
+For additional help call 405-325-HELP (4357) or visit one of our Service Centers. You can find our business hours and locations at needhelp.ou.edu
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+95
+Created
+Thu 9/3/20 12:28 PM
+Modified
+Thu 3/3/22 2:11 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=95&SIDs=212">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=95&SIDs=212</a><br /><br />Connecting to WIFI@OU
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

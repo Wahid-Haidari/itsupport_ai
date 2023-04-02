@@ -1,0 +1,7 @@
+Select Authentication System
+
+Select authentication system:
+OU
+OUHealth (Epic support only)
+Remember selection
+© Copyright 2022 Ping Identity. All rights reserved.

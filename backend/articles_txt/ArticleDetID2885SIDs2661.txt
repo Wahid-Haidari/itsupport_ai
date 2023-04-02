@@ -1,0 +1,97 @@
+
+
+	Article - PingID - I Changed My Devic...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Information Security
+PingID - I Changed My Device or Phone Number
+PingID - I Changed My Device or Phone Number
+The
+PingID
+authentication system allows users to
+enroll multiple devices and methods
+for their second factor authentication. If a user only has one method enrolled, such as a phone, which they upgrade or change the phone number on, then they may lose the ability to log in. If you have upgraded to a new phone, have uninstalled the PingID app or if you no longer have access to the previous method of authenticating with PingID, please call your local campus IT help desk or submit a help ticket to request that your old device or method be removed from your account:
+Norman Campus
+: 405-325-HELP [4357]
+HSC Campus
+: 405-325-HELP [4357]
+Tulsa Campus
+: 918-660-3550
+To avoid this issue, IT strongly recommends enrolling in secondary PingID authenticators such as
+PingID for Desktop
+. With this secondary method, one can log in and manage their enrolled devices, even if they lost access to their primary enrolled device.
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2885
+Created
+Tue 8/9/22 11:15 AM
+Modified
+Fri 3/10/23 9:18 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2885&SIDs=2661">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2885&SIDs=2661</a><br /><br />PingID - I Changed My Device or Phone Number
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

@@ -1,0 +1,129 @@
+
+
+	Article - OU Network FAQs
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+OU Network FAQs
+OU Network FAQs
+How do I access the Internet while I am on campus?
+The vast majority of students, faculty, and staff will use WIFI@OU, AccessOU, and/or Net-Reg (Network Registration).
+For additional information about campus WiFi networks, please see
+this article
+.
+What is WIFI@OU?
+WIFI@OU is a secure wireless network, which requires signing in with an OUNetID and password to use. Users who do not have a valid OUNetID will not be able to connect to WIFI@OU.
+Smartphones, tablets, laptops, and any other WiFi-enabled device that has an Internet browser should connect to this wireless network.
+Devices must support WPA2 Enterprise level encryption and 802.11g specification or newer (802.11a/g/n/ac) in order to connect to WIFI@OU.
+To connect to WIFI@OU, select the network and then sign in with your OUNetID and password.
+For more information, including more detailed connection instructions for specific devices, please see
+this article
+.
+What is AccessOU?
+Wireless devices that cannot connect to WIFI@OU (due to encryption requirements, for example), will connect to AccessOU.
+Video game consoles, smart home devices, most smart TVs, and more will connect to AccessOU.
+To connect to AccessOU, you will need to first register your device at access.ou.edu using an alternate device. After your device is registered,  connect to the AccessOU wireless network from your device.
+For more information, including more detailed connection instructions, please see
+this article.
+What is Net-Reg?
+Net-Reg is a website used to register any network-enabled device to the OU
+wired
+network.
+Computers, video game consoles, and other devices that support wired internet connections may be registered and used with a wired connection. Registering a device on Net-Reg will not prevent the device from being used wirelessly.
+To register your device on Net-Reg, go to net-reg.ou.edu on a device with a browser and select “Register a Device”. This may be done from any device with a browser, e.g. you could register a PlayStation 4 from the game console’s browser or register it from your laptop.
+For more information, please see these articles:
+Register a Wired Device
+About OU Wired Networks
+What about OUGuest?
+OU students, faculty, and staff should NOT use OUGuest.
+Connecting to OUGuest will cause connectivity issues for a device that has connected to WIFI@OU in the past. Connecting a new device to OUGuest before registering and connecting on WIFI@OU will prevent your device from being able to connect to WIFI@OU.
+OUGuest is intended for campus visitors to use on a short-term basis and is not meant to be used to access internal resources.
+I’m having trouble connecting to WIFI.
+If you have an OUNetID,  do not try connecting to OUGuest..
+Double-check that you are connecting to the right network for your device.
+“Forget” all OU  networks and try to reconnect. For instructions on forgetting a network, please see
+this article.
+Restart your device.
+Download and install any system updates for your device.
+If applicable, check for any loose cords. Try a different ethernet cable and port.
+If these troubleshooting solutions do not work, please contact IT Services at 405-325-HELP (4357).
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2509
+Created
+Mon 8/2/21 11:24 AM
+Modified
+Mon 9/13/21 11:53 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2509&SIDs=1623">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2509&SIDs=1623</a><br /><br />OU Network FAQs
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

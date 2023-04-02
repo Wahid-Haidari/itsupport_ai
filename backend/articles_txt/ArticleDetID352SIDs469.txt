@@ -1,0 +1,102 @@
+
+
+	Article - Adobe Creative Cloud Minimu...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Software Catalog
+Adobe Creative Cloud Minimum Requirements
+Adobe Creative Cloud Minimum Requirements
+The base minimum requirements for the Adobe Creative Cloud suite is listed below. Note that some software within the suite requires higher than the minimum requirements listed however.
+OS:
+Windows 7 SP1 or higher for Windows, OS X 10.9 or higher for OS X
+RAM:
+4GB
+HDD:
+15GB per application; 5400 RPM; SpeedGrade and Premier require 7200 RPM
+Processor:
+Core 2 Duo or Phenom II for Windows, Intel-based processor for OS X
+Display:
+1280×1080 (1680×1050 or 1920×1080 for SpeedGrade)
+Required Software:
+OpenGL 4.x or newer, QuickTime 7.646 or newer, Flash Player 11.4 or newer, Adobe Air 3.4 or newer, Java JDK.
+A breakdown of system requirements for the full suite can be found
+here
+.​
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+352
+Created
+Wed 9/9/20 12:24 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=352&SIDs=469">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=352&SIDs=469</a><br /><br />Adobe Creative Cloud Minimum Requirements
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

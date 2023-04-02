@@ -1,0 +1,102 @@
+
+
+	Article - MCEE Mapped Drives
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Infrastructure and Enterprise Applications
+MCEE Mapped Drives
+MCEE Mapped Drives
+To connect to the CEE network drive (commonly referred to as the H:\ drive), users must either be on the campus network or be connected through a
+OU VPN client
+.
+Path = cee-file.ou.edu/homes
+Windows
+Go to This PC, which is found opening a Windows folder and clicking This PC in the left menu.
+Now hit Map Network Drive, once the new window pops up. Enter in \\cee-file.ou.edu\homes
+Now if you are on a computer that isn’t connected to the sooner domain. That a network logon will pop up and you will have to enter in sooner\OUNetID and your password.
+Mac OS
+Minimize all open windows and single-click anywhere on the background to make sure ‘Finder’ is the active application on the top left of the screen.
+Once you see ‘Finder’ in the top right corner, click the ‘Go’ button. Scroll down and click ‘Connect to Server’.
+Now you want to enter this in Server Address: smb://cee-file.ou.edu/homes
+Once the path is entered click the “+” sign, and then click “Connect”.
+Now enter in your OUNet ID and password.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+145
+Created
+Thu 9/3/20 4:48 PM
+Modified
+Tue 8/23/22 11:23 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=145&SIDs=256">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=145&SIDs=256</a><br /><br />MCEE Mapped Drives
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

@@ -1,0 +1,101 @@
+
+
+	Article - Accessing Adobe Creative Cl...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Software Catalog
+Accessing Adobe Creative Cloud in Campus Labs
+Accessing Adobe Creative Cloud in Campus Labs
+Please Note: this article applies to computer labs only.
+Beginning at the launch of the Adobe Creative Cloud Application
+Step 1
+After logging into the computer, locate the Adobe Creative Cloud Icon and open the application.
+Step 2
+You will be prompted to enter your OU email into the email field. A password is not yet necessary. After entering your email, you will be redirected to another screen.*
+*If you entered an OU email that is associated with another Adobe Creative Cloud account, you will be asked if you want to login with your personal account or an Enterprise ID. Choose Enterprise ID.
+Step 3
+Login with your OUNetID (4×4). This is the same login you would use for Canvas, your OU email, or any other OU account
+Step 4
+After logging in with your OUNetID (4×4), you will be taken to the Adobe Creative Cloud application. Once you have access to the application, you will be able to access all the Adobe applications installed on the lab computer
+Step 5
+Open the start menu on the computer and navigate to the Adobe Application to launch your desired program
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+322
+Created
+Tue 9/8/20 4:17 PM
+Modified
+Mon 1/9/23 2:54 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=322&SIDs=442">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=322&SIDs=442</a><br /><br />Accessing Adobe Creative Cloud in Campus Labs
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

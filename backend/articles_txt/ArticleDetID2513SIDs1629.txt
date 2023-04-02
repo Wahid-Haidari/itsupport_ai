@@ -1,0 +1,102 @@
+
+
+	Article - Zoom Security Settings for ...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Zoom Security Settings for Faculty/Staff
+Zoom Security Settings for Faculty/Staff
+While scheduling zoom meetings, zoom requires all meetings to be secured with one at least one of the following security options:
+Passcode:
+Meetings and webinar passcodes
+protect your meetings by the passcodes which you can set manually (or zoom provides by default). This allows the people who have the passcodes to the meeting to join the zoom meeting and webinars.
+Waiting Room
+:
+Waiting rooms
+puts all the participants on the waiting room giving host the ability to accept/reject the participants for their meeting.
+Require authentication to join
+: Zoom provides
+Authentication Profiles for meetings and webinars
+features that allow only authenticated (people from the same organization) profiles to be in the meeting. Zoom also provide exceptional settings for allowing non-authenticated users to log in to the zoom meetings.
+Note: One of these security options must be selected in order to schedule a meeting. By default, Zoom enables Passcode and Require Authentication features turned on.
+However, Faculty/Staff can change (unselect) these features and enable waiting room features or enable all three features alternatively.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2513
+Created
+Thu 8/5/21 11:31 AM
+Modified
+Mon 9/13/21 11:51 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2513&SIDs=1629">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2513&SIDs=1629</a><br /><br />Zoom Security Settings for Faculty/Staff
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

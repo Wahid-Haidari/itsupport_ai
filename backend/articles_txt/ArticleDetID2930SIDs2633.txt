@@ -1,0 +1,104 @@
+
+
+	Article - Canvas - Student View
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Canvas - Student View
+Canvas - Student View
+You can view a course the same way that your students view your course through Student View. Enabling Student View creates a Test Student in your course. You can also activate Student View in your Course Settings.
+To see the student's perspective on Canvas, use Student View to view the course, post and reply to discussions, submit assignments, view grades, view people, view pages, view the syllabus, view quizzes, view the calendar, and view the scheduler (if enabled).
+You can reset Test Student data at any time; however, Test Student activity that involves interactions with other students cannot be removed, such as discussion replies. Test Student data that involves interactions with other students are retained even if the test student is removed from section enrollments.
+Attendance, conferences, conversations inbox, collaborations, differentiated assignments, external apps, groups, peer reviews, and profiles do not work for the Test Student. You will see only what you, as the instructor, allow your students to see.
+Open Student View
+You can access Student View from most areas of the course including Home, Modules, Assignments, Announcements, Discussions, Quizzes, Pages, Syllabus, and Outcomes.
+To view the page as a test student, click the
+Student View
+button.
+View Course
+You can now view the course as a student user would see it. For example, students cannot see the Settings navigation link like instructors can.
+You will know if you are in Student View because of the colored box on the bottom of the screen indicating you are logged into Student View.
+Reset Student
+You can also reset the Test Student by clicking
+Reset Student
+. This action will clear all activity that does not include any student interaction.
+For example, if you created an assignment and submitted it as the Test Student but then forgot to add a certain submission type, you can click the Reset Student button and submit the assignment again as the Test Student.
+Leave Student View
+To return to your course to the instructor's view, click the
+Leave Student View
+button.
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+2930
+Created
+Wed 10/12/22 4:08 PM
+Modified
+Wed 10/12/22 4:08 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2930&SIDs=2633">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2930&SIDs=2633</a><br /><br />Canvas - Student View
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

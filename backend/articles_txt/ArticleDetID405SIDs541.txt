@@ -1,0 +1,119 @@
+
+
+	Article - Canvas – Default Notificati...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Canvas – Default Notification Preferences
+Canvas – Default Notification Preferences
+When you first login to Canvas, the notification preferences will be on the default settings. You can customize these settings to adjust what notifications you receive and how you receive them.
+First, ensure that your preferred contact methods are specified in your account. These contact methods must be confirmed before notifications will send.
+How do I add contact methods as an instructor?
+How do I add contact methods as a student?
+Once your preferred contact methods are in Canvas, you can decide what types of notifications are sent. These preferences only apply to you; they are not used to control how course updates are sent to other users. Notifications have four setting levels:
+notify immediately
+,
+daily summary
+,
+weekly summary
+, or
+notifications off
+. If you change a setting, the change is made immediately to your account.
+How do I set my Canvas notification preferences as an instructor?
+How do I set my Canvas notification preferences as a student?
+To learn more about notification options and triggers, view the
+Canvas Notifications PDF
+.
+Notification settings apply to all your courses unless you set notification preferences for individual courses.
+How do I manage notification settings for a single course as an instructor?
+How do I manage notification settings for individual courses as a student?
+You can reply directly to email notifications outside of Canvas and have the reply appear in Conversations. However, please be aware that attachments added as part of an external reply are not included with the message shown in the Canvas Inbox.
+Note
+: The Canvas app supports setting notification preferences. However, setting preferences inside the app will override preferences in the browser version of Canvas.
+Help Guides
+Instructors –
+Profile and User Settings
+Students –
+Profile and User Settings
+Notifications PDF:
+https://s3.amazonaws.com/tr-learncanvas/docs/CanvasNotifications.pdf
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+405
+Created
+Wed 9/9/20 4:05 PM
+Modified
+Fri 8/13/21 2:17 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=405&SIDs=541">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=405&SIDs=541</a><br /><br />Canvas – Default Notification Preferences
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

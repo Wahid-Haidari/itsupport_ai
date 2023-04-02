@@ -1,0 +1,165 @@
+
+
+	Article - Qualtrics Support
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Research
+Qualtrics Support
+Qualtrics Support
+Contact OU IT
+University IT support is available through
+needhelp.ou.edu
+or 325-HELP
+(4357).
+Support requests specific to Qualtrics can also be submitted at
+the support page for your campus.
+Norman Support Request form
+OKC Support Request form
+Tulsa Support Request form
+Before using Qualtrics to collect sensitive data, please refer to the current
+HIPPA and FERPA policy
+for Qualtrics
+.
+We do not have an agreement in place for FERPA data and it should not be collected or stored via Qualtrics
+.
+For specific questions about sensitive data, contact
+grc@ou.edu
+.
+Contact Qualtrics
+Qualtrics can also be contacted directly, if desired.
+To access the Qualtrics support page:
+Log into your OU Qualtrics account at
+survey.ou.edu
+.
+Click the question mark icon
+in the upper right corner.
+A popup window with several options will show. Select
+Contact Support.
+A login screen will appear.
+Do not log in on this page
+. Instead, click on
+Sign in with SSO
+.
+It will ask for an
+Organization ID. Enter
+ousurvey
+into the field. Once the Organization ID is submitted, it may let you in immediately or you may need to enter your OU Credentials.
+Select
+Get technical support.
+There will be multiple topic options to choose from. For most issues, selecting
+Survey Platform
+will work.
+You can now choose how you would like to contact Qualtrics. Live chat works well for
+quick responses to short questions, while email works better for more complex questions and troubleshooting. Once you select an option, you will be asked to fill out a form with your information and a description of the problem.
+Other Resources
+Training
+Qualtrics has
+many online support articles at
+https://www.qualtrics.com/support/
+Any upcoming
+trainings offered by IT Learning Spaces will be posted on the
+OU IT calendar
+. Qualtrics
+To request training for your department, contact OU IT at 405-325-HELP (4357) or submit a ticket via the
+Support Request Form
+.
+Known Issues:
+Qualtrics No Longer Supports Internet Explorer
+Qualtrics ended support for Internet Explorer June 15th, 2022. The website may redirect to use Microsoft Edge. For users that are not automatically redirected, continuing to use Internet Explorer may result in unexpected behavior or errors.
+View supported browsers for Qualtrics.
+Combining data from other survey tools into Qualtrics
+For more information please visit:
+http://qualtrics.com/university/researchsuite/reporting/responses/combining-results/
+Email triggers
+Qualtrics no longer offers support for email triggers. We recommend using
+Workflows
+instead of email triggers on new survey projects. For existing projects, a malfunctioning
+email trigger can be replaced with an
+Email task
+in Workflows. OU IT offers
+detailed instructions for replacing triggers both in written and video format.
+Disabled accounts
+Please call OU IT at 405-325-HELP (43
+57) or
+submit a request
+.
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+341
+Created
+Wed 9/9/20 10:09 AM
+Modified
+Mon 12/19/22 1:55 PM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=341&SIDs=1674">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=341&SIDs=1674</a><br /><br />Qualtrics Support
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology

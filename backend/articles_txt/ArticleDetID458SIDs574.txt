@@ -1,0 +1,118 @@
+
+
+	Article - Canvas – Computer Specifica...
+
+
+
+Updating...
+OU Homepage
+Search OU
+OU Social Media
+The University of Oklahoma
+Skip to main content
+Filter your search by category. Current category:
+All
+All
+Knowledge Base
+Service Catalog
+Search the client portal
+Search
+Sign In
+Show Applications Menu
+Norman - Client Portal
+Sign In
+Search
+Home
+Services
+Knowledge Base
+More Applications
+Skip to Knowledge Base content
+Search
+Articles
+Knowledge Base
+Academic Technology
+Canvas – Computer Specifications
+Canvas – Computer Specifications
+Canvas and its hosting infrastructure are designed for maximum compatibility and minimal requirements. See
+this page
+for additional details.
+Screen Size
+Canvas is best viewed at a minimum of 800×600, which is the average size of a notebook computer. If you want to view Canvas on a device with a smaller screen, we recommend using the Canvas
+mobile app
+.
+Operating Systems
+Windows 7 and newer
+Mac OSX 10.6 and newer
+Linux – chromeOS
+Mobile Operating System Native App Support
+iOS 7 and newer
+Android 4.2 and newer
+Computer Speed and Processor
+Use a computer 5 years old or newer when possible
+1GB of RAM
+2GHz processor
+Internet Speed
+Along with compatibility and web standards, Canvas has been carefully crafted to accommodate low bandwidth environments.
+Minimum of 512kbps
+Screen Readers
+JAWS
+(latest version for Chrome/Firefox on Windows)
+NVDA
+(latest version for Chrome/Firefox on Windows)
+VoiceOver
+(latest version for Safari on Macintosh and iOS mobile)
+Talkback
+(latest version for Android mobile)
+Service Alerts
+Check Alerts
+Subscribe
+Can't find what you're looking for?
+Contact Us
+Sign in to leave feedback
+0 reviews
+Blank
+Blank
+Blank
+Details
+Article ID:
+458
+Created
+Thu 9/10/20 10:16 AM
+Modified
+Wed 11/10/21 8:16 AM
+Deleting...
+×
+Share
+Recipient(s)
+- separate email addresses with a comma
+Message
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=458&SIDs=574">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=458&SIDs=574</a><br /><br />Canvas – Computer Specifications
+Send
+Close
+The University of Oklahoma
+660 Parrington Oval,
+Norman, OK 73019-0390
+(405) 325-0311
+Accessibility
+Sustainability
+HIPAA
+OU
+                                                    Job Search
+Policies
+Legal
+                                                    Notices
+Copyright
+Resources
+                                                    & Offices
+OU
+                                                    Report It!
+facebook
+twitter
+youtube
+instagram
+OU
+                                                Social Media
+                                                Directory
+Updated by
+OU Information Technology
