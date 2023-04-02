@@ -31,23 +31,26 @@ function ChatBox (){
         // Function to be executed when prompt state updates
         console.log("Prompt state has been updated");
       
-        // // Call your function to get API response here
-        getAPIResponse(prompt)
-          .then((jsonData) => {
-            setMessagesArray((prevMessagesArray) => {
-                const lastItemIndex = prevMessagesArray.length - 1;
-                const updatedLastItem = { ...prevMessagesArray[lastItemIndex], gpt_reply: jsonData.reply };
-                const updatedMessagesArray = prevMessagesArray.slice(0, lastItemIndex).concat(updatedLastItem);
-                return updatedMessagesArray;
-              });
-        
-            // Set loading to false when you receive a response
-            setIsLoading(false);
-          })
-          .catch((error) => {
-            console.error("Error fetching data:", error);
-          });
-      }, [prompt]);
+        if(prompt !== ''){
+        // Call your function to get API response here
+            getAPIResponse(prompt)
+            .then((jsonData) => {
+                setMessagesArray((prevMessagesArray) => {
+                    const lastItemIndex = prevMessagesArray.length - 1;
+                    const updatedLastItem = { ...prevMessagesArray[lastItemIndex], gpt_reply: jsonData.reply };
+                    const updatedMessagesArray = prevMessagesArray.slice(0, lastItemIndex).concat(updatedLastItem);
+                    return updatedMessagesArray;
+                    });
+
+                // Set loading to false when you receive a response
+                setIsLoading(false);
+            })
+            .catch((error) => {
+                console.error("Error fetching data:", error);
+            });
+
+        }
+    }, [prompt]);
 
     let messageComponent = []; //A message component includes a message and its respons.
     const [messagesArray, setMessagesArray] = useState([]);
