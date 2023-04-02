@@ -30,14 +30,14 @@ function ChatBox (){
 
     window.scrollTo(0, document.documentElement.scrollHeight);
 
+    // TODO: Fix the scrolling
     return(
         <div className="bg-[#2f4454] flex w-full h-full flex-col" >         
             <div>{messageComponent}</div>
             <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
-            {/* <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
-            <br></br><br></br><br></br><br></br> */}
+            <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
             <MsgEntry setMessagesArray={setMessagesArray} messagesArray={messagesArray} />
-         
+    
         </div>
     );
 

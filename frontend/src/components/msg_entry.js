@@ -9,14 +9,27 @@ const MsgEntry = (props) => {
     // const [prompt, setPrompt] = useState(null);
     const textRef = useRef();
 
-    const sendMessage = (e) => {
-        
+    const getAPIResponse = async (prompt) => {
+        try {
+          console.log('waiting for the server to respond')
+          const queryParams = new URLSearchParams({query: prompt})
+          const response = await fetch("http://127.0.0.1:8000?" + queryParams);
+          const jsonData = await response.json();
+          console.log(jsonData);
+        } catch (error) {
+          console.error('Error fetching data:', error);
+        }
+      }
+      
+
+    const sendMessage = async (e) => {
         const newMessage = textRef.current.value
         console.log('message: ' + newMessage);
         const updatedMessagesArray = [...props.messagesArray, newMessage];
+        // get the response from API
         props.setMessagesArray(updatedMessagesArray);
         textRef.current.value = '';
-        
+        getAPIResponse(newMessage);
     }
 
     return(
