@@ -1,17 +1,14 @@
-import './App.css';
+import {useState} from 'react';
+import Chatbox from './components/chatbox';
+import Navbar from './components/navbar';
+import React from 'react';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        
-        <h1 className='text-blue-600'>IT support</h1>
-        <p>
-         Get the IT support you need.
-        </p>
-      </header>
+    <div className="flex flex-row">
+        <Navbar/>
+        <Chatbox/>
+  
     </div>
   );
 }
