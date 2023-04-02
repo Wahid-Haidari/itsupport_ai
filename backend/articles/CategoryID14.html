@@ -1,0 +1,2310 @@
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href="/TDPortal/Content/Styles/font-awesome.min.css?v=20230331000656" rel="stylesheet" type="text/css" id="lnkFontAwesome" /><script src="/TDPortal/Content/Scripts/jquery/2.2.4/jquery.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/jquery-migrate/1.4.1/jquery-migrate.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/jquery-ui/1.12.1/jquery-ui-1.12.1.custom.timepicker.min.js?v=20230331000656"></script><link href="/TDPortal/Content/Styles/jquery-ui/1.12.1/jquery-ui.compiled.min.css?v=20230331000656" rel="stylesheet" type="text/css"  /><link href="/TDPortal/Content/bootstrap/3.4.1/dist/css/bootstrap.min.css?v=20230331000656" rel="stylesheet" type="text/css" id="lnkBootstrapCSS" /><script src="/TDPortal/Content/bootstrap/3.4.1/dist/js/bootstrap.min.js?v=20230331000656"></script><link href="/TDClient/Styles/bootstrap_custom.min.css?v=20230331000652" rel="stylesheet" type="text/css"  /><link href="/TDClient/Styles/TDStyles.min.css?v=20230331000652" rel="stylesheet" type="text/css"  /><link href="https://itsupport.ou.edu/TDPortal/BE/Style/2/TDClient/35?v=20200908144717" rel="stylesheet" type="text/css" /><script src="/TDPortal/Content/Scripts/tdx/TDJSFramework.compiled.min.js?v=20230331000656"></script><script src="/TDPortal/Content/Scripts/underscore/1.12.1/underscore-min.js?v=20230331000656"></script>
+<script src="/TDClient/Scripts/clientOS.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/collapseMe.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/tdsearchfilter.min.js?v=20230331000652"></script>
+<script src="/TDClient/Scripts/SiteSearch.min.js?v=20230331000652"></script>
+<script src="/TDPortal/Content/Scripts/tdx/elasticsearchAutocomplete/elasticsearchAutocomplete.min.js?v=20230331000656"></script>
+<link id="ctl00_ctl00_lnkFavicon" rel="shortcut icon" href="https://itsupport.ou.edu/TDPortal/BE/Icon/2/35?v=20200617174529" />
+
+    
+    <script async src="//www.googletagmanager.com/gtag/js?id=UA-207295051-1"></script>
+    <script>
+
+      $(function () {
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        // Be sure to set the proper cookie domain to the customer's full subdomain when sending the pageview hit.
+        gtag('config', 'UA-207295051-1', { 'cookie_domain': 'itsupport.ou.edu' });
+
+        });
+
+    </script>
+
+  
+
+  <script>
+
+      $(function () {
+        var masterUi = MasterUI({
+          isPostback: false,
+        baseUrl: '/TDClient/',
+        isTdGoogleAnalyticsEnabled: true,
+        isAuthenticated: false
+        });
+
+      $('#collapseMe').collapseMe({
+        toggleVisibilitySelector: '.navbar-toggle'
+      });
+
+    });
+
+      // The sub-nav menu uses padding-top to position itself below the header bar and main navigation sections. When the
+      // window is resized, there is a chance that the content of these header or nav sections wraps, causing the height
+      // to change, potentially covering the sub-nav menu, which is obviously a big usability problem. This function
+      // listens for when the window size or orientation is changing (and also when the window first loads), and adjusts
+      // the padding so that the sub-nav menu appears in the correct location.
+      $(window).bind('load ready resize orientationchange', function () {
+        var headerHeight = $('#divMstrHeader').height();
+        $('#navShim').css({
+          "padding-top": headerHeight
+        });
+
+        $('#content').css({
+          "padding-top": headerHeight,
+          "margin-top": headerHeight * -1
+        });
+      });
+  </script>
+
+  
+  
+  
+
+
+  <script>
+
+    function ReloadList() {
+      window.location.href = window.location.href;
+    }
+
+    // Adds ellipsis for long descriptions with long titles
+    $(function () {
+
+      
+
+      // Need to wait for images to load before the search bar position Is calculated
+      $(window).bind('load', function () {
+        // initialize the tag lookup
+        var searchFilter = new TeamDynamix.SearchFilter({
+          searchFieldSelector: '#ctl00_ctl00_cpContent_cpContent_txtCategorySearch',
+          wsUrl: '/TDClient/35/Norman/WebServices/JSON/TagLookupService.asmx/GetItems'
+        });
+      });
+
+    
+
+      $('#ctl00_ctl00_cpContent_cpContent_txtCategorySearch').keyup(function (e) {
+        if (e.keyCode === 13) {
+          $('#ctl00_ctl00_cpContent_cpContent_btnCategorySearch').click()
+        }
+      });
+    });
+  </script>
+
+
+<meta property="og:title" content="Communication and Collaboration" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://itsupport.ou.edu/TDClient/35/Norman/KB/?CategoryID=14" />
+<meta property="og:image" content="https://itsupport.ou.edu/TDPortal/BE/Logo/2/35" />
+  <meta property="og:site_name" content="University of Oklahoma - Knowledge Base" /><title>
+	Knowledge Base - Communication and Collaboration
+</title></head>
+<body>
+<form method="post" action="/TDClient/35/Norman/KB/?CategoryID=14" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="CR6MW+6IxTnlpVo+MTddcvrly2+K3fxNTOSG0ukIYH5SRaa8sMSUyA/zg9v+QyUSTLm8VkJoJy548J5kJYOCAnQfiKfcCMirdVoXbNq+LL8yad15LqIHoBBSKLLXFuRfctZEW0o++1VfpLzoftkIOhyRgy16la51VSO1S/Y/nG7o//TxXs7/6k6ixA1qKnD+2ip26TW2NRBeiGxMogrQyqBAc+2dEhIkVt9Dqh6KsRWWkeFGxmz5YsOQ80vFozYRfgdjWSss7YBHEKhzqwUZLKc11Fe6o0RXtwmabtawluo7FPfEP4bcTz99zO6OMjtoAfJhT78VWGKFPRisfAGwoEJR7eSPeyT+sRiEqpukO73x6SNRbEPN0PBnsibVs6E+Hejn7GNqRB9GvjnK9biez8Y8abfSsqH8ERjEIeSrSXYkDy+y//ei7zswnMUKOAIu9MrSM0ilM/Gd+Kyc3c9/UItCRo47En8WGWiCAGuetBlyYPo2" />
+
+
+<script src="/TDClient/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmVxW3-Ljsg_2Hna32smxrg-6ogyYAN3UTPsJQ8m1uwzn_kuf2Wpne6NSFmYui3h0wCQhJN3ZUiLTNkvhiIgZpq74-lKmofUPQGJ8own8RI2_mwAcmvlSj2WBnqwm5Wj4cyNvv81&amp;t=49337fe8" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EA19DDCE" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vr1xsMG5DkUWL82B1YRV11mDpa1Ih0uADRtdZmgrzi3UN5iuagJdVO5JWkuo6/my98P+gQVnrlLvZg+smpa5KqrL8osIlJl7QylAF2D4zfWpsfxf" />
+
+<div id="ctl00_ctl00_upMain" style="display:none;">
+	
+    <div id="ctl00_ctl00_pbMain" class="progress-box-container"><div class="progress-box-body"><div class="well shadow"><h2 class="h4 gutter-top-none">Updating...</h2><div class="progress" style="margin-bottom: 0;"><div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div></div></div></div></div>
+  
+</div>
+
+
+
+  <header role="banner">
+
+  <div id="divMstrHeader" class="master-header NoPrint" style="background-color: #fff;">
+
+  <div class="globalheader" style="background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-bg.jpg&quot;); background-repeat: repeat">
+    <div class="container">
+        <div class="globalheader_2012">
+            <div class="row">
+                <ul style="height: 30px; list-style-type: none; overflow: visible; margin: 0; padding: 0; float: right">
+                    <li style="line-height: 20px; float: left"><a class="tip home" href="//www.ou.edu/web.html" alt="OU Home link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: left top"><span style="display: none">OU Homepage</span></a></li>
+                    <li style="line-height: 20px; float: left"><a class="tip search" href="https://www.ou.edu/web/search" alt="OU Search link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: -30px 0"><span style="display: none">Search OU</span></a></li>
+                    <li style="line-height: 20px; float: left"><a class="tip search" href="https://www.ou.edu/web/socialmediadirectory" alt="OU Social Media link" style="color: #981A1E; outline: none; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-globalheader-icons.png&quot;); background-repeat: no-repeat; display: block; height: 30px; width: 30px; background-position: -60px 0"><span style="display: none">OU Social Media</span></a></li>
+                    <li class="wordmark" style="line-height: 20px; float: left; text-indent: -99999px; width: 200px; height: 30px; margin-left: 5px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/ou-wordmark.png&quot;); background-repeat: no-repeat; background-position: center; background-size: contain">
+                        The University of Oklahoma</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+</div>
+  
+
+  <div class="logo-header-full hidden-xs">
+
+    
+    <div class="pull-left">
+      <a href="#mainContent" class="sr-only sr-only-focusable">Skip to main content</a>
+    </div>
+
+
+    <div id="ctl00_ctl00_divPageHeader" class="container logo-header clearfix" style="padding: 5px;">
+
+      <div id="divLogo" class="pull-left logo-container">
+
+        <a href="https://www.ou.edu/"
+           target="_blank">
+          <img src="/TDPortal/BE/Logo/2/0" alt="University of Oklahoma Home Page" class="js-logo img-responsive" />
+        </a>
+
+      </div>
+
+      <div class="master-header-right pull-right padding-top padding-bottom">
+
+        
+
+          <div class="pull-left topLevelSearch input-group">
+            <div id="SiteSearch-ca2c581206ae41ba8af1ba949802bf91" class="gutter-bottom input-group site-search" style="max-width: 400px;">
+  <div id="SiteSearch-dropdown-ca2c581206ae41ba8af1ba949802bf91" class="input-group-btn">
+    <button type="button" id="SiteSearch-filter-ca2c581206ae41ba8af1ba949802bf91" class="btn btn-default dropdown-toggle" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false" title="Filter your search by categories" data-component="all">
+      <span class="fa fa-globe"></span><span class="fa fa-fw fa-nopad fa-caret-down" aria-hidden="true"></span>
+      <span class="sr-only">
+        Filter your search by category. Current category:
+        <span class="js-current-component">All</span>
+      </span>
+    </button>
+    <ul class="dropdown-menu" >
+      <li>
+        <a href="javascript:void(0);" data-component-text="All" data-component="all" data-component-icon="fa-globe" title="Search all areas">
+          <span class="fa fa-fw fa-nopad fa-globe" aria-hidden="true"></span>
+          All
+        </a>
+      </li>
+
+      <li role="separator" class="divider"></li>
+
+        <li role="presentation">
+          <a role="menuitem" href="javascript:void(0);" data-component-text="Knowledge Base" data-component="kb" data-component-icon="fa-lightbulb-o" title="Search Knowledge Base">
+            <span class="fa fa-fw fa-nopad fa-lightbulb-o" aria-hidden="true"></span>
+            Knowledge Base
+          </a>
+        </li>
+
+        <li role="presentation">
+          <a role="menuitem" href="javascript:void(0);" data-component-text="Service Catalog" data-component="sc" data-component-icon="fa-compass" title="Search Service Catalog">
+            <span class="fa fa-fw fa-nopad fa-compass" aria-hidden="true"></span>
+            Service Catalog
+          </a>
+        </li>
+
+    </ul>
+  </div>
+
+  <label class="sr-only" for="SiteSearch-text-ca2c581206ae41ba8af1ba949802bf91">Search the client portal</label>
+
+  <input id="SiteSearch-text-ca2c581206ae41ba8af1ba949802bf91" type="text" class="form-control" autocomplete="off" placeholder="Search the client portal" title="To search for items with a specific tag, enter the # symbol followed by the name of the tag.
+To search for items using exact match, place double quotes around your text."/>
+
+  <span class="input-group-btn">
+    <button id="SiteSearch-button-ca2c581206ae41ba8af1ba949802bf91" class="btn btn-default" type="button" title="Search">
+      <span class="fa fa-fw fa-nopad fa-search blue" aria-hidden="true"></span>
+      <span class="sr-only">Search</span>
+    </button>
+  </span>
+</div>
+
+<script>
+  $(function() {
+    var siteSearch = new TeamDynamix.SiteSearch({
+      searchUrl: "/TDClient/35/Norman/Shared/Search",
+      enableAutocompleteSearch: true,
+      autocompleteSearchUrl: '/TDClient/35/Norman/Shared/AutocompleteSearch',
+      autocompleteResultsPosition: 'fixed',
+      autocompleteResultsZIndex: 1000,
+      searchTextBoxSelector: '#SiteSearch-text-ca2c581206ae41ba8af1ba949802bf91',
+      searchComponentFilterButtonSelector: '#SiteSearch-filter-ca2c581206ae41ba8af1ba949802bf91',
+      searchButtonSelector: '#SiteSearch-button-ca2c581206ae41ba8af1ba949802bf91',
+      searchFilterDropdownSelector: '#SiteSearch-dropdown-ca2c581206ae41ba8af1ba949802bf91',
+      showKnowledgeBaseOption: true,
+      showServicesOption: true,
+      showForumsOption: false,
+      autoFocusSearch: false
+    });
+  });
+  </script>
+          </div>
+
+        
+          <div title="Sign In" class="pull-right gutter-top-sm">
+            <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2f%3fCategoryID%3d14">
+              Sign In
+            </a>
+          </div>
+        
+      </div>
+
+    </div>
+
+  </div>
+
+  <nav id="ctl00_ctl00_mainNav" class="navbar navbar-default themed tdbar" aria-label="Primary">
+    <div id="navContainer" class="container">
+
+      <div class="navbar-header">
+        <button type="button" class="pull-left navbar-toggle collapsed themed tdbar-button-anchored tdbar-toggle gutter-left" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="tdbar-button-anchored icon-bar"></span>
+          <span class="sr-only">Show Applications Menu</span>
+        </button>
+        <a class="navbar-brand hidden-sm hidden-md hidden-lg themed tdbar-button-anchored truncate-be" href="#">
+
+          Norman - Client Portal
+        </a>
+      </div>
+
+      <div id="td-navbar-collapse" class="collapse navbar-collapse">
+
+        <ul class="nav navbar-nav nav-collapsing" id="collapseMe">
+
+          
+            <li class="themed tdbar-button-anchored hidden-sm hidden-md hidden-lg">
+              <a href="/TDClient/35/Norman/Login.aspx?ReturnUrl=%2fTDClient%2f35%2fNorman%2fKB%2f%3fCategoryID%3d14">Sign In</a>
+            </li>
+          
+            <li id="divSearch" class="themed tdbar-button-anchored hidden-sm hidden-md hidden-lg">
+              <a href="/TDClient/35/Norman/Shared/Search" title="search">Search</a>
+            </li>
+          
+              <li id="divDesktop4fbe1f59-07cd-41e9-8f37-5f49aa0d150a" class="themed tdbar-button-anchored">
+                <a href="/TDClient/35/Norman/Home/">Home</a>
+              </li>
+            
+
+          
+            <li id="divTDRequests" class="themed tdbar-button-anchored sr-focusable">
+              <a href="/TDClient/35/Norman/Requests/ServiceCatalog">Services</a>
+            </li>
+          
+            <li id="divTDKnowledgeBase" class="themed tdbar-button-anchored sr-focusable">
+              <a href="/TDClient/35/Norman/KB/">Knowledge Base</a>
+            </li>
+          
+
+          <li class="themed tdbar-button-anchored hidden-xs more-items-button" id="moreMenu">
+            <a data-toggle="dropdown" title="More Applications" href="javascript:;">
+              <span class="sr-only">More Applications</span>
+              <span class="fa fa-ellipsis-h" aria-hidden="true"></span>
+            </a>
+            <ul class="dropdown-menu dropdown-menu-right themed tdbar" id="collapsed"></ul>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+
+  </nav>
+
+  </div>
+
+  </header>
+
+
+
+<div id="navShim" class="hidden-xs hidden-sm"></div>
+<main role="main">
+  <div id="content">
+    <div id="mainContent" tabindex="-1"></div>
+    
+
+  
+    <nav id="divTabHeader" class="tdbar-sub NoPrint hidden-xs navbar-subnav" aria-label="Knowledge Base">
+      <a href="#kbContent" class="sr-only sr-only-focusable">Skip to Knowledge Base content</a>
+      <div class="container clearfix">
+        <ul class="nav navbar-nav js-submenu" id="kbSubMenu" style="margin-left: -15px;">
+          
+          <li>
+            <a href="/TDClient/35/Norman/KB/Search">Search <span class="sr-only">Articles</span></a>
+          </li>
+
+          
+          
+        </ul>
+      </div>
+    </nav>
+  
+
+  <div id="kbContent" class="container gutter-top gutter-bottom" tabindex="-1" style="outline:none;">
+    
+
+  <span id="ctl00_ctl00_cpContent_cpContent_lblResults_ctl00" aria-live="polite" aria-atomic="true"><span id="ctl00_ctl00_cpContent_cpContent_lblResults_lblResults-label" class="red"></span></span>
+
+  <div class="gutter-bottom">
+
+    <ol id="ctl00_ctl00_cpContent_cpContent_olBreadcrumbs" class="breadcrumb">
+      <li><a href="/TDClient/35/Norman/KB/">Knowledge Base</a></li><li class="active"><a href="/TDClient/35/Norman/KB/?CategoryID=14">Communication and Collaboration</a></li>
+    </ol>
+
+    <h1>
+      <span id="ctl00_ctl00_cpContent_cpContent_spnIcon" class="fa category-icon">
+        
+      </span>
+      <span id="ctl00_ctl00_cpContent_cpContent_lblCategoryName">Communication and Collaboration</span>
+      
+    </h1>
+
+  </div>
+
+  <div class="row">
+
+    <div id="divCats" class="col-md-8">
+
+      
+
+      <h2>Articles (123)</h2>
+
+<div class="gutter-bottom">
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=240&amp;SIDs=351">
+          Accessing your OU E-mail via the Web
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=237&amp;SIDs=343">
+          Adding a Shared Mailbox to the Outlook Desktop Client – Mac
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=187&amp;SIDs=295">
+          Adding a Shared Mailbox to the Outlook Desktop Client – Windows
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=261&amp;SIDs=376">
+          Adding e-mail addresses to your OU Safe Senders list
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2962&amp;SIDs=2891">
+          Adding external users to your OU Teams site
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=199&amp;SIDs=307">
+          Adding, Changing and Removing Delegate Access in Outlook 365
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=343&amp;SIDs=604">
+          Alerts.ou.edu Subscription
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=201&amp;SIDs=309">
+          Attachments not Working in Microsoft Edge
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=224&amp;SIDs=334">
+          Automatic Replies in Outlook (Out of Office)
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=90&amp;SIDs=1610">
+          Avaya 9611G Speed Dial Setup Instructions
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=114&amp;SIDs=1611">
+          Avaya Aura – I’m not hearing my Extended Absence Greeting
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=33&amp;SIDs=1612">
+          Avaya Aura – New Setup Instructions
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=117&amp;SIDs=1613">
+          Avaya Aura – Voicemail Quick Reference Guide (Faculty and Staff)
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=118&amp;SIDs=1614">
+          Avaya Aura vmail.ou.edu Notify Me Policies
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=126&amp;SIDs=1615">
+          Avaya Aura Voicemail
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=125&amp;SIDs=1617">
+          Avaya Aura Voicemail Menu Guide
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2461&amp;SIDs=1618">
+          Avaya One-X Communicator for Windows Installation Instructions
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=217&amp;SIDs=331">
+          Blocked from Sending Mail
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=119&amp;SIDs=206">
+          Blocking and Reporting Harassing or Obscene Phone Calls
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=124&amp;SIDs=207">
+          Changing the feature/display labels on your IP 1140 and 9611 model phones
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=121&amp;SIDs=146">
+          Conference Call Options
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=1797&amp;SIDs=1188">
+          Configure Modern Authentication on Thunderbird
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=104&amp;SIDs=139">
+          Configuring Call Forwarding on your 9611 Model Phone
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2843&amp;SIDs=2406">
+          Create and Manage a group in Outlook 365
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=69&amp;SIDs=1133">
+          Data Storage and Backup
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=88&amp;SIDs=605">
+          Dealing with Spam - spam.ou.edu
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=174&amp;SIDs=290">
+          Deleting Email from a Particular Address
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=120&amp;SIDs=216">
+          Dialing Instructions for On Campus Telephones
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=189&amp;SIDs=312">
+          Downloading your OneDrive Files Locally
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=415&amp;SIDs=474">
+          Dropbox Badge for Microsoft Office Files
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=416&amp;SIDs=475">
+          Dropbox Commenting FAQ
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=419&amp;SIDs=478">
+          Dropbox Compatibility with macOS Sierra
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=417&amp;SIDs=476">
+          Dropbox Flashback – How to Disable
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=420&amp;SIDs=479">
+          Dropbox for Business
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=193&amp;SIDs=305">
+          Email Archiving
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=226&amp;SIDs=335">
+          Email Going to Junk Mail Folder
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=263&amp;SIDs=377">
+          Email Headers
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=1743&amp;SIDs=1134">
+          Emailing Groups of People
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=115&amp;SIDs=143">
+          Error When Attempting to Configure Notify Me through Aura Voicemail Phone Access
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=1796&amp;SIDs=1187">
+          Evolution Mail Client for Linux
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=418&amp;SIDs=477">
+          File Requests – Accept Files from Dropbox and non-Dropbox Users
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=228&amp;SIDs=338">
+          Focused Inbox
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=253&amp;SIDs=379">
+          How do I use Office 365?
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=230&amp;SIDs=350">
+          How long can I use Office 365 after I leave the University?
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=272&amp;SIDs=386">
+          How to filter OUMM (OU Mass Mail)
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=249&amp;SIDs=378">
+          How to log In to Office 365
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2918&amp;SIDs=2611">
+          How to Perform a Mail Merge in Microsoft Word from a Shared Mailbox
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=106&amp;SIDs=349">
+          I updated my OU e-mail address and can no longer log in
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=113&amp;SIDs=141">
+          I’m Not Getting My OU Voicemail “Notify Me” Email Alerts
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=244&amp;SIDs=366">
+          Installing the Office Suite for Office 365 – For Mac
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=246&amp;SIDs=368">
+          Installing the Office Suite for Office 365 – For Windows
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=1599&amp;SIDs=1130">
+          Legacy Applications and Microsoft Log In Security Improvements
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=273&amp;SIDs=384">
+          Malicious Attachments
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=208&amp;SIDs=316">
+          Manage a Current ListServ
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=258&amp;SIDs=400">
+          Managing Email with Rules
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=181&amp;SIDs=300">
+          Move personal emails to a new account in Outlook
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=254&amp;SIDs=363">
+          Office 365 – Manage and Remove Add-Ins
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=213&amp;SIDs=344">
+          Office 365 known issues
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=243&amp;SIDs=357">
+          Office 365 Mail Instructions
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=195&amp;SIDs=306">
+          Office 365 Online Email Archiving
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=196&amp;SIDs=319">
+          Office Click-to-Run Installer Encounters an Error on 365 for Windows Install Attempt
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=220&amp;SIDs=346">
+          Office for Mac and Skype for Business Download
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=190&amp;SIDs=314">
+          Office ProPlus 2013 Prompting to Update to ProPlus 2016
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=180&amp;SIDs=299">
+          OneDrive Alerts
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=197&amp;SIDs=321">
+          OneDrive for Business Mac sync client
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=179&amp;SIDs=298">
+          OneDrive Quick Start Guide (store, sync, share)
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=460&amp;SIDs=576">
+          OneDrive Storage &amp; Data Retention
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=260&amp;SIDs=599">
+          OneDrive: Sharing and Permissions
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=264&amp;SIDs=367">
+          OneNote Permissions
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=191&amp;SIDs=315">
+          Open a Shared Mailbox in the Outlook Web App
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=235&amp;SIDs=341">
+          Opening Another Mailbox in Outlook 2010
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=476&amp;SIDs=592">
+          OU Data Cloud Storage Stipulations
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=89&amp;SIDs=606">
+          OU E-mail Attachment Policies
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=188&amp;SIDs=304">
+          OU Email Recipient Limitations
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=123&amp;SIDs=230">
+          OU International Calling Phone Rates
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=87&amp;SIDs=231">
+          OU Phone Issues
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=116&amp;SIDs=144">
+          OU Residential Phone Service
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2855&amp;SIDs=2437">
+          Outlook 365 - Clearing Cached Local Users and Updating the Global Address List (GAL)
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2562&amp;SIDs=2435">
+          Outlook 365 - Turning off Cached Mode to Ensure All Email is Downloaded
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=105&amp;SIDs=176">
+          Outlook.office.com Login Issues
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=266&amp;SIDs=374">
+          Outlook: Email and Calendar on the Go
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2544&amp;SIDs=1706">
+          Phish Alert Button
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=231&amp;SIDs=339">
+          Phishing and Spam Emails
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=139&amp;SIDs=281">
+          Phone Programming Charge Estimates
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=83&amp;SIDs=296">
+          POP/IMAP/SMTP Usage Limitations
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=177&amp;SIDs=291">
+          Printing from Office 365 on a WEPA Kiosk
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=186&amp;SIDs=303">
+          Recover or Purge Deleted Items in Outlook for Web
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2490&amp;SIDs=1269">
+          Repair Install for Office 365
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=211&amp;SIDs=327">
+          Requesting a Distribution Group
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=207&amp;SIDs=313">
+          Requesting a ListServ
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2836&amp;SIDs=2395">
+          Room Scheduling Accounts
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=176&amp;SIDs=297">
+          Saving Articles in OneDrive Directly from Office for Mac 2016
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2861&amp;SIDs=2707">
+          Set Up an E-Mail Forward in Office 2016, 2019 or 365
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=259&amp;SIDs=401">
+          Set Up an E-Mail Forward in Office 365 (Web)
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=222&amp;SIDs=347">
+          Set up Office 365 and Mail on Android
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=225&amp;SIDs=348">
+          Set up Office 365 and Mail on iOS
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=194&amp;SIDs=318">
+          Set Up Office 365 in Apple Mail client for Mac
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=236&amp;SIDs=354">
+          Set Up Office 365 in Outlook Office 365 for Mac
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=1596&amp;SIDs=1135">
+          Set Up Office 365 in Outlook Office 365 in iOS or Android
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=238&amp;SIDs=355">
+          Set Up OU email in Outlook Desktop for Windows
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=209&amp;SIDs=322">
+          Set Up Owner Login - ListServ
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=200&amp;SIDs=323">
+          Setting up your Office 365 OneDrive App for Windows
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=429&amp;SIDs=488">
+          SharePoint Online
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2882&amp;SIDs=2465">
+          SharePoint Privacy Settings
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2865&amp;SIDs=2458">
+          Sharing Outlook Calendar with External Individuals
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=270&amp;SIDs=385">
+          Sharing Personal Information over Email
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=215&amp;SIDs=345">
+          Skype for Business Installation Guide for Mac and Windows
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=21&amp;SIDs=1620">
+          Soft Phone Setup
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=793&amp;SIDs=1136">
+          Subscribing to a Public ListServ
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=84&amp;SIDs=169">
+          Troubleshooting a missing e-mail message
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=183&amp;SIDs=301">
+          Troubleshooting E-mail Problems
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2812&amp;SIDs=2355">
+          Turning off Automatic Microsoft Teams Meetings Invitations in Outlook
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=1597&amp;SIDs=1137">
+          Updating your iOS Mail App to use Modern Authentication
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=192&amp;SIDs=317">
+          Using eCopy ShareScan with your Office 365 Mail Account
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=178&amp;SIDs=292">
+          Using Email Encryption
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=202&amp;SIDs=310">
+          What is a .pst or .ost File?
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=185&amp;SIDs=294">
+          What is a Distribution Group?
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=205&amp;SIDs=311">
+          What is ListServ?
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=219&amp;SIDs=332">
+          Whitelisting OU Email in Hotmail.com and Outlook.com
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=223&amp;SIDs=333">
+          Why are my address book names different?
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=112&amp;SIDs=140">
+          Why is my phone number listed twice on my new 9611 model phone?
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=184&amp;SIDs=302">
+          Windows 10 Outlook Sync Issue
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+    <div class="gutter-bottom-lg">
+      <h3 class="gutter-bottom-xs">
+
+
+        <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2889&amp;SIDs=2478">
+          Your OU Email Address
+        </a>
+      </h3>
+
+      <div class="gray">
+        
+      </div>
+    </div>
+</div>
+      
+
+    </div>
+
+    <div id="divCatsSidebar" class="col-md-4">
+      <div id="ctl00_ctl00_cpContent_cpContent_divCategorySearch" class="gutter-bottom input-group">
+        <label class="sr-only" for="ctl00_ctl00_cpContent_cpContent_txtCategorySearch">Search this category</label>
+        <input name="ctl00$ctl00$cpContent$cpContent$txtCategorySearch" type="search" id="ctl00_ctl00_cpContent_cpContent_txtCategorySearch" maxlength="100" class="form-control" autocomplete="off" placeholder="Search this category" aria-label="Search this category" title="To search for articles within this specific category and subcategories." />
+
+        <span class="input-group-btn">
+          <button onclick="__doPostBack('ctl00$ctl00$cpContent$cpContent$btnCategorySearch','')" id="ctl00_ctl00_cpContent_cpContent_btnCategorySearch" class="btn btn-default" type="button" title="Search">
+            <span class="fa fa-fw fa-nopad fa-search blue" aria-hidden="true"></span>
+            <span class="sr-only">Search</span>
+          </button>
+        </span>
+      </div>
+
+      
+
+      <h2 class="sr-only">Additional Resources</h2>
+
+      <div id="ctl00_ctl00_cpContent_cpContent_divPopular" class="panel panel-default gutter-top">
+
+        <div class="panel-heading">
+          <h2 class="h3 panel-title" title="Most popular articles based upon total views">Popular Articles</h2>
+        </div>
+
+        <div class="panel-body">
+          <ul class="panel-list">
+            
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=272&SIDs=386">How to filter OUMM (OU Mass Mail)</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=400&SIDs=536">Accessing Lockdown Browser to Take a Quiz</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2533&SIDs=1699">PingID Multi-Factor Information</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2543&SIDs=1701">PingID Enrollment</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=142&SIDs=241">AccessOU</a>
+                </li>
+              
+          </ul>
+        </div>
+
+        <div class="panel-footer clearfix">
+          <a class="pull-right" href="/TDClient/35/Norman/KB/PopularArticles">
+            View All Popular Articles
+            <span class="fa fa-chevron-right"></span>
+          </a>
+        </div>
+      </div>
+
+      <div id="ctl00_ctl00_cpContent_cpContent_divRecent" class="panel panel-default gutter-top">
+
+        <div class="panel-heading">
+          <h2 class="h3 panel-title" title="Most recently modified articles">Recent Articles</h2>
+        </div>
+
+        <div class="panel-body">
+          <ul class="panel-list">
+            
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=86&SIDs=237">WiFi Troubleshooting</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=320&SIDs=440">Uploading Content to OUWWW/Organization Account Website</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2962&SIDs=2891">Adding external users to your OU Teams site</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=2521&SIDs=1630">Zoom Recording Basics</a>
+                </li>
+              
+                <li class="gutter-bottom">
+                  <a href="/TDClient/35/Norman/KB/ArticleDet?ID=368&SIDs=507">About Zoom Video Conferencing</a>
+                </li>
+              
+          </ul>
+        </div>
+
+        <div class="panel-footer clearfix">
+          <a class="pull-right" href="/TDClient/35/Norman/KB/RecentArticles">
+            View All Recent Articles
+            <span class="fa fa-chevron-right"></span>
+          </a>
+        </div>
+      </div>
+
+      <div class="gutter-top">
+        
+
+<div class="panel panel-default tag-list">
+
+  <div class="panel-heading">
+    <h2 class="h3 panel-title">
+      Popular Tags<span class="fa fa-tags" aria-hidden="true"></span>
+    </h2>
+  </div>
+
+  <div class="panel-body">
+    <ul id="ctl00_ctl00_cpContent_cpContent_tags_ulTags" class="panel-list">
+      
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523ONE" rel="nofollow">ONE</a> (3)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523Admin" rel="nofollow">Admin</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523assessment" rel="nofollow">assessment</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523chromebook" rel="nofollow">chromebook</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523Elevated" rel="nofollow">Elevated</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523NetReg" rel="nofollow">NetReg</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523Nintendo" rel="nofollow">Nintendo</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523password" rel="nofollow">password</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523PingID" rel="nofollow">PingID</a> (1)
+          </li>
+        
+          <li class="gutter-bottom-sm">
+            <a href="/TDClient/35/Norman/KB/Search?SearchText=%2523Playstation" rel="nofollow">Playstation</a> (1)
+          </li>
+        
+    </ul>
+
+    
+
+  </div>
+
+  <div class="panel-footer clearfix">
+    <div class="pull-right">
+      <a href="/TDClient/35/Norman/Shared/BrowseTags?ItemID=0&ComponentID=26">
+        View All Tags
+        <span class="fa fa-chevron-right" aria-hidden="true"></span>
+      </a>
+    </div>
+  </div>
+
+</div>
+      </div>
+
+      <div class="clearfix"></div>
+
+    </div>
+
+  </div>
+
+  <div class="clearfix"></div>
+
+
+  </div>
+
+
+  </div>
+</main>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+setNavPosition('TDKnowledgeBase');//]]>
+</script>
+</form>
+
+<footer role="contentinfo">
+  
+  
+  
+    <div class="master-footer">
+
+      
+
+<div class="footer" style="background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/bg_black.gif&quot;); background-repeat: repeat; color: #FFFFFF; background-color: #333333; width: 100%; padding: 0">
+    <div class="container" style="padding-right: 20px; padding-left: 20px; margin: 0 auto">
+        <div class="footerpar iparsys parsys">
+            <div class="footer2012 parbase section">
+                
+                <div class="row-fluid" style="width: 100%; margin: 2em auto">
+                    <div class="footerColumn span4 padding-bottom-lg" style="display: block; float: left; min-height: 30px; min-width: 20em; width: 31.62%; margin-left: 0">
+                        <div class="footerlogo" style="float: left"><img alt="OU" src="//www.ou.edu/content/dam/homepage2012/design/footerlogo.png" style="max-width: 100%; vertical-align: middle; outline: none; border: none; padding: 0; margin: 0; width: 45px; height: 62px" width="45" height="62">
+                        </div>
+                        <div class="footeraddress" style="float: left; margin-left: 10px"><a href="//www.ou.edu/" style="color: #FFFFFF; outline: none">
+                                <b>The University of Oklahoma</b></a><br>
+                            660 Parrington Oval, <br>
+                            Norman, OK 73019-0390<br>
+                            (405) 325-0311<br>
+                        </div>
+                    </div>
+                    <div class="footerColumn span4" style="display: block; float: left; min-height: 30px; margin-left: 2.56%; min-width: 20em; width: 31.62%">
+                        <div>
+                            <div>
+                                <div>
+                                    <ul class="2columns unstyled" style="padding: 0; margin: 0 0 10px; list-style: none">
+                                        <div class="first column" style="width: 50%; float: left">
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/publicaffairs/WebPolicies/accessstatement.html" style="color: #FFFFFF; outline: none">Accessibility</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/sustainability.html" style="color: #FFFFFF; outline: none">Sustainability</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//ouhsc.edu/hipaa/" style="color: #FFFFFF; outline: none">HIPAA</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//hr.ou.edu/jobs/" style="color: #FFFFFF; outline: none">OU
+                                                    Job Search</a></li>
+                                        </div>
+                                        <div class="last column" style="width: 50%; float: left">
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/landing/policy.html" style="color: #FFFFFF; outline: none">Policies</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/landing/legalnotices.html" style="color: #FFFFFF; outline: none">Legal
+                                                    Notices</a></li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/content/publicaffairs/WebPolicies/copyright.html" style="color: #FFFFFF; outline: none">Copyright</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="//www.ou.edu/web/resources_offices.html" style="color: #FFFFFF; outline: none">Resources
+                                                    &amp; Offices</a>
+                                            </li>
+                                            <li style="line-height: 20px"><a href="https://ouregents.ethicspoint.com" style="color: #FFFFFF; outline: none">OU
+                                                    Report It!</a></li>
+                                        </div><br style="clear: both">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footerColumn span4 padding-bottom-lg" style="display: block; float: left; min-height: 30px; margin-left: 2.56%; min-width: 20em; width: 31.62%">
+                        <div>
+                            <div>
+                                <div>
+                                    <p style="font-size: 100%; margin: 0; line-height: 40px; font-weight: bold; color: inherit"></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="overflow: auto; padding: 0; margin: 0">
+                            <div style="overflow: auto; padding: 0; margin: 0">
+                                <div class="wide">
+                                    <ul style="padding: 0; margin: 0; overflow: auto; list-style-type: none; width: 278px">
+                                        <li style="line-height: 20px; float: left; display: block"><a class="facebook" href="//www.facebook.com/uofoklahoma" title="Go to the University of Oklahoma's Facebook account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: left top">facebook</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="twitter" href="https://twitter.com/uofoklahoma" title="Go to the University of Oklahoma's Twitter account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -46px">twitter</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="youtube" href="//www.youtube.com/universityofoklahoma" title="Go to the University of Oklahoma's YouTube account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -92px">youtube</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="instagram" href="https://www.instagram.com/uofoklahoma/" title="Go to the University of Oklahoma's Instagram account" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -138px">instagram</a>
+                                        </li>
+                                        <li style="line-height: 20px; float: left; display: block"><a class="more" href="//www.ou.edu/web/socialmediadirectory.html" title="Visit more of Oklahoma University's social media at the social media directory" style="color: #FFFFFF; outline: none; border: 1px solid rgba(0, 0, 0, 0); display: block; width: 46px; height: 46px; margin: 0; padding: 0; text-indent: -9999px; background-image: url(&quot;//www.ou.edu/content/dam/common/design2013/footer_social_icons.png&quot;); background-position: 0 -368px">OU
+                                                Social Media
+                                                Directory</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="width: 100%; margin: 2em auto">
+                    <div class="footerBottom span12" style="display: block; float: left; min-height: 30px; width: 100%; border-top: 1px solid #474747; padding-top: 10px; margin-left: 0">
+                        Updated by <a href="//www.ou.edu/ouit" style="color: #FFFFFF; outline: none">
+                            <b>OU Information Technology</b></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+<script type="text/javascript" src="https://bot.ivy.ai/bot/script/category/90JvaRm8Ob7KwjGB9zM6EZXoB3peVnNz"></script>
+      
+
+    </div>
+  
+</footer>
+
+
+
+
+<script>
+
+    
+    
+
+      // Inject the Google Analytics isogram. This must happen here because it
+      // cannot be injected through an external javascript library.
+      (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+          (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    
+
+      // Per Incident #6707155. Need to focus on img. pseudo-class :focus-within is not supported in IE
+      (function ($) {
+        var $anchor = $('#divLogo a');
+        var $beLogo = $('#divLogo a img');
+
+        $anchor.focus(function () {
+          $beLogo.addClass('accessibility-focus-on-logo');
+        })
+          .blur(function () {
+            $beLogo.removeClass('accessibility-focus-on-logo');
+          })
+
+    })(jQuery);
+
+  </script>
+
+</body>
+</html>
