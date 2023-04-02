@@ -1,94 +1,22 @@
+
+  Adobe - OU Email as Adobe ID Causes Issues for Adobe Individual Licenses
 
 
-	Article - Adobe - OU Email as Adobe I...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Software Catalog
-Adobe - OU Email as Adobe ID Causes Issues for Adobe Individual Licenses
-Adobe - OU Email as Adobe ID Causes Issues for Adobe Individual Licenses
 When purchasing licenses for Adobe products while at the University, we strongly recommend users do not create an Adobe ID with their OU email address, as this can cause licensing conflicts with your license through the university. This is because OU maintains an active Adobe Business license that OU Email accounts are listed in. As a result, attempting to cancel an individual license that uses your individual OU email address, will cause Adobe to think your account is a Business account and managed by OU, even though it is not.
-If you have created an Adobe ID using your OU email address, we recommend logging in to your Adobe profile and updating your address to a non-OU email address. Please also note this will need to be an email address not associated with any existing Adobe accounts you have created in the past.
-To update your Primary email address, sign in at
-https://account.adobe.com/profile
-.
-In the Account information and access section, select Change next to Primary email.
+
+If you have created an Adobe ID using your OU email address, we recommend logging in to your Adobe profile and updating your address to a non-OU email address. Please also note this will need to be an email address not associated with any existing Adobe accounts you have created in the past.
+
+To update your Primary email address, sign in at https://account.adobe.com/profile (https://account.adobe.com/profile).
+
+In the Account information and access section, select Change next to Primary email.
+
 Confirm the new non-OU primary email address that you want to associate with your Adobe ID.
-Adobe will now send you an email to verify the change. If you don’t receive the email, see
-Didn’t receive expected email from Adobe
-.
+	
+Adobe will now send you an email to verify the change. If you don’t receive the email, see Didn’t receive expected email from Adobe (https://helpx.adobe.com/manage-account/kb/no-email-received.html).
+
+
+
+Adobe will now send you an email to verify the change. If you don’t receive the email, see Didn’t receive expected email from Adobe (https://helpx.adobe.com/manage-account/kb/no-email-received.html).
+
 After the address updates, that should allow you to make any necessary licensing changes.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2842
-Created
-Tue 5/3/22 1:37 PM
-Modified
-Tue 5/3/22 1:39 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2842&SIDs=2405">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2842&SIDs=2405</a><br /><br />Adobe - OU Email as Adobe ID Causes Issues for Adobe Individual Licenses
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+

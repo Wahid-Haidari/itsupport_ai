@@ -1,109 +1,56 @@
+
+  Zoom: Online Office Hours
 
 
-	Article - Zoom: Online Office Hours
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Zoom: Online Office Hours
-Zoom: Online Office Hours
-Why hold online office hours with Zoom?
 Pre-schedule upcoming office hours. This allows you to generate a link that can be shared with students to join when the meeting starts.
+
 Online waiting rooms can be used to only admit one student at a time into a meeting for private one-on-one discussions. More on that below.
+
 Conduct online review sessions before an exam.
-Before your meeting
-Schedule a meeting
-and invite others to join the meeting.
+
+Schedule a meeting and invite others to join the meeting.
+
 Know how you want the meeting to be handled.
+	
 Will you be using the waiting room feature?
 Will you want students to enter and exit freely or at a specified time?
+		
 You can use a calendar or spreadsheet to allow students to sign up for specific times if needed
+
+
 Log in a before your meeting is scheduled to begin
-Zoom waiting rooms
+
+
+
+Will you be using the waiting room feature?
+
+Will you want students to enter and exit freely or at a specified time?
+		
+You can use a calendar or spreadsheet to allow students to sign up for specific times if needed
+
+
+
+You can use a calendar or spreadsheet to allow students to sign up for specific times if needed
+
+Log in a before your meeting is scheduled to begin
+
 Zoom waiting rooms allows the host to control when a participant joins the meeting. As the meeting host, you can admit attendees one by one or hold all attendees in the waiting room and admit them all at once. You can send all participants to the waiting room when joining your meeting or only guests, participants who are not on your Zoom account or are not logged in.
+
 When a participant joins a meeting with Waiting Room enabled, they will see the following:
-To enable the Waiting Room feature for your own use:
+
 Sign into the Zoom web portal: Oklahoma.zoom.us
+
 Under Personal > Settings
+
 On the meeting tab, navigate to the Waiting Room option under in-Meeting and verify that the setting is enabled.
+
 To admit users, once they appear in your Participant list, hover over their name and click admit.
+
 To remove the user and admit a new student, hover over their name and click More, Remove.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-299
-Created
-Tue 9/8/20 11:51 AM
-Modified
-Mon 8/16/21 9:27 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=299&SIDs=409">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=299&SIDs=409</a><br /><br />Zoom: Online Office Hours
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

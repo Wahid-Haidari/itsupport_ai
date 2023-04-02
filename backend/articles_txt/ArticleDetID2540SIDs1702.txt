@@ -1,191 +1,95 @@
+
+  PingID Authentication for Desktop App (Windows, Mac)
 
 
-	Article - PingID Authentication for D...
+PingID (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533) enables you to sign on to all your applications with the added security of multifactor authentication. Use the PingID desktop app to generate a one-time passcode (OTP) from your computer that you can use to authenticate. Please note this app will need to remain installed if you choose this method, as desktop app authentication prompts will appear in this application. If you have accidentally uninstalled the app and no longer have the ability to authenticate, please see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2885).
 
+ 
 
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-PingID Authentication for Desktop App (Windows, Mac)
-PingID Authentication for Desktop App (Windows, Mac)
-PingID
-enables you to sign on to all your applications with the added security of multifactor authentication. Use the PingID desktop app to generate a one-time passcode (OTP) from your computer that you can use to authenticate. Please note this app will need to remain installed if you choose this method, as desktop app authentication prompts will appear in this application. If you have accidentally uninstalled the app and no longer have the ability to authenticate, please see this
-article
-.
-Set up desktop authentication on Windows
 Step 1:
-To download the desktop application, first log in to your
-Ping ID account
-.
-Click your account name in the upper right hand corner and select Devices. Alternately, you may need to click the
-+ Add
-button.
+
+To download the desktop application, first log in to your Ping ID account (https://link.ou.edu/pingid).
+
+Click your account name in the upper right hand corner and select Devices. Alternately, you may need to click the + Add button.
+
 If prompted, authenticate your login using your PingID app.
-In the
-Add a New Device
-pop up, select
-Desktop
-.
+
+In the Add a New Device pop up, select Desktop.
+
 On the Desktop Setup screen, choose the application download for your operating system and continue below:
-Step 2A: For Windows:
-Click
-Download for Windows
-and save the file to your local drive.
-Click the pingID.exe download file to launch the Desktop installer and if prompted 'do you want to allow this app to make changes to your PC?', click
-Yes
-. The PingID Setup wizard opens.
-Review the Software License Agreement, click
-I accept the agreement
-, and then click
-Next
-. The files are extracted and PingID for desktop app is launched.
-Enter the pairing key you were given earlier and click Pair. The desktop app generates a passcode and then launches the
-Authenticating
-window in a browser.
-In the desktop app, click Copy to copy the passcode, paste it into the
-Authentication
-field in your browser and then click
-Sign On.
-You'll see the green checkmark indicating authentication is successful, and your browser is redirected to the dock or app you wanted to access.
+
+Step 2A: For Windows:
+
+Click Download for Windows and save the file to your local drive.
+
+Click the pingID.exe download file to launch the Desktop installer and if prompted 'do you want to allow this app to make changes to your PC?', click Yes. The PingID Setup wizard opens.
+
+Review the Software License Agreement, click I accept the agreement, and then click Next. The files are extracted and PingID for desktop app is launched.
+
+Enter the pairing key you were given earlier and click Pair. The desktop app generates a passcode and then launches the Authenticating window in a browser.
+
+In the desktop app, click Copy to copy the passcode, paste it into the Authentication field in your browser and then click Sign On. You'll see the green checkmark indicating authentication is successful, and your browser is redirected to the dock or app you wanted to access.
+
 Next time you want to log in, launch the desktop app to generate a passcode, and enter the passcode when prompted during the log in process.
+
 Step 2B: For Mac:
-Click
-Download for Mac OS X
-and save the file to your local drive.
-Click the
-PingID.pkg
-download file to launch the PingID Desktop app installer, and then click
-Continue
-.
+
+Click Download for Mac OS X and save the file to your local drive.
+
+Click the PingID.pkg download file to launch the PingID Desktop app installer, and then click Continue.
+
 On the PingID Desktop app installer:
-Review the Software License Agreement, click
-Agree
-, and then click
-Continue
-.
-Select the destination to which you want to install PingID for Desktop and then click
-Continue
-.
-If you want to change the location to which PingID is installed, click
-Change Install Location
-and navigate to the new location, otherwise click
-Install
-. You may be prompted to enter your system password.
+	
+Review the Software License Agreement, click Agree, and then click Continue.
+Select the destination to which you want to install PingID for Desktop and then click Continue.
+If you want to change the location to which PingID is installed, click Change Install Location and navigate to the new location, otherwise click Install. You may be prompted to enter your system password.
+		
 You'll see a green checkmark and a message indicating the installation is successful and PingID is added to the Applications list on your Mac.
-Click
-Close
-.
-Launch the PingID desktop application and enter the pairing key you were given earlier, and then click
-Pair
-. The desktop app generates a passcode.
-In the desktop app, click
-Copy
-to copy the passcode, and then paste it into the Authentication field in your browser and click
-Sign On
-. You'll see the green checkmark indicating authentication is successful, and your browser is redirected to the portal or app you wanted to access.
+
+
+Click Close.
+
+
+
+Review the Software License Agreement, click Agree, and then click Continue.
+
+Select the destination to which you want to install PingID for Desktop and then click Continue.
+
+If you want to change the location to which PingID is installed, click Change Install Location and navigate to the new location, otherwise click Install. You may be prompted to enter your system password.
+		
+You'll see a green checkmark and a message indicating the installation is successful and PingID is added to the Applications list on your Mac.
+
+
+
+You'll see a green checkmark and a message indicating the installation is successful and PingID is added to the Applications list on your Mac.
+
+Click Close.
+
+Launch the PingID desktop application and enter the pairing key you were given earlier, and then click Pair. The desktop app generates a passcode.
+
+In the desktop app, click Copy to copy the passcode, and then paste it into the Authentication field in your browser and click Sign On. You'll see the green checkmark indicating authentication is successful, and your browser is redirected to the portal or app you wanted to access.
+
 Next time you want to log in, launch the desktop app to generate a passcode, and enter the passcode when prompted during the log in process.
-Authenticate using the desktop app
+
+ 
+
 You can authenticate using the desktop app.
-Log in to your account, or access an application that requires authentication. You'll see the
-Authentication
-screen, prompting you to enter a passcode.
+
+Log in to your account, or access an application that requires authentication. You'll see the Authentication screen, prompting you to enter a passcode.
+
 Launch the PingID desktop app. A passcode is generated.
-Click
-Copy
-to copy the passcode, paste it into the
-Authentication
-window, and then click
-Sign On
-. Ensure the browser window is selected when you paste the passcode.
+
+Click Copy to copy the passcode, paste it into the Authentication window, and then click Sign On. Ensure the browser window is selected when you paste the passcode.
+
 You'll see the green checkmark indicating authentication is successful and your access is approved.
-PingID Support and Help
-If you need additional assistance installing or setting up PingID or if you have set up PingID in the past and are now having issues with the app on your device, please feel free to stop by one of our service centers (
-Norman
-|
-Oklahoma City
-|
-Tulsa
-) or contact us
-via phone
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2540
-Created
-Mon 9/13/21 9:37 AM
-Modified
-Tue 12/6/22 11:18 AM
-Related Articles (2)
-PingID Enrollment
-PingID Multi-Factor Information
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2540&SIDs=1702">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2540&SIDs=1702</a><br /><br />PingID Authentication for Desktop App (Windows, Mac)
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+If you need additional assistance installing or setting up PingID or if you have set up PingID in the past and are now having issues with the app on your device, please feel free to stop by one of our service centers (Norman (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=124&SIDs=147) | Oklahoma City (https://itsupport.ou.edu/TDClient/34/OKC/Requests/ServiceDet?ID=194) | Tulsa (https://itsupport.ou.edu/TDClient/33/Tulsa/Requests/ServiceDet?ID=112)) or contact us via phone (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2885).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu)
+

@@ -1,104 +1,56 @@
+
+  MyMedia FAQ & Known Issues
 
 
-	Article - MyMedia FAQ & Known Issues
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-MyMedia FAQ & Known Issues
-MyMedia FAQ & Known Issues
 FAQS
+
 Who can use MyMedia?
+	
 All University of Oklahoma users (Norman, Tulsa, HSC) can login to view, create, and share content in MyMedia.
+
+
+
+All University of Oklahoma users (Norman, Tulsa, HSC) can login to view, create, and share content in MyMedia.
+
 Why do I see a higher quality video by default than another person located in a different location on campus?
+	
 MyMedia utilizes auto sensing to determine the player and streaming type. Not all connections on the same network (on or off campus) will receive the same auto-selected bandwidth.
+
+
+
+MyMedia utilizes auto sensing to determine the player and streaming type. Not all connections on the same network (on or off campus) will receive the same auto-selected bandwidth.
+
 Why does my video appear pixelated or audio out of sync when I select a higher quality?
+	
 Manual selection of the highest bit rate, when the bandwidth connection is not supported, can cause choppy or pixilated playback. In addition, video and audio may become out of sync
+
+
+
+Manual selection of the highest bit rate, when the bandwidth connection is not supported, can cause choppy or pixilated playback. In addition, video and audio may become out of sync
+
 Why can’t I access my lecture capture recording from MyMedia?
+	
 The recorded media may be tied to an incorrect OUNet ID.
 The recorded media may not be done uploading and processing or failed to finish.
-Please
-fill out our support form
-if you are encountering this issue.
+Please fill out our support form (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=75) if you are encountering this issue.
+
+
+
+The recorded media may be tied to an incorrect OUNet ID.
+
+The recorded media may not be done uploading and processing or failed to finish.
+
+Please fill out our support form (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=75) if you are encountering this issue.
+
 The following are current known issues with MyMedia.
+
 The MyMedia player on the portal may not allow playback or function correctly if 3rd party cookies are disabled.
+
 Some users may receive a ‘video exceeds size limitation’ error when manually uploading content into MyMedia. This is a known issue and is often resolved by attempting again to upload the content.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-389
-Created
-Wed 9/9/20 2:40 PM
-Modified
-Mon 8/16/21 9:15 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=389&SIDs=526">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=389&SIDs=526</a><br /><br />MyMedia FAQ & Known Issues
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

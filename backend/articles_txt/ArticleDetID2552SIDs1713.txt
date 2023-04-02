@@ -1,116 +1,28 @@
+
+  Contact Information and the OU Global Address List (GAL)
 
 
-	Article - Contact Information and the...
+The Global Address List (GAL) contains information about OU email users, distribution lists and resource mailboxes. It can be viewed in the Outlook client or Outlook Web Access under New Email > To. One can look up and select recipients directly from the Global Address List to see their publicly available OU contact information.
+
+To set Global Address List as default Address Book in your Outlook, click Address Book > Tools > Options > Start with Global Address List > OK. The offline copy of the Global Address List is the Offline Address Book (OAB). It is created when Outlook is running in Cached Exchange Mode. In this mode the Global Address List is not displayed by default. Instead Outlook utilizes a cached copy of the list for use when disconnected from the server. As a result, any recent changes that have been made to the list, including name updates or new account additions, may not be reflected.
+
+To see the most recent version of the Global Address List on the server, open your Outlook Address Book and make sure that Global Address List is selected.
 
 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-Contact Information and the OU Global Address List (GAL)
-Contact Information and the OU Global Address List (GAL)
-The
-Global Address List
-(GAL)
-contains information about OU email users, distribution lists and resource mailboxes. It can be viewed in the Outlook client or Outlook Web Access under
-New Email > To
-. One can look up and select recipients directly from the Global Address List to see their publicly available OU contact information.
-To set Global Address List as default Address Book in your Outlook, click
-Address Book > Tools > Options >
-Start with Global Address List
-> OK
-. The offline copy of the Global Address List is the
-Offline Address Book (OAB)
-. It is created when Outlook is running in Cached Exchange Mode. In this mode the Global Address List is not displayed by default. Instead Outlook utilizes a cached copy of the list for use when disconnected from the server. As a result, any recent changes that have been made to the list, including name updates or new account additions, may not be reflected.
-To see the most recent version of the Global Address List on the server, open your Outlook Address Book and make sure that Global Address List is selected.
-Removing Information from the Global Address List
-By default, almost all accounts are set to be made public on the Global Address List. Some types of users are able to request the hiding of their information:
-Students may submit a Directory Hold. Please see
-this page
-for more and
-this page
-at Records and Transcripts to begin this process.
-If you are the owner of an existing Organization account and want it hidden, please
-submit a modify request
-for your account. Note that new Organization accounts can be hidden when they are initially requested if the owner specifies.
-Issues
-Note that hiding your information in the GAL may result in being unable to set up your account in iCAL or Outlook on your personal device. Please see
-this page
-for a potential resolution option.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2552
-Created
-Thu 9/30/21 10:04 AM
-Modified
-Thu 9/30/21 1:53 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2552&SIDs=1713">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2552&SIDs=1713</a><br /><br />Contact Information and the OU Global Address List (GAL)
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+By default, almost all accounts are set to be made public on the Global Address List. Some types of users are able to request the hiding of their information:
+
+Students may submit a Directory Hold. Please see this page (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=271) for more and this page (https://www.ou.edu/recordsandtranscripts/release_of_information/withhold_directoryinformation) at Records and Transcripts to begin this process.
+
+If you are the owner of an existing Organization account and want it hidden, please submit a modify request (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=3&SIDs=3) for your account. Note that new Organization accounts can be hidden when they are initially requested if the owner specifies.
+
+ 
+
+Note that hiding your information in the GAL may result in being unable to set up your account in iCAL or Outlook on your personal device. Please see this page (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=275) for a potential resolution option.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

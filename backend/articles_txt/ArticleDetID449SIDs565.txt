@@ -1,145 +1,52 @@
+
+  Canvas – Calendar – About Calendar
 
 
-	Article - Canvas – Calendar – About C...
+Students: The Calendar helps students see what assignments and events are coming up in the course. You can also create personal events such as study groups.
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas – Calendar – About Calendar
-Canvas – Calendar – About Calendar
-Students
-: The Calendar helps students see what assignments and events are coming up in the course. You can also create personal events such as study groups.
 When would I use the Calendar as a student?
-View
-course calendars
-and
-group calendars
-.
-Create
-personal calendar reminders
-.
-Filter the calendar view
-to only see specific calendars.
-Copy the iCal feed for all of your courses and import it to your preferred personal Calendar, such as
-Google
-or
-Outlook.
-Instructors
-: As an instructor, use the Calendar to:
-View and create activities in your course as well as
-events
-and
-personal reminders
-; you can also
-filter the calendar view
-to only see specific calendars.
-Quickly
-add Assignments
-to a blank course. Fill in the details of those Assignments later.
-Adjust the dates of Assignments
-that have been imported from previous terms. Canvas makes it easy to drag and drop events across multiple months.
-Copy the iCal feed for all of your courses and import it to your preferred personal Calendar, such as
-Google
-or
-Outlook.
-Schedule appointments with students using the
-Scheduler
-(optional feature).
-Possible Articles of Interest
-Instructors
-–
-https://guides.instructure.com/m/4152/c/23832
-How do I use the Calendar?
-How do I filter my Calendar view by course?
-How do I add an event to the course Calendar?
-How do I create an Assignment shell from the Calendar?
-Where can I find the Calendar iCal feed?
-What is the Scheduler?
-How do I create an appointment group in the Scheduler?
-Students
-–
-https://guides.instructure.com/m/4212/c/26415
-How do I use the Calendar?
-How do I filter my Calendar view by course?
-How do I access my group Calendar?
-Where can I find the Calendar iCal feed?
-How do I sign up for an appointment using the Scheduler?
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-449
-Created
-Thu 9/10/20 10:09 AM
-Modified
-Fri 8/20/21 3:05 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=449&SIDs=565">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=449&SIDs=565</a><br /><br />Canvas – Calendar – About Calendar
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+View course calendars (https://guides.instructure.com/m/4212/l/710322-how-do-i-use-the-calendar-as-a-student) and group calendars (https://guides.instructure.com/m/4212/l/81728?data-resolve-url=true&data-manual-id=4212).
+
+Create personal calendar reminders (https://guides.instructure.com/m/4212/l/716710-how-do-i-add-an-event-to-my-calendar-as-a-student).
+
+Filter the calendar view (https://guides.instructure.com/m/4212/l/54670?data-resolve-url=true&data-manual-id=4212) to only see specific calendars.
+
+Copy the iCal feed for all of your courses and import it to your preferred personal Calendar, such as Google (https://guides.instructure.com/m/4212/l/54708?data-resolve-url=true&data-manual-id=4212) or Outlook. (https://guides.instructure.com/m/4212/l/54673?data-resolve-url=true&data-manual-id=4212)
+
+Instructors: As an instructor, use the Calendar to:
+
+View and create activities in your course as well as events (https://guides.instructure.com/m/4152/l/41296?data-resolve-url=true&data-manual-id=4152) and personal reminders (https://guides.instructure.com/m/4152/l/41985?data-resolve-url=true&data-manual-id=4152); you can also filter the calendar view (https://guides.instructure.com/m/4152/l/54670?data-resolve-url=true&data-manual-id=4152) to only see specific calendars.
+
+Quickly add Assignments (https://guides.instructure.com/m/4152/l/54671?data-resolve-url=true&data-manual-id=4152) to a blank course. Fill in the details of those Assignments later.
+
+Adjust the dates of Assignments (https://guides.instructure.com/m/4152/l/54672?data-resolve-url=true&data-manual-id=4152) that have been imported from previous terms. Canvas makes it easy to drag and drop events across multiple months.
+
+Copy the iCal feed for all of your courses and import it to your preferred personal Calendar, such as Google (https://guides.instructure.com/m/4152/l/54708?data-resolve-url=true&data-manual-id=4152) or Outlook. (https://guides.instructure.com/m/4152/l/54673?data-resolve-url=true&data-manual-id=4152)
+
+Schedule appointments with students using the Scheduler (https://guides.instructure.com/m/4152/l/61285?data-resolve-url=true&data-manual-id=4152) (optional feature).
+
+Instructors – https://guides.instructure.com/m/4152/c/23832 (https://guides.instructure.com/m/4152/c/23832)
+
+How do I use the Calendar? (https://guides.instructure.com/m/4152/l/54669-how-do-i-use-the-calendar)
+How do I filter my Calendar view by course? (https://guides.instructure.com/m/4152/l/54670-how-do-i-filter-my-calendar-view-by-course)
+How do I add an event to the course Calendar? (https://guides.instructure.com/m/4152/l/41296-how-do-i-add-an-event-to-the-course-calendar)
+How do I create an Assignment shell from the Calendar? (https://guides.instructure.com/m/4152/l/54671-how-do-i-add-an-assignment-from-the-calendar)
+Where can I find the Calendar iCal feed? (https://guides.instructure.com/m/4152/l/54707-where-can-i-find-the-calendar-ical-feed)
+What is the Scheduler? (https://guides.instructure.com/m/4152/l/61285-what-is-the-scheduler)
+How do I create an appointment group in the Scheduler? (https://guides.instructure.com/m/4152/l/59601-how-do-i-create-an-appointment-group-in-the-scheduler)
+
+Students – https://guides.instructure.com/m/4212/c/26415  (https://guides.instructure.com/m/4212/c/26415)
+
+How do I use the Calendar? (https://guides.instructure.com/m/4212/l/710322-how-do-i-use-the-calendar-as-a-student)
+How do I filter my Calendar view by course? (https://guides.instructure.com/m/4212/l/54670-how-do-i-filter-my-calendar-view-by-course)
+How do I access my group Calendar? (https://guides.instructure.com/m/4212/l/81728-how-do-i-access-my-group-calendar)
+Where can I find the Calendar iCal feed? (https://guides.instructure.com/m/4212/l/54707-where-can-i-find-the-calendar-ical-feed)
+How do I sign up for an appointment using the Scheduler? (https://guides.instructure.com/m/4212/l/354555-how-do-i-sign-up-for-an-appointment-using-the-scheduler)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

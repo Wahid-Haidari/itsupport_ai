@@ -1,94 +1,34 @@
+
+  Validating Cognos reports using Report Studio
 
 
-	Article - Validating Cognos reports u...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-Validating Cognos reports using Report Studio
-Validating Cognos reports using Report Studio
 This is an example of what is returned when a report is opened with Report Studio. It tells you that the package has been updated. You may click OK within the box or click the Verification ICON in the upper left corner of the screen.
+
+
+
 This next screen tells you that validation has begun.
+
+
+
 If your report requires Parameter input, the parameters must be supplied and ‘Finish’ selected at the bottom of the page (not shown here because the picture was taken before going to the bottom)
+
+
+
 This page comes back indicating that the specification are now valid with the new package.
+
+
+
 Before executing the report be SURE to update the validated report by saving the latest version when you click on the ‘Save’ ICON in the upper left corner. Now you can excute the report.
-Please Note: If you do not save after validation, it will ask you to do it again the next time you open the report.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-434
-Created
-Thu 9/10/20 8:58 AM
-Modified
-Mon 8/16/21 4:10 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=434&SIDs=492">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=434&SIDs=492</a><br /><br />Validating Cognos reports using Report Studio
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+ 
+
+Please Note: If you do not save after validation, it will ask you to do it again the next time you open the report.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

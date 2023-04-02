@@ -1,117 +1,51 @@
+
+  Enabling Security on Android
 
 
-	Article - Enabling Security on Android
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-Enabling Security on Android
-Enabling Security on Android
 Note: because some models of Android phones use different versions and/or layouts of the OS, these instructions will vary; these instructions were created using stock Android 4.2.2.
+
+ 
+
 To enable a security lock (PIN, Password, or Pattern), you will need to do the following:
-Open the
-Settings
-app, and go to “
-Security
-” (under the Personal section)
-Select the type of screen security you wish to enable (default is “
-Slide
-“)
-You can choose from
-Slide
-,
-Face Unlock
-,
-Pattern
-,
-PIN
-, or
-Password
-Slide
-and
-Face Unlock
-are the least secure and are thus not recommended
-If you select “
-Pattern
-,” you will be prompted to select a size of pattern before drawing it.
+
+Open the Settings app, and go to “Security” (under the Personal section)
+
+Select the type of screen security you wish to enable (default is “Slide“)
+	
+You can choose from Slide, Face Unlock, Pattern, PIN, or Password 
+
+Slide and Face Unlock are the least secure and are thus not recommended
+If you select “Pattern,” you will be prompted to select a size of pattern before drawing it.
+
+
 Once you select your method of security, enter the PIN/Password or draw your pattern and hit “Next”
+		
 You will be asked to confirm the new pattern or PIN/Password before saving.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-49
-Created
-Thu 9/3/20 9:32 AM
-Modified
-Thu 9/3/20 11:44 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=49&SIDs=277">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=49&SIDs=277</a><br /><br />Enabling Security on Android
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+
+
+You can choose from Slide, Face Unlock, Pattern, PIN, or Password 
+
+Slide and Face Unlock are the least secure and are thus not recommended
+If you select “Pattern,” you will be prompted to select a size of pattern before drawing it.
+
+
+
+Slide and Face Unlock are the least secure and are thus not recommended
+
+If you select “Pattern,” you will be prompted to select a size of pattern before drawing it.
+
+Once you select your method of security, enter the PIN/Password or draw your pattern and hit “Next”
+		
+You will be asked to confirm the new pattern or PIN/Password before saving.
+
+
+
+You will be asked to confirm the new pattern or PIN/Password before saving.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

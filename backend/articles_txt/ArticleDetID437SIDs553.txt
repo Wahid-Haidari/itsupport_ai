@@ -1,122 +1,50 @@
+
+  Canvas – People – About People
 
 
-	Article - Canvas – People – About People
+Students: Students can use the People page to do the following:
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas – People – About People
-Canvas – People – About People
-Students:
-Students can use the People page to do the following:
 View all the users participating in the course, including the ones whose course enrollment is pending.
+
 Use the search bar to find a specific person.
+
 Use the drop-down menu to filter users by role. The filter will also display the number of users in each type of role [e.g. student, TA].
+
 View user groups in the course.
+
 View registered services for course users.
-Instructors:
-The People page displays all information about the users in your course, either added by your or your institution via SIS import. You can add a user to the course, manage student groups, and view user status.
-Enrolled students should automatically appear in your course. Contact OU IT if they do not appear automatically. In the instance that you do need to add a user manually, they must be added by Login ID. Visit our article on
-Adding Users
-,
-for more information.
+
+Instructors: The People page displays all information about the users in your course, either added by your or your institution via SIS import. You can add a user to the course, manage student groups, and view user status.
+
+Enrolled students should automatically appear in your course. Contact OU IT if they do not appear automatically. In the instance that you do need to add a user manually, they must be added by Login ID. Visit our article on Adding Users (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=411), for more information.
+
 Possible Articles of Interest
+
 Instructors
-How do I add users to my course?
-How do I limit a user to only view other users in the same course section?
-How do I view user details for an enrollment in a course?
-How do I edit user roles in a course?
-How do I deactivate an enrollment in a course?
-How do I conclude an enrollment in my course?
-How do I view concluded enrollments in a course?
-How do I view a summary of all my student interactions in a course?
-How do I view my course interactions with an individual student?
+
+How do I add users to my course? (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=411)
+How do I limit a user to only view other users in the same course section? (https://guides.instructure.com/m/4152/l/57133-how-do-i-limit-a-user-to-only-view-other-users-in-the-same-course-section)
+How do I view user details for an enrollment in a course? (https://guides.instructure.com/m/4152/l/57134-how-do-i-view-user-details-for-an-enrollment-in-a-course)
+How do I edit user roles in a course? (https://guides.instructure.com/m/4152/l/481701-how-do-i-edit-user-roles-in-a-course)
+How do I deactivate an enrollment in a course? (https://guides.instructure.com/m/4152/l/481702-how-do-i-deactivate-an-enrollment-in-a-course)
+How do I conclude an enrollment in my course? (https://guides.instructure.com/m/4152/l/41450-how-do-i-conclude-an-enrollment-in-my-course)
+How do I view concluded enrollments in a course? (https://guides.instructure.com/m/4152/l/57138-how-do-i-view-concluded-enrollments-in-a-course)
+How do I view a summary of all my student interactions in a course? (https://guides.instructure.com/m/4152/l/55014-how-do-i-view-a-summary-of-all-my-student-interactions-in-a-course)
+How do I view my course interactions with an individual student? (https://guides.instructure.com/m/4152/l/41457-how-do-i-view-my-course-interactions-with-an-individual-student)
+
 Students
-How do I view my course analytics as a student?
-What are Groups for students?
-Which Groups am I enrolled in as a student?
-How do I join a group as a student?
-How do I leave a group as a student?
-How do I create a group as a student?
-How do I store and share Files within my Group?
-How do I start a Discussion with my Group?
-How do I manage groups as a student group leader?
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-437
-Created
-Thu 9/10/20 9:53 AM
-Modified
-Fri 8/20/21 2:59 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=437&SIDs=553">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=437&SIDs=553</a><br /><br />Canvas – People – About People
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+How do I view my course analytics as a student? (https://guides.instructure.com/m/4212/l/516048-how-do-i-view-my-course-analytics-as-a-student)
+What are Groups for students? (https://guides.instructure.com/m/4212/l/225747-what-are-groups-for-students)
+Which Groups am I enrolled in as a student? (https://guides.instructure.com/m/4212/l/55565-which-groups-am-i-enrolled-in-as-a-student)
+How do I join a group as a student? (https://guides.instructure.com/m/4212/l/64913-how-do-i-join-a-group-as-a-student)
+How do I leave a group as a student? (https://guides.instructure.com/m/4212/l/442300-how-do-i-leave-a-group-as-a-student)
+How do I create a group as a student? (https://guides.instructure.com/m/4212/l/55566-how-do-i-create-a-group-as-a-student)
+How do I store and share Files within my Group? (https://guides.instructure.com/m/4212/l/55567-how-do-i-store-and-share-files-within-my-group)
+How do I start a Discussion with my Group? (https://guides.instructure.com/m/4212/l/50009-how-do-i-start-a-discussion-with-my-group)
+How do I manage groups as a student group leader? (https://guides.instructure.com/m/4212/l/231447-how-do-i-manage-groups-as-a-student-group-leader)
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

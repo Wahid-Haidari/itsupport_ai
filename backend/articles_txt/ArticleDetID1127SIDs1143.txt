@@ -1,132 +1,36 @@
+
+  How to Add/Share Media Gallery Playlist to Canvas pages
 
 
-	Article - How to Add/Share Media Gall...
+To Add or Share playlist in any canvas pages like modules, pages, assignment etc, you must first create a playlist in media gallery. Click here to learn on How to create playlist in media gallery. Note that only instructor or course moderator can add/share playlist anywhere in Canvas. 
+
+Follow through the following steps to add playlist in canvas outside media gallery. (Following example publishes playlist in the Discussion page of canvas)
+
+Go to the module where you want to add the playlist (Discussion in example) 
 
 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-How to Add/Share Media Gallery Playlist to Canvas pages
-How to Add/Share Media Gallery Playlist to Canvas pages
-To Add or Share playlist in any canvas pages like modules, pages, assignment
-etc
-, you must first create a playlist in media gallery.
-Click here to learn on How to create playlist in media gallery.
-Note that only instructor or course moderator can add/share playlist anywhere in Canvas.
-Follow through the following steps to add playlist in
-canvas outside media gallery. (
-Following example publishes playlist in
-the Discussion
-page of canvas)
-Go to the module where you want to add the playlist (
-Dis
-cussion
-in example)
-Click on the
-Discussion
-edit menu if you want to add playlist to existing
-Discussion
-or create new
-Discussion
-by clicking on the +
-Discussion
-button
-. In the
-Text editor, click on the
-OU MyMedia (Kaltura)
-icon
-.
-It will take you to the
-OU
-MyMedia
-where you will all your medias posted in MyMedia.
-Click on the Media Gallery Playlists tab.
-Find the media
-playlist you want to post/share.
-C
-lick on </>Embed
-button located on the right of each playlist.
-You will see your playlist in the text entry.
-Give appropriate title
-to the
-module
-a
-nd publish it.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1127
-Created
-Fri 1/22/21 2:22 PM
-Modified
-Wed 8/18/21 2:05 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1127&SIDs=1143">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1127&SIDs=1143</a><br /><br />How to Add/Share Media Gallery Playlist to Canvas pages
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+Click on the Discussion edit menu if you want to add playlist to existing Discussion or create new Discussion by clicking on the + Discussion button. In the Text editor, click on the OU MyMedia (Kaltura) icon. 
+
+ 
+
+It will take you to the OU MyMedia where you will all your medias posted in MyMedia. 
+
+ 
+
+Click on the Media Gallery Playlists tab.  
+
+ 
+
+Find the media playlist you want to post/share. Click on </>Embed button located on the right of each playlist. You will see your playlist in the text entry. 
+
+ 
+
+Give appropriate title to the module and publish it. 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

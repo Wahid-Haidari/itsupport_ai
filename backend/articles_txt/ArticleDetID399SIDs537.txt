@@ -1,164 +1,82 @@
+
+  Respondus LockDown Browser
 
 
-	Article - Respondus LockDown Browser
+Respondus LockDown Browser 
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Respondus LockDown Browser
-Respondus LockDown Browser
-Respondus LockDown Browser
 What is Respondus Lockdown Browser?
-For Faculty
-: Respondus Lockdown Browser (LDB) is a secure browser for taking tests in Canvas. The lockdown browser is suited for taking tests in a proctored environment, such as in-class exams or in testing center. In order to take an exam using Lockdown Browser, students would need to install Lockdown Browser on their personal computers.
-Respondus Lockdown Browser
-offers the following benefits:
+
+For Faculty: Respondus Lockdown Browser (LDB) is a secure browser for taking tests in Canvas. The lockdown browser is suited for taking tests in a proctored environment, such as in-class exams or in testing center. In order to take an exam using Lockdown Browser, students would need to install Lockdown Browser on their personal computers.
+
+Respondus Lockdown Browser offers the following benefits:
+
 Prevent students from copying and pasting exam contents
+
 Prevent students from taking screen captures
+
 Prevent students from printing the exam
+
 Prevent students from accessing other applications or websites
+
 Allows for linking to external content from within the exam (e.g. externally hosted photos/videos).
+
 Allows for test results to be displayed in a secure manner
-Faculty can add the Respondus LDB Dashboard to their course by:
-Clicking on
-Settings
-, then
-Navigation
-.
-Scrolling to the bottom of the page, they will see the
-LockDown Browser
-Drag that box to the top column, scroll to the bottom of the page, and hit
-Save
-. Alternatively, they can also click the three dots on the right side of the
-LockDown Browser
-box, click on
-Enable
-, then scroll to the bottom of the page and hit
-Save
-.
+
+Faculty can add the Respondus LDB Dashboard to their course by:
+
+Clicking on Settings, then Navigation.
+
+Scrolling to the bottom of the page, they will see the LockDown Browser Drag that box to the top column, scroll to the bottom of the page, and hit Save. Alternatively, they can also click the three dots on the right side of the LockDown Browser box, click on Enable, then scroll to the bottom of the page and hit Save.
+
 Once that is done, instructors can then access the dashboard from the course navigation and designate the quizzes/exams that will require LockDown Browser and make changes to those settings.
-For Students:
-Respondus LockDown Browser is a secure browser used for taking online exams and quizzes within your Canvas course(s). It is not required for all quizzes, only those where the instructor specifically requires their use. If Lockdown Browser is required for your class, you will need to install it on your computer (if you haven’t already). If a Canvas quiz requires that Respondus LockDown Browser be used, the exam won’t be accessible with a standard web browser, you will need to have the Respondus Lockdown Browser installed.
+
+For Students: Respondus LockDown Browser is a secure browser used for taking online exams and quizzes within your Canvas course(s). It is not required for all quizzes, only those where the instructor specifically requires their use. If Lockdown Browser is required for your class, you will need to install it on your computer (if you haven’t already). If a Canvas quiz requires that Respondus LockDown Browser be used, the exam won’t be accessible with a standard web browser, you will need to have the Respondus Lockdown Browser installed.
+
 Technical Specifications
-Windows: 10 and 11 (note: Windows 10/11 "S mode" is not a compatible operating system, nor can LockDown Browser be obtained via the Windows App Store)
+
+Windows: 10 and 11 (note: Windows 10/11 "S mode" is not a compatible operating system, nor can LockDown Browser be obtained via the Windows App Store) 
+
 Mac: OS X 10.12 and higher
+
 iOS: 10.0+ (iPad only). Must have a compatible LMS integration.
+
 A broadband internet connection
-Note
-: Respondus LockDown Browser is not compatible with personal Chromebooks or mobile devices.
+
+Note: Respondus LockDown Browser is not compatible with personal Chromebooks or mobile devices.
+
 How to download/install Respondus Lockdown Browser
+
 There are two ways to download the LockDown Browser software:
-The
-Download Respondus Lockdown Browser
-link will appear when accessing a quiz that requires LockDown Browser. Students will only need to install the LockDown Browser once on their device. It can be installed more if they would like to confirm they have the latest version of the software. If using multiple devices (desktop, laptop, etc.), the LockDown browser will need to be installed on each.
-Direct link to install Respondus Lockdown Browser on a personal computer
-:
-link.ou.edu/respondus
-Additional Instructor Resources
-:
-Instructor Resources:
-https://www.respondus.com/products/lockdown-browser/resources.shtml
-Quick-Start PDF Guide:
-Respondus Instructor Quick Start Guide
-Additional Student Resources
-:
-Tutorial Video:
-Click the
-Overview for Students
-link on the following page:
-https://www.respondus.com/products/lockdown-browser/demos.shtml
-Quick-Start PDF Guide:
-Respondus Student Quick Start Guide
+
+The Download Respondus Lockdown Browser link will appear when accessing a quiz that requires LockDown Browser. Students will only need to install the LockDown Browser once on their device. It can be installed more if they would like to confirm they have the latest version of the software. If using multiple devices (desktop, laptop, etc.), the LockDown browser will need to be installed on each.
+
+Direct link to install Respondus Lockdown Browser on a personal computer: link.ou.edu/respondus (https://link.ou.edu/respondus)
+
+Additional Instructor Resources:
+
+Instructor Resources: https://www.respondus.com/products/lockdown-browser/resources.shtml (https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.respondus.com%2Fproducts%2Flockdown-browser%2Fresources.shtml&data=02%7C01%7Cchaseflick%40ou.edu%7Cf1df2b085bad46ea146a08d73d2009ed%7C9c7de09d903444c1b462c464fece204a%7C1%7C0%7C637045080119725847&sdata=%2FCtPqfEk97zyDuntz1OCPS3U7Pyo0OdaOKINzZ8NhC8%3D&reserved=0)
+
+Quick-Start PDF Guide: Respondus Instructor Quick Start Guide (http://ou.edu/content/dam/IT/Canvas/Respondus%20Quick%20Start%20-%20Instructor.pdf)
+
+Additional Student Resources:
+
+Tutorial Video: Click the Overview for Students link on the following page: https://www.respondus.com/products/lockdown-browser/demos.shtml (https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.respondus.com%2Fproducts%2Flockdown-browser%2Fdemos.shtml&data=02%7C01%7Cchaseflick%40ou.edu%7Cf1df2b085bad46ea146a08d73d2009ed%7C9c7de09d903444c1b462c464fece204a%7C1%7C0%7C637045080119755878&sdata=%2BxY8KG9b1oHlQeQ6icslagnlaHK534wG6r3U3iT%2Buow%3D&reserved=0)
+
+Quick-Start PDF Guide: Respondus Student Quick Start Guide (http://ou.edu/content/dam/IT/Canvas/Respondus%20Quick%20Start%20-%20Student.pdf)
+
 Respondus Technical Support:
-Demo videos, which include how-tos on creating questions, moving exams, and publishing to various learning systems, can be found here:
-http://www.respondus.com/products/respondus/demos.shtml
-Respondus Support is available here:
-https://support.respondus.com/hc/en-us
-A support ticket to Respondus can be submitted
-here
-.
-Respondus Email Support is available through
-support@respondus.com
-.
-Please note that while OU IT can provide
-general support
-regarding setting up Respondus in Canvas, questions beyond the initial technical setup of Respondus in a course should be handled by Respondus Support directly.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-399
-Created
-Wed 9/9/20 3:51 PM
-Modified
-Mon 8/8/22 1:39 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=399&SIDs=537">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=399&SIDs=537</a><br /><br />Respondus LockDown Browser
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Demo videos, which include how-tos on creating questions, moving exams, and publishing to various learning systems, can be found here: http://www.respondus.com/products/respondus/demos.shtml (http://www.respondus.com/products/respondus/demos.shtml)
+
+Respondus Support is available here: https://support.respondus.com/hc/en-us (https://support.respondus.com/hc/en-us)
+
+A support ticket to Respondus can be submitted here (https://support.respondus.com/hc/en-us/requests/new).
+
+Respondus Email Support is available through support@respondus.com (mailto:support@respondus.com).
+
+Please note that while OU IT can provide general support (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=124) regarding setting up Respondus in Canvas, questions beyond the initial technical setup of Respondus in a course should be handled by Respondus Support directly.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

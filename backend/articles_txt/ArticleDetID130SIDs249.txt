@@ -1,143 +1,94 @@
+
+  Eduroam
 
 
-	Article - Eduroam
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-Eduroam
-Eduroam
-What is Eduroam?
-Eduroam (education roaming) is a secure, world-wide roaming access service developed for the international research and education community. Eduroam allows students, researchers and staff from participating institutions to obtain Internet connectivity across campus and when visiting other participating institutions by simply opening their laptop. With hundreds of thousands of wireless access-points sharing a common SSID, eduroam acts as one large, world-wide, wireless hotspot. For a full list of member institutions, please
-click here
-.
-How does it work?
-Eduroam is a worldwide federation of RADIUS servers that facilitates network access for roaming academic affiliates using IEEE 802.1x as the vehicle. Eduroam’s use of 802.1x in concert with RADIUS means the network is built around well understood, established, and easy to manage standards which are often already deployed within the network infrastructure of educational institutions.
 User credentials are not revealed to the institution at which an eduroamer joins, but instead are only revealed to their home institution, providing an extra measure of comfort for visiting users. The eduroam network thus also provides a simple and automatic guest provisioning system.
-What buildings at OU currently support eduroam?
-Eduroam is currently available in the following buildings on campus. Visitors with existing eduroam profiles may connect at these locations to the eduroam wireless access point.:
+
 Bizzell Lower Level 1
+
 National Weather Center
+
 Radar Innovations Lab
+
 Stephenson Life Science Research Center
-Note:
-If you are an OU user who has configured an eduroam profile, you will not be able to use eduroam while on the OU campus. You will need to connect to WIFI@OU. This will ensure you retain the needed access to all OU sites and services.
-How do I connect?
-OU users who plan to visit other higher education campuses which support eduroam, may configure their connections now so that they work when they arrive. The following instructions will allow individuals to create one eduroam connection, which will work for any eduroam member institution.
+
+Note: If you are an OU user who has configured an eduroam profile, you will not be able to use eduroam while on the OU campus. You will need to connect to WIFI@OU. This will ensure you retain the needed access to all OU sites and services.
+
 Mac OS X
+
 Click on your Wi-­Fi drop-­‐down list and select ‘Open Network Preferences…’.
+
 On the Network Preferences window, click on ‘Wi-Fi’ and select the ‘Advanced…’ button. (NOTE: If the lock in the lower left corner of the screen is closed, click on the lock and enter your Administrator password to allow changes).
+
 On the Wi-Fi tab, click the plus (+) button below the Preferred Networks list.
-Enter
-eduroam
-in the Network Name field.
+
+Enter eduroam in the Network Name field.
+
 Select “WPA2 Enterprise” from the “Security” drop down list.
+
 Enter your OU e-mail address in the ‘Username’ field and your OUNet ID password in the ‘Password’ field.
+
 Once you have entered your Username and Password, click ‘OK’.
+
 Click the ‘OK’ button on the next window and then click ‘Apply’ on the Network Options window.
+
 Your computer will now remember your eduroam connection when you visit any member institutions with eduroam wireless access.
+
 Once you arrive and attempt to connect to the member eduroam access point, you may be prompted to accept the security certificate. Please view and the verify that the certificate in question is from the domain of the member institution.
+
 Windows 10
+
 Right click on your Network Connection icon in the lower right hand corner of your screen.
+
 Now select Open Network and Sharing Center.
+
 Select “Set up a new connection or network”.
+
 After the window opens, select “Manually connect to a wireless network” and then click Next.
-For the Network name, enter
-eduroam
+
+For the Network name, enter eduroam
+
 Under Security type, select WPA2-Enterprise.
+
 You may uncheck the “Start this connection automatically” if you wish. If you leave it unchecked, you will need to manually connect each time you visit a member institution.
+
 Now click Next.
+
 Select to Change connection settings.
+
 On the window which opens, click the Security tab.
+
 Ensure “Microsoft: Protected EAP (PEAP) is selected.
+
 Click the Settings button beside it.
+
 Under Select Authentication Method, click the Configure button.
+
 Uncheck the “Automatically use my Windows logon name and password (and domain if any)” box.
+
 Click OK then OK again to return to the Security tab.
+
 Now click the Advanced settings button.
+
 Check the Specify authentication mode box and select User authentication from the drop down box.
+
 Click OK then click OK again on the eduroam Wireless Network Properties window.
+
 Now click Close to exit from the eduroam connection settings window.
+
 Now click the Network icon again in the lower right hand side of the screen.
+
 Select eduroam and click Connect.
+
 When you see the “additional information is needed to connect to eduroam” balloon click on it.
+
 When the window prompts for credentials, enter your OU e-mail address in the ‘Username’ field and your OUNet ID password in the ‘Password’ field.
+
 Your computer will now remember your eduroam connection when you visit any member institutions with eduroam wireless access. Simply click on Network and select the eduroam connection if it is available.
+
 If you are prompted to verify that you wish to connect to the eduroam profile, select OK. If you are prompted to log in again, please enter the OU username and password specified above.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-130
-Created
-Thu 9/3/20 3:22 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=130&SIDs=249">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=130&SIDs=249</a><br /><br />Eduroam
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

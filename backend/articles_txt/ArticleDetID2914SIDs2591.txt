@@ -1,101 +1,46 @@
+
+  SharePoint Online Sharing Levels
 
 
-	Article - SharePoint Online Sharing L...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-SharePoint Online Sharing Levels
-SharePoint Online Sharing Levels
 In SharePoint, sharing is implemented at two levels:
+
 Organization Level
+	
 For any external sharing to be allowed, it has to be enabled by OU.
+
+
+
+For any external sharing to be allowed, it has to be enabled by OU.
+
 Site Level
+	
 Once enabled across the organization, external sharing can be restricted on a site-by-site basis. Global or SharePoint admins in Office 365 can change the external sharing setting for a site, but site owners cannot do this.
+
+
+
+Once enabled across the organization, external sharing can be restricted on a site-by-site basis. Global or SharePoint admins in Office 365 can change the external sharing setting for a site, but site owners cannot do this.
+
+ 
+
 In some cases, there might be a mismatch between these two levels. In that case, the more restrictive of the two policies is the one applied.
+
 Types of External Users
-In SharePoint, if you share with a user who is not in the OU directory, they are sent a one-time code that they can use to verify their identity.  The next aspect of sharing to understand is that SharePoint supports four basic options when it comes to external sharing and that each option allows your files to be accessed by different types of user:
+
+In SharePoint, if you share with a user who is not in the OU directory, they are sent a one-time code that they can use to verify their identity.  The next aspect of sharing to understand is that SharePoint supports four basic options when it comes to external sharing and that each option allows your files to be accessed by different types of user:
+
 No External Sharing:
+
 The default option for communication and classic SharePoint sites. If this option is enabled, it will prevent any site users from sharing any site content externally. This can be a good option for sites that only your team need to have access to. To use this option, go to your SharePoint admin center, and in the left pane under Sites select Active sites. Select the proper site, and then click Sharing. Select the Only people in your organization option and select Save.
+
 Authenticated: Existing Guests
-Existing Guests allows external sharing with users who already appear in your Azure Active Directory. External users will appear here if they have previously accepted sharing invitations, or if you
-manually added them
-in the Azure Portal. To use this option, go to your SharePoint admin center, and in the left pane under Sites select Active sites. Select the proper site, and then click Sharing. Select the Existing guests’ option and select Save.
+
+Existing Guests allows external sharing with users who already appear in your Azure Active Directory. External users will appear here if they have previously accepted sharing invitations, or if you manually added them (https://docs.microsoft.com/en-us/azure/active-directory/b2b/b2b-quickstart-add-guest-users-portal) in the Azure Portal. To use this option, go to your SharePoint admin center, and in the left pane under Sites select Active sites. Select the proper site, and then click Sharing. Select the Existing guests’ option and select Save.
+
 Authenticated: New and Existing Guests
+
 New and Existing Guests allows new users to access your files via an invitation link. To use this option, go to your SharePoint admin center, and in the left pane under Sites select Active sites. Select the proper site, and then click Sharing. Select the New and existing guests’ option and select Save. As an administrator, you can share a site with new users, and site users can share any files held on this site. When they share a file, the new user will receive an email invitation with a link. They will then either sign into their Microsoft account or enter a verification code. If they use a Microsoft account, they will be automatically added to your Azure Directory. If they use a verification code, they won’t be, and they will have to use a code every time they want to access files.
+
 Anonymous Sharing:
+
 If you use this option, anyone with a link will be able to view and edit the relevant files. This can be a quick way of giving external users access to your files, but you should be very careful when using it, because you will have little oversight as to how your files are being accessed, used, and further shared. To enable this option, go to your SharePoint admin center, and in the left pane under Sites select Active sites. Select the proper site, and then click Sharing. Select the Anyone option and select Save.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2914
-Created
-Thu 9/29/22 9:54 AM
-Modified
-Thu 9/29/22 9:54 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2914&SIDs=2591">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2914&SIDs=2591</a><br /><br />SharePoint Online Sharing Levels
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+

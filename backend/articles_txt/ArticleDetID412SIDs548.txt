@@ -1,114 +1,28 @@
+
+  Canvas – Adding External Tools to your Course in Canvas
 
 
-	Article - Canvas – Adding External To...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas – Adding External Tools to your Course in Canvas
-Canvas – Adding External Tools to your Course in Canvas
-Adding External Tools to your Course in Canvas
 To add an external tool to your course:
-Click on
-Modules
-in the navigation bar, and either create a new module (
-+Module
-) or edit an existing module.
-In the appropriate module, click the
-+
-icon in the header to add an item to the module; select
-External Tool
-from the dropdown menu.
+
+Click on Modules in the navigation bar, and either create a new module (+Module) or edit an existing module.
+
+In the appropriate module, click the + icon in the header to add an item to the module; select External Tool from the dropdown menu.
+
 Select the desired LTI tool from the list.
-Check the ‘
-Load in a new tab
-’ box.
-Click
-Add item
-to save.
-Click the
-Publish
-icon to the right of the LTI tool link.
-If the module is not yet published, click the
-Publish
-icon to the right of the module title.
+
+Check the ‘Load in a new tab’ box.
+
+Click Add item to save.
+
+Click the Publish icon to the right of the LTI tool link.
+
+If the module is not yet published, click the Publish icon to the right of the module title.
+
 Click the link for the app to test the integration.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-412
-Created
-Wed 9/9/20 4:14 PM
-Modified
-Fri 8/20/21 2:44 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=412&SIDs=548">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=412&SIDs=548</a><br /><br />Canvas – Adding External Tools to your Course in Canvas
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

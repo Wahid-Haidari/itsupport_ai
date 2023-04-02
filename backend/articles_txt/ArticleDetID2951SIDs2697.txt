@@ -1,96 +1,18 @@
+
+  Qualtrics - Troubleshooting Email Delivery from Qualtrics
 
 
-	Article - Qualtrics - Troubleshooting...
+Qualtrics can send emails from active surveys in the form of a Workflow, (https://www.qualtrics.com/support/survey-platform/actions-module/setting-up-actions/) a Distribution (https://www.qualtrics.com/support/survey-platform/distributions-module/distributions-overview/), or from certain types of reports. If these emails stop arriving, you may need to troubleshoot.
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Research
-Qualtrics - Troubleshooting Email Delivery from Qualtrics
-Qualtrics - Troubleshooting Email Delivery from Qualtrics
-Qualtrics can send emails from active surveys in the form of a
-Workflow,
-a
-Distribution
-, or from certain types of reports. If these emails stop arriving, you may need to troubleshoot.
 First, ensure that your “From” address is set up correctly. When setting up an email, Qualtrics typically will provide you with a default email address that looks something like “noreply@qemailserver.com.” This is not a real email address, but it is what respondents will see as the “From” address in their email inbox.
-Email security systems may flag this address as spam. To fix this, the first part of the address can be left as “noreply” or changed to something else if preferred. The second part of the address, “qemailserver.com,”
-needs to be changed to “ou.edu” or “ouhsc.edu”
-to prevent email servers from blocking the message. For example, “noreply@ou.edu” would work. Again, this is not a real email address, but it is what respondents will see.
+
+Email security systems may flag this address as spam. To fix this, the first part of the address can be left as “noreply” or changed to something else if preferred. The second part of the address, “qemailserver.com,” needs to be changed to “ou.edu” or “ouhsc.edu” to prevent email servers from blocking the message. For example, “noreply@ou.edu” would work. Again, this is not a real email address, but it is what respondents will see.
+
 Once this has been updated, check to make sure that emails are now sending correctly. If anyone is still not receiving the emails, it may be that Qualtrics has blocked their email address. When emails from Qualtrics bounce or get marked as spam, sometimes Qualtrics will block the recipient. To fix this, please reach out to OU IT for support at the form for your campus:
-Norman Qualtrics Support
-HSC Qualtrics Support
-Tulsa Qualtrics Support
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2951
-Created
-Thu 2/23/23 8:32 AM
-Modified
-Thu 2/23/23 4:31 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2951&SIDs=2697">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2951&SIDs=2697</a><br /><br />Qualtrics - Troubleshooting Email Delivery from Qualtrics
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Norman Qualtrics Support (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=82&SIDs=1845)
+
+HSC Qualtrics Support (https://itsupport.ou.edu/TDClient/34/OKC/Requests/ServiceDet?ID=82&SIDs=2326)
+
+Tulsa Qualtrics Support (https://itsupport.ou.edu/TDClient/33/Tulsa/Requests/ServiceDet?ID=82&SIDs=2328)
+

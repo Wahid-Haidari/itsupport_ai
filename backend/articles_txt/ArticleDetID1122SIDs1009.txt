@@ -1,100 +1,26 @@
+
+  How to upload Media directly to Media Gallery?
 
 
-	Article - How to upload Media directl...
+If the course managers/instructors allow students/users to contribute media to the media Gallery, Students can see the Add Media button. To add media, click on +Add Media button.  
 
+You will be directed to your MyMedia page. 
 
+ 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-How to upload Media directly to Media Gallery?
-How to upload Media directly to Media Gallery?
-If the course managers/instructors allow students/users to contribute media to the media Gallery, Students can see the Add Media button. To add media, click on +Add Media button.
-You will be directed to your My
-M
-edia page.
 Select one or more media items from the list by checking the checkbox on the left of each video. Sorting and Filtering options are available or simply search by clicking on the search icon to find desired media. Select the media you want and click on the publish button to publish the media to the media gallery.
-Alternatively, you can directly upload media to media gallery
-.
-To upload a new media, click on the ADD NEW button on the right.
+
+Alternatively, you can directly upload media to media gallery. To upload a new media, click on the ADD NEW button on the right.
+
+
+
 In case Share Repository is enabled for the user, you can see the Shared Repository tab next to MyMedia tab. You can select media from the repository and publish it in the Media Gallery.
-Your Media will be published and visible immediately in the media gallery unless the Media Gallery has the moderate content option on. In this case the media will be moderated by your instructor or moderator based on the approval process.
-(click here to set up conte
-nt moderation).
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1122
-Created
-Fri 1/22/21 2:02 PM
-Modified
-Wed 8/18/21 2:09 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1122&SIDs=1009">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1122&SIDs=1009</a><br /><br />How to upload Media directly to Media Gallery?
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Your Media will be published and visible immediately in the media gallery unless the Media Gallery has the moderate content option on. In this case the media will be moderated by your instructor or moderator based on the approval process. (click here to set up content moderation).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

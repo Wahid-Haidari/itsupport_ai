@@ -1,149 +1,86 @@
+
+  Exporting and Importing Grades in Banner
 
 
-	Article - Exporting and Importing Gra...
+Note: The process for entering Final Grades is similar. Simply select Final Grades instead of Midterm Grades where applicable. 
 
+If you are the Instructor of Record looking to import your grades in Banner from an Excel document, please follow the instructions below. However, if you already have your grades entered into Canvas, you may wish to import them into ONE instead of entering them manually. Learn more about importing Canvas grades into ONE (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=397). 
 
+1. Navigate to one.ou.edu (http://one.ou.edu/) and log in. 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Exporting and Importing Grades in Banner
-Exporting and Importing Grades in Banner
-Note: The process for entering Final Grades is similar. Simply select Final Grades instead of Midterm
-Grades where applicable.
-If you are the Instructor of Record looking to import your grades in Banner from an Excel document, please follow the instructions below. However, if you already have your grades entered into Canvas, you may wish to import them into ONE instead of entering them manually. Learn more about
-importing Canvas grades into ONE
-.
-1. Navigate to
-one.ou.edu
-and log in.
-2. Some accounts have access to both the employee and student versions of ONE. Check you are on the employee version by clicking on your picture and ensuring
-Employee
-is selected from the drop-down menu.
-3. Ensure you are on the
-Courses
-page. Use the left sidebar to navigate to the page if needed.
-4. Find the course you would like to enter grades
-for, and click on it to view the course details.
-5. Select the
-Grades
-tab
-, then the Edit in Banner button.
-7. A new window will open in Banner. If prompted, log in using your OU Net ID and password.
-8.
-Select Midterm Grades and then select the appropriate course underneath.
+2. Some accounts have access to both the employee and student versions of ONE. Check you are on the employee version by clicking on your picture and ensuring Employee is selected from the drop-down menu.  
+
+ 
+
+3. Ensure you are on the Courses page. Use the left sidebar to navigate to the page if needed.  
+
+ 
+
+4. Find the course you would like to enter grades for, and click on it to view the course details. 
+
+5. Select the Grades tab, then the Edit in Banner button. 
+
+ 
+
+7. A new window will open in Banner. If prompted, log in using your OU Net ID and password. 
+
+8. Select Midterm Grades and then select the appropriate course underneath. 
+
 9. Click the gear icon in the upper left to access the export and import tools.
+
+
+
 Export Grades Template
+
 Exporting the grading template can be useful/helpful in two ways.
+
 First, at the beginning of the term, if you would like to have a template of your course in which to maintain grades, you can export the standard template from this page to use throughout the semester. This is not required, even if you wish to upload grades from an Excel file, it is just one of the options.
+
 Second, at the end of term, this export is a quick and easy way to save a copy of the grades you entered for that course. There is not a print option available, so this functionality provides a way to save a copy of what you entered.
+
 It is recommended that you not alter the structure of the exported document to avoid issues when importing later.
-1. To export the template, click on
-Export Template
-. You will see the following pop up box:
-2. Select the format you would like to use to save the template (either one can be imported/uploaded with grades) and click
-Export
-.
-3. An Excel file will open with all of the students in the course, with columns designated for midterm grades and last date of attendance. (For final grades or if exporting a copy after previously entering grades, please note: any grades previously entered for this course (Midterm or Final) will be exported with the template). This file can be used to maintain your grades throughout the semester if desired, or can simply be used as a copy of the final (or midterm) grades entered. It is recommended that you not alter the structure of the exported document to avoid issues when importing later.
+
+1. To export the template, click on Export Template. You will see the following pop up box:
+
+
+
+2. Select the format you would like to use to save the template (either one can be imported/uploaded with grades) and click Export.
+
+3. An Excel file will open with all of the students in the course, with columns designated for midterm grades and last date of attendance. (For final grades or if exporting a copy after previously entering grades, please note: any grades previously entered for this course (Midterm or Final) will be exported with the template). This file can be used to maintain your grades throughout the semester if desired, or can simply be used as a copy of the final (or midterm) grades entered. It is recommended that you not alter the structure of the exported document to avoid issues when importing later.
+
 Importing Grades from an Exported one.ou.edu template or other Excel File
-1. If you exported a course template from the one.ou.edu grading page, input the necessary grade information and save. It is recommended that you not otherwise alter the structure of the document.
-2. Once your grades are saved in the file, click the gear icon in the upper left and select
-Import
-.
-3. The Import Grades dialog box will appear for you to select a file to import. Click on the
-Browse
-button to find the file on your computer.
+
+1. If you exported a course template from the one.ou.edu grading page, input the necessary grade information and save. It is recommended that you not otherwise alter the structure of the document.
+
+2. Once your grades are saved in the file, click the gear icon in the upper left and select Import. 
+
+
+
+3. The Import Grades dialog box will appear for you to select a file to import. Click on the Browse button to find the file on your computer.
+
+
+
 4. Once you have found the correct file and selected it, click Continue.
-5. You will then get the following page, showing you the outline of your imported spreadsheet. Click
-Continue
-.
-6. You will get a page that maps the columns to be imported. The only columns that need to be defined are the Student ID, the Final Grade, and the Last Date of Attendance columns. You can scroll through the spreadsheet to see what is going to be imported. Use the drop-down menus to correct any wrongly labeled columns. This may be necessary if you did not use the exported template. Once the column designations are correct, click
-Continue.
-7. You will get the following notice, which includes how many grades were imported and if there were any errors. You can click on
-Download the validation report
-to see any messages from the import.
-8. The validation report will open up in another Excel file, and will have an additional column for errors. Grades/dates will not be imported if there was an error. Once you have verified/corrected the data to be imported, click
-Continue
-. You will get a notification of exactly what was imported successfully and what was not.
-9. Click on
-Finish
-, and it will take you back to the grading page, where you can verify exactly what was imported. Click
-Save
-to save the imported grades.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-324
-Created
-Wed 9/9/20 8:21 AM
-Modified
-Wed 10/13/21 1:52 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=324&SIDs=444">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=324&SIDs=444</a><br /><br />Exporting and Importing Grades in Banner
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+5. You will then get the following page, showing you the outline of your imported spreadsheet. Click Continue.
+
+
+
+6. You will get a page that maps the columns to be imported. The only columns that need to be defined are the Student ID, the Final Grade, and the Last Date of Attendance columns. You can scroll through the spreadsheet to see what is going to be imported. Use the drop-down menus to correct any wrongly labeled columns. This may be necessary if you did not use the exported template. Once the column designations are correct, click Continue.
+
+
+
+7. You will get the following notice, which includes how many grades were imported and if there were any errors. You can click on Download the validation report to see any messages from the import.
+
+
+
+8. The validation report will open up in another Excel file, and will have an additional column for errors. Grades/dates will not be imported if there was an error. Once you have verified/corrected the data to be imported, click Continue. You will get a notification of exactly what was imported successfully and what was not.
+
+
+
+9. Click on Finish, and it will take you back to the grading page, where you can verify exactly what was imported. Click Save to save the imported grades.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,99 +1,22 @@
+
+  Activate Create.ou.edu Webspace
 
 
-	Article - Activate Create.ou.edu Webs...
+Create.ou.edu (http://create.ou.edu/) offers students, faculty, and staff the opportunity to build and maintain a digital identity by facilitating both the registration of web domains (.com, .org, .net) or subdomain and easy installation of popular open-source applications such as WordPress, MediaWiki, Drupal, and Omeka. In providing users with access to these tools, Create aims to empower all members of the OU community to craft and control their digital narrative through the use of blogs, portfolios, wikis, and more.
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Activate Create.ou.edu Webspace
-Activate Create.ou.edu Webspace
-Create.ou.edu
-offers students, faculty, and staff the opportunity to build and maintain a digital identity by facilitating both the registration of web domains (.com, .org, .net) or subdomain and easy installation of popular open-source applications such as WordPress, MediaWiki, Drupal, and Omeka. In providing users with access to these tools, Create aims to empower all members of the OU community to craft and control their digital narrative through the use of blogs, portfolios, wikis, and more.
 Activate Create Webspace
-Go to
-https://create.ou.edu/new-login-page/
-(opens in new window).
+
+Go to https://create.ou.edu/new-login-page/ (https://create.ou.edu/new-login-page/) (opens in new window).
+
 Log in using OUNetID and password.
+
 Now follow the onscreen prompts to create your sub-domain or domain address. Note that sub-domains are free for OU students, faculty and staff. Custom domains can be acquired through the site for $12/year.
-Additional support information is available through the create.ou.edu support site
-here
-. Assistance options include a FAQ section, a Wiki with support documentation, LinkedIn Learning training and in person training events.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-431
-Created
-Thu 9/10/20 8:52 AM
-Modified
-Wed 8/10/22 8:42 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=431&SIDs=490">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=431&SIDs=490</a><br /><br />Activate Create.ou.edu Webspace
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Additional support information is available through the create.ou.edu support site here (http://create.ou.edu/support-main/). Assistance options include a FAQ section, a Wiki with support documentation, LinkedIn Learning training and in person training events.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

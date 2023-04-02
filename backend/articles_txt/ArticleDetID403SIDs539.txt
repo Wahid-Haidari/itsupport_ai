@@ -1,107 +1,38 @@
+
+  Canvas Support
 
 
-	Article - Canvas Support
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas Support
-Canvas Support
-What does Canvas support?
 Not all Canvas-related issues are handled by OU IT. For some issues, you will need to contact Canvas directly for support. Please contact Canvas if you need assistance with the following:
+
 Adding/changing quizzes
+
 Copying course content.
+
 Copying course content from an old course.
+
 Grade issues
+
 Discussion boards usage
+
 Creating news items
+
 Dropbox usage (within Canvas)
+
 Managing files and folders in their course
+
 Questions regarding non-standard courses.
-How do I contact Canvas?
+
 Canvas Support Hotline: 1-844-629-6842
+
 The Help option on the Global Navigation bar in Canvas (where Account, Dashboard, Courses, etc. are located)
+
 The Canvas support line is an option in OU IT’s 325-HELP call tree
+
 Additional resources
-Canvas guides can be found
-here
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-403
-Created
-Wed 9/9/20 4:02 PM
-Modified
-Fri 8/13/21 3:46 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=403&SIDs=539">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=403&SIDs=539</a><br /><br />Canvas Support
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Canvas guides can be found here (https://community.canvaslms.com/community/answers/guides/canvas-guide).
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

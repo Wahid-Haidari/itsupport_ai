@@ -1,95 +1,34 @@
+
+  Connecting to WIFI@OU with iOS
 
 
-	Article - Connecting to WIFI@OU with iOS
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-Connecting to WIFI@OU with iOS
-Connecting to WIFI@OU with iOS
 Go to Settings and then Wi-Fi.
+
+
+ 
+
 Select WIFI@OU as the network.
-For "Username", if you are a Norman campus user, enter your OUNetID; if you are an HSC campus user, enter your HSC username. Then enter your OU password.
-Choose "Trust" in the top right corner when prompted to verify the Certificate.
-Please note: If you have attempted to connect to any other OU networks such as OUGuest, you will need to first "forget" that network before attempting to connect to WIFI@OU.  For instructions on forgetting a wireless network, refer to the
-"Forgetting a Wireless Network"
-article.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-485
-Created
-Fri 9/11/20 9:47 AM
-Modified
-Tue 2/7/23 11:17 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=485&SIDs=610">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=485&SIDs=610</a><br /><br />Connecting to WIFI@OU with iOS
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+ 
+
+For "Username", if you are a Norman campus user, enter your OUNetID; if you are an HSC campus user, enter your HSC username. Then enter your OU password.
+
+
+ 
+
+Choose "Trust" in the top right corner when prompted to verify the Certificate.
+
+
+
+ 
+
+Please note: If you have attempted to connect to any other OU networks such as OUGuest, you will need to first "forget" that network before attempting to connect to WIFI@OU.  For instructions on forgetting a wireless network, refer to the "Forgetting a Wireless Network" (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=159&SIDs=251) article.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

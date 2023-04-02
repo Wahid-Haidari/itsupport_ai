@@ -1,121 +1,28 @@
+
+  Kaltura Capture: Installation and Basic Functionality
 
 
-	Article - Kaltura Capture: Installati...
+To begin the installation process for Kaltura Capture, you first must navigate to the MyMedia page, located at https://mymedia.ou.edu (https://mymedia.ou.edu/). 
 
+Login by clicking “Guest.” This will open a drop-down menu where you can click “Login” button. You will see the OU SSO page where you can enter your OUNet ID and password. 
 
+You will be redirected to the home page, where you must click the “Add New” drop-down menu and select the option “Kaltura Capture (Replacing CaptureSpace)”. This will bring you to a screen which provides links to download the installation package for your appropriate Operating System (either Windows or Macintosh). 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Kaltura Capture: Installation and Basic Functionality
-Kaltura Capture: Installation and Basic Functionality
-To begin the installation process for Kaltura Capture, you first must navigate to the MyMedia page, located at
-https://mymedia.ou.edu
-.
-Login by clicking
-“
-Guest
-.”
-This will open a
-drop-down menu where you can click
-“
-Login”
-button
-. You will see the OU SSO page where you can enter your
-OUNet
-ID
-and password.
-You will be redirected to the home page, where you must click the
-“Add New”
-drop-down menu and select the option
-“Kaltura Capture (Replacing
-CaptureSpace)”
-.
-This will bring you to a screen which provides links to download the installation package for your appropriate Operating System (either Windows or Macintosh).
-There will be a list of supported system requirements and clicking on the link will prompt a download automatically.
-Navigate to the
-Downloads
-section of your browser and open the installation file. This will open the Kaltura Installer and the process should
-complete within a few minutes, depending on the speed of your machine.
-A dialog box will then prompt you to return to MyMedia and attempt to click the same Kaltura Capture button under the Add New drop-down menu once again.
-This will prompt an External Protocol Request to access the application and launch it from your system. Click
-“Launch Application”.
-Please note – on Mac OS Catalina, you will need to take the additional step of going to System Preferences, then Security & Privacy, and then grant permission allowing the screen to be recorded.
-Voila! You should be staring at the Desktop Recorder!
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-362
-Created
-Wed 9/9/20 1:26 PM
-Modified
-Thu 9/2/21 12:53 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=362&SIDs=501">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=362&SIDs=501</a><br /><br />Kaltura Capture: Installation and Basic Functionality
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+  
+
+There will be a list of supported system requirements and clicking on the link will prompt a download automatically. 
+
+Navigate to the Downloads section of your browser and open the installation file. This will open the Kaltura Installer and the process should complete within a few minutes, depending on the speed of your machine. 
+
+A dialog box will then prompt you to return to MyMedia and attempt to click the same Kaltura Capture button under the Add New drop-down menu once again. 
+
+This will prompt an External Protocol Request to access the application and launch it from your system. Click “Launch Application”. Please note – on Mac OS Catalina, you will need to take the additional step of going to System Preferences, then Security & Privacy, and then grant permission allowing the screen to be recorded. 
+
+Voila! You should be staring at the Desktop Recorder! 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

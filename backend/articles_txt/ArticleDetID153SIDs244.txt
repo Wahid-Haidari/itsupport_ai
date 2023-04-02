@@ -1,97 +1,28 @@
+
+  Connecting to WIFI@OU on MacOS
 
 
-	Article - Connecting to WIFI@OU on MacOS
+From the desktop, select the WIFI icon. On the drop down menu, select WIFI@OU SSID. 
 
+ 
 
+Enter your OU Net ID and password. 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-Connecting to WIFI@OU on MacOS
-Connecting to WIFI@OU on MacOS
-From the desktop, select the WIFI icon. On the drop down menu, select WIFI@OU SSID.
-Enter your OU Net ID and password.
-Select Continue when the Verify Certificate prompt appears.
-Enter your computer’s username and password to update the Certificate Trust Settings. NOTE: This is
-not
-your OU Net ID and password. ​​​​​​​
-For more information about WIFI@OU, please visit this
-article
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-153
-Created
-Fri 9/4/20 9:11 AM
-Modified
-Fri 3/4/22 8:17 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=153&SIDs=244">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=153&SIDs=244</a><br /><br />Connecting to WIFI@OU on MacOS
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+ 
+
+Select Continue when the Verify Certificate prompt appears. 
+
+ 
+
+Enter your computer’s username and password to update the Certificate Trust Settings. NOTE: This is not your OU Net ID and password. ​​​​​​​
+
+ 
+
+For more information about WIFI@OU, please visit this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=95).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

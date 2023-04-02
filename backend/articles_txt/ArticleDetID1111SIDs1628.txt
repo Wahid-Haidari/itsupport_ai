@@ -1,98 +1,20 @@
+
+  Ordering Machine Captions from MyMedia
 
 
-	Article - Ordering Machine Captions f...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Ordering Machine Captions from MyMedia
-Ordering Machine Captions from MyMedia
-Machine captions are automatically created by MyMedia when a video is uploaded to your account. In the event these captions are not created for your video, the captions can be ordered by following the steps below.
 Go to mymedia.ou.edu, click Guest (or your name) in the upper right corner, and then select “My Media” from the list that appears.
+
 Find the video you want to order captions for and click the title of the video.
-Scroll down beneath the video player and press the arrow next to Actions. Select “Caption & Enrich” from the list displayed.
+
+Scroll down beneath the video player and press the arrow next to Actions. Select “Caption & Enrich” from the list displayed. 
+
 Press the blue button that says “+ Order” to fill out the caption order request.
-After selecting Machine as Service options for the captions, press the blue “Submit” button to order the captions for your video.
-*Note: If Professional is Selected under Service, your captions will not work. This feature is not setup yet. If you need human captioning for your videos, please contact the ADRC at
-ADRC@ou.edu
-.
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1111
-Created
-Thu 1/7/21 10:01 AM
-Modified
-Wed 8/18/21 2:52 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1111&SIDs=1628">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1111&SIDs=1628</a><br /><br />Ordering Machine Captions from MyMedia
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+After selecting Machine as Service options for the captions, press the blue “Submit” button to order the captions for your video. 
+
+*Note: If Professional is Selected under Service, your captions will not work. This feature is not setup yet. If you need human captioning for your videos, please contact the ADRC at ADRC@ou.edu (mailto:ADRC@ou.edu).
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

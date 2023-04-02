@@ -1,107 +1,88 @@
+
+  Adding Laserfiche Repositories in VDI
 
 
-	Article - Adding Laserfiche Repositor...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-Adding Laserfiche Repositories in VDI
-Adding Laserfiche Repositories in VDI
 Adding Laserfiche Repositories through the Laserfiche desktop App in VDI
+
 (mydesk.ou.edu and mydesknor.ou.edu)
+
 Login to Horizon VDI following the instructions at the links below.
-Norman programs (mydesknor.ou.edu)
-HSC programs (mydesk.ou.edu)
+
+Norman programs (mydesknor.ou.edu) (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=287)
+
+HSC programs (mydesk.ou.edu) (https://ouitservices.service-now.com/kb_view.do?sysparm_article=KB0012079)
+
 Tulsa – Use link for your program’s home campus
+
+ 
+
 Select COOP Remote Pool.
+
+
+
+ 
+
 Open the Laserfiche Application.
+
+
+
+ 
+
 To attach a repository, click the “Attach” button.
+
+
+
+ 
+
 In the address field of the popup window, enter the server name where your repository is hosted.
+
 See list of Servers and Repositories below.
+
 For example, to add a repository from the s2-lf-app4 server, type “s2-lf-app4.net.ou.edu” in the address field.
+
 Ensure the “Use SSL connection” box is unchecked.
+
+
+
+ 
+
 Select the repository you want to attach from the dropdown list.
+
+
+
+ 
+
 Click attach.
+
+
+
+ 
+
 At the Login popup window, choose “Windows authentication” and click “OK.”
+
+
+
+ 
+
 You now have access to the repository.
+
+
+
+ 
+
 To attach another repository, choose “File” and “Attach Repository” and follow the same you used to add the previous repository.
+
+
+
+ 
+
 To close the window for a repository, choose “File” and “Close Window.”
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-486
-Created
-Mon 9/14/20 8:48 AM
-Modified
-Mon 9/13/21 1:41 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=486&SIDs=1139">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=486&SIDs=1139</a><br /><br />Adding Laserfiche Repositories in VDI
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,103 +1,43 @@
+
+  Saving Live Transcription from Zoom
 
 
-	Article - Saving Live Transcription f...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Saving Live Transcription from Zoom
-Saving Live Transcription from Zoom
 Enabling Live Transcription on Your Zoom Account
-For directions on how to enable closed captioning and live transcription for your account, please use
-this Zoom Support Link
-.
+
+For directions on how to enable closed captioning and live transcription for your account, please use this Zoom Support Link (http://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription#h_5ae2ddf1-fca4-40ac-9776-3d8a483d9df9).
+
 You will also need to enable the “Save Captions” option directly beneath where you enabled live transcription. If this setting is not enabled, the transcript cannot be saved to your computer.
+
+
+
 After configuring these settings, the Closed Captions options will be available to you in the Zoom Client during your next meeting.
-Starting and Saving Live Transcription
+
+Starting and Saving Live Transcription 
+
 Start a Zoom meeting.
+
 Click the Closed Captions icon in the toolbar, it will say “Live Transcript” beneath it.
+
+
+
 To enable Live Transcription, click “Enable Auto-Transcription” and the live transcription will start automatically. The transcription will be seen as subtitles on the screen whenever someone is speaking.
+
 An arrow pointing up will now be near the Closed Captions icon, click this arrow to view the full transcript for the meeting, change caption settings, or to hide the captions on screen.
+
+
+
 If you click “View Full Transcript” you can see the entire transcript for the meeting, as well as save the transcript to your computer. Click “Save Transcript” to save the transcript to a folder on your computer. The transcript does not automatically save to your computer, you must click “Save Transcript.”
-NOTE:
-It is best to save the transcript when you are finished with any talking and discussion in your meeting to save the entire transcript. It is also recommended to wait a few seconds after all talking has ceased to save the transcript to ensure all audio has been transcribed.
+NOTE: It is best to save the transcript when you are finished with any talking and discussion in your meeting to save the entire transcript. It is also recommended to wait a few seconds after all talking has ceased to save the transcript to ensure all audio has been transcribed.
+
+
+
 After ending the meeting, the folder containing the transcript will pop-up and you can review the transcript.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1787
-Created
-Mon 3/22/21 11:40 AM
-Modified
-Mon 9/13/21 1:36 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1787&SIDs=1180">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1787&SIDs=1180</a><br /><br />Saving Live Transcription from Zoom
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

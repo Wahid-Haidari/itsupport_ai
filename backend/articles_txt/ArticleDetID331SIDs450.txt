@@ -1,151 +1,124 @@
+
+  Adding OU Contacts to your non-OU Skype Account
 
 
-	Article - Adding OU Contacts to your ...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-Adding OU Contacts to your non-OU Skype Account
-Adding OU Contacts to your non-OU Skype Account
 If you are a non-OU account Skype user, you can add OU contacts to your contact list. Please see below for instructions based on whether you use a Windows machine or Mac.
-Please note that in some cases Skype Contact requests to Skype for Business users may not be transmitted. Microsoft is aware of this problem but no solution has currently been published. If your contact request does not go through, you may wish to contact the OU account user and have them add your Skype account to their Contact list, this should complete the Contact approval process and allow their account to appear on your Contact list. This process is outlined
-here
-.
-Windows
+
+Please note that in some cases Skype Contact requests to Skype for Business users may not be transmitted. Microsoft is aware of this problem but no solution has currently been published. If your contact request does not go through, you may wish to contact the OU account user and have them add your Skype account to their Contact list, this should complete the Contact approval process and allow their account to appear on your Contact list. This process is outlined here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=330).
+
 Skype for Windows 10
+
 To add an OU user, first sign in to Skype using your e-mail address and password.
+
 Next click into the Search Skype field.
+
 Enter the user’s OU e-mail address to locate them in the Public Directory.
+
 Click the result to open their profile.
+
 Click their e-mail address to open their account options.
+
 Select Add Contact to add them to your contact list.
+
 The user will be sent a request to add them to your contact list.
+
 Finally click OK.
+
 The OU contact should now be listed in your desired Contact group.
+
+ 
+
 Skype for Windows (Full version aka non-App version)
+
 To add an OU user, first sign in to Skype using your e-mail address and password.
+
 Click the Contacts tab, then Add Contact then Search Skype Directory…
+
 Enter the user’s OU e-mail address to locate them in the Directory.
+
 Click the result to open their profile.
+
 Select Add to Contacts to add them to your contact list.
+
 The user will be sent a request to add them to your contact list.
+
 Once the OU contact accepts, they should be listed in your Contact list.
+
+ 
+
 Skype for Business
+
 To add an OU user, first sign in to Skype using your e-mail address and password.
+
 Next click the invite contacts button.
+
 Select Add a contact Not in My Organization.
+
 Select Skype for Business.
+
 Enter the user’s OU e-mail address.
+
 Select which Contact group you wish to add them to, as well as the privacy relationship.
+
 Finally click OK.
+
 The OU contact should now be listed in your desired Contact group.
+
 Web Skype Client
-To access, please open your web browser and go to
-https://web.skype.com/en
-.
+
+To access, please open your web browser and go to https://web.skype.com/en (https://web.skype.com/en/).
+
 Sign in using your normal Skype login username and password.
+
 On the left hand side of the screen, click into the Search Skype field.
+
 Enter the user’s OU e-mail address and click the magnifying glass icon.
+
 By default, it will be unable to locate the address and say “No Results found”. Click the Search Skype Directory option below.
+
 The OU address should now be found in the Directory.
+
 Click on the address to bring up options.
+
 Click the Add to Contacts button. An approval will now be sent to the OU system to approve the contact addition. Within 4-5 minutes, the system should automatically approve the request.
-Mac
+
 Note that some users report issues with these applications failing to send Contact approvals.
+
 Skype
+
 To add an OU user, first sign in to Skype using your e-mail address and password.
+
 Click on the Contacts tab, then Add Contact.
+
 Enter the user’s OU e-mail address and click Find.
+
 When the OU user’s e-mail address is found, click the invite user circle icon to the right of their name.
+
 Enter a message to request the OU user as a contact and hit Send.
+
 Once the OU user approves the addition, you will see them in your contact list.
+
 Web Skype Client
-To access, please open your web browser and go to
-https://web.skype.com/en
-.
+
+To access, please open your web browser and go to https://web.skype.com/en (https://web.skype.com/en/).
+
 Sign in using your normal Skype login username and password.
+
 On the left hand side of the screen, click into the Search Skype field.
+
 Enter the user’s OU e-mail address and click the magnifying glass icon.
+
 By default, it will be unable to locate the address and say “No Results found”. Click the Search Skype Directory option below.
+
 The OU address should now be found in the Directory.
+
 Click on the address to bring up options.
+
 Click the Add to Contacts button. An approval will now be sent to the OU system to approve the contact addition. Within 4-5 minutes, the system should automatically approve the request.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-331
-Created
-Wed 9/9/20 9:18 AM
-Modified
-Fri 9/11/20 10:22 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=331&SIDs=450">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=331&SIDs=450</a><br /><br />Adding OU Contacts to your non-OU Skype Account
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

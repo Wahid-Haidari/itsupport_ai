@@ -1,114 +1,46 @@
+
+  Qualtrics - Collaboration
 
 
-	Article - Qualtrics - Collaboration
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Research
-Qualtrics - Collaboration
-Qualtrics - Collaboration
-Adding Collaborators to your Survey Project
 Qualtrics allows for working with collaborators on a survey project. This article covers both collaborating with other members of the OU community and collaborating with people outside the university.
-Collaborating with other OU faculty, staff, or students
+
 To collaborate with others at OU, everyone must first activate their Qualtrics accounts. For information on activating your account visit the first-time login article for your campus:
-Norman
-OKC
-Tulsa
+
+Norman (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=342&SIDs=1668)
+
+OKC (https://itsupport.ou.edu/TDClient/34/OKC/KB/ArticleDet?ID=342&SIDs=2300)
+
+Tulsa (https://itsupport.ou.edu/TDClient/33/Tulsa/KB/ArticleDet?ID=342&SIDs=2311)
+
 Once everyone has an active account, follow the steps below to add OU collaborators.
+
 Open the survey builder. This is the default page when you first open the survey.
-Click the
-Tools
-dropdown menu.
-Select
-Collaborate.
-Select
-User and Group Address Book
-.
-NOTE: Using this method will ensure that the survey is linked correctly between the accounts and eliminates the need to accept a sharing invitation or use a collaboration code.
+
+Click the Tools dropdown menu.
+
+Select Collaborate.
+
+
+
+Select User and Group Address Book. NOTE: Using this method will ensure that the survey is linked correctly between the accounts and eliminates the need to accept a sharing invitation or use a collaboration code.
+
+
+
 Search for the person you wish to collaborate with.
+
 Select their account from the list. If they are not on the list, they may not have activated their OU account yet.
-Click
-Add Selected.
-Select what permissions your collaborator should have. Qualtrics has an article about
-Collaboration Permissions
-if you would like more information.
-Click
-Save.
-Collaborating with people outside OU
-OU accounts can collaborate with accounts outside OU. Visit Qualtrics’ help article on
-Collaborating Outside your Organization
-for more information and step-by-step instructions.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2800
-Created
-Mon 3/7/22 4:45 PM
-Modified
-Thu 9/15/22 1:49 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2800&SIDs=2348">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2800&SIDs=2348</a><br /><br />Qualtrics - Collaboration
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Click Add Selected.
+
+
+
+Select what permissions your collaborator should have. Qualtrics has an article about Collaboration Permissions (https://www.qualtrics.com/support/survey-platform/my-projects/sharing-a-project/#SharingPermissions) if you would like more information.
+
+
+
+Click Save.
+
+ 
+
+OU accounts can collaborate with accounts outside OU. Visit Qualtrics’ help article on Collaborating Outside your Organization (https://www.qualtrics.com/support/survey-platform/my-projects/sharing-a-project/#SharingOutsideYourOrganizationAndWithNewUsers) for more information and step-by-step instructions.
+

@@ -1,115 +1,41 @@
+
+  MyDesk (VDI) Norman Work From Home Solution – Browser Access
 
 
-	Article - MyDesk (VDI) Norman Work Fr...
+Unsure on which Work From Home product to choose? Use this guide to help decide (http://ou.edu/dam/IT/remote_work_matrix031920.png).
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-MyDesk (VDI) Norman Work From Home Solution – Browser Access
-MyDesk (VDI) Norman Work From Home Solution – Browser Access
-Unsure on which Work From Home product to choose?
-Use this guide to help decide
-.
 In an effort to maintain productivity and maximize flexibility as the University responds to COVID-19, OU IT has extended the VMware Horizon Virtual Desktop service (VDI) to tri-campus Faculty and Staff.
-Please note, you will need to install PingID and then authenticate to get access to this program, please see
-this page
-for more.
-VDI delivers a CLEAN desktop with secure, encrypted access to network services.
-VDI does NOT duplicate your on-campus desktop computer.
-Files stored locally on your on-campus computer are not accessible via VDI.
+
+Please note, you will need to install PingID and then authenticate to get access to this program, please see this page (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2573) for more.
+
+VDI delivers a CLEAN desktop with secure, encrypted access to network services. VDI does NOT duplicate your on-campus desktop computer. Files stored locally on your on-campus computer are not accessible via VDI.
+
 Accessing VDI:
-Navigate to
-https://mydesknor.ou.edu
-and sign in using your OUNet ID (4×4).
+
+Navigate to https://mydesknor.ou.edu (https://mydesknor.ou.edu/) and sign in using your OUNet ID (4×4).
+
 Click on VMware Horizon HTML Access.
+
+
 Enter your OU Username and Password.
-You should also now be promoted to accept the authentication in PingID.
+
+
+You should also now be promoted to accept the authentication in PingID. 
+
 Select COOP Remote Pool from the list of available virtual desktops.
+
+
 Desktop will load using your respective campus credentials.
-If you have problems connecting to Horizon VDI (mydesknor.ou.edu), please contact your local service desk.
-Norman IT Service Desk
-|
-Tulsa IT Service Desk
-.
-To add Laserfiche repositories to VDI, please visit
-this article
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-287
-Created
-Tue 9/8/20 9:37 AM
-Modified
-Thu 12/1/22 10:39 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=287&SIDs=399">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=287&SIDs=399</a><br /><br />MyDesk (VDI) Norman Work From Home Solution – Browser Access
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+If you have problems connecting to Horizon VDI (mydesknor.ou.edu), please contact your local service desk. Norman IT Service Desk (http://needhelp.ou.edu/) | Tulsa IT Service Desk (http://www.ou.edu/tulsa/it/help).
+
+To add Laserfiche repositories to VDI, please visit this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=486).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

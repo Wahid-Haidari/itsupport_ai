@@ -1,119 +1,56 @@
+
+  MyMedia - Adding Users to a Channel
 
 
-	Article - MyMedia - Adding Users to a...
+Note: Canvas has a built-in MyMedia integration called Media Gallery that acts as a channel within your course. We recommend using Media Gallery when possible. Learn more about Media Gallery. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=394&SIDs=531)
 
+To Add users to your channel:
 
+Log in to mymedia.ou.edu. (http://mymedia.ou.edu/)
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-MyMedia - Adding Users to a Channel
-MyMedia - Adding Users to a Channel
-Note: Canvas has a built-in MyMedia integration called Media Gallery that acts as a channel within your course. We recommend using Media Gallery when possible.
-Learn more about Media Gallery.
-To
-Add
-users to your channel:
-Log in to
-mymedia.ou.edu.
-Click on your name (in the top right corner) to open a drop-down menu.
-Select
-My channels
-from the drop-down menu.
+ Click on your name (in the top right corner) to open a drop-down menu.
+
+Select My channels from the drop-down menu.
+
 Locate the channel you want to add/remove users and click on it.
-Click on the
-Users
-Tab.
-Click on
-+ Add Users.
+
+Click on the Users Tab.
+
+Click on + Add Users.
+
+
+
 Type the user's name, email or OUNetID (4x4) and select one of the relevant roles (refer to the table below to see the permission by role).
+
 Click Add.
+
+
+
 Role Name
+
 Activity/Permission
+
 Member
+
 Can only view the channel.
+
 Contributor
+
 Can view and add videos/media to the channel.
+
 Moderator
+
 Can view the channel, add videos/media to the channel and moderate the channel content.
+
 Manager
+
 Can view the channel, add videos/media to the channel, moderate the channel content and manage the channel.
-Note:
-Only the channel manager or owner can add members to the channel.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2538
-Created
-Fri 9/10/21 1:13 PM
-Modified
-Mon 9/13/21 11:50 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2538&SIDs=1718">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2538&SIDs=1718</a><br /><br />MyMedia - Adding Users to a Channel
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Note: Only the channel manager or owner can add members to the channel.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

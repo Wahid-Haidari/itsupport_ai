@@ -1,107 +1,48 @@
+
+  Privacy Settings for MyMedia
 
 
-	Article - Privacy Settings for MyMedia
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Privacy Settings for MyMedia
-Privacy Settings for MyMedia
 MyMedia content can be embedded on other sites, shared via direct link, or posted publicly on mymedia.ou.edu. Although there are many ways to make your media public, there is also a private setting for users who do not wish to share their uploads.
-PRIVACY SETTINGS
-Log in to
-mymedia.ou.edu
-using your OUNet ID.
+
+Log in to mymedia.ou.edu using your OUNet ID.
+
 Next to your user tab there is an “Add New” button.
+
 Select the appropriate option for your upload. For this demo I selected “Media Upload.”
+
 Upload your media.
+
 Under the “Tags” option there will be three privacy settings with a short description of each.
-Private
--Media can only be viewed by the content owner. This is the most private setting of the three.
-Unlisted
--This media will only be visible via a direct link. This will remain private until you share the direct link with others.
-Published
--This is a public post. It will be visible based on the publishing destination and will show up on search results.
-NOTE: To change the publishing status to public you must first agree the terms and conditions by checking the box as shown in the screenshot below. Once you check the box, Click Save. Forgetting to check the box will lock the published feature.
+	
+Private-Media can only be viewed by the content owner. This is the most private setting of the three.
+Unlisted-This media will only be visible via a direct link. This will remain private until you share the direct link with others.
+Published-This is a public post. It will be visible based on the publishing destination and will show up on search results.
+
+
+
+Private-Media can only be viewed by the content owner. This is the most private setting of the three.
+
+Unlisted-This media will only be visible via a direct link. This will remain private until you share the direct link with others.
+
+Published-This is a public post. It will be visible based on the publishing destination and will show up on search results.
+
+NOTE: To change the publishing status to public you must first agree the terms and conditions by checking the box as shown in the screenshot below. Once you check the box, Click Save. Forgetting to check the box will lock the published feature. 
+
 Agreeing with the terms and condition and saving will unlock the published feature and now you can choose the desired category.
+
+
+
 Select your desired option and click save.
+	
 Note: College Categories are not for course content.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-392
-Created
-Wed 9/9/20 2:44 PM
-Modified
-Wed 8/18/21 3:17 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=392&SIDs=529">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=392&SIDs=529</a><br /><br />Privacy Settings for MyMedia
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+Note: College Categories are not for course content.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

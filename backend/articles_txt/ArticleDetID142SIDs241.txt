@@ -1,121 +1,54 @@
+
+  AccessOU
 
 
-	Article - AccessOU
+For devices that cannot connect to WIFI@OU, AccessOU provides a way to register devices and allow them to connect to an OU network by registering their MAC address.
+
+If your device supports encryption, you will need to use WIFI@OU. Devices such as computers and phones will be unable to connect to the internet using AccessOU.
+
+Most gaming devices/systems, smart TV's, and other connected devices without internet browsers (such as smart bulbs, e-readers, Chromecasts, Amazon Echos, Google Nests, etc.) must connect to AccessOU. 
+
+If you are trying to connect a smart device such as Google Home, it will need to connect to AccessOU, while your smart phone connects to WIFI@OU. The two devices should still be able to interact.
+
+ 
 
 
+To begin, use a device currently connected to the Internet to go to access.ou.edu (http://access.ou.edu/) and log in with your OUNetID and password.
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-AccessOU
-AccessOU
-Tags
-Playstation
-Xbox
-Nintendo
-What is AccessOU?
-For devices that cannot connect to WIFI@OU, AccessOU provides a way to register devices and allow them to connect to an OU network by registering their MAC address.
-If your device supports encryption, you will need to use WIFI@OU. Devices such as computers and phones will be unable to connect to the internet using AccessOU.
-Most gaming devices/systems, smart TV's, and other connected devices without internet browsers (such as smart bulbs, e-readers, Chromecasts, Amazon Echos, Google Nests, etc.) must connect to AccessOU.
-If you are trying to connect a smart device such as Google Home, it will need to connect to AccessOU, while your smart phone connects to WIFI@OU. The two devices should still be able to interact.
-How Do I Connect To It?
-Part One: Register Your Device
-To begin, use a device currently connected to the Internet to go to
-access.ou.edu
-and log in with your OUNetID and password.
-Select Create Device.
+
+To begin, use a device currently connected to the Internet to go to access.ou.edu (http://access.ou.edu/) and log in with your OUNetID and password.
+
+Select Create Device. 
+
 Fill in the required fields and select Create.
-Be sure to input your
-wireless
-MAC address, not wired/ethernet MAC address. If you are not sure how to find your MAC/Physical Address, please see
-this page
-for a list of common device and game system MAC/Physical address locations.
-You should receive confirmation that your device was successfully created.
-Selecting Manage Devices on the left hand side should bring you to a list of all devices that you have created.
-You will also receive an email to the address you registered with another confirmation that your device was registered. This confirmation will come from clearpass@ou.edu.
-Part Two: Connect to AccessOU
-AccessOU is a hidden network. You will need to manually add the network to your device, and it will not display as an available network.
-In the WiFi settings for your device, select the option which states to "Add a network manually" or "Add another network" or "Connect to other networks " etc., depending on the operating system you are using.
-For the SSID (network name), input "AccessOU". Please put the A, O, and U in uppercase; the SSID is case-sensitive.
+
+Be sure to input your wireless MAC address, not wired/ethernet MAC address. If you are not sure how to find your MAC/Physical Address, please see this page (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=134) for a list of common device and game system MAC/Physical address locations. 
+
+You should receive confirmation that your device was successfully created. 
+
+Selecting Manage Devices on the left hand side should bring you to a list of all devices that you have created. 
+
+You will also receive an email to the address you registered with another confirmation that your device was registered. This confirmation will come from clearpass@ou.edu. 
+
+ 
+
+AccessOU is a hidden network. You will need to manually add the network to your device, and it will not display as an available network.
+
+In the WiFi settings for your device, select the option which states to "Add a network manually" or "Add another network" or "Connect to other networks " etc., depending on the operating system you are using.
+
+For the SSID (network name), input "AccessOU". Please put the A, O, and U in uppercase; the SSID is case-sensitive.
+
 There is no password requirement, so if prompted for Security Type, select "No security".
+
 Please note if you have just registered your device, it may take 1-2 minutes before your device will be authorized to connect to AccessOU. Once it is, your device should connect to the network.
-If you are still unable to get a connection to AccessOU, log back in to the
-access.ou.edu
-site and double check your device profile lists the right type of model for your device. For example, your connection may fail if you have registered it incorrectly, such as registering a game system as a smart TV. If you still need assistance, please contact the IT Help Line at 405-325-HELP (4357).
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-142
-Created
-Thu 9/3/20 4:27 PM
-Modified
-Wed 2/15/23 3:24 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=142&SIDs=241">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=142&SIDs=241</a><br /><br />AccessOU
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+If you are still unable to get a connection to AccessOU, log back in to the access.ou.edu (http://access.ou.edu) site and double check your device profile lists the right type of model for your device. For example, your connection may fail if you have registered it incorrectly, such as registering a game system as a smart TV. If you still need assistance, please contact the IT Help Line at 405-325-HELP (4357).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

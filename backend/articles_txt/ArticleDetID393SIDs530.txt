@@ -1,183 +1,207 @@
+
+  Canvas – Mobile support for Android
 
 
-	Article - Canvas – Mobile support for...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas – Mobile support for Android
-Canvas – Mobile support for Android
-How do I view Courses and Groups in the Canvas app on my Android device?
 You can view all your active courses and groups in the Canvas app. You can change your course and group favorites and change the colors for your courses and groups.
+
 The images in this lesson are shown for a phone display, but unless otherwise noted, tablet displays mirror the same steps.
-Note: When you log in to the Canvas app, the landing page defaults to the Dashboard
+
+Note: When you log in to the Canvas app, the landing page defaults to the Dashboard
+
 View Courses and Groups
-In the Dashboard, the Courses page displays all your favorite courses and groups. Favorite courses mirror the Courses & Groups customized drop-down menu in the web version of Canvas.
+
+In the Dashboard, the Courses page displays all your favorite courses and groups. Favorite courses mirror the Courses & Groups customized drop-down menu in the web version of Canvas.
+
 Manage Favorites
-To set or remove a course or group as a favorite, tap the Favorites icon.
-Note: Only changes to your favorite
-courses
-will apply to the browser version of Canvas.
+
+To set or remove a course or group as a favorite, tap the Favorites icon.
+
+Note: Only changes to your favorite courses will apply to the browser version of Canvas.
+
+
+
 To favorite a course or group, tap the circle next to the course or group. Stars indicate favorite courses or groups. To remove a favorite, tap the circle again. Changes to the favorites page are applied automatically.
+
 View Grades
+
 In the Dashboard, you can view overall grades for each course. You can choose to show or hide Dashboard grades. By default, grades are shown in the Dashboard.
 To view details of a grade, tap the grade percentage.
-Note: Users who do not have a student role will always see grades with a percentage of zero.
+
+Note: Users who do not have a student role will always see grades with a percentage of zero.
+
 Open Settings
-Courses and groups can be customized to help distinguish them throughout other areas of the Canvas app. To customize a course or group, locate the course or group and tap the overflow icon.
+
+Courses and groups can be customized to help distinguish them throughout other areas of the Canvas app. To customize a course or group, locate the course or group and tap the overflow icon.
+
 Create Nickname
+
 Tap the Course Nickname field and type then nickname.
+
 Tap Done.
-Note: Nicknames cannot be created for groups.
+
+Note: Nicknames cannot be created for groups.
+
 Select Color
+
 The check mark and background indicate the current color.
+
 Tap the new color for your course. The check mark will show the new color, along with the background.
+
 Tap the Done link.
+
 Open Course
+
 To open a course, tap the course name.
+
 View Course Navigation
+
+
 Courses open to the designated Course Home Page.
+
 Within each course navigation drop-down menu, you will be able to view the course navigation links that are available in the browser version of Canvas. Therefore, if a course navigation link is hidden in the browser version, you will not be able to access it in the app.
+
 To return to the User Navigation Menu, tap the User Menu icon.
-Note: Not all course navigation links are supported in the Canvas app. However, all navigation links are supported in a mobile browser.
+
+Note: Not all course navigation links are supported in the Canvas app. However, all navigation links are supported in a mobile browser.
+
 View Overflow Menu
+
+
+
 The overflow menu contains additional features in the app.
 The overflow menu is an icon located on every page within a Canvas course.
+
 Open Group
+
 To open a group, tap the group name.
+
 View Group Navigation
+
 Groups use Notifications for the Home Page.
+
 Within each group navigation drop-down menu [1], you will be able to view the group navigation links that are available in the browser version of Canvas. Group navigation links cannot be hidden in the app.
-To return to the User Navigation Menu, tap the User Menu icon [2].
-Note: Not all group navigation links are supported in the Canvas app. However, all navigation links are supported in a mobile browser.
-How do I use the Canvas app on my Android device?
+
+To return to the User Navigation Menu, tap the User Menu icon [2].
+
+Note: Not all group navigation links are supported in the Canvas app. However, all navigation links are supported in a mobile browser.
+
+ 
+
 The Canvas by Instructure app helps students and instructors access their courses and groups while they are away from a computer browser. The app provides functionality to view and participate in a course or group, as well as view To-Do items, Notifications, Messages, and Grades. Additionally, users who have an instructor role in at least one course in the account can access SpeedGrader with a quick-access link.
+
 The images in this lesson are shown for a phone display, but unless otherwise noted, tablet displays mirror the same steps.
+
 Note: Not all Canvas features are supported on the app at this time.
+
 View Landing Page
+
 When you log in to the Canvas app, the default landing page is the Dashboard
+
 Open User Navigation Menu
-To view content in the app, use the User Navigation Menu. This menu is located in the action bar and provides easy access to every page in the app. To open the menu, tap the Menu icon.
+
+
+
+To view content in the app, use the User Navigation Menu. This menu is located in the action bar and provides easy access to every page in the app. To open the menu, tap the Menu icon.
+
 View User Navigation Menu
 When the menu is open, close the menu by swiping the menu or tapping outside the menu area.
+
 View Profile
+
+
 The Profile area displays your profile information in the app as well as your user files.
+
 View User Account and Courses
-The Courses link displays all your current courses and groups, including your favorite courses. Courses also displays overall grades in each course. For quick access to a favorited course, tap the courses drop-down menu.
+
+The Courses link displays all your current courses and groups, including your favorite courses. Courses also displays overall grades in each course. For quick access to a favorited course, tap the courses drop-down menu.
+
 View Notifications
+
 The Notifications link gives you an overview of all course notifications such as changes to an assignment due date, newly created assignment, course announcement, or a reply to a subscribed discussion. You can also view specific notifications within each of your courses.
+
 View To-Do List
+
 The To-Do List link gives a quick view of upcoming course activities that have not yet completed.
+
 View Inbox
+
 The Inbox link displays all Conversations messages in the Canvas app.
+
 View Calendar
+
 The Calendar link displays events and assignments for your courses and groups.
+
 View Grades
+
 The Grades link displays your overall grade in your Courses.
+
 View Bookmarks
+
 The Bookmarks link will take you to a list of screens you have bookmarked in the Canvas app.
+
 View SpeedGrader
+
 Users who have an instructor role in at least one course in the account can view a SpeedGrader link in the navigation menu. This link allows quick access to the SpeedGrader app. However, the Canvas app and SpeedGrader app do not share login information, so instructors must log in to the SpeedGrader app if they are not already logged in.
-How do I get help with the Canvas app on my Android device?
+
 You can reference the Canvas guides and get mobile help directly on your mobile device.
+
 The images in this lesson are shown for a phone display, but unless otherwise noted, tablet displays mirror the same steps.
+
 Open User Menu
-In the Dashboard, tap the User Menu icon.
+
+
+
+In the Dashboard, tap the User Menu icon.
+
+ 
+
 Open Help
-Tap the Help link.
+
+
+
+Tap the Help link.
+
 View Help Options
+
 You can get help with the Canvas app in five areas:
+
 Ask your instructor a question
+
 Search the Canvas Guides
+
 Report a problem
+
 Request a feature
+
 Share your love of the app
+
 Ask Your Instructor a Question
+
 If you have a question for your instructor, tap the Ask your Instructor a Question button. Consider this option as a shortcut to sending your instructor a message.
+
 The app will populate the course name for where your message will be sent. If you have more than one course, tap the gray arrow and select your course from the course menu.
+
 Compose your message to your course instructor in the text field. Then tap the Send link.
+
 Search the Canvas Guides
-Canvas provides an Android manual with how-to lessons designed to help you use the Canvas app. To view the lessons, tap the Search the Canvas Guides button and look for the Canvas by Instructure Android manual.
+
+Canvas provides an Android manual with how-to lessons designed to help you use the Canvas app. To view the lessons, tap the Search the Canvas Guides button and look for the Canvas by Instructure Android manual.
+
+ 
+
 Report a Problem
-If you have a problem in the Canvas app, the Canvas mobile team would love to know about it. Tap the Report a Problem button.
+
+If you have a problem in the Canvas app, the Canvas mobile team would love to know about it. Tap the Report a Problem button.
+
+ 
+
 Send Message
+
 In the Subject field, enter a subject for your message. In the Description text field, write your message for the mobile team. Then tell the team how the problem is affecting you by selecting a relevant option in the drop-down menu. Tap the Send link.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-393
-Created
-Wed 9/9/20 2:46 PM
-Modified
-Wed 8/18/21 2:14 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=393&SIDs=530">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=393&SIDs=530</a><br /><br />Canvas – Mobile support for Android
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

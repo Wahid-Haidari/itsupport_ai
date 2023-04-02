@@ -1,93 +1,16 @@
+
+  IRADS – Integrated Robust Assured Data Services
 
 
-	Article - IRADS – Integrated Robust A...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-IRADS – Integrated Robust Assured Data Services
-IRADS – Integrated Robust Assured Data Services
 Integrated Robust Assured Data Services (IRADS) is a program of The University of Oklahoma developed as a top-tier provider of data for government operations and commerce growth. Specifically, IRADS exploits university-only high capacity networking and adds 24/7 monitoring and “industrial-strength” data source reliability.
+
 IRADS also serves as a focal point to provide advocacy on behalf of all commerce interests for policy and processes to assure a robust, reliable supply of government data. Consequently, IRADS fills a unique role as a buffer between government supply and industry demand for data. The university uniquely grows information-based commerce via IRADS by developing and aggregating valued data sources and hosting application servers whilst connecting the government and industry clients to research and intellectual property needed for next-generation products and services.
-To request this service or view more information about the specific features, conditions, and cost of this service, please see
-this page
-in our Service Catalog.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-426
-Created
-Thu 9/10/20 8:42 AM
-Modified
-Mon 9/14/20 12:22 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=426&SIDs=485">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=426&SIDs=485</a><br /><br />IRADS – Integrated Robust Assured Data Services
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+To request this service or view more information about the specific features, conditions, and cost of this service, please see this page (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceCatalog?CategoryID=31) in our Service Catalog.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

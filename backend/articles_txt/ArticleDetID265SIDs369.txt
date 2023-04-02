@@ -1,135 +1,50 @@
+
+  Account Expiration Policy
 
 
-	Article - Account Expiration Policy
+Different types of OU accounts expire after different amounts of time, per OU’s account expiration policy. Once accounts expire, the credentials are deleted and the account (and its associated files and mailbox contents) is no longer accessible. All expiring accounts are marked for deletion/expiration 30 days in advance, and receive email notifications about the pending deletion 30, 15, 7, and 1 day in advance.  If you believe that an account has been marked for deletion in error, please contact OU IT as soon as possible, as many actions necessary to prevent the deletion of an account take several days to complete.
 
+If an account deletion is imminent and you wish to retain a copy of any personal email contained in your mailbox, please see this article about how to download your emails and move them to another email account. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=181&SIDs=300)
 
+For more information on how to continue to access certain services available to OU account holders, please see the Services for Former Account Holders (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=279) article.
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-Account Expiration Policy
-Account Expiration Policy
-Different types of OU accounts expire after different amounts of time, per OU’s account expiration policy. Once accounts expire, the credentials are deleted and the account (and its associated files and mailbox contents) is no longer accessible. All expiring accounts are marked for deletion/expiration 30 days in advance, and receive email notifications about the pending deletion 30, 15, 7, and 1 day in advance.  If you believe that an account has been marked for deletion in error, please contact OU IT as soon as possible, as many actions necessary to prevent the deletion of an account take several days to complete.
-If an account deletion is imminent and you wish to retain a copy of any personal email contained in your mailbox, please see this
-article about how to download your emails and move them to another email account.
-For more information on how to continue to access certain services available to OU account holders, please see the
-Services for Former Account Holders
-article.
-Student Accounts
-Accounts belonging to students who have completed courses, including graduates of the university, expire after three inactive enrollment periods (including summer). Accounts belonging to individuals who are admitted to the university but do not enroll in the semester for which they are admitted, expire during the semester for which they were admitted unless otherwise arranged directly with Admissions.
-If you are currently enrolled in courses and have received notification that your account is marked for deletion in error, please visit the
-IT Support
-page, and click the General IT Support button or call 405-325-HELP.
-If you have recently graduated, you will receive an email that will allow you to opt-in to receive an @alumni.ou.edu email address.  If you would like to obtain an @alumni.ou.edu mailbox prior to receiving the email invite, or if it has been several years since you graduated, you may fill out a request form on
-the OU Foundation's website
-to obtain an @alumni.ou.edu email address.
-Please note: there is no connection between an expiring @ou email address and an @alumni.ou.edu email address; mail is not transferred or forwarded between the two accounts. For more information about @alumni.ou.edu mailboxes, please read through
-this article
-.
-For more information about student account expiration and how to access services that may be helpful to former students, please visit the
-Student Account Expiration Policy
-article.
-Terminated Employee Accounts
+Accounts belonging to students who have completed courses, including graduates of the university, expire after three inactive enrollment periods (including summer). Accounts belonging to individuals who are admitted to the university but do not enroll in the semester for which they are admitted, expire during the semester for which they were admitted unless otherwise arranged directly with Admissions. 
+
+If you are currently enrolled in courses and have received notification that your account is marked for deletion in error, please visit the IT Support (https://itsupport.ou.edu) page, and click the General IT Support button or call 405-325-HELP.
+
+If you have recently graduated, you will receive an email that will allow you to opt-in to receive an @alumni.ou.edu email address.  If you would like to obtain an @alumni.ou.edu mailbox prior to receiving the email invite, or if it has been several years since you graduated, you may fill out a request form on the OU Foundation's website (http://www.soonerconnect.com/s/1720/bp18/interior.aspx?sid=1720&gid=2&pgid=1094) to obtain an @alumni.ou.edu email address.
+
+Please note: there is no connection between an expiring @ou email address and an @alumni.ou.edu email address; mail is not transferred or forwarded between the two accounts. For more information about @alumni.ou.edu mailboxes, please read through this article (https://itnews.ou.edu/alumni-email/).
+
+For more information about student account expiration and how to access services that may be helpful to former students, please visit the Student Account Expiration Policy  (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=279)article.
+
+ 
+
 Upon the conclusion of employment with OU, employee accounts are typically marked for deletion approximately 30 days after the last day of employment.
-If a former employee needs to continued access to OU services due to a current affiliation with a college/department, that department should initiate the process to request an exception account (via IT) or academic affiliate account (via HR) several days before the expiration date to avoid possible service interruption or loss of data.
-Departments who need assistance with actions pertaining to accounts of former employees (forwards, access, out of office messages, etc.) should contact
-Human Resources
-.
-Exception Accounts
-Exception accounts expire at the time dictated on the request, which in most cases, is not allowed to exceed one year. Renewal requests must be submitted in order to extend the lifespan of the account.
-Exception accounts require annual approval, sponsorship of a full-time OU employee, and must be approved by the dean/director/chair of the affiliated department or college.
-To request a new exception account or to renew an account, please visit the
-OU IT Service Catalog
-and select Exception Account. Please note that requests may take 5-7 days to process after the receiving the approval of the department dean/director. For account renewal requests, it is recommended that the request be submitted at least seven days in advance in order to decrease the chances of any service interruption or loss of data.
-Retiree Accounts
-Accounts for most retirees expire on similar timeline as all other terminated employees. Upon the conclusion of employment with OU, employee accounts are typically marked for deletion approximately 30 days after the last day of employment.
-Retirees may may fill out a request form at
-the OU Foundation's website
-to request an @alumni.ou.edu email address. Please note: there is no connection between an expiring @ou email address and an @alumni.ou.edu email address; mail is not transferred or forwarded between the two accounts. For more information about @alumni.ou.edu mailboxes, please read through
-this article
-.
-If the retiree is still collaborating with their department, their department can work with HR and Provost to make request an exception account (via IT) or an academic affiliate account (via HR). Individuals awarded emeritus status should speak with their department about requesting an exception account.
-If the retiree's original retirement date was prior to 2/4/2020, they should visit the
-IT Support
-page, select the correct campus, and click the General IT Support button. In the request, please include the name of the retiree upon retirement as well as the retirement date so that account extension options may be investigated.
-Organizational Accounts
-Currently, organizational accounts do not expire.  Organizational accounts must be sponsored by a current full-time faculty/staff member, who may also act as the the point-of-contact (POC) for the account.
-The POC is expected to be kept up to date as needed. For example, if the POC leaves the university or is no longer associated with that organization/department, a new POC should be selected.
-If the account is found to be without a current POC, the dean/director of the department most closely associated with that organizational account will need to approve all changes to the account until a new POC is named.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-265
-Created
-Sun 9/6/20 3:21 PM
-Modified
-Tue 2/28/23 2:06 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=265&SIDs=369">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=265&SIDs=369</a><br /><br />Account Expiration Policy
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+If a former employee needs to continued access to OU services due to a current affiliation with a college/department, that department should initiate the process to request an exception account (via IT) or academic affiliate account (via HR) several days before the expiration date to avoid possible service interruption or loss of data.
+
+Departments who need assistance with actions pertaining to accounts of former employees (forwards, access, out of office messages, etc.) should contact Human Resources (http://hr.ou.edu/). 
+
+Exception accounts expire at the time dictated on the request, which in most cases, is not allowed to exceed one year. Renewal requests must be submitted in order to extend the lifespan of the account. Exception accounts require annual approval, sponsorship of a full-time OU employee, and must be approved by the dean/director/chair of the affiliated department or college. 
+
+To request a new exception account or to renew an account, please visit the OU IT Service Catalog (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceCatalog?CategoryID=43) and select Exception Account. Please note that requests may take 5-7 days to process after the receiving the approval of the department dean/director. For account renewal requests, it is recommended that the request be submitted at least seven days in advance in order to decrease the chances of any service interruption or loss of data.
+
+Accounts for most retirees expire on similar timeline as all other terminated employees. Upon the conclusion of employment with OU, employee accounts are typically marked for deletion approximately 30 days after the last day of employment. 
+
+Retirees may may fill out a request form at the OU Foundation's website (http://www.soonerconnect.com/s/1720/bp18/interior.aspx?sid=1720&gid=2&pgid=1094) to request an @alumni.ou.edu email address. Please note: there is no connection between an expiring @ou email address and an @alumni.ou.edu email address; mail is not transferred or forwarded between the two accounts. For more information about @alumni.ou.edu mailboxes, please read through this article (https://itnews.ou.edu/alumni-email/).
+
+If the retiree is still collaborating with their department, their department can work with HR and Provost to make request an exception account (via IT) or an academic affiliate account (via HR). Individuals awarded emeritus status should speak with their department about requesting an exception account.
+
+If the retiree's original retirement date was prior to 2/4/2020, they should visit the IT Support (https://itsupport.ou.edu) page, select the correct campus, and click the General IT Support button. In the request, please include the name of the retiree upon retirement as well as the retirement date so that account extension options may be investigated.
+
+Currently, organizational accounts do not expire.  Organizational accounts must be sponsored by a current full-time faculty/staff member, who may also act as the the point-of-contact (POC) for the account. The POC is expected to be kept up to date as needed. For example, if the POC leaves the university or is no longer associated with that organization/department, a new POC should be selected. If the account is found to be without a current POC, the dean/director of the department most closely associated with that organizational account will need to approve all changes to the account until a new POC is named.
+
+ 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

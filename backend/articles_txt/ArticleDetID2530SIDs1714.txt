@@ -1,98 +1,30 @@
+
+  Adding Sooner Card to your Android Phone
 
 
-	Article - Adding Sooner Card to your ...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-Adding Sooner Card to your Android Phone
-Adding Sooner Card to your Android Phone
 Add your Sooner Card to your Android Device and use it anywhere the physical Sooner Card is accepted.
+
 Here’s what you need:
+
 Your NFC-enabled Android device
-To ensure NFC is enabled, go to Settings > Connections and toggle the NFC “switch” to on. On some devices this may be under Settings > Connected Devices > Connection Preferences. You can also go to Settings and type "NFC" in the search box. If you have NFC capabilities on your device you will see NFC options displayed. Depending on your Android device and/or operating system, your steps may vary.
-PingID for two-factor authentication
+	
+To ensure NFC is enabled, go to Settings > Connections and toggle the NFC “switch” to on. On some devices this may be under Settings > Connected Devices > Connection Preferences. You can also go to Settings and type "NFC" in the search box. If you have NFC capabilities on your device you will see NFC options displayed. Depending on your Android device and/or operating system, your steps may vary.
+
+
+
+To ensure NFC is enabled, go to Settings > Connections and toggle the NFC “switch” to on. On some devices this may be under Settings > Connected Devices > Connection Preferences. You can also go to Settings and type "NFC" in the search box. If you have NFC capabilities on your device you will see NFC options displayed. Depending on your Android device and/or operating system, your steps may vary.
+
+PingID for two-factor authentication (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533)
+
 Transact eAccounts for Android
-Downloading Transact eAccounts App
-To install the Transact eAccounts app on your mobile device, open
-Google Play Store
-and search for the “Transact eAccounts” app. Download the app to your device. Once installed, locate University of Oklahoma in the list of schools and select Norman Campus. Click to Continue to Sign in. The OU login screen will load. Log in and PingID approve the login. You will now be signed in to the app.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2530
-Created
-Tue 8/31/21 12:08 PM
-Modified
-Wed 10/5/22 9:56 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2530&SIDs=1714">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2530&SIDs=1714</a><br /><br />Adding Sooner Card to your Android Phone
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+To install the Transact eAccounts app on your mobile device, open Google Play Store (http://play.google.com/) and search for the “Transact eAccounts” app. Download the app to your device. Once installed, locate University of Oklahoma in the list of schools and select Norman Campus. Click to Continue to Sign in. The OU login screen will load. Log in and PingID approve the login. You will now be signed in to the app.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

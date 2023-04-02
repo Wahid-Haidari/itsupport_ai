@@ -1,76 +1,70 @@
+
+  Safe Exam Browser
 
 
-	Article - Safe Exam Browser
+Safe Exam Browser (SEB) is a web browser environment used to safely carry out e-assessments. It turns any computer into a temporary, secure workstation. It controls access to resources like system functions, other websites and applications, and prevents unauthorized resources being used during an exam.
 
+SEB runs on a local computer and is connected via the internet to a learning management system (LMS) or an e-assessment system. Generally SEB works with any web based LMS and other kinds of web based exam systems. Some learning management systems (LMS) like for example Moodle, ILIAS, OpenOLAT and exam solutions as Inspera Assessment offer a quiz mode specifically compatible with SEB.
 
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Safe Exam Browser
-Safe Exam Browser
-CONCEPT
-Safe Exam Browser (SEB) is a web browser environment used to safely carry out e-assessments. It turns any computer into a temporary, secure workstation. It controls access to resources like system functions, other websites and applications, and prevents unauthorized resources being used during an exam.
-GENERAL CONCEPT
-SEB runs on a local computer and is connected via the internet to a learning management system (LMS) or an e-assessment system. Generally SEB works with any web based LMS and other kinds of web based exam systems. Some learning management systems (LMS) like for example Moodle, ILIAS, OpenOLAT and exam solutions as Inspera Assessment offer a quiz mode specifically compatible with SEB.
-SEB FOR WINDOWS
 Safe Exam Browser for Windows consists of the SEB kiosk application, which opens an own Windows desktop and blocks system commands like keyboard shortcuts (for example ALT+F4) and right mouse button clicks. The second part is Firefox, running in a so-called XUL runtime mode. The SEB XUL browser application running on Firefox connects to the LMS, using a pre-configured start URL. The SEB browser doesn’t contain a URL or search field and navigation controls (back/forward, reload) can be disabledx.
-SEB FOR MACOS AND IOS
-In contrast to the Windows version, Safe Exam Browser for macOS and iOS is a monolithic application using a web browser framework instead of a browser runtime. It’s using the
-WebKit
-engine, on which Safari and some open source browsers are based. Otherwise, SEB for macOS/iOS connect to the Learning Management Systems in the same way as the Windows version.
-CONFIGURATION
+
+In contrast to the Windows version, Safe Exam Browser for macOS and iOS is a monolithic application using a web browser framework instead of a browser runtime. It’s using the WebKit (http://webkit.org/) engine, on which Safari and some open source browsers are based. Otherwise, SEB for macOS/iOS connect to the Learning Management Systems in the same way as the Windows version.
+
 Safe Exam Browser enables secure exams on unmanaged computers like students’ own laptops and tablets as well as in managed environments on all three platforms Windows, macOS and iOS. Starting version 2.0, SEB offers an individual configuration per exam, which is protected by a strong encryption against manipulation. Thanks to an elaborate authentication feature, the exam system can verify that a particular, unaltered SEB version and the correct exam settings are used for an examination. This facilitates secure exams especially on unmanaged computers like students’ own laptops/tablets.
+
 Safe Exam Browser 2.0 and later is a unified version which brings almost the same features, exam system interface, compatible configuration files and a very similar user interface onto all three platforms, while still taking in account operating system differences and unique platform specific features.
-FEATURES
-General Features
+
 Managed web browser, which can be configured using encrypted configuration files
+
 Using special hyperlinks, SEB can be started from other web browsers and reconfigured individually per exam
+
 Fullscreen mode or multiple browser windows which can be resized (without any navigation elements), browser tabs on iPad
+
 VM detector: SEB detects whether it is running on a virtual machine or a jailbreaked device and can refuse to start up
+
 URL filter to allow accessing only specific web sites, pages or resources
+
 Certificate pinning to prevent man-in-the-middle attacks on the connection to exam servers
+
 Spell checking and dictionary lookup is disabled, can optionally be allowed
+
 Built-in connection to Moodle, ILIAS, OpenOLAT, Inspera Assessment and others, can be used with basically any web-based examination system
-SEB for Windows
+
 Disabled actions (in default settings):
-Windows Task Bar and the Start Menu
+	
+Windows Task Bar and the Start Menu
 Switch to other applications invoked by Alt+Tab or Windows+Tab (unless permitted)
 Menu options on the Windows Security Screen invoked with Ctrl+Alt+Delete are removed while SEB is running
 Display and system idle sleep
 Print Screen and some other keyboard shortcuts like ALT+F4
 VMware shade (toolbar) when using VMware Horizon View Client for VDI
+
+
+
+Windows Task Bar and the Start Menu
+
+Switch to other applications invoked by Alt+Tab or Windows+Tab (unless permitted)
+
+Menu options on the Windows Security Screen invoked with Ctrl+Alt+Delete are removed while SEB is running
+
+Display and system idle sleep
+
+Print Screen and some other keyboard shortcuts like ALT+F4
+
+VMware shade (toolbar) when using VMware Horizon View Client for VDI
+
 Process monitoring hides or terminates not allowed processes while SEB is running
+
 Separate configuration tool with graphical user interface
+
 Third party applications can be allowed to run together with SEB, they can be started or switched to with icons in a SEB taskbar or the Alt+Tab shortcut
+
 Configurable spell checking dictionaries
+
 Additional resources like web pages or whole sites, HTML and PDF documents, even full web applications can be used in exams
-SEB for macOS
+
 Disabled actions:
+	
 Quit SEB (can be disabled or protected by a quit password)
 macOS Dock and Menu bar
 Switch to other applications with process switcher (cmd+Tab/cmd+Shift+Tab)
@@ -82,106 +76,135 @@ Optionally hyperlinks requesting to be opened in a new window, optionally only s
 Display and system idle sleep
 Context menu options in Flash fullscreen video players
 macOS screen capture
+
+
+
+Quit SEB (can be disabled or protected by a quit password)
+
+macOS Dock and Menu bar
+
+Switch to other applications with process switcher (cmd+Tab/cmd+Shift+Tab)
+
+Force Quit window (cmd+opt+Esc)
+
+Normal reboot (ctrl+cmd+eject) and shutdown (ctrl+opt+cmd+eject)
+
+Hiding the application or minimizing the window, printing and Exposé
+
+Right-click (context menu)
+
+Optionally hyperlinks requesting to be opened in a new window, optionally only such directing to another server than the one of the current host
+
+Display and system idle sleep
+
+Context menu options in Flash fullscreen video players
+
+macOS screen capture
+
 Preferences window for easy set up, can be protected with an administrator password.
+
 Teach mode to easily create URL filter rules for restricting access to particular web sites/pages/resources.
+
 Third party applications can be allowed to run together with SEB, but only in an accordingly configured macOS user account
-TECHNICAL DETAILS
-SEB for Windows
+
 Supported operating systems:
+	
 Microsoft Windows 7
 Windows 8/8.1
 Window 10
+
+
+
+Microsoft Windows 7
+
+Windows 8/8.1
+
+Window 10
+
 License: Mozilla Public License (MPL)
+
 Browser engine: Mozilla Gecko, which is used in Firefox (until Firefox 56).
+
 Programming languages and frameworks:
+	
 C# (.NET)
 JavaScript
 Mozilla XULRunner/Firefox
-SEB for macOS
+
+
+
+C# (.NET)
+
+JavaScript
+
+Mozilla XULRunner/Firefox
+
 Supported operating systems:
+	
 macOS 10.14 Mojave
 macOS 10.13 High Sierra
 macOS 10.12 Sierra
 OS X 10.11 El Capitan
-On these older OS versions, modern web pages might not be rendered correctly:
+		On these older OS versions, modern web pages might not be rendered correctly:
 OS X 10.10 Yosemite
 OS X 10.9 Mavericks
 OS X 10.8 Mountain Lion (only supported as client, preferences window not available, TLS/SSL/CA certificate embedding into SEB configuration files and certificate pinning not supported)
 OS X 10.7 Lion (only supported as client, preferences window not available. TLS/SSL/CA certificate embedding into SEB configuration files and certificate pinning not supported)
 Mac OS X 10.6 Snow Leopard (only supported up to SEB 1.5.2)
+
+
+
+macOS 10.14 Mojave
+
+macOS 10.13 High Sierra
+
+macOS 10.12 Sierra
+
+OS X 10.11 El Capitan
+		On these older OS versions, modern web pages might not be rendered correctly:
+
+OS X 10.10 Yosemite
+
+OS X 10.9 Mavericks
+
+OS X 10.8 Mountain Lion (only supported as client, preferences window not available, TLS/SSL/CA certificate embedding into SEB configuration files and certificate pinning not supported)
+
+OS X 10.7 Lion (only supported as client, preferences window not available. TLS/SSL/CA certificate embedding into SEB configuration files and certificate pinning not supported)
+
+Mac OS X 10.6 Snow Leopard (only supported up to SEB 1.5.2)
+
 License: Mozilla Public License (MPL)
+
 Browser engine: WebKit (as Safari). SEB uses the WebKit version installed on the system (WebKit version depends on macOS version).
+
 Programming language and system framework: Objective-C (Cocoa)
-SEB for iOS
+
 Operating systems:
+	
 iOS 12
 iOS 11
 iOS 10
 iOS 9.3.5
+
+
+
+iOS 12
+
+iOS 11
+
+iOS 10
+
+iOS 9.3.5
+
 License: Mozilla Public License (MPL)
+
 Browser engine: WebKit (as Safari). SEB uses the WebKit version installed on the system (WebKit version depends on iOS version). Currently UIWebView is used.
+
 Programming language: Objective-C
-LICENSE
-Safe Exam Browser is released as freeware. The
-source code
-is subject to the
-Mozilla Public License Version 1.1
-(the “License”); you may only use these files in compliance with the License. You may obtain a copy of the License at
-http://www.mozilla.org/MPL/
-.
-READ MORE ABOUT SAFE EXAM BROWSER
-HERE
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-402
-Created
-Wed 9/9/20 4:00 PM
-Modified
-Wed 9/9/20 4:01 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=402&SIDs=538">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=402&SIDs=538</a><br /><br />Safe Exam Browser
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Safe Exam Browser is released as freeware. The source code (https://github.com/SafeExamBrowser) is subject to the Mozilla Public License Version 1.1 (http://www.mozilla.org/MPL/MPL-1.1.html) (the “License”); you may only use these files in compliance with the License. You may obtain a copy of the License at http://www.mozilla.org/MPL/ (http://www.mozilla.org/MPL/) .
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

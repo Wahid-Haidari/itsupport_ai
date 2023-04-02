@@ -1,145 +1,63 @@
+
+  How do I create a strong password?
 
 
-	Article - How do I create a strong pa...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-How do I create a strong password?
-How do I create a strong password?
 If you need assistance choosing or configuring a complex password, please see the suggestions below:
-Step 1:
-Choose a favorite quote, phrase, saying, song, habit, title, or make up a mnemonic to help you remember your password. A mnemonic is a formula or rhyme to help you remember.
-Step 2:
-Use the first letter or syllable from each word to create your password. Mix uppercase and lowercase letters any way you like. Keep in mind that you'll need to type the letters exactly the same way every time you use the password.
-Step 3:
-Combine relevant special characters (:~!@#$%^&*()_+{}[]<>) and numbers to form a password that is 12-20 characters in length and contains letters, numbers, and symbols.
+
+Step 1:  Choose a favorite quote, phrase, saying, song, habit, title, or make up a mnemonic to help you remember your password. A mnemonic is a formula or rhyme to help you remember.
+
+Step 2:  Use the first letter or syllable from each word to create your password. Mix uppercase and lowercase letters any way you like. Keep in mind that you'll need to type the letters exactly the same way every time you use the password.
+
+Step 3:  Combine relevant special characters (:~!@#$%^&*()_+{}[]<>) and numbers to form a password that is 12-20 characters in length and contains letters, numbers, and symbols.
+
 * NOTE: iRIS users must not use passwords that contain the following characters: * " ' , / \ - > <
+
+
 For example:
-My four children are wonderful when they're asleep by 9:00 PM (
-M4cawwtab9:00
-)
-My anniversary is April 4 I need to remember that date to live (
-MaiA4Intrtdtl
-)
-I like to see Christmas lights on Dec 25 (
-Il2CXmasloD25
-)
+
+My four children are wonderful when they're asleep by 9:00 PM (M4cawwtab9:00)
+
+My anniversary is April 4 I need to remember that date to live (MaiA4Intrtdtl)
+
+I like to see Christmas lights on Dec 25 (Il2CXmasloD25)
+
 Try substituting letters for numbers (or vice versa), such as:
-E
-equals
-3
-I
-equals
-1
-O
-equals
-0
-(zero)
-for
-equals
-4
-two
-equals
-2
-B
-equals
-8
-see
-or
-sea
-equals
-C
+
+E equals 3
+
+I equals 1
+
+O equals 0 (zero)
+
+for equals 4
+
+two equals 2
+
+B equals 8
+
+see or sea equals C
+
 For example:
-Use
-tr33Appl3sw1ng
-instead of treeAppleswing (substitute the E's with 3's and 1 for i)
-Use J
-0hnny80y5lim
-instead of Johnnyboyslim (substitute the O's with zeros, the B with 8 & 5 for s)
-Use
-B1rdCameraH1ll
-instead of BirdCameraHill (substittue 1 for i)
-The following is a list of the password practices a user should
-NOT
-do:
+
+Use tr33Appl3sw1ng instead of treeAppleswing (substitute the E's with 3's and 1 for i)
+
+Use J0hnny80y5lim instead of Johnnyboyslim (substitute the O's with zeros, the B with 8 & 5 for s)
+
+Use B1rdCameraH1ll instead of BirdCameraHill (substittue 1 for i)
+
+ 
+
+The following is a list of the password practices a user should NOT do:
+
 Write down a password on a sticky note placed on or near your computer.
+
 Use a word found in a dictionary (any dictionary).
+
 Use the names of people, places, pets, or other common items.
+
 Share your password with someone else.
+
 Use the same password for more than one account.
+
 Use the default password provided by the vendor.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2277
-Created
-Wed 5/5/21 4:07 PM
-Modified
-Tue 8/31/21 11:50 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2277&SIDs=1715">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2277&SIDs=1715</a><br /><br />How do I create a strong password?
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+

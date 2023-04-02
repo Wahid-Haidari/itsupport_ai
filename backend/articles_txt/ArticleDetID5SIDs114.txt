@@ -1,95 +1,22 @@
+
+  Cloud Printing with WEPA
 
 
-	Article - Cloud Printing with WEPA
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Cloud Printing with WEPA
-Cloud Printing with WEPA
 OU Information Technology offers campus-wide cloud printing services to students, faculty, staff, and visitors. This service allows users to print to the cloud and pick up documents at any conveniently located wēpa kiosk. Cloud printing can be completed through the following methods:
+
 From your laptop or desktop
+
 From your phone or tablet
+
 From cloud storage
+
 From your email
+
 From your USB flash drive
-For the Norman campus, once you have uploaded your content and are ready to print, log into any kiosk by inserting and removing your Sooner Card or by using the provided release code. If you don’t have your card on you, you can type in your OUNet ID and password to release your print job. For Oklahoma City campus users, one will need to install the
-Wepa app
-for their desktop or mobile device to upload and print their documents.
-​For information on printing with Wepa and kiosk locations, please
-visit the OU IT Service Catalog
-.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-5
-Created
-Wed 9/2/20 9:20 AM
-Modified
-Tue 1/24/23 12:55 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=5&SIDs=114">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=5&SIDs=114</a><br /><br />Cloud Printing with WEPA
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+For the Norman campus, once you have uploaded your content and are ready to print, log into any kiosk by inserting and removing your Sooner Card or by using the provided release code. If you don’t have your card on you, you can type in your OUNet ID and password to release your print job. For Oklahoma City campus users, one will need to install the Wepa app (http://wepanow.com/software) for their desktop or mobile device to upload and print their documents. 
+
+​For information on printing with Wepa and kiosk locations, please visit the OU IT Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=85).
+
+ 
+

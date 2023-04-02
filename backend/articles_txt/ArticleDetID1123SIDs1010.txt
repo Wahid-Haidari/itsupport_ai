@@ -1,95 +1,18 @@
+
+  MyMedia - Remove media from media gallery
 
 
-	Article - MyMedia - Remove media from...
+Under the media tab, click on the (...) more icon on the lower right of the media item. 
+
+ 
+
+Select Remove from channel. Note that the media will be deleted from the Media Gallery as well as playlist but not from your MyMedia repository.
 
 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-MyMedia - Remove media from media gallery
-MyMedia - Remove media from media gallery
-Under the media tab, click on the (...) more icon on the lower right of the media item
-.
-Select Remove from channel. Note that the media will be deleted from the Media Gallery as well as playlist but not from your
-M
-y
-Media
-repository.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1123
-Created
-Fri 1/22/21 2:04 PM
-Modified
-Wed 8/18/21 3:21 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1123&SIDs=1010">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1123&SIDs=1010</a><br /><br />MyMedia - Remove media from media gallery
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

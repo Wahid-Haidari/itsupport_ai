@@ -1,114 +1,60 @@
+
+  OU Account Management
 
 
-	Article - OU Account Management
+Please note that account access for new users will be dependent upon being fully entered into and processed by the account systems. For new hires, that can include full processing of paperwork by your hiring manager and by HR. For new students, it can take up to five days after receiving your admissions letter before the account is fully accessible in the system. 
 
+If one was an employee who has been terminated or is no longer employed by OU, or if one was a former student and three enrollment periods have passed, then account access will be removed.
 
+Please see this guide (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=267&SIDs=380) for some common account access issues.
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-OU Account Management
-OU Account Management
-Please note that account access for new users will be dependent upon being fully entered into and processed by the account systems. For new hires, that can include full processing of paperwork by your hiring manager and by HR. For new students, it can take up to five days after receiving your admissions letter before the account is fully accessible in the system.
-If one was an employee who has been terminated or is no longer employed by OU, or if one was a former student and three enrollment periods have passed, then account access will be removed.
-Please see
-this guide
-for some common account access issues.
 One.ou.edu
-To access your OU account, navigate to
-one.ou.edu
-and log in with your OUNetID and password. Click your photo in the upper right corner and select Account Settings.
-On the right side of the page, view your Account information, including the photo associated with your OU account, your OU Net ID, Sooner ID, and Employee ID (if applicable).
+
+To access your OU account, navigate to one.ou.edu (https://one.ou.edu) and log in with your OUNetID and password. Click your photo in the upper right corner and select Account Settings.
+
+On the right side of the page, view your Account information, including the photo associated with your OU account, your OU Net ID, Sooner ID, and Employee ID (if applicable).
+
+
+
+ 
+
 General Tab
+
 On the General Tab one may:
+
 View their OU email address and set an OU email alias.
+
 Add or update their Campus and Personal phone numbers.
+
 Change their Current and Mailing Addresses.
+
 Update their Emergency Contacts.
+
+ 
+
 Security Tab
+
 On the Security Tab one may:
-Change their OU password
-. When setting a new password, please take note of any new complexity requirements.
-Set an Recovery Email address if you forgot your password and need to reset your account. When setting an address, please make sure to use a non-OU email address.
+
+Change their OU password (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=212). When setting a new password, please take note of any new complexity requirements.
+
+Set an Recovery Email address if you forgot your password and need to reset your account. When setting an address, please make sure to use a non-OU email address.
+
+ 
+
 Emergency Alerts Tab
+
 On the Emergency Alerts tab one may:
+
 Set campuses for which to receive emergency alerts.
+
 Set the phone numbers to receive alerts and the alert types.
+
 Set an email address to receive alerts.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-171
-Created
-Sat 9/5/20 11:20 AM
-Modified
-Thu 10/28/21 11:16 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=171&SIDs=286">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=171&SIDs=286</a><br /><br />OU Account Management
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

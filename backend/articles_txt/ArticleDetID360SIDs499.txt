@@ -1,98 +1,18 @@
+
+  Kaltura Capture: Uploading
 
 
-	Article - Kaltura Capture: Uploading
+To upload a previously saved video, you must open the Kaltura Capture Desktop App and navigate to the “Library” Tab.
 
+If you need to edit the video’s title, description, and/or tags, make sure to do so before uploading the video to MyMedia. To do so, simply click on the current title of the video. Make the necessary changes and click Save & Upload.
 
+Alternatively, if no changes need to be made, you can select the recording you would like to upload and click the Upload button from the library tab.
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Kaltura Capture: Uploading
-Kaltura Capture: Uploading
-To upload a previously saved video, you must open the Kaltura Capture Desktop App and navigate to the
-“Library”
-Tab.
-If you need to edit the video’s title, description, and/or tags, make sure to do so before uploading the video to MyMedia. To do so, simply click on the current title of the video. Make the necessary changes and click
-Save & Upload.
-Alternatively, if no changes need to be made, you can select the recording you would like to upload and click the
-Upload
-button from the library tab.
 You should receive a notification, and find a link to the recording after your video completes its upload in the Library Tab.
+
 NOTE: It may take several minutes for the media to appear in “My Media”. If you’re having issues, attempt refreshing your browser.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-360
-Created
-Wed 9/9/20 1:20 PM
-Modified
-Mon 8/16/21 9:08 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=360&SIDs=499">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=360&SIDs=499</a><br /><br />Kaltura Capture: Uploading
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

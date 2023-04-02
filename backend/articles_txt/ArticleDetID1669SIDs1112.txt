@@ -1,111 +1,34 @@
+
+  What is the LastPass Master Password?
 
 
-	Article - What is the LastPass Master...
+The Master Password is the password that you are prompted to create when you initially sign up for your LastPass account. When you log in to LastPass, you need your email address and Master Password to access your account. It is very important that you create a very strong Master Password that you will not forget.
 
+When it comes to securing your LastPass Vault, it's very important that the Master Password that you create and maintain is long and unique. Although there are many layers of encryption and security we put in place to keep your data safe, using a strong Master Password will not only protect you from brute-force attacks, but will also ensure that a breach at another website won't affect your LastPass account.
 
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-What is the LastPass Master Password?
-What is the LastPass Master Password?
-The Master Password is the password that you are prompted to create when you initially sign up for your LastPass account. When you log in to LastPass, you need your email address and Master Password to access your account. It is very important that you create a very strong Master Password that you will not forget.
-When it comes to securing your LastPass Vault, it's very important that the Master Password that you create and maintain is long and unique. Although there are many layers of encryption and security we put in place to keep your data safe, using a strong Master Password will not only protect you from brute-force attacks, but will also ensure that a breach at another website won't affect your LastPass account.
-LastPass recommends using the following best practices when creating your Master Password:
 Use a minimum of 12 characters, but the lengthier the better
+
 Use upper case, lower case, numeric, and special character values
+
 Make it pronounceable and memorable, but not easily guessed (e.g., a passphrase)
+
 Make sure that it is unique only to you
+
 Never use personal information
+
 A good example is: Fidoate!my2woolsox
-It is strongly recommended that you never re-use your Master Password for any other account or application; this password is intended only for your LastPass account. To help commit your Master Password to memory, log in to your LastPass account several times.
-Please be aware that OU and LastPass Customer Care has no knowledge of a user's Master Password. It is not possible for us to reset or change a user's Master Password if it is forgotten.
-Recovery Options
-LastPass Premium:
-LastPass does provide
-recovery options
-, however, we cannot ever send, reset, or look it up for you if you no longer remember it.
-LastPass Enterprise:
-Please
-visit the LastPass service page
-and click the Request Service button.
-If you are concerned that your LastPass account has been compromised,
-follow these steps
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1669
-Created
-Tue 2/23/21 3:55 PM
-Modified
-Wed 6/16/21 10:47 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1669&SIDs=1112">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1669&SIDs=1112</a><br /><br />What is the LastPass Master Password?
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+It is strongly recommended that you never re-use your Master Password for any other account or application; this password is intended only for your LastPass account. To help commit your Master Password to memory, log in to your LastPass account several times.
+
+Please be aware that OU and LastPass Customer Care has no knowledge of a user's Master Password. It is not possible for us to reset or change a user's Master Password if it is forgotten.
+
+LastPass Premium: LastPass does provide recovery options (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=1670), however, we cannot ever send, reset, or look it up for you if you no longer remember it.
+
+LastPass Enterprise: Please visit the LastPass service page (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=189) and click the Request Service button.
+
+If you are concerned that your LastPass account has been compromised, follow these steps (https://support.logmeininc.com/lastpass/help/help-i-think-my-account-has-been-compromised-lp070012).
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

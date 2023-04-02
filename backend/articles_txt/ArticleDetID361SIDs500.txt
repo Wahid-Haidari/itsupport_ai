@@ -1,141 +1,43 @@
+
+  Kaltura Capture: Creating a Screen Recording/Presentation
 
 
-	Article - Kaltura Capture: Creating a...
+To begin the installation process for Kaltura Capture, you first must navigate to the MyMedia page, located at https://mymedia.ou.edu (https://mymedia.ou.edu/). 
 
+ 
+Login by clicking “Guest.” This will open a drop-down menu where you can click “Login” button. You will see the OU SSO page where you can enter your OUNet ID and password. 
 
+ 
+You will be redirected to the home page, where you must click the “Add New” drop-down menu and select the option “Kaltura Capture (Replacing CaptureSpace)”. 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Kaltura Capture: Creating a Screen Recording/Presentation
-Kaltura Capture: Creating a Screen Recording/Presentation
-To begin the installation process for
-Kaltura Capture, you first must navigate to the MyMedia page, located at
-https://mymedia.ou.edu
-.
-Login by clicking “
-Guest.”
-This will open a drop-down menu where you can click
-“Login”
-button. You will see the OU SSO page where you can enter your
-OUNet
-ID
-and password.
-You will be redirected to the home page, where you must click the “
-Add New
-” drop-down menu and select the
-option
-“Kaltura
-Capture (Replacing CaptureSpace)”
-.
-This will prompt an External Protocol Request to access the application and launch it from your system. Click
-“Open Kaltura Capture”
-.
-Please note, you will need to open Kaltura Capture via MyMedia.ou.edu each and every time we need to use the service for the best user experience.
-Open your PowerPoint
-presentation, and select the screen in which you would like to record it, and, if applicable, and audio source. Select whether you want a Full Screen or select the appropriate area.
-Click the
-Record
-button (red circle). You are presented with a countdown for 3 seconds and then the recording begins.
-In the PowerPoint presentation, select the
-SlideShow
-icon in the lower-left-hand corner. You can also press
-F5
-in Windows systems.
-Drawing tools are available when recording the screen. The drawing tools can be used to draw freely on the screen during the recording. You can stress important points by drawing a circle around them or highlight important aspects.
-Anytime during a recording, you can click on the
-Draw
-icon to use the drawing tools.
-Click the
-Stop
-icon (gray box)
-and
-Yes,
-Stop it
-when you’re finished.
-You can then edit the title, description, and tags of the recording. Finally,
-Save
-,
-Save & Upload
-, or if necessary,
-Delete
-the recording.
-Note: You can further edit
-your Presentation/Lecture recording only through the website.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-361
-Created
-Wed 9/9/20 1:21 PM
-Modified
-Fri 3/18/22 8:09 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=361&SIDs=500">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=361&SIDs=500</a><br /><br />Kaltura Capture: Creating a Screen Recording/Presentation
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+  
+
+This will prompt an External Protocol Request to access the application and launch it from your system. Click “Open Kaltura Capture”.  Please note, you will need to open Kaltura Capture via MyMedia.ou.edu each and every time we need to use the service for the best user experience. 
+
+ 
+
+Open your PowerPoint presentation, and select the screen in which you would like to record it, and, if applicable, and audio source. Select whether you want a Full Screen or select the appropriate area. 
+ 
+
+Click the Record button (red circle). You are presented with a countdown for 3 seconds and then the recording begins. 
+
+In the PowerPoint presentation, select the SlideShow icon in the lower-left-hand corner. You can also press F5 in Windows systems. 
+ 
+
+Drawing tools are available when recording the screen. The drawing tools can be used to draw freely on the screen during the recording. You can stress important points by drawing a circle around them or highlight important aspects. 
+Anytime during a recording, you can click on the Draw icon to use the drawing tools. 
+ 
+
+Click the Stop icon (gray box) and Yes, Stop it when you’re finished. 
+
+You can then edit the title, description, and tags of the recording. Finally, Save, Save & Upload, or if necessary, Delete the recording. 
+ 
+
+Note: You can further edit your Presentation/Lecture recording only through the website. 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

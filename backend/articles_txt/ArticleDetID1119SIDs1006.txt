@@ -1,132 +1,42 @@
+
+  Updating Media Gallery Video settings and features
 
 
-	Article - Updating Media Gallery Vide...
+To edit the video after being published: 
 
+Hover over the course in the media gallery page. 
 
+Click on the three dots at the bottom.  
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Updating Media Gallery Video settings and features
-Updating Media Gallery Video settings and features
-To edit the video after being published
-:
-Hover over the course in the media gallery page
-.
-Click on the three dots at the bottom.
-Then the pencil
-icon
-.
-This
-will allow
-you
-to
-edit
-the
-video
-settings.
-Details
-will allow
-you to edit the
-name and description
-.
-Publish
-will allow you to choose where to publish the media
-.
-This feature allows you to publish your video in multiple courses.
-Options
-controls comments and clipping by choosing to click on the check mark
-.
-Collaboration is for adding a new co-editor, co-publisher, or co-viewer.
-Captions is for adding new captions other than the automatically generated ones through MyMedia.
-Replace Media
-allows you to choose another video to replace the existing one, either by uploading from your personal computer
-or
-inserting
-a
-media URL.
-Please note that replacing a media
-will remove the original video and
-OUIT
-recommend
-s
-uploading a new one rather than repl
-ac
-ing.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1119
-Created
-Fri 1/22/21 1:44 PM
-Modified
-Mon 9/13/21 1:35 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1119&SIDs=1006">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1119&SIDs=1006</a><br /><br />Updating Media Gallery Video settings and features
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+ 
+
+Then the pencil icon.
+
+This will allow you to edit the video settings. 
+
+Details will allow you to edit the name and description. 
+
+ 
+
+Publish will allow you to choose where to publish the media. 
+
+This feature allows you to publish your video in multiple courses. 
+
+ 
+
+Options controls comments and clipping by choosing to click on the check mark. 
+
+ 
+
+Collaboration is for adding a new co-editor, co-publisher, or co-viewer. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=367&SIDs=506)
+
+Captions is for adding new captions other than the automatically generated ones through MyMedia. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=379&SIDs=518)
+
+Replace Media allows you to choose another video to replace the existing one, either by uploading from your personal computer or inserting a media URL. Please note that replacing a media will remove the original video and OUIT recommends uploading a new one rather than replacing. 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

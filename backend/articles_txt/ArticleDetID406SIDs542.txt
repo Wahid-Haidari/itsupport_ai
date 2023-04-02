@@ -1,116 +1,52 @@
+
+  Exporting a Respondus quiz to Canvas
 
 
-	Article - Exporting a Respondus quiz ...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Exporting a Respondus quiz to Canvas
-Exporting a Respondus quiz to Canvas
 When you are ready to export your quiz to Canvas, click the Preview & Publish tab in Respondus
+
 Click Publish to Canvas on the left navigation pane, then click Publish Wizard
+
 Click the Canvas Server drop down menu
+
 Click add new server then press next
+
 Enter a name for the server such as ‘OU Canvas’
+
 Next, you need to enter your OUNet ID information for the Username and Password
+
 Click save my User Name and Password check box, then click next
+
 If you see a security warning, click no
+
 You should see a login video for Canvas, click Login
+
 If you see any more error messages, click Yes.
+
 Enter your OUNet ID information and click Sign in
+
 Click authorize to authorize the quiz builder to canvas
+
 Finally click next then click finish
+
 You have successfully added the server settings for canvas. Click Next to continue
-If you are publishing a non-randomized created quiz, select
-Graded Quiz
-in the window that appears. If you are publishing a question bank for a randomized quiz, select
-Question Bank
+
+If you are publishing a non-randomized created quiz, select Graded Quiz in the window that appears. If you are publishing a question bank for a randomized quiz, select Question Bank
+
 Enter a name for a quiz on canvas
-If you made changes to quiz settings on canvas, select the
-Apply Settings
-check box
+
+If you made changes to quiz settings on canvas, select the Apply Settings check box
+
 Click next
+
 Select the course you would like to import the Quiz or Question Bank into and click next
+
 The quiz will automatically be sent to the course you selected. When the publishing process is completed, click finish and close Respondus
+
 Double check in Canvas to see if all your settings and questions have successfully transferred from Respondus to Canvas. Click edit to check if each question has transferred.
-If you would like to watch a video tutorial click this link:
-https://mymedia.ou.edu/media/0_zkjfhyae
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-406
-Created
-Wed 9/9/20 4:09 PM
-Modified
-Mon 8/16/21 9:20 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=406&SIDs=542">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=406&SIDs=542</a><br /><br />Exporting a Respondus quiz to Canvas
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+If you would like to watch a video tutorial click this link: https://mymedia.ou.edu/media/0_zkjfhyae (https://mymedia.ou.edu/media/0_zkjfhyae)
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

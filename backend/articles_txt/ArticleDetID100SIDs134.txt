@@ -1,93 +1,16 @@
+
+  Departmental Cabling and Port Activations
 
 
-	Article - Departmental Cabling and Po...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-IT Professional Services
-Departmental Cabling and Port Activations
-Departmental Cabling and Port Activations
 OU IT provides the infrastructure for network port and cabling to meet the digital communication needs of campus staff and faculty.
+
 OU Faculty, Staff and Agencies can request activation of existing Ethernet ports in their location, installation of new ports and cabling. In addition, the OU Facilities team can run new cabling and drops for new construction or remodeling projects.
-If you would like to request new cabling or a new activation at your office, please
-visit the Service Catalog
-for more information and the request form.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-100
-Created
-Thu 9/3/20 12:44 PM
-Modified
-Fri 9/11/20 8:57 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=100&SIDs=134">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=100&SIDs=134</a><br /><br />Departmental Cabling and Port Activations
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+If you would like to request new cabling or a new activation at your office, please visit the Service Catalog  (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=40)for more information and the request form.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

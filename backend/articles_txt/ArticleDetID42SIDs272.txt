@@ -1,104 +1,16 @@
+
+  Security Consultation - Software and Technology Assessment
 
 
-	Article - Security Consultation - Sof...
+The Information Technology (IT) Security group provides free consultation (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=64&SIDs=626) on Information Security best practices for the work environment. The IT Security group also provides guidance for establishing information technology security requirements for information assets and systems under the university’s defined control and for the personnel who access these systems. This can include determinations on whether your desired software or technology complies with federal and state laws or regulations and University policy for protecting University data.
 
+If you have questions like "How do I know if I can purchase this technology or software?", please see the Security Consultation page (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=64&SIDs=626) for a full breakdown of the consult, including the steps and timeline for the request process.
 
+The scope of this consultation process will be updated over time to reflect changes in University policies and infrastructure. The focus of security consultation will be to guide University standards based on the National Institute of Standards and Technology frameworks. To request a security consultation, please complete this form (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=64&SIDs=2433) in our Service Catalog. For help and questions, please contact security@ou.edu (mailto:security@ou.edu).
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-Security Consultation - Software and Technology Assessment
-Security Consultation - Software and Technology Assessment
-Tags
-software
-purchase
-technology
-assessment
-The Information Technology (IT) Security group provides free
-consultation
-on Information Security best practices for the work environment. The IT Security group also provides guidance for establishing information technology security requirements for information assets and systems under the university’s defined control and for the personnel who access these systems. This can include determinations on whether your desired software or technology complies with federal and state laws or regulations and University policy for protecting University data.
-If you have questions like "How do I know if I can purchase this technology or software?", please see the
-Security Consultation page
-for a full breakdown of the consult, including the steps and timeline for the request process.
-The scope of this consultation process will be updated over time to reflect changes in University policies and infrastructure. The focus of security consultation will be to guide University standards based on the National Institute of Standards and Technology frameworks. To request a security consultation, please complete
-this form
-in our Service Catalog. For help and questions, please contact
-security@ou.edu
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-42
-Created
-Thu 9/3/20 8:59 AM
-Modified
-Mon 10/31/22 10:22 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=42&SIDs=272">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=42&SIDs=272</a><br /><br />Security Consultation - Software and Technology Assessment
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

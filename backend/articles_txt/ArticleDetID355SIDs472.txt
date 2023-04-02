@@ -1,100 +1,14 @@
+
+  Student / Faculty-Staff OU Web Pages
 
 
-	Article - Student / Faculty-Staff OU ...
+OU has transitioned personal OU webpage hosting options from students.ou.edu and faculty-staff.ou.edu to create.ou.edu. Create.ou.edu provides domain names and web space to members of the OU community, encouraging individuals to explore the creation and development of their digital identities. Users have access to a wide variety of open source tools to create and maintain websites and leaves the data in their control. This includes popular open-source applications such as WordPress, MediaWiki, Drupal, and Omeka. If you wish to set up a create.ou.edu site, click here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=431) for instructions. For more information please visit the FAQ for OU Create (https://create.ou.edu/faq/), Document Knowledge Base (https://create.ou.edu/docs/) or contact them at create@ou.edu (http://create@ou.edu/).
 
+For internal hosting of content or documents among your team members or collaborators, SharePoint may be a better option. Please see this page (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=429) for more information.
 
+ 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Student / Faculty-Staff OU Web Pages
-Student / Faculty-Staff OU Web Pages
-OU has transitioned personal OU webpage hosting options from students.ou.edu and faculty-staff.ou.edu to create.ou.edu. Create.ou.edu provides domain names and web space to members of the OU community, encouraging individuals to explore the creation and development of their digital identities. Users have access to a wide variety of open source tools to create and maintain websites and leaves the data in their control. This includes popular open-source applications such as WordPress, MediaWiki, Drupal, and Omeka. If you wish to set up a create.ou.edu site, click
-here
-for instructions. For more information please visit the
-FAQ for OU Create
-,
-Document Knowledge Base
-or contact them at
-create@ou.edu
-.
-For internal hosting of content or documents among your team members or collaborators, SharePoint may be a better option. Please see
-this page
-for more information.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-355
-Created
-Wed 9/9/20 12:29 PM
-Modified
-Wed 8/10/22 8:49 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=355&SIDs=472">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=355&SIDs=472</a><br /><br />Student / Faculty-Staff OU Web Pages
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

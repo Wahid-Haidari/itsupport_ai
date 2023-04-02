@@ -1,109 +1,40 @@
+
+  Connecting to WIFI@OU with Android and Chromebooks
 
 
-	Article - Connecting to WIFI@OU with ...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-Connecting to WIFI@OU with Android and Chromebooks
-Connecting to WIFI@OU with Android and Chromebooks
-Tags
-chromebook
 Go into the devices WIFI settings and select WIFI@OU.
+
+
+
 Make sure the settings match the screenshot below and then enter your OUNet ID and password under Identity and Password. Leave the anonymous identity field blank.
+
 Note: Chromebooks require this information as well.
-Device-specific notes:
-HUAWEI
+
+
+
+ 
+
+HUAWEI 
+
 Put the OUNetID in all caps under Identity.
+
 Put the OUNetID in all caps under Anonymous Identity.
+
 Chromebook
+
 You may need to try connecting multiple times and/or exiting the setup and trying again.
-Additional Notes:
-If you have attempted to connect to any other OU networks such as OUGuest, you will need to first "forget" that network before attempting to connect to WIFI@OU.  For instructions on forgetting a wireless network, refer to the
-"Forgetting a Wireless Network"
-article.
-For more information about WIFI@OU, please visit the "
-Connecting to WIFI@OU
-" article.
-For more information about all of OU's WIFI Networks, please visit the "
-OU WIFI Networks
-" article.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-154
-Created
-Fri 9/4/20 9:13 AM
-Modified
-Thu 3/10/22 10:16 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=154&SIDs=245">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=154&SIDs=245</a><br /><br />Connecting to WIFI@OU with Android and Chromebooks
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+If you have attempted to connect to any other OU networks such as OUGuest, you will need to first "forget" that network before attempting to connect to WIFI@OU.  For instructions on forgetting a wireless network, refer to the "Forgetting a Wireless Network" (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=159&SIDs=251) article.
+
+For more information about WIFI@OU, please visit the "Connecting to WIFI@OU (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=95)" article.
+
+For more information about all of OU's WIFI Networks, please visit the "OU WIFI Networks (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=131)" article. 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

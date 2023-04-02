@@ -1,146 +1,98 @@
+
+  Using Blackboard eAccounts for iOS
 
 
-	Article - Using Blackboard eAccounts ...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-Using Blackboard eAccounts for iOS
-Using Blackboard eAccounts for iOS
 eAccounts is a versatile mobile app that can be used to view your account and board plan balances along with recent usage, make a deposit to Sooner Sense for on-campus purchases and add your Sooner Card to Apple Wallet on iPhone and Apple Watch.
+
 Here’s what you need
+
 Your eligible device.
-iOS
-12 and WatchOS 5.
-PingID
-for two-factor authentication.
-Transact eAccount for iOS
-.
+
+iOS (https://support.apple.com/en-us/HT204204) 12 and WatchOS 5.
+
+PingID (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533) for two-factor authentication.
+
+Transact eAccount for iOS (https://apps.apple.com/us/app/transact-eaccounts/id1493974212).
+
 Using eAccounts for the first time
-Download
-Transact eAccounts
-from the App Store
-Select
-University of Oklahoma
-Select
-Norman Campus
-from the campus list
+
+Download Transact eAccounts (https://apps.apple.com/us/app/transact-eaccounts/id1493974212) from the App Store
+
+Select University of Oklahoma
+
+Select Norman Campus from the campus list
+
 Login using your OU Net ID and password. This is the same username and password used for other OU sites.
-Choose your preferred
-PingID two-factor authentication
-method.
+
+Choose your preferred PingID two-factor authentication (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533) method.
+
 Viewing account balances and activity
+
 After logging in, a list of assigned accounts, along with their current balance, will be shown on the eAccounts main page. Follow these steps to view each account’s recent activity in detail.
+
 Tap on the account you would like to view in more detail.
+
 On the Transaction Activity tab, you will find the location and dollar amount of your most recent payments.
+
 Viewing board plan balances and activity
+
 After logging in, a list of assigned board plans, along with their current balance, will be shown on the eAccounts main page. Follow these steps to view each board plan’s recent activity in detail.
+
 Tap on the board plan you would like to view in more detail.
+
 On the Activity tab, you will find the location of your most board plan transactions.
-On the Remaining tab, you will find the number of meals remaining for the current week.  Board plans with a set number of meals per week will reset each Sunday morning.
-Making a deposit to Sooner Sense
-1
+
+On the Remaining tab, you will find the number of meals remaining for the current week.  Board plans with a set number of meals per week will reset each Sunday morning.
+
+Making a deposit to Sooner Sense1
+
 Sooner Sense is an included declining balance account that allows your Sooner Card to be used like a debit card for on-campus purchases wherever Sooner Card payments are accepted. Follow these steps to make a deposit.
-You’ll make your first deposit by visiting Sooner Card Online –
-https://ou.edu/soonercard/online
-You can use Apple Pay as an easy and secure way to make deposits.
+
+You’ll make your first deposit by visiting Sooner Card Online – https://ou.edu/soonercard/online (https://ou.edu/soonercard/online)
+
+You can use Apple Pay as an easy and secure way to make deposits.
+
 At the end of the deposit you will be asked to save the payment method.
+
 Name the card being used and select both checkboxes:
+	
 Save payment method
 Set card as default
+
+
+
+Save payment method
+
+Set card as default
+
 Adding your Sooner Card to Apple Wallet, iPhone
+
 Tap the “Add to Apple Wallet” button. The icon to the left will be replaced by your photo after provisioning.
+
 Select your iPhone.
-Tap Next. You will need to agree to the Sooner Card
-Terms and Conditions
-.
+
+Tap Next. You will need to agree to the Sooner Card Terms and Conditions (http://ou.edu/soonercard/terms-and-conditions).
+
 Your Sooner Card will be added to Apple Wallet and ready for use.
+
 Adding your Sooner Card to Apple Wallet, Apple Watch
+
 Tap “Add to Apple Wallet” to the right of “Apple Watch” on the eAccounts main page.
+
 Select your Apple Watch.
+
 Tap Next. You will need to agree to the Sooner Card Terms and Conditions.
+
 Your Sooner Card will be added to Apple Watch and ready for use
+
 Still have questions?
-Give us a shout! Sooner Card is here to help. You can email us at
-soonercard@ou.edu
-or call our office at 405.325.3113. If you prefer to talk in person, visit our locations in the Oklahoma Memorial Union or Stubbeman Place.
+
+Give us a shout! Sooner Card is here to help. You can email us at soonercard@ou.edu (mailto:soonercard@ou.edu) or call our office at 405.325.3113. If you prefer to talk in person, visit our locations in the Oklahoma Memorial Union or Stubbeman Place.
+
 Sooner Sense is an optional declining balance account that can be used for on-campus payments wherever the Sooner Card is accepted
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-289
-Created
-Tue 9/8/20 10:11 AM
-Modified
-Wed 10/5/22 9:50 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=289&SIDs=431">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=289&SIDs=431</a><br /><br />Using Blackboard eAccounts for iOS
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+	 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,130 +1,62 @@
+
+  Getting Started with Sooner Card in Apple Wallet
 
 
-	Article - Getting Started with Sooner...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-Getting Started with Sooner Card in Apple Wallet
-Getting Started with Sooner Card in Apple Wallet
 Now you can add your Sooner Card to Apple Wallet on iPhone or Apple Watch and use it anywhere the physical Sooner Card is accepted. Open a door, enjoy a meal or attend an event all with a simple tap of your Apple device.
+
 Here’s what you need
+
 Your eligible device.
-iOS
-12 and
-watchOS
-5
-PingID
-for two-factor authentication.
-Transact eAccounts
-App for iOS.
+
+iOS (https://support.apple.com/en-us/HT204204) 12 and watchOS (https://support.apple.com/en-us/HT204641) 5
+
+PingID (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533) for two-factor authentication.
+
+Transact eAccounts (https://apps.apple.com/us/app/transact-eaccounts/id1493974212) App for iOS.
+
 Who’s eligible for the Sooner Card
+
 Any student currently enrolled at the University of Oklahoma Norman campus.
+
 Any faculty or staff member currently employed at the University of Oklahoma Norman campus.
-In order to use Sooner Card in Apple Wallet, you must agree to the Sooner Card
-Terms and Conditions
-.  Your Sooner Card may be set up on one iPhone and one Apple Watch at any given time.
+
+In order to use Sooner Card in Apple Wallet, you must agree to the Sooner Card Terms and Conditions (http://ou.edu/soonercard/terms-and-conditions).  Your Sooner Card may be set up on one iPhone and one Apple Watch at any given time.
+
 How to use
-See the following article for information on setting up and using eAccounts:
-Using Blackboard eAccounts for iOS
-When you add Sooner Card to Apple Wallet, you can tap wherever your plastic Sooner Card is accepted. Simply hold the top of your iPhone or Apple Watch to the reader.
-1
-You’ll see done and a checkmark on the display. Your iPhone or Apple Watch must be turned on, but it doesn’t have to be connected to a network. You don’t need to unlock your device or open an app when you use at a reader.
+
+See the following article for information on setting up and using eAccounts: Using Blackboard eAccounts for iOS (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=289)
+
+When you add Sooner Card to Apple Wallet, you can tap wherever your plastic Sooner Card is accepted. Simply hold the top of your iPhone or Apple Watch to the reader.1 You’ll see done and a checkmark on the display. Your iPhone or Apple Watch must be turned on, but it doesn’t have to be connected to a network. You don’t need to unlock your device or open an app when you use at a reader.
+
 Express Mode
-On compatible devices
-2
-your Sooner Card is enabled by default in Express Mode.  This mode allows you to use your Sooner Card without requiring Touch ID, Face ID, or passcode.
-Express Mode can be turned off to require Face ID, Touch ID, or passcode at all readers.
-3
+
+On compatible devices2 your Sooner Card is enabled by default in Express Mode.  This mode allows you to use your Sooner Card without requiring Touch ID, Face ID, or passcode.
+
+Express Mode can be turned off to require Face ID, Touch ID, or passcode at all readers.3
+
 What’s next?
+
 Add your Sooner Card to Apple Wallet using the Blackboard eAccounts app for iOS.
-Deposit funds to Sooner Sense using the Blackboard eAccounts app for iOS.
-4
+
+Deposit funds to Sooner Sense using the Blackboard eAccounts app for iOS.4
+
 You can use your Sooner Card in Apple Wallet anywhere you use your plastic Sooner Card.
+
 Still have questions?
-Give us a shout! Sooner Card is here to help. You can email us at
-soonercard@ou.edu
-or call our office at 405.325.3113.  If you prefer to talk in person, visit our locations in the Oklahoma Memorial Union or Stubbeman Place.
-On iPhone 6 and 6 Plus, you must double-click the Home button to access your Sooner Card in Apple Wallet.  Rest your finger on Touch ID to authenticate and hold the top of your iPhone to reader.
+
+Give us a shout! Sooner Card is here to help. You can email us at soonercard@ou.edu (mailto:soonercard@ou.edu) or call our office at 405.325.3113.  If you prefer to talk in person, visit our locations in the Oklahoma Memorial Union or Stubbeman Place.
+
+On iPhone 6 and 6 Plus, you must double-click the Home button to access your Sooner Card in Apple Wallet.  Rest your finger on Touch ID to authenticate and hold the top of your iPhone to reader.
+
 Express Mode is compatible with iPhone 6S and later and Apple Watch Series 1 and later.
-Express Mode settings can be accessed on the back of your Sooner Card in Apple Wallet.  On iPhone open Wallet > Select your Sooner Card > Tap the ellipsis (…) icon > Express Mode.  For Apple Watch, on iPhone open the Watch app > Tap Wallet & Apple Pay > Select your Sooner Card > Express Mode.
+
+Express Mode settings can be accessed on the back of your Sooner Card in Apple Wallet.  On iPhone open Wallet > Select your Sooner Card > Tap the ellipsis (…) icon > Express Mode.  For Apple Watch, on iPhone open the Watch app > Tap Wallet & Apple Pay > Select your Sooner Card > Express Mode.
+
 Sooner Sense is an optional declining balance account that can be used for on-campus payments wherever the Sooner Card is accepted.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-245
-Created
-Sun 9/6/20 2:52 PM
-Modified
-Wed 10/5/22 9:56 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=245&SIDs=358">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=245&SIDs=358</a><br /><br />Getting Started with Sooner Card in Apple Wallet
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,114 +1,50 @@
+
+  Upload content to MyMedia
 
 
-	Article - Upload content to MyMedia
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Upload content to MyMedia
-Upload content to MyMedia
 Click on + Add New (left side to the account icon) > Media Upload.
-Click the
-Choose a file to upload
-button
+
+
+
+Click the Choose a file to upload button
+
+
+
 Select the file to be added to MyMedia
+
 Complete the following:
-Name:
-title for the video
-Description:
-description of the media
-Tags:
-common keywords or terms associated with the media
-Access:
-who should be able to access the media
-Click
-Save
+	
+Name: title for the video
+Description: description of the media
+Tags: common keywords or terms associated with the media
+Access: who should be able to access the media
+
+
+
+Name: title for the video
+
+Description: description of the media
+
+Tags: common keywords or terms associated with the media
+
+Access: who should be able to access the media
+
+Click Save
+
 You can then:
-Click
-Go To Media
-to find the latest upload
-Click
-Choose another file
-to upload another media item.
-Note: Larger files can sometimes take 2-3 attempts before they finish uploading. If you are having issues,
-submit the request
-to services.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-390
-Created
-Wed 9/9/20 2:41 PM
-Modified
-Mon 2/13/23 2:58 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=390&SIDs=527">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=390&SIDs=527</a><br /><br />Upload content to MyMedia
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+	
+Click Go To Media to find the latest upload
+Click Choose another file to upload another media item.
+
+
+
+Click Go To Media to find the latest upload
+
+Click Choose another file to upload another media item.
+
+Note: Larger files can sometimes take 2-3 attempts before they finish uploading. If you are having issues, submit the request (https://itsupport.ou.edu/TDClient/35/Norman/Requests/TicketRequests/NewForm?ID=bwv4Fxr6ffI_&RequestorType=Service&SIDs=622) to services.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

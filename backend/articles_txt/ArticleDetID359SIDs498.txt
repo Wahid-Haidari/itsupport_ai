@@ -1,96 +1,20 @@
+
+  MyMedia Avoiding Media Deletion
 
 
-	Article - MyMedia Avoiding Media Dele...
+The University of Oklahoma MyMedia storage policy has recently changed. Due to that change, users are now required to play their content within a two-year span to keep content from being deleted. Users who have content up for deletion will receive an email entitled: Action Required: MyMedia Video Deletion. Within that email, users will have titles of all videos that will need to be played within the following 60 days; otherwise, the video will be deleted. Below are steps that will allow users to search for the specific videos by title to play them and remove them from the deletion queue.
 
+Navigate to the MyMedia Homepage: Mymedia.ou.edu (https://mymedia.ou.edu/)
 
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-MyMedia Avoiding Media Deletion
-MyMedia Avoiding Media Deletion
-The University of Oklahoma MyMedia storage policy has recently changed. Due to that change, users are now required to play their content within a two-year span to keep content from being deleted. Users who have content up for deletion will receive an email entitled:
-Action Required: MyMedia Video Deletion
-. Within that email, users will have titles of all videos that will need to be played within the following 60 days; otherwise, the video will be deleted. Below are steps that will allow users to search for the specific videos by title to play them and remove them from the deletion queue.
-Navigate to the MyMedia Homepage:
-Mymedia.ou.edu
 After logging into MyMedia, click on My Media
-In Search My Media, type or paste the title of the video you are searching for:
+
+In Search My Media, type or paste the title of the video you are searching for:
+
 Once the title is input into the search bar, click enter, and videos with that title or words in the title will appear below. Click on videos to bring them up to play.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-100% helpful - 1 review
-Blank
-Blank
-Blank
-Details
-Article ID:
-359
-Created
-Wed 9/9/20 1:19 PM
-Modified
-Tue 3/29/22 1:16 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=359&SIDs=498">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=359&SIDs=498</a><br /><br />MyMedia Avoiding Media Deletion
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

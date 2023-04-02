@@ -1,222 +1,102 @@
+
+  Joining the SOONER domain
 
 
-	Article - Joining the SOONER domain
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-Joining the SOONER domain
-Joining the SOONER domain
-Windows 7
 You must be logged in to a local administrator account.
-Click the
-Start menu button
-, and then
-“Control Panel”
-Click
-“System and Security”
-Click
-“System”
-Click
-“Advanced system settings”
-Click
-“Computer Name”
-tab, and then click the
-“Change”
-button
-Click the
-“Domain”
-radio button and type in
-“sooner.net.ou.edu”
+
+Click the Start menu button, and then “Control Panel”
+
+Click “System and Security”
+
+Click “System”
+
+Click “Advanced system settings”
+
+Click “Computer Name” tab, and then click the “Change” button
+
+Click the “Domain” radio button and type in “sooner.net.ou.edu”
+
 Type in your OUNetID and password
-Click
-“OK” x2
-Click
-“Close”
-Click
-“Restart Now”
+
+Click “OK” x2
+
+Click “Close”
+
+Click “Restart Now”
+
 To sign into the computer with your OU account on the domain, type “CTRL+ALT+DELETE”
-Type in YOUR OUNet ID and password and click either the arrow button, “Return”, or “Enter” on your keyboard.
-Windows 7 will now log into the computer using your OU account. It can take a bit to prepare your account.
-Windows 10:
-Click the
-“Start”
-menu button, then click the
-“Settings”
-option
-Click
-“System”
-button
-Click
-“About”
-on the bottom left, then click the
-“Rename PC”
-Type in the name of your computer, and then click the
-“Next”
-button
-Click the
-“Restart now”
-button
-After computer restarts, log back in to, click on the
-“Start”
-menu button, click on
-“Settings”
-, click on
-“System”
-Click
-“About”
-and
-“Join a domain”
-button
-Type in the sooner domain:
-“sooner.net.ou.edu”
-and click the
-“Next”
-button
-Type in your OUNet ID and password, then click the
-“OK”
-button
-Click the
-“Account type”
-button if you want to switch from
-“Standard”
-to
-“Administrator”
-, then click the
-“Next”
-button
-Click the
-“Restart now”
-button. The computer will restart.
-After the computer restarts, click the
-“OK”
-button to accept the terms
-Type in your OUNet ID and password. You may have to click the
-“Other user”
-button at the bottom left
+
+Type in YOUR OUNet ID and password and click either the arrow button, “Return”, or “Enter” on your keyboard.
+
+Windows 7 will now log into the computer using your OU account. It can take a bit to prepare your account.
+
+ 
+
+Click the “Start” menu button, then click the “Settings” option
+
+Click “System” button
+
+Click “About” on the bottom left, then click the “Rename PC”
+
+Type in the name of your computer, and then click the “Next” button
+
+Click the “Restart now” button
+
+After computer restarts, log back in to, click on the “Start” menu button, click on “Settings”, click on “System”
+
+Click “About” and “Join a domain” button
+
+Type in the sooner domain: “sooner.net.ou.edu” and click the “Next” button
+
+Type in your OUNet ID and password, then click the “OK” button
+
+Click the “Account type” button if you want to switch from “Standard” to “Administrator”, then click the “Next” button
+
+Click the “Restart now” button. The computer will restart.
+
+After the computer restarts, click the “OK” button to accept the terms
+
+Type in your OUNet ID and password. You may have to click the “Other user” button at the bottom left
+
 The first time you log into the computer with your OU account, it will take a bit to set up your account on the computer.
-Mac OS X
+
+ 
+
 Make sure that you are logged into a local administrator account
-Click the Apple menu at the top left the screen and click
-“System Preferences”
-Click the
-“Sharing”
-button
+
+Click the Apple menu at the top left the screen and click “System Preferences”
+
+Click the “Sharing” button
+
 Type in what you want the name of your computer to be on the domain, then click “return” or “enter” on your keyboard to change the name
-Click the magnifying glass icon in the top right of the menu bar to open Spotlight, then type in
-“Directory Utility”
-to search for the OS X Directory Utility, and click “return” or “enter” on the keyboard to launch
-Once the Directory Utility is open, click the
-lock button
-on the bottom left of the window
+
+Click the magnifying glass icon in the top right of the menu bar to open Spotlight, then type in “Directory Utility” to search for the OS X Directory Utility, and click “return” or “enter” on the keyboard to launch
+
+Once the Directory Utility is open, click the lock button on the bottom left of the window
+
 Type in your local user account name and password to unlock
-Once unlocked, click to select
-“Active Directory”
-and then click the
-pen button
-to edit
-Type in
-‘sooner.net.ou.edu’
-in the
-“Active Directory Domain:”
-field, then click the arrow on the left to reveal more options
-Click the
-“Administrative”
-button, then click the
-checkbox
-next to the
-“Allow administration by:”
-, then click the
-“Bind…”
-button
-Type in your OUNet ID and password, then click the
-“OK”
-button
-Click
-“OK”
-button again
+
+Once unlocked, click to select “Active Directory” and then click the pen button to edit
+
+Type in ‘sooner.net.ou.edu’ in the “Active Directory Domain:” field, then click the arrow on the left to reveal more options
+
+Click the “Administrative” button, then click the checkbox next to the “Allow administration by:”, then click the “Bind…” button
+
+Type in your OUNet ID and password, then click the “OK” button
+
+Click “OK” button again
+
 Close System Preferences, then log out of the local user account
-Click on the
-“Other…”
-button
-Type in your OUNet ID and password to log into the computer using your OU account
-The first time you log into the Mac with your OU account it can take a bit of time because it is setting up your account for the first time
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-133
-Created
-Thu 9/3/20 3:31 PM
-Modified
-Wed 6/16/21 11:36 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=133&SIDs=253">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=133&SIDs=253</a><br /><br />Joining the SOONER domain
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Click on the “Other…” button
+
+Type in your OUNet ID and password to log into the computer using your OU account
+
+The first time you log into the Mac with your OU account it can take a bit of time because it is setting up your account for the first time
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

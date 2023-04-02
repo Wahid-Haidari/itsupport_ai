@@ -1,104 +1,12 @@
+
+  LastPass Account Types
 
 
-	Article - LastPass Account Types
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-LastPass Account Types
-LastPass Account Types
 The LastPass password manager allows one to automatically save all their credentials in a secure vault and automatically fill in those user names and passwords as you visit sites across the web. OU employees of .75 FTE and above, will qualify to activate a LastPass Enterprise account, which they can use for their OU user account passwords. Part-Time Employees, Students and other users with a valid @ou.edu or @ouhsc.edu e-mail address, can sign up for a LastPass Premium as a Perk account, which will grant them additional functionality to their LastPass basic account. If you are an employee that is unsure of their eligibility type, please contact your department HR representative to confirm your FTE status level.
-Type
-LastPass Premium
-LastPass Enterprise
-Group Criteria
-Part-Time Employees, Students and other users with a valid @ou.edu or @ouhsc.edu e-mail address.
-.75 FTE and above (Full-Time faculty and staff)
-Support Options
-LastPass Support
-OU IT Service Support
-Service Features
-With LastPass Premium, you get additional features like the ability to share passwords with multiple people, access more multifactor authentication options, and set up Emergency Access. Please note that OU LastPass support can only see if you have claimed your LastPass Premium account or not. Your personal account information and whatever else you save in your Vault is kept private and visible only to you.
-With LastPass Enterprise, you get features like Team Password sharing and the connection of your Master Password to your OUNet account password. Employees can also have a vault for personal and work, and auto-sort credentials to the right place.
-Password Storage Type
-Personal passwords for financial sites, social media and personal email.
-Passwords for work related systems and applications.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1706
-Created
-Mon 3/1/21 3:19 PM
-Modified
-Wed 6/16/21 10:45 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1706&SIDs=1115">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1706&SIDs=1115</a><br /><br />LastPass Account Types
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

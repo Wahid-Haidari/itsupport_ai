@@ -1,87 +1,10 @@
+
+  Canvas Constantly Loading Error
 
 
-	Article - Canvas Constantly Loading E...
+Please note that if your computer is using an unsupported browser, the Canvas site may remain a grey page and not load. The site may lack left menu options or become stuck in a cycle of constantly loading. To see a list of currently supported browsers, please see this page (https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-the-browser-and-computer-requirements-for-Instructure/ta-p/66). This page will also automatically check if your browser is supported and let you know if an update is required. If you are using an unsupported browser, please update to the latest version and then try to use Canvas again.
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas Constantly Loading Error
-Canvas Constantly Loading Error
-Please note that if your computer is using an unsupported browser, the Canvas site may remain a grey page and not load. The site may lack left menu options or become stuck in a cycle of constantly loading. To see a list of currently supported browsers, please see
-this page
-. This page will also automatically check if your browser is supported and let you know if an update is required. If you are using an unsupported browser, please update to the latest version and then try to use Canvas again.
 Safari users have often reported this issue. Apple users can solve the issue by updating the browser directly or by updating to MacOS Monterey.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2888
-Created
-Thu 8/25/22 8:40 AM
-Modified
-Thu 8/25/22 8:45 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2888&SIDs=2476">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2888&SIDs=2476</a><br /><br />Canvas Constantly Loading Error
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+

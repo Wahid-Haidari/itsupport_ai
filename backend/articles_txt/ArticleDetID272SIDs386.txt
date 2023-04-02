@@ -1,112 +1,32 @@
+
+  How to filter OUMM (OU Mass Mail)
 
 
-	Article - How to filter OUMM (OU Mass...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Communication and Collaboration
-How to filter OUMM (OU Mass Mail)
-How to filter OUMM (OU Mass Mail)
 Don’t want to receive OUMMs? While students are strongly advised to review OUMM messages before deletion, you can manage these messages by following the instructions below.
-To start a new rule, log in to
-https://outlook.office.com/
-:
+
+To start a new rule, log in to https://outlook.office.com/ (https://outlook.office.com/):
+
 In your Mailbox, right click on the OUMM e-mail in question.
-Select
-Create rule…
-.
-You should now be on the
-New inbox rule
-window.
-Set the Name of the rule to
-OUMM
-.
+
+Select Create rule….
+
+You should now be on the New inbox rule window.
+
+Set the Name of the rule to OUMM.
+
 If you wish to limit OUMM filtering to just that specific department or college, you may leave the first two Conditions listed for “it was received from…” and “and it was sent to…”. However if you want it to apply to all OUMM, you may select to remove those limitations and delete those particular conditions using the X option to the left of that line.
+
 The final condition, “It includes these words in the subject…”, should be edited before continuing, click the the words in blue to the right of this option which this condition looks for. If this was an OUMM e-mail, it should start “OUMM:” and then the rest of the subject line. You should receive a “Specify words of phrases” window at this point. Select the existing phrase it was using and click the pencil edit option to have the rule look for just OUMM in the subject line. When you are done, it should look like this:
-Click the
-OK
-button and you should now select where you want to move the messages.
-On the “Move the message to folder” line, click the
-Select one…
-option to choose to which folder you want to move these messages.
+
+Click the OK button and you should now select where you want to move the messages.
+
+On the “Move the message to folder” line, click the Select one… option to choose to which folder you want to move these messages.
+
 You may now also set conditions if you want to add exceptions to this new rules, such as OUMM from a specific department or college e-mail address.
+
 When you are done setting the conditions, click the OK option. You new rule should now be in place.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-272
-Created
-Sun 9/6/20 3:36 PM
-Modified
-Sun 9/6/20 4:02 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=272&SIDs=386">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=272&SIDs=386</a><br /><br />How to filter OUMM (OU Mass Mail)
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

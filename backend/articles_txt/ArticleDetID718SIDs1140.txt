@@ -1,95 +1,22 @@
+
+  Uninstalling Legacy OU Virus Support Software
 
 
-	Article - Uninstalling Legacy OU Viru...
+If your OU computer is still running OU provided legacy virus scanning software, we recommend you uninstall this software because it may no longer be providing up to date monitoring.
 
+Sophos Uninstall (https://support.sophos.com/support/s/article/KB-000034722)
 
+Symantec Uninstall (https://knowledge.broadcom.com/external/article/156148/uninstall-symantec-endpoint-protection.htmlv)
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-Uninstalling Legacy OU Virus Support Software
-Uninstalling Legacy OU Virus Support Software
-If your OU computer is still running OU provided legacy virus scanning software, we recommend you uninstall this software because it may no longer be providing up to date monitoring.
-Legacy Windows Virus Scanner Uninstall Instructions
-Sophos Uninstall
-Symantec Uninstall
-McAfee Uninstall
-Legacy Mac Virus Scanner Uninstall Instructions
-Sophos Uninstall
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-718
-Created
-Wed 11/11/20 10:12 AM
-Modified
-Wed 6/16/21 11:44 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=718&SIDs=1140">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=718&SIDs=1140</a><br /><br />Uninstalling Legacy OU Virus Support Software
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+McAfee Uninstall (https://service.mcafee.com/webcenter/portal/oracle/webcenter/page/scopedMD/s55728c97_466d_4ddb_952d_05484ea932c6/Page29.jspx?wc.contextURL=%2Fspaces%2Fcp&articleId=TS101331&_afrLoop=269033956276352&leftWidth=0%25&showFooter=false&showHeader=false&rightWidth=0%25&centerWidth=100%25#!%40%40%3FshowFooter%3Dfalse%26_afrLoop%3D269033956276352%26articleId%3DTS101331%26leftWidth%3D0%2525%26showHeader%3Dfalse%26wc.contextURL%3D%252Fspaces%252Fcp%26rightWidth%3D0%2525%26centerWidth%3D100%2525%26_adf.ctrl-state%3De67ozpz30_9)
+
+ 
+
+Sophos Uninstall (https://support.sophos.com/support/s/article/KB-000035097?language=en_US)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

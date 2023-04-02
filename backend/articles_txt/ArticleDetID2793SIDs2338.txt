@@ -1,139 +1,84 @@
+
+  Canvas - Course Roles in Canvas
 
 
-	Article - Canvas - Course Roles in Ca...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas - Course Roles in Canvas
-Canvas - Course Roles in Canvas
 Course Level Roles in Canvas
+
 The roles outlined below are the default roles available in Canvas courses. Colleges and departments may have additional customized roles for their academic units; if you have questions about course roles not listed below, we recommend that you contact your department directly.
+
 It is important to assign course roles to users as needed, especially when considering access to sensitive information such as student submissions/grades. We recommend that you identify minimal permissions needed to perform class duties before granting course access to a colleague or another user.
-As a reminder, instructors should refrain from manually adding students to courses (unless there is a demonstrated need). Officially-enrolled students are automatically added to courses when they register. If, for some reason, you do need to add a user to your Canvas course, please add them by OUNetID (4x4) or OUID; adding by email creates a 2
-nd
-Canvas account for the user, which then requires a merging of accounts.
+
+As a reminder, instructors should refrain from manually adding students to courses (unless there is a demonstrated need). Officially-enrolled students are automatically added to courses when they register. If, for some reason, you do need to add a user to your Canvas course, please add them by OUNetID (4x4) or OUID; adding by email creates a 2nd Canvas account for the user, which then requires a merging of accounts.
+
+ 
+
 Roles
+
 Teacher
-Primary use
-: For instructors who need full access to the Canvas features for instruction.
-Permissions
-: Teachers have all course-level permissions, including the ability to add, edit and delete all content in a course, edit course settings, and manually add individuals with active Canvas user accounts.
-Limitations
-: Teachers cannot delete live (Banner-created) courses.
+
+Primary use: For instructors who need full access to the Canvas features for instruction.
+
+Permissions: Teachers have all course-level permissions, including the ability to add, edit and delete all content in a course, edit course settings, and manually add individuals with active Canvas user accounts.
+
+Limitations: Teachers cannot delete live (Banner-created) courses.
+
+ 
+
 TA (Teaching Assistant)
-Primary use
-: For users designated as graduate/teaching assistants in a course.
-Permissions
-: TAs have permissions similar to the Teacher role. They have similar course-level permissions, including the ability to add, edit and delete content in a course, edit course settings, and manually add individuals with active Canvas user accounts.
-Limitations
-: TAs cannot add other Teachers or TAs into the course, nor manage (add/edit/delete) course sections.
+
+Primary use: For users designated as graduate/teaching assistants in a course.
+
+Permissions: TAs have permissions similar to the Teacher role. They have similar course-level permissions, including the ability to add, edit and delete content in a course, edit course settings, and manually add individuals with active Canvas user accounts.
+
+Limitations: TAs cannot add other Teachers or TAs into the course, nor manage (add/edit/delete) course sections.
+
+ 
+
 TA (Teaching Assistant)-Grader only
-Primary use
-: For Teaching Assistants that grade student work but do not actually teach courses.
-Permissions
-: Can view and grade assignment submissions.
-Limitations
-: TA-Graders cannot add, edit, and delete content in a course, edit course settings.
+
+Primary use: For Teaching Assistants that grade student work but do not actually teach courses.
+
+Permissions: Can view and grade assignment submissions.
+
+Limitations: TA-Graders cannot add, edit, and delete content in a course, edit course settings.
+
+ 
+
 Student
-Primary use
-: Students enrolled in a course site.
-Permissions
-: The student role has permissions to view course content and engage in course activities, including the ability to submit assignments, participate in discussions, and view the course roster (if enabled).
-Limitations
-: Students do not have elevated permissions within a course/cannot view or modify settings for a course.
+
+Primary use: Students enrolled in a course site.
+
+Permissions: The student role has permissions to view course content and engage in course activities, including the ability to submit assignments, participate in discussions, and view the course roster (if enabled).
+
+Limitations: Students do not have elevated permissions within a course/cannot view or modify settings for a course.
+
+ 
+
 Designer
-Primary use
-: For instructional designers/technologists (and staff with similar responsibilities) who write and manage course content, but do not actually teach courses or grade student work.
-Permissions
-: Create course content, discussions, announcements, assignments, quizzes, and other content features.
-Limitations
-: Designers cannot view or modify grades or add users to a course.
+
+Primary use: For instructional designers/technologists (and staff with similar responsibilities) who write and manage course content, but do not actually teach courses or grade student work.
+
+Permissions: Create course content, discussions, announcements, assignments, quizzes, and other content features.
+
+Limitations: Designers cannot view or modify grades or add users to a course.
+
+ 
+
 Moderator
-Primary use
-: For external participants who are invited into the course to moderate and participate in discussions by Instructors.
-Permissions
-: Moderators can create, post and view discussions. They can also view announcements and student groups.
-Limitations
-: Moderator cannot access student grades, assignments or view/upload additional course content.
+
+Primary use: For external participants who are invited into the course to moderate and participate in discussions by Instructors.
+
+Permissions: Moderators can create, post and view discussions. They can also view announcements and student groups.
+
+Limitations: Moderator cannot access student grades, assignments or view/upload additional course content.
+
+ 
+
 Observer
-Primary use
-: For users who have no official role in the course but have been given permission to view course content and discussion forums.
-Permissions
-: Observers have access to view course content. This role can be linked to a student enrolled in a course to monitor their progress.
-Limitations
-: Observers have no permissions to edit or participate in course activities.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2793
-Created
-Mon 2/21/22 3:20 PM
-Modified
-Mon 2/21/22 3:20 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2793&SIDs=2338">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2793&SIDs=2338</a><br /><br />Canvas - Course Roles in Canvas
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Primary use: For users who have no official role in the course but have been given permission to view course content and discussion forums.
+
+Permissions: Observers have access to view course content. This role can be linked to a student enrolled in a course to monitor their progress.
+
+Limitations: Observers have no permissions to edit or participate in course activities.
+

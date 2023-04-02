@@ -1,124 +1,85 @@
+
+  Passcodes for Zoom Meetings
 
 
-	Article - Passcodes for Zoom Meetings
+Passcodes are required and automatically generated for all Zoom meetings. Users may change the auto-generated passcode, but it must be 8-10 characters.
 
+ 
 
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Passcodes for Zoom Meetings
-Passcodes for Zoom Meetings
-Passcode Requirement
-Passcodes are required and automatically generated for all Zoom meetings. Users may change the auto-generated passcode,
-but it must be 8-10 characters.
-Passcodes in the Desktop Application
-Schedule
 Open the Zoom application and click “Schedule”.
+
 On the Schedule Meeting menu, under Security, an 8-character passcode is generated automatically.
+
 You may use the auto-generated passcode, or create your own. Every passcode must be 8-10 characters in length.
-New Meeting
+
+
+
 Open the Zoom application and click “New Meeting”.
+
 A passcode will automatically be generated.
+
 This passcode cannot be changed.
-To see the passcode and invite link click on the green check mark on the top left corner of the meeting screen.
-Upcoming Meetings
+
+To see the passcode and invite link click on the green check mark on the top left corner of the meeting screen. 
+
+
+
 Click “Meetings” at the top of the application.
+
 Select the meeting that you would like to change the passcode for, and click “Edit”.
+
 Under Security, change the passcode if you wish, keeping in mind the 8-character requirement.
-Passcodes in the Web Application
-Signing into the web application
+
+
+
+ 
+
+
+
+ 
+
 Go to “oklahoma.zoom.us” in your browser.
+
 Click "sign in"
+
 Sign in with your OUNetID and password.
-Schedule Meeting
+
 Click “Meetings” on the right side of the page.
-Click on “Schedule” on the upper right side of the page.
-On the Schedule Meeting menu, under Security, an 8-character passcode is generated automatically.
-You may use the auto-generated passcode or create your own – keeping in mind the 8-character requirement.
-Upcoming Meetings
+
+Click on “Schedule” on the upper right side of the page. 
+
+On the Schedule Meeting menu, under Security, an 8-character passcode is generated automatically. 
+
+You may use the auto-generated passcode or create your own – keeping in mind the 8-character requirement. 
+
+
+
 Select “Meetings” on the left side of the application, then “Upcoming”.
+
 Click “Edit” for the meeting that you would like to change the password.
+
 You may use the auto-generated passcode, or create your own – keeping in mind the 8-character requirement.
-Application Settings
+
+
+
 Select “Settings” on the left side of the application.
+
 The auto-generated passcodes may be changed under the following settings:
+	
 Require a passcode when scheduling new meetings
 Require a passcode for Personal Meeting ID (PMI)
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-288
-Created
-Tue 9/8/20 9:51 AM
-Modified
-Mon 2/13/23 2:54 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=288&SIDs=402">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=288&SIDs=402</a><br /><br />Passcodes for Zoom Meetings
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+Require a passcode when scheduling new meetings
+
+Require a passcode for Personal Meeting ID (PMI)
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

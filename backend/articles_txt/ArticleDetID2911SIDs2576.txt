@@ -1,96 +1,28 @@
+
+  OneDrive File Syncing
 
 
-	Article - OneDrive File Syncing
+If you decide to sync OneDrive across multiple devices, be sure the security on the devices that your information is synced with meets the minimum-security standards below:
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-OneDrive File Syncing
-OneDrive File Syncing
-If you decide to sync OneDrive across multiple devices, be sure the security on the devices that your information is synced with meets the minimum-security standards below:
 Install virus/malware detection software with the latest definitions.
+
 Run a firewall that blocks in-bound traffic.
+
 Do not log into your workstation or device as an administrator (unless absolutely necessary).
+
 Keep your operating system and software up to date.
+
 Password-protect your workstation or device and use idle-time screen saver passwords where possible.
+
 Talk to your departmental IT support for help securing your computers and other devices.
-Syncing across multiple devices inherently creates the potential for unintended data leakage; syncing
-Category A
-data is therefore strongly discouraged.  Always take caution when transmitting sensitive information.
+
+Syncing across multiple devices inherently creates the potential for unintended data leakage; syncing Category A data is therefore strongly discouraged.  Always take caution when transmitting sensitive information.
+
 By default, OneDrive is set up to sync all files and folders, but you have the ability to customize what is synced.
+
 Open your OneDrive app settings and navigate to Sync Settings.
+
+ (http://www.bu.edu/tech/files/2015/05/onedrive-sync-settings.jpg)
+
 Choose which folder(s) you decide to sync. Stop syncing any folders you choose.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2911
-Created
-Thu 9/29/22 9:10 AM
-Modified
-Thu 9/29/22 9:10 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2911&SIDs=2576">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2911&SIDs=2576</a><br /><br />OneDrive File Syncing
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+

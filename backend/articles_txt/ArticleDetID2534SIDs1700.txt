@@ -1,183 +1,143 @@
+
+  PingID Authentication for Android (Swipe, Fingerprint, One-Time Passcode)
 
 
-	Article - PingID Authentication for A...
+PingID (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533) enables you to use your smartphone to sign on to your company services and applications, with the added security of multifactor authentication. Before you can use your smartphone to authenticate, you have to pair (connect) it to PingID.
 
+If you attempt to log in to an OU application configured for PingID and have not yet paired a device, when you log in, you'll see the PingID welcome screen showing you instructions on how to pair your device. You will not be able to gain access those resources until you do so.
 
+Once your smartphone is paired, you'll be able to authenticate using your smartphone. Once authenticated, you'll be redirected to the resource you were trying to access. Please note you will need to keep the PingID app installed on your phone if you choose this method, as app based authentication prompts will appear in this application. If you have accidentally uninstalled the app and no longer have the ability to authenticate, please see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2885).
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-PingID Authentication for Android (Swipe, Fingerprint, One-Time Passcode)
-PingID Authentication for Android (Swipe, Fingerprint, One-Time Passcode)
-PingID
-enables you to use your smartphone to sign on to your company services and applications, with the added security of multifactor authentication. Before you can use your smartphone to authenticate, you have to pair (connect) it to PingID.
-If you attempt to log in to an OU application configured for PingID and have not yet paired a device, when you log in, you'll see the PingID welcome screen showing you instructions on how to pair your device. You will not be able to gain access those resources until you do so.
-Once your smartphone is paired, you'll be able to authenticate using your smartphone. Once authenticated, you'll be redirected to the resource you were trying to access. Please note you will need to keep the PingID app installed on your phone if you choose this method, as app based authentication prompts will appear in this application. If you have accidentally uninstalled the app and no longer have the ability to authenticate, please see this
-article
-.
-Set up your Android device for PingID authentication
+ 
+
 Setting up PingID to authenticate using your smartphone typically involves the following steps:
+
 Download PingID from your app store.
+
 Pair your device. Pairing a device creates a trust between your device and your account.
-Note
-: Setting up PingID may vary slightly depending on the device model you are using, and the screens you see may vary from the ones shown below.
-Note
-: For authentication by fingerprint, you'll need to set up fingerprint recognition on your device.
-Log in to
-PingID enrollment site
-with your OU username and password. You'll see the PingID welcome screen.
+	
+Note: Setting up PingID may vary slightly depending on the device model you are using, and the screens you see may vary from the ones shown below.
+Note: For authentication by fingerprint, you'll need to set up fingerprint recognition on your device.
+
+
+
+Note: Setting up PingID may vary slightly depending on the device model you are using, and the screens you see may vary from the ones shown below.
+
+Note: For authentication by fingerprint, you'll need to set up fingerprint recognition on your device.
+
+Log in to PingID enrollment site (http://link.ou.edu/pingid) with your OU username and password. You'll see the PingID welcome screen. 
+
 After the system gives a tour of the site, click your name in the upper right corner.
-Click the
-+Add
-button.
-You will now be prompted to set up your authentication method. By default, PingID for Mobile will prompt to install. Follow the onscreen prompts to download the app from the Android store.
+
+Click the +Add button.
+
+You will now be prompted to set up your authentication method. By default, PingID for Mobile will prompt to install. Follow the onscreen prompts to download the app from the Android store.
+
 Download and install the PingID app using one of the following options:
-From Google Play App Store
-: On your smartphone, open Google Play Apps Store, search for PingID, and tap Install.
-Using the Google Play link
-: On the PingID +Add screen screen, click the Google Play store site "Available for Android" button, install the app remotely on your Google-registered smartphone.
-Once installed, continue following onscreen prompts. Your pairing key and QR code are displayed on your web browser to pair your account with your application. On your smartphone, tap
-Open
-. The PingID mobile app opens.
-The first time you access PingID mobile app, you'll be asked to accept the terms of service. Tap
-Accept
-.
+	
+From Google Play App Store: On your smartphone, open Google Play Apps Store, search for PingID, and tap Install.
+Using the Google Play link: On the PingID +Add screen screen, click the Google Play store site "Available for Android" button, install the app remotely on your Google-registered smartphone.
+
+
+
+From Google Play App Store: On your smartphone, open Google Play Apps Store, search for PingID, and tap Install.
+
+Using the Google Play link: On the PingID +Add screen screen, click the Google Play store site "Available for Android" button, install the app remotely on your Google-registered smartphone.
+
+Once installed, continue following onscreen prompts. Your pairing key and QR code are displayed on your web browser to pair your account with your application. On your smartphone, tap Open. The PingID mobile app opens.
+
+The first time you access PingID mobile app, you'll be asked to accept the terms of service. Tap Accept.
+
 You'll also need to enable push notifications and location for PingID. Tap the "I Understand" button and then accept all PingID permission requests when prompted to do so (tap Allow and OK).
-From the PingID app on your device, point your device at the QR code on your browser to scan it.
-If you are unable to scan the QR code, on your smartphone tap
-Enter Pairing Key Manually
-and enter the pairing key as shown on the registration page.
-You'll see a green checkmark indicating the pairing request is successfully, and the
-Complete Your Profile
-page opens automatically.
-Enter a nickname for your profile, optionally add a picture, and then tap
-Done
-.
-You'll see the PingID app screen showing the one-time passcode number and your organization name in the organization list.
-An authentication request is generated immediately. To complete the pairing process, authenticate using your smartphone.
-Once you are authenticated, you'll see a green checkmark confirming authentication. Your device will now be configured to authenticate with PingID. Simply launch the app the next time you need to log in to an OU website to begin your authentication. See below for supported authentication methods.
-Authenticate using your Android
+
+From the PingID app on your device, point your device at the QR code on your browser to scan it.  
+
+If you are unable to scan the QR code, on your smartphone tap Enter Pairing Key Manually and enter the pairing key as shown on the registration page.
+
+You'll see a green checkmark indicating the pairing request is successfully, and the Complete Your Profile page opens automatically. 
+
+Enter a nickname for your profile, optionally add a picture, and then tap Done. 
+
+You'll see the PingID app screen showing the one-time passcode number and your organization name in the organization list. 
+
+An authentication request is generated immediately. To complete the pairing process, authenticate using your smartphone. 
+
+Once you are authenticated, you'll see a green checkmark confirming authentication. Your device will now be configured to authenticate with PingID. Simply launch the app the next time you need to log in to an OU website to begin your authentication. See below for supported authentication methods. 
+
+ 
+
+ 
+
 You can authenticate using the following options:
-Swipe authentication for Android
-Fingerprint authentication for Android
-Authenticate using a one-time passcode
-Swipe authentication for Android
-If you have the PingID app running on your smartphone, when logging in to your resources, you'll be prompted to swipe to authenticate.
-Log in to your account, or access the site that requires authentication. You'll see the
-Authenticating
-screen, and an authentication notification request is sent to your device.
+
+Swipe authentication for Android (#Swipe_authentication_for_Android)
+
+Fingerprint authentication for Android (#Fingerprint_authentication_for_Android)
+
+Authenticate using a one-time passcode (#Authenticate_using_a_one-time_passcode)
+
+ 
+
+If you have the PingID app running on your smartphone, when logging in to your resources, you'll be prompted to swipe to authenticate.
+
+Log in to your account, or access the site that requires authentication. You'll see the Authenticating screen, and an authentication notification request is sent to your device.
+
 If your device is unlocked, swipe up to authenticate. If your device is locked, do one of the following (depending on your notification settings). Either:
+	
 The swipe screen appears: Swipe to authenticate, even though the phone is locked.
-A notification is shown on the lock screen. Swipe left and tap
-Approve
-, or unlock the screen and then swipe to authenticate.
+A notification is shown on the lock screen. Swipe left and tap Approve, or unlock the screen and then swipe to authenticate.
+
+
+
+The swipe screen appears: Swipe to authenticate, even though the phone is locked.
+
+A notification is shown on the lock screen. Swipe left and tap Approve, or unlock the screen and then swipe to authenticate.
+
+
+
 You'll see the green checkmark on your mobile indicating your access is approved, and PingID close
-Fingerprint authentication for Android
+
+
+
+ 
+
+ 
+
 You'll need to register your fingerprints on your device and then Set up your Android device for PingID authentication.
+
 Fingerprint authentication is simple using a smartphone. Authentication varies slightly depending on your phone model, phone settings, and whether your device is locked or unlocked when the authentication request is sent.
-Log in to your account, or access the application that requires authentication. You'll see the
-Authenticating
-screen, and an authentication notification request is sent to your device.
+
+Log in to your account, or access the application that requires authentication. You'll see the Authenticating screen, and an authentication notification request is sent to your device.
+
 If your device is unlocked, you'll be prompted to scan your fingerprint immediately. If your device is locked, do one of the following, according to your notification settings:
+
 The examples shown here relate to a Samsung device. Actual implementation may vary according to device model.
-If your notifications are set to
-show content
-, the notification request is shown on your lock screen. Swipe down on the notification and tap
-Approve
-. You're prompted to unlock the device with your fingerprint, and authentication is performed at the same time.
-If your device is set to
-hide content
-, tap the notification to unlock it, and you're prompted to authenticate using your fingerprint.
-If your device is set to
-Do not show notifications
-, your device will either beep or vibrate and the screen may light up to indicate a notification has arrived. Unlock your device and you're prompted to authenticate using your fingerprint.
+
+If your notifications are set to show content, the notification request is shown on your lock screen. Swipe down on the notification and tap Approve. You're prompted to unlock the device with your fingerprint, and authentication is performed at the same time.
+
+If your device is set to hide content, tap the notification to unlock it, and you're prompted to authenticate using your fingerprint.
+
+If your device is set to Do not show notifications, your device will either beep or vibrate and the screen may light up to indicate a notification has arrived. Unlock your device and you're prompted to authenticate using your fingerprint.
+
 Scan your fingerprint when prompted to do so.
+
 You'll see the green checkmark indicating authentication is successful and your access is approved.
-Authenticate using a one-time passcode
+
+ 
+
 If you don't have internet access temporarily, you can still authenticate using PingID mobile app by generating a one- time passcode (OTP). The one-time passcode is unique, and can only be used once. Only the one-time passcode that appears on your device at the time that you log in to your account is valid for authentication.
+
 Login to your account or app. You'll be prompted to enter a one-time passcode.
+
 On your device, open the PingID mobile app and enter the one-time passcode into the one-time passcode field on the authentication screen and press Enter.
-Note
-: The one-time passcode refreshes each time you open the PingID app. To generate a new one-time passcode, tap
-New Passcode
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2534
-Created
-Wed 9/8/21 2:15 PM
-Modified
-Mon 9/19/22 12:49 PM
-Related Articles (2)
-PingID Enrollment
-PingID Multi-Factor Information
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2534&SIDs=1700">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2534&SIDs=1700</a><br /><br />PingID Authentication for Android (Swipe, Fingerprint, One-Time Passcode)
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+Note: The one-time passcode refreshes each time you open the PingID app. To generate a new one-time passcode, tap New Passcode.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu)
+

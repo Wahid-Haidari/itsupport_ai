@@ -1,98 +1,24 @@
+
+  EasyLock Removable Media Encryption Frequently Asked Questions
 
 
-	Article - EasyLock Removable Media En...
+When departments receive new MacBooks through the OU Computer Standardization Program, EasyLock Removable Media Encryption will be installed automatically. The below instructions will answer frequently asked questions on how to use this software.  
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-EasyLock Removable Media Encryption Frequently Asked Questions
-EasyLock Removable Media Encryption Frequently Asked Questions
-When departments receive new MacBooks through the OU Computer Standardization Program, EasyLock Removable Media Encryption will be installed automatically. The below instructions will answer frequently asked questions on how to use this software.
-What Happens When I Plug in an External Hard Drive?
 If the drive is encrypted via EasyLock, you will be prompted for the password to be given readwrite access.
+
 If the drive is not encrypted via EasyLock, you will be prompted to encrypt the drive or make it read only.
+
 If you choose to encrypt the drive, the EasyLock utility will be deployed to the drive. The app should open automatically after deployed, but if it does not, browse to the drive and open the EasyLock utility. Use the app to transfer or edit files on encrypted drives.
-What if I Don't Want to Encrypt My Removable Media?
+
 Insert the removable media drive.
+
 When prompted to encrypt the device, click Read Only. This will give you read access to the drive by using the EasyLock utility. You must copy files from the EasyLock app to a local storage drive if you want to edit files on the drive.
-How Do I Access Encrypted Data?
+
 The encrypted data can be opened by any user only after it is decrypted, therefore you must copy the information out of the EasyLock software. When your drive is encrypted an EasyLock utility is also saved on the drive. You can launch the utility to decrypt the drive and access data.
-How Do I Share Public Information Using a USB Drive?
-Use services like OneDrive or SharePoint to share public information instead. Users outside OU will receive an email inviting them to collaborate. For Microsoft products like OneDrive and SharePoint, one can access their information from anywhere by visiting
-https://portal.office.com
-.
+
+Use services like OneDrive or SharePoint to share public information instead. Users outside OU will receive an email inviting them to collaborate. For Microsoft products like OneDrive and SharePoint, one can access their information from anywhere by visiting https://portal.office.com (https://portal.office.com).
+
 Purchase a new USB drive and assign a new password to encrypt the device. Explain to the user the process of opening the EasyLock utility on the device and using the password to decrypt the drive and access the data.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2917
-Created
-Thu 9/29/22 10:38 AM
-Modified
-Thu 2/9/23 10:42 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2917&SIDs=2606">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2917&SIDs=2606</a><br /><br />EasyLock Removable Media Encryption Frequently Asked Questions
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+

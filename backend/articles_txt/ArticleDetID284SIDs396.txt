@@ -1,316 +1,342 @@
+
+  Microsoft Teams FAQ
 
 
-	Article - Microsoft Teams FAQ
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Microsoft Teams FAQ
-Microsoft Teams FAQ
-What is Microsoft Teams and why would I use it?
 Microsoft Teams is a messaging app for teams where all conversations, meetings, files, and notes can be accessed by everyone, all in one place. It’s a place for collaboration and work to happen in the open. Microsoft Team’s interface is reminiscent of social media chat clients, like Facebook or Google Hangouts. Check out the short welcome video created by Microsoft here.
-How do I get Microsoft Teams?
-You can get an installer for your desktop or laptop at
-https://portal.office365.com
+
+ 
+
+You can get an installer for your desktop or laptop at https://portal.office365.com (https://portal.office365.com/)
+
+
+
 For mobile devices, go into the Apple App Store (for iOS devices) or the Google Play or Samsung App Store (for Android), and search for Microsoft Teams.
-What is a team?
-A team is a collection of people, content, and tools that center around different projects and jobs within an organization. In Microsoft Teams, team members can have conversations and share files, notes, and more. You can read more about teams in Microsoft’s documentation found
-here
-.
-How do I create a team?
+
+ 
+
+A team is a collection of people, content, and tools that center around different projects and jobs within an organization. In Microsoft Teams, team members can have conversations and share files, notes, and more. You can read more about teams in Microsoft’s documentation found here (https://docs.microsoft.com/en-us/microsoftteams/teams-channels-overview).
+
+ 
+
 From within the desktop Teams client, click on the “Join or create a team” located in the bottom left of the client window.
+
+
 Then click on the ”Create a team” icon.
+
+
 Next, choose the type of Team you would like to create: Class, Professional Learning Community, Staff, or Other.
+
+
+
 Finally, enter the details of your team, such as a Name, a Description, and whether the team is Private or Publicly viewable within the OU organization. You can also choose to create a team using an existing team as a template or create a team using a group setup in Active Directory or Office365. For most teams, simply filling in the name and Privacy setting will suffice.
-What’s a channel?
+
+
+ 
+
 Channels are great because they allow teammates to have focused conversations about specific topics. Every team has its own set of channels (starting with the General channel), and the members of that team get to decide what they want the rest of their channels to focus on. Some channels are devoted to specific projects, initiatives, and locations. Some are for different areas of interest, updates, or discussion topics. Some channels are just for fun! Every channel belonging to a team is completely public to all the team members, so everyone can feel free to join in a channel conversation.
+
 If you spot a channel that looks interesting or is relevant to you, you’ve got the option of following (or, favoriting) it. FYI, you’ll always have the General channel for every team favorited and there’s no way to remove it from your favorites, either.
-To favorite a channel, just click the star icon next to a channel name. That way, it will stay visible in your teams list. You’ll also be able to see if there’s recent activity in your favorite channel because its name will appear in bold text. If someone @mentions you in one of your favorite channels, you’ll see a red number count next to the channel name that tells you the number of @mentions you received.
+
+To favorite a channel, just click the star icon next to a channel name. That way, it will stay visible in your teams list. You’ll also be able to see if there’s recent activity in your favorite channel because its name will appear in bold text. If someone @mentions you in one of your favorite channels, you’ll see a red number count next to the channel name that tells you the number of @mentions you received.
+
 You won’t be able to see the team channels that you don’t favorite by default, but if you ever want to take a look at all the other channels belonging to a team, just click on the text that appears at the bottom of your current favorites telling you how many more channels belong to that team. That will open up a list of all the channels you haven’t favorited. If you see a channel that looks interesting, you’ve got the option of favoriting it from there.
-What’s the difference between team channels and private chats?
+
+ 
+
 Team channels are places where everyone on the team can have open conversations. Private chats are only visible to those people in the chat.
-Can I collaborate with people outside of the University of Oklahoma in my Team?
-Yes! A team owner in Microsoft Teams can add and manage guests in their teams via the web or desktop. Anyone with a business or consumer email accounts, such as Outlook, Gmail, or others, can participate as a guest in Teams with full access to team chats, meetings, and files. Only people who are outside of your organization, such as partners or consultants, can be added as guests. People from within your organization can join as regular team members. You can read more about guest membership in Microsoft’s documentation found
-here
-.
-Can I still make one-on-one calls?
+
+ 
+
+Yes! A team owner in Microsoft Teams can add and manage guests in their teams via the web or desktop. Anyone with a business or consumer email accounts, such as Outlook, Gmail, or others, can participate as a guest in Teams with full access to team chats, meetings, and files. Only people who are outside of your organization, such as partners or consultants, can be added as guests. People from within your organization can join as regular team members. You can read more about guest membership in Microsoft’s documentation found here (https://docs.microsoft.com/en-us/microsoftteams/guest-access).
+
+ 
+
 You can make direct calls and group calls without having to host a meeting. These are private and won’t appear in any team conversation. There are a number of ways to make a call within Teams:
+
 Placing a Call Using the Calls Tab
-You can use the
-Number Pad
-to dial by clicking the numbers or typing them directly into the call bar and clicking the
-Call Icon
-.
-You can also call a contact by navigating to your
-Contact List
-(Contacts > A-Z) and selecting the
-Phone Icon
-next to your desired contact.
-If you don’t see the person you want to call here, click the
-Add Contact Button
-to search for them by name, email, or phone number. Click on the contact when they appear and click
-Add
-to add them to your contact list.
+	
+You can use the Number Pad to dial by clicking the numbers or typing them directly into the call bar and clicking the Call Icon.
+You can also call a contact by navigating to your Contact List (Contacts > A-Z) and selecting the Phone Icon next to your desired contact.
+If you don’t see the person you want to call here, click the Add Contact Button to search for them by name, email, or phone number. Click on the contact when they appear and click Add to add them to your contact list.
+
+
+
+You can use the Number Pad to dial by clicking the numbers or typing them directly into the call bar and clicking the Call Icon.
+
+You can also call a contact by navigating to your Contact List (Contacts > A-Z) and selecting the Phone Icon next to your desired contact.
+
+If you don’t see the person you want to call here, click the Add Contact Button to search for them by name, email, or phone number. Click on the contact when they appear and click Add to add them to your contact list.
+
 Placing a Call from the Command Bar
-Type a
-back slash
-, which tells Teams you’re giving it a command.
-Type
-call
-, then hit
-enter
-to input the command.
+	
+Type a back slash, which tells Teams you’re giving it a command.
+Type call, then hit enter to input the command.
 You will be prompted to type the name or email of the person you’d like to call. As soon as you click on the person you want, the call will start going through.
+
+
+
+Type a back slash, which tells Teams you’re giving it a command.
+
+Type call, then hit enter to input the command.
+
+You will be prompted to type the name or email of the person you’d like to call. As soon as you click on the person you want, the call will start going through.
+
 Placing a Call from the Chat Tab
+	
 If you have more than one person in your conversation, this will start a conference call with all of the participants. Of course, all the participants will need to accept the call on their side before you can conference with them.
-In any conversation, you’ll have the
-Call Icon
-in the top right corner. Click on it to place your call.
+
+
+
+If you have more than one person in your conversation, this will start a conference call with all of the participants. Of course, all the participants will need to accept the call on their side before you can conference with them.
+
+In any conversation, you’ll have the Call Icon in the top right corner. Click on it to place your call.
+
 Placing a Call from Anywhere in Teams
+	
 You can place a call anywhere you interact with your contacts by using their contact card. This is one of the ways Microsoft aims to make communication easier than ever.
 Anywhere you see a contact’s picture, such as in the Teams tab, where they may have just uploaded a document or comment that reminds you to call them, hover over their picture to see their contact card.
 Click the Call Icon to place your call.
 You can use these contact cards anywhere in teams to start any type of conversation: an audio call, a video call, an email, or an IM.
-What are team meetings?
+
+
+
+You can place a call anywhere you interact with your contacts by using their contact card. This is one of the ways Microsoft aims to make communication easier than ever.
+
+Anywhere you see a contact’s picture, such as in the Teams tab, where they may have just uploaded a document or comment that reminds you to call them, hover over their picture to see their contact card.
+
+Click the Call Icon to place your call.
+
+You can use these contact cards anywhere in teams to start any type of conversation: an audio call, a video call, an email, or an IM.
+
+ 
+
 Meetings in Teams include audio, video, and screen sharing. They’re one of the key ways to collaborate in Teams. And you don’t need to be a member of an organization (or even have a Teams account!) to join a Teams meeting—just look in the invitation for instructions about calling in.
-Determine a Type of Meeting
-Flexibility is at the heart of Microsoft’s collaboration solutions – and that is certainly true for the types of meeting that you can host in Microsoft Teams. There are
-three different types of meeting
-:
-Ad-hoc meetings
-. Within any Microsoft Teams conversation, you can click on the “Meet Now” button to instantly begin a session with those involved. Ad-hoc meetings are useful when you’ve realized that everyone needs to come together and discuss something now rather than continuing to send chat messages back and forth.
-Private meetings
-. Through private meetings, you can meet one-on-one with specific employees or colleagues, to touch base or discuss potentially privileged information.
-Channel meetings
-. Entire channels can be selected for scheduled meetings with everyone involved. All members of the channel can participate in the meeting, which is an easy way to make sure that everyone is on the same page.
-How can I schedule a meeting/group call with Teams?
+
+ 
+
+Flexibility is at the heart of Microsoft’s collaboration solutions – and that is certainly true for the types of meeting that you can host in Microsoft Teams. There are three different types of meeting:
+
+Ad-hoc meetings. Within any Microsoft Teams conversation, you can click on the “Meet Now” button to instantly begin a session with those involved. Ad-hoc meetings are useful when you’ve realized that everyone needs to come together and discuss something now rather than continuing to send chat messages back and forth.
+
+Private meetings. Through private meetings, you can meet one-on-one with specific employees or colleagues, to touch base or discuss potentially privileged information.
+
+Channel meetings. Entire channels can be selected for scheduled meetings with everyone involved. All members of the channel can participate in the meeting, which is an easy way to make sure that everyone is on the same page.
+
+ 
+
 Meetings can either be set up through the Microsoft Teams App or Outlook; the meeting will be seen the same way within the system, so you can start the process in whichever application makes the most sense to you.
+
 Scheduling a Microsoft Teams Meeting
+
 To schedule a meeting directly from Microsoft Teams:
+		
 From Teams, click on “Meetings” on the left side menu and select “Schedule a Meeting.”
 Select the channel you want to meet with.
 Use the “Scheduling Assistant” to find a time during which everyone is available.
 Select how often you want the meeting to recur.
+
+
 To schedule a Microsoft Teams meeting from Outlook:
+		
 Go to the “Meeting” tab of Microsoft Outlook and select “Teams Meeting.”
 Follow the directions above for scheduling a Teams meeting in the Teams app.
-Note that to schedule a Microsoft Teams meeting from Outlook, you need to first install the add-In for Microsoft Office. You can learn more about how to install and use the Outlook Add-In for Teams
-here
-.
-Which browsers are supported?
+
+
+
+
+
+To schedule a meeting directly from Microsoft Teams:
+		
+From Teams, click on “Meetings” on the left side menu and select “Schedule a Meeting.”
+Select the channel you want to meet with.
+Use the “Scheduling Assistant” to find a time during which everyone is available.
+Select how often you want the meeting to recur.
+
+
+
+From Teams, click on “Meetings” on the left side menu and select “Schedule a Meeting.”
+
+Select the channel you want to meet with.
+
+Use the “Scheduling Assistant” to find a time during which everyone is available.
+
+Select how often you want the meeting to recur.
+
+To schedule a Microsoft Teams meeting from Outlook:
+		
+Go to the “Meeting” tab of Microsoft Outlook and select “Teams Meeting.”
+Follow the directions above for scheduling a Teams meeting in the Teams app.
+
+
+
+Go to the “Meeting” tab of Microsoft Outlook and select “Teams Meeting.”
+
+Follow the directions above for scheduling a Teams meeting in the Teams app.
+
+Note that to schedule a Microsoft Teams meeting from Outlook, you need to first install the add-In for Microsoft Office. You can learn more about how to install and use the Outlook Add-In for Teams here (https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook).
+
+ 
+
 The Microsoft Teams app works in the following desktop browsers:
+
 Internet Explorer 11
+
 Microsoft Edge
+
 The latest version of Chrome
+
 The latest version of Firefox
-Safari is
-not
-currently supported (
-see more
-)
-Is Microsoft Teams only accessible from my browser?
+
+Safari is not currently supported (see more (https://support.office.com/en-us/article/safari-browser-support-1aac0a7c-35a8-42c1-a7df-f674afe234df?ui=en-US))
+
+ 
+
 No, the client can be used as well.
-How do I log out of Microsoft Teams?
-To sign out of Teams, click your profile picture at the top of the app and select
-Sign out
-.
-Mac users, go to the app menu bar at the top of your screen and click
-Microsoft Teams > Quit Microsoft Teams
-.
+
+ 
+
+To sign out of Teams, click your profile picture at the top of the app and select Sign out.
+
+Mac users, go to the app menu bar at the top of your screen and click Microsoft Teams > Quit Microsoft Teams.
+
 You’ll be able to sign in later with the same account or different credentials.
-What can a team owner do?
+
+ 
+
 Team owners can add and remove members. They have the ability to edit or delete a team, and to change the team picture. They can also
+
 Set team members’ permissions for channels, tabs, and connectors.
+
 Control @[team name] mentions that will notify everyone on the team.
+
 Allow @[channel name] mentions, which will notify members who’ve favorited the channel.
+
 Allow usage of GIFs, stickers, and memes.
-How do I send a private message?
-You start one-on-one and group chats the same way: by selecting
-New chat
-at the top of your chat list.
+
+ 
+
+You start one-on-one and group chats the same way: by selecting New chat  at the top of your chat list.
+
+ 
+
+
+
 Start a one-on-one chat
-Once you’ve selected
-New chat
-and entered the person’s name, compose your message in the box at the bottom of the chat. To open your
-formatting options
-, select
-Format
-beneath the box where you type your message.
-When you’re ready, select
-Send
-. This starts the chat.
+Once you’ve selected New chat  and entered the person’s name, compose your message in the box at the bottom of the chat. To open your formatting options (https://support.microsoft.com/en-us/office/format-a-message-in-teams-9f7c64e4-0316-472f-b1e8-430cebcfc1e5), select Format beneath the box where you type your message.
+
+
+
+When you’re ready, select Send . This starts the chat.
 You can also start a one-on-one chat from someone’s profile card. Open it by clicking their picture in a channel or from a search.
-Can I send a message to someone on Skype for Business from Microsoft Teams?
+
+ 
+
 You can use Microsoft Teams to chat with someone who’s using Skype for Business. Simply start a one-on-one chat with the person you’d like to talk to, and they’ll get your message in Skype for Business. In the chat, you’ll have the opportunity to invite them to join you and the rest of the world in Microsoft Teams.
-Remember:
-If the person you’re chatting with has ever used Microsoft Teams, your messages will always be sent there. Otherwise, if messages aren’t getting to or from Skype for Business, check with your IT administrator.
-Can I send group messages to Skype for Business users?
+
+Remember: If the person you’re chatting with has ever used Microsoft Teams, your messages will always be sent there. Otherwise, if messages aren’t getting to or from Skype for Business, check with your IT administrator.
+
+ 
+
 Unfortunately, group messages can’t be sent to people using Skype for Business. However, whenever someone invites you to a group conversation from Skype for Business, you’ll get a notification in Microsoft Teams! Then, you can join the conversation back in Skype for Business.
-Is chatting with Skype for Business users in Microsoft Teams any different?
+
+ 
+
 While chatting with someone on Skype for Business from within Microsoft Teams is possible, but you will not be able to use some features such as file attachments, tabs, and emojis. Also, your conversation history won’t be saved, so if you update, refresh, or open up Microsoft Teams on a different platform (like mobile), you won’t be able to view your old messages.
-How do I know which conversations include me?
+
+ 
+
 If you’re worried about knowing when someone in a conversation needs your attention, just keep an eye on your Activity feed. There, you’ll get a notification whenever someone:
+
 @mentions you (you’ll also see your @mentions in the conversation, where you can spot them easily).
+
 @mentions teams and channels you belong to.
+
 Replies to conversations you’re part of.
+
 Replies to your replies.
-Is there a phone call-in option for audio and video chat and meetings?
+
+
+
+ 
+
 No. All users will need to attend the meeting over the Teams client on their desktop or mobile device or through a web browser.
-How can I manage and share files with my team?
-Click
-Files
-to see all your important files, which are sorted into the following categories:
-The
-Recent
-view shows you every Office 365 document you’ve viewed or edited in recent history.
-Note:
-Another way to view your recent files is to type
-/files
-into the command box at the top of Teams.
-The
-Microsoft Teams
-view shows you all the documents that have been created or edited recently within your favorite channels.
-In the
-Downloads
-view, you’ll see a list of all the files you’ve downloaded to Teams.
-The
-Cloud storage
-section shows all the different cloud storage services you’ve connected to Teams. Click one to see your cloud files.
-To send a file in a one-on-one or group chat, select
-Choose file
-beneath the compose box, select the file you want to share, and then send. You can also upload a file by going to the
-Files
-tab and clicking
-Share
-. You can select a file from your computer or OneDrive for Business account.
-To share a file with your team in a channel, select
-Choose file
-beneath the compose box or go to the
-Files
-tab and select
-Upload
-.
-Once you share a file, you can also
-share a link to it
-. That way, you don’t ever have to upload multiple copies of the same file to share it in different places.
-You can grab a link to a previously uploaded file without leaving the channel you’re chatting in. Just click
-Choose file
-beneath your compose box, then select
-Browse Teams and Channels
-. Go to the file you want, and then click
-Share a link
-. Teams posts your link in the channel conversation, including the name of the team and channel where the file is stored.
+
+ 
+
+Click Files  to see all your important files, which are sorted into the following categories:
+
+	
+The Recent view shows you every Office 365 document you’ve viewed or edited in recent history.
+Note: Another way to view your recent files is to type /files into the command box at the top of Teams.
+The Microsoft Teams view shows you all the documents that have been created or edited recently within your favorite channels.
+In the Downloads view, you’ll see a list of all the files you’ve downloaded to Teams.
+
+
+
+The Recent view shows you every Office 365 document you’ve viewed or edited in recent history.
+
+Note: Another way to view your recent files is to type /files into the command box at the top of Teams.
+
+The Microsoft Teams view shows you all the documents that have been created or edited recently within your favorite channels.
+
+In the Downloads view, you’ll see a list of all the files you’ve downloaded to Teams.
+
+The Cloud storage section shows all the different cloud storage services you’ve connected to Teams. Click one to see your cloud files.
+
+To send a file in a one-on-one or group chat, select Choose file  beneath the compose box, select the file you want to share, and then send. You can also upload a file by going to the Files tab and clicking Share. You can select a file from your computer or OneDrive for Business account.
+
+To share a file with your team in a channel, select Choose file  beneath the compose box or go to the Files tab and select Upload.
+
+
+
+Once you share a file, you can also share a link to it (https://support.microsoft.com/en-us/office/get-a-link-to-a-file-in-teams-7bd003ce-87e2-4b4e-9f30-b27ef5ea471f). That way, you don’t ever have to upload multiple copies of the same file to share it in different places.
+
+You can grab a link to a previously uploaded file without leaving the channel you’re chatting in. Just click Choose file  (https://itscnorman.ou.edu/wp-content/uploads/2020/04/TeamsIcon5.png) beneath your compose box, then select Browse Teams and Channels. Go to the file you want, and then click Share a link. Teams posts your link in the channel conversation, including the name of the team and channel where the file is stored.
+
 Alternatively, you can go to the file’s location in Teams, click More options next to the file name, and then select Get link. You can now paste the link into any channel or chat.
+
 Don’t forget that you can share links to files in other channels (even if they belong to different teams). That way, you never have to upload multiple copies of the same file to work with it in different places.
+
 Only team members can see team files.
+
 You can share a file with people outside your team (if they are also using Teams) by sending it to them in a chat.
 If you want to share a file with someone outside your organization, open the file in Office Online or an Office app and share it from there.
-To rename, move, or copy a file, open the Files tab in the channel. Select the file
-> Rename > Move
-or
-Copy
-in the top menu bar. You can also right click on any file or select
-More options
-.
-You can
-move
-files:
+
+To rename, move, or copy a file, open the Files tab in the channel. Select the file > Rename > Move or Copy in the top menu bar. You can also right click on any file or select More options .
+
+
+
+You can move files:
+
 Within the same team.
+
 Within the same OneDrive.
+
 Within the same document library of a SharePoint tab.
-You can
-copy
-files:
+
+You can copy files:
+
 Within the same team.
+
 Between teams.
+
 Between OneDrive and a team.
+
 From a SharePoint tab to the same document library, a team, or a OneDrive.
-Additionally, when you’re editing an Office file from within Teams, you can rename it by selecting the name of the file or by selecting
-File > Rename
-.
-If you open an Office file outside of Teams using Office for desktop or Office for the web, you’ll also be able to
-rename and move
-or
-save a copy
-from there.
-How can I renew my team?
-If you are designated as an owner of a team, Teams will send you a notification in your team Feed letting you know that the team is set to expire. Typically each team is set to be active for one year before expiring, to ensure if it is still in use or no longer needed. If you have received an expiration notice, please note that your renewal option in Teams will not show until the following day. To renew your team, log into the Team and choose the Settings option for it. Your expiration date will be listed under "Team Expiration", from here you can click the renewal button to renew your team for another year.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-284
-Created
-Tue 9/8/20 8:50 AM
-Modified
-Wed 10/26/22 9:48 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=284&SIDs=396">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=284&SIDs=396</a><br /><br />Microsoft Teams FAQ
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Additionally, when you’re editing an Office file from within Teams, you can rename it by selecting the name of the file or by selecting File > Rename.
+
+If you open an Office file outside of Teams using Office for desktop or Office for the web, you’ll also be able to rename and move (https://support.office.com/en-us/article/rename-a-file-baea7aab-760b-4ee0-af58-06e940d505a4) or save a copy (https://support.office.com/en-us/article/save-a-copy-before-editing-to-prevent-changing-the-original-file-8aeabebe-952e-449b-b931-ae2b7568771b) from there.
+
+ 
+
+If you are designated as an owner of a team, Teams will send you a notification in your team Feed letting you know that the team is set to expire. Typically each team is set to be active for one year before expiring, to ensure if it is still in use or no longer needed. If you have received an expiration notice, please note that your renewal option in Teams will not show until the following day. To renew your team, log into the Team and choose the Settings option for it. Your expiration date will be listed under "Team Expiration", from here you can click the renewal button to renew your team for another year.
+
+
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

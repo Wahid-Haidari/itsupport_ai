@@ -1,88 +1,91 @@
+
+  Adobe Creative Cloud Download and Install
 
 
-	Article - Adobe Creative Cloud Downlo...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Software Catalog
-Adobe Creative Cloud Download and Install
-Adobe Creative Cloud Download and Install
 The Adobe Creative Cloud Suite is now available for download and install through the Adobe website for all current full-time OU faculty and staff. This suite includes software like Photoshop, Acrobat Pro DC and Lightroom.
-Click
-here
-to watch a video about how to download and install Adobe Creative Cloud.
-*The fix that is mentioned at the end of the video above is addressed below, as well as in
-this video
-.
-Logging In
-To log in, go to
-http://www.adobe.com
-and click the Sign in button.
+
+Click here (https://mymedia.ou.edu/media/Adobe+Creative+Cloud+Login/0_x8inbg3l) to watch a video about how to download and install Adobe Creative Cloud.
+*The fix that is mentioned at the end of the video above is addressed below, as well as in this video (https://mymedia.ou.edu/media/Adobe+CC+Fix/0_bebj190f).
+
+To log in, go to http://www.adobe.com (http://www.adobe.com/) and click the Sign in button.
+
 Enter your OU alias e-mail address into the Email address field and click Continue.
+
 You should be redirected to an OU sign on page.
+
 Enter your OUNet ID or e-mail address for the Username.
+
 Enter your OUNet password for the password.
+
 If successful, you should see your name and account listed on the Adobe site.
-Install the Adobe Creative Cloud App – Windows
+
 To install the suite, OU recommends you first install the Adobe App to manage your download, installs and updates.
+
 After logging in to the site, click the menu button in the upper right corner and select Creative Cloud.
-Click the Apps tab, and then locate the Creative Cloud app in the list of available apps in the OU plan.
+
+Click the Apps tab, and then locate the Creative Cloud app in the list of available apps in the OU plan.
+
 Click the Install button under Creative Cloud.
+
 The app will now download to your computer. Select to Run the application to install it.
+
 If you receive a User Account security prompt, click Yes to continue.
+
 The app will now download the full installer.
+
 When the install completes, you may be prompted to log in again. Enter your OU e-mail address again, leave the password field blank and click Sign in.
+
 Enter your OUNet ID or OU e-mail address for the username and your OUNet password for the password and then click Log In.
+
 In the app window, click the Apps tab. A list of the available Creative Suite programs will be displayed. Click the Install button next to the software you wish to download and install. Your software selection will then download and install automatically.
+
 The Creative Cloud App window can also be used to update and manage your suite products. Simply click on any app which has an update prompt to install the latest security and stability fixes.
-Install the Adobe Creative Cloud App – Mac
+
 To install the suite, OU recommends you first install the Adobe App to manage your download, installs and updates.
+
 After logging in to the site, click the menu button in the upper right corner and select Creative Cloud.
-Click the Apps tab, and then locate the Creative Cloud app in the list of available apps in the OU plan.
+
+Click the Apps tab, and then locate the Creative Cloud app in the list of available apps in the OU plan.
+
 Click the Install button under Creative Cloud.
+
 The app will now download to your computer. Select to Run the application to install it.
+
 If you receive a security prompt asking if you want the installer, click Open to continue.
+
 If prompted, enter your computer administrative login and then click OK. The app will now install.
+
 When the install completes, you may be prompted to log in again. Enter your OU e-mail address again, leave the password field blank and click Sign in.
+
 Enter your OUNet ID or OU e-mail address for the username and your OUNet password for the password and then click Log In.
+
 Your app is now set up. If you need to access it, it will be available in your Applications folder under the following path:
+	
 Applications > Utilities > Adobe Creative Cloud > ACC > Creative Cloud
+
+
+
+Applications > Utilities > Adobe Creative Cloud > ACC > Creative Cloud
+
 In the app window, click the Apps tab. A list of the available Creative Suite programs will be displayed. Click the Install button next to the software you wish to download and install. Your software selection will then download and install automatically.
+
 The Creative Cloud App window can also be used to update and manage your suite products. Simply click on any app which has an update prompt to install the latest security and stability fixes.
-​*Some users may not be able to download the application, or once installed will not see the ‘Apps’ tab. If this happens, follow the process outlined below to remove old license information from a previous Adobe product install:
+
+ 
+
+
+​*Some users may not be able to download the application, or once installed will not see the ‘Apps’ tab. If this happens, follow the process outlined below to remove old license information from a previous Adobe product install:
+
 For Windows:
+
 1. Sign out from CC desktop app.
 2. Check task manager and close all adobe programs and services running.
 3. Rename (or delete) OOBE folders from following locations:
 C:\Program Files (x86)\Common Files\Adobe
 C:\ProgramData\Adobe
+
 For Mac:
+
 1. Sign out from CC desktop app.
 2. Check activity monitor and close all adobe programs and services running.
 3. Rename (or delete) OOBE folders from following locations:
@@ -90,76 +93,34 @@ Macintosh HD>Library>Application Support>Adobe>OOBE
 ~/Library>Application Support>Adobe>OOBE
 Try to sign in again.
 4. May need to restart
+
 FAQ
+
 Can I install it on my personal device?
 The license for full time OU employees allows for Adobe to be installed on both personal and University-owned devices.
+
 Can I install it from a network share?
 Creative Cloud should not be installed from a network share drive. It needs to be downloaded to a local disk.
+
 Can a custom Adobe package be created for my department?
-If you need a custom package to deploy to a specific college, we’d be happy to help. Please request a custom Adobe package using the form under the “Support” tab
-here
-.
+If you need a custom package to deploy to a specific college, we’d be happy to help. Please request a custom Adobe package using the form under the “Support” tab here (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=46).
+
 Is TypeKit included?
 Yes, the basic TypeKit service is included in OU’s enterprise license.
+
 Is Adobe Stock included?
-No, Adobe Stock is a separate purchase if a department needs it and is not part of the Enterprise CC license. To purchase Adobe Stock, you can compare plans
-here
-.
+No, Adobe Stock is a separate purchase if a department needs it and is not part of the Enterprise CC license. To purchase Adobe Stock, you can compare plans here (https://stock.adobe.com/plans).
+
 Is Behance included?
 Yes, Behance is included.
+
 My device tells me it can’t install a program downloaded from the internet.
 PC users may need to right click on the setup.exe program, go to Properties, and click the Unblock button. (Windows security may block opening programs download form the internet.)
 Mac users may need to right click (or hold down the Control key and click), then choose open to run the installation. (OS X security may block opening programs download from the internet. Gp to System Preferences > Security And Privacy > General > Allow Applications Downloaded from: anywhere.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-354
-Created
-Wed 9/9/20 12:27 PM
-Modified
-Mon 8/15/22 10:57 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=354&SIDs=471">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=354&SIDs=471</a><br /><br />Adobe Creative Cloud Download and Install
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

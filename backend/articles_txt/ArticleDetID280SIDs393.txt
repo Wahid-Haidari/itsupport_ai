@@ -1,95 +1,18 @@
+
+  Exception Accounts
 
 
-	Article - Exception Accounts
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-Exception Accounts
-Exception Accounts
 Affiliates of the University may request an exception account to gain access to OU email, network resources, and other services.
+
 Exception accounts require annual approval and must be sponsored by a director or chair of the affiliated department or college.
-To request a new exception account, please visit the Service
-Catalog and submit an “
-Account Request
-” Please note that requests may take 5-7 days to process.
-To request to renew or delete an exception account, visit the Service Catalog and submit a “
-Renew/Delete Account Request
-” Please submit this form at least 7 days prior to the account expiration date to avoid possible service interruption or loss of data.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-280
-Created
-Sun 9/6/20 3:52 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=280&SIDs=393">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=280&SIDs=393</a><br /><br />Exception Accounts
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+To request a new exception account, please visit the Service  (https://itscnorman.ou.edu/)Catalog and submit an “Account Request (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=2&SIDs=2)” Please note that requests may take 5-7 days to process.
+
+To request to renew or delete an exception account, visit the Service Catalog and submit a “Renew/Delete Account Request (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=2&SIDs=2)” Please submit this form at least 7 days prior to the account expiration date to avoid possible service interruption or loss of data.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,233 +1,112 @@
+
+  Canvas – Connect to McGraw-Hill Campus in Canvas
 
 
-	Article - Canvas – Connect to McGraw-...
+Instructors:  Before you can use MH Campus Connect, you must first pair your user account and course with the MH Campus Connect application.
 
+To get started, log in to Canvas at: https:// (https://canvas.ou.edu/)canvas.ou.edu (https://canvas.ou.edu/)
 
+Under Courses, locate and click on your course name.
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas – Connect to McGraw-Hill Campus in Canvas
-Canvas – Connect to McGraw-Hill Campus in Canvas
-Instructors
-:  Before you can use MH Campus Connect, you must first pair your user account and course with the MH Campus Connect application.
-To get started, log in to Canvas at:
-https://
-canvas.ou.edu
-Under
-Courses
-, locate and click on your course name.
-In the navigation bar, click on
-Modules
-.
+In the navigation bar, click on Modules.
+
 Locate and click on the McGraw Hill Campus link.
-Click on
-Load McGraw-Hill Campus in a new window
-.
-Click on the box to agree to the Terms of Use. Click
-Get Started
-.
-Under My Courses, search for textbook. Click
-Find Now
-.
-Note
-: We recommend searching by textbook ISBN to produce the best results.
-Find textbook and click on
-Select
-.
-Note
-: Prior to your textbook selection, please verify that the ISBN is correct.
-Click on the
-Connect
-button.
-Enter your OU email address. Click on
-Find my account.
-If a new Connect user
-, follow these steps:
-Click
-create a new account
-.
-Click
-Create a new Connect account and complete your registration
-.
-Complete all fields and accept the Terms of Use. Click
-Continue
-.
-Click
-Select
-.
-Click
-I want this for my students
-.
-Click
-Adopt Connect
-.
-Choose
-A section in an existing Connect course
-as a Connect course and section will automatically be created based on your textbook selection via MH Campus.
-Select a section. Click
-Save
-.
-Note
-: You may also select
-Add a new section
-, if applicable.
-Connect section should have been paired successfully. Click on
-go to section home page
-in order to access Connect.
-If an existing Connect user
-, follow these steps:
-Enter Connect password, then click
-Log In
-.
-Click
-Select
-.
-Click
-I want this for my students
-.
-Click
-Adopt Connect
-.
-Choose
-A section in an existing Connect course
-as a Connect course and section will automatically be created based on your textbook selection via MH Campus.
-Select a section. Click
-Save
-.
-Note
-: You may also select
-Add a new section
-, if applicable.
-Connect section should have been paired successfully. Click on
-go to section home page
-in order to access Connect.
-Students
-: Before you can use MH Campus Connect, you must first pair your user account with the MH Campus Connect application.
-To get started, log in to Canvas at:
-https://canvas.ou.edu
-Under
-Courses
-, locate and click on your course name.
-In the navigation bar, click on
-Modules
-.
+
+Click on Load McGraw-Hill Campus in a new window.
+
+Click on the box to agree to the Terms of Use. Click Get Started.
+
+Under My Courses, search for textbook. Click Find Now. Note: We recommend searching by textbook ISBN to produce the best results.
+
+Find textbook and click on Select. Note: Prior to your textbook selection, please verify that the ISBN is correct.
+
+Click on the Connect button.
+
+Enter your OU email address. Click on Find my account.
+
+If a new Connect user, follow these steps:
+
+Click create a new account.
+
+Click Create a new Connect account and complete your registration.
+
+Complete all fields and accept the Terms of Use. Click Continue.
+
+Click Select.
+
+Click I want this for my students.
+
+Click Adopt Connect.
+
+Choose A section in an existing Connect course as a Connect course and section will automatically be created based on your textbook selection via MH Campus.
+
+Select a section. Click Save. Note: You may also select Add a new section, if applicable.
+
+Connect section should have been paired successfully. Click on go to section home page in order to access Connect.
+
+If an existing Connect user, follow these steps:
+
+Enter Connect password, then click Log In.
+
+Click Select.
+
+Click I want this for my students.
+
+Click Adopt Connect.
+
+Choose A section in an existing Connect course as a Connect course and section will automatically be created based on your textbook selection via MH Campus.
+
+Select a section. Click Save. Note: You may also select Add a new section, if applicable.
+
+Connect section should have been paired successfully. Click on go to section home page in order to access Connect.
+
+ 
+
+Students: Before you can use MH Campus Connect, you must first pair your user account with the MH Campus Connect application.
+
+To get started, log in to Canvas at: https://canvas.ou.edu (https://canvas.ou.edu/)
+
+Under Courses, locate and click on your course name.
+
+In the navigation bar, click on Modules.
+
 Locate and click on the McGraw Hill Campus link.
-Click on
-Load McGraw-Hill Campus in a new window
-.
-Click on the box to agree to the Terms of Use. Click
-Get Started
-.
-Click on
-Connect
-button.
-Enter your OU email address. Click on
-Find my account.
-If a new Connect user
-, follow these steps:
-Click
-create a new account
-.
-Click
-Create a new Connect account and complete your registration
-.
-Complete all fields and accept the Terms of Use. Click
-Continue
-.
+
+Click on Load McGraw-Hill Campus in a new window.
+
+Click on the box to agree to the Terms of Use. Click Get Started.
+
+Click on Connect button.
+
+Enter your OU email address. Click on Find my account.
+
+If a new Connect user, follow these steps:
+
+Click create a new account.
+
+Click Create a new Connect account and complete your registration.
+
+Complete all fields and accept the Terms of Use. Click Continue.
+
 Select the appropriate Student Registration option and follow the steps in order to create a Connect account.
-Enter a contact email address and click
-Complete My Registration
-in order to complete your Connect registration.
-Click
-go to my course
-.
-If an existing Connect user
-, follow these steps:
-Enter Connect password, then click
-Log In
-.
+
+Enter a contact email address and click Complete My Registration in order to complete your Connect registration.
+
+Click go to my course. 
+
+If an existing Connect user, follow these steps:
+
+Enter Connect password, then click Log In.
+
 Select the appropriate Student Registration option and follow the steps in order to create a Connect account.
-Enter a contact email address and click
-Complete My Registration
-in order to complete your Connect registration.
-Click
-go to my course
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-454
-Created
-Thu 9/10/20 10:13 AM
-Modified
-Fri 8/13/21 2:00 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=454&SIDs=570">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=454&SIDs=570</a><br /><br />Canvas – Connect to McGraw-Hill Campus in Canvas
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Enter a contact email address and click Complete My Registration in order to complete your Connect registration.
+
+Click go to my course.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

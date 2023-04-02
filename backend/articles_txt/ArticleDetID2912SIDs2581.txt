@@ -1,87 +1,12 @@
+
+  Microsoft Teams Security
 
 
-	Article - Microsoft Teams Security
+By default, only Teams members can access stored files. Exercise caution when authorizing access to Teams files.
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-Microsoft Teams Security
-Microsoft Teams Security
-By default, only Teams members can access stored files. Exercise caution when authorizing access to Teams files.
 Create different channels in Teams to direct conversations to authorized individuals only.
+
 Share files to Teams with specific individuals, never with "everyone" or the "public".
+
 Regularly review shared files by clicking the Files menu in any version of the Teams app (mobile, desktop, or web), and selecting Microsoft Teams or Recent to view history.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2912
-Created
-Thu 9/29/22 9:27 AM
-Modified
-Thu 9/29/22 9:27 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2912&SIDs=2581">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2912&SIDs=2581</a><br /><br />Microsoft Teams Security
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+

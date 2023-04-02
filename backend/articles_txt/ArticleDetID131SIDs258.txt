@@ -1,144 +1,86 @@
+
+  OU WIFI Networks
 
 
-	Article - OU WIFI Networks
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-OU WIFI Networks
-OU WIFI Networks
-OU’S WIFI NETWORKS
-About
 Campus WIFI connectivity is available to students, faculty, staff, and guests.
+
 Benefits include unrestricted, fast, and reliable WIFI connectivity for the entire campus.
+
 Guests and visitors can easily access this WIFI connectivity.
-WIFI@OU
-About
+
+ 
+
 WIFI@OU is the preferred network for members of the OU community.
+
 It can be accessed by logging in with your OUNet ID and password.
+
 The security method is WPA2 Enterprise with PEAP (MSCHAPv2) authentication and TLS encryption.
+
 Use for devices that support WPA2 Enterprise level encryption.
+
 Requires devices with 802.11g specification or better (802.11a/b/g/n/ac)
+
 The WIFI@OU WIFI network requires an OUNetID or OUEmail account to log on.
-Click here
-to find more information about WIFI@OU, including instructions on how to connect to it.
-OUGUEST
-About
+
+Click here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=95) to find more information about WIFI@OU, including instructions on how to connect to it.
+
+ 
+
 The WIFI connection for guests and visitors at OU.
+
 This network does not require authentication, is not encrypted, and is not intended to access internal resources.
+
 OUGuest is intended to be used by guests and visitors to the University for short periods of time. It is not meant for long-term access and has limited access to the OU network and internet.
+
 The OUGuest network is separated from the rest of the OU network with a firewall and network address translation (NAT). This limits the services that will work over the OUGuest network. For instance: access to learn.ou.edu will not work.
+
 To access OUGuest, select it from the list of available networks and then open your web browser. Follow the onscreen prompt to agree to the license terms and obtain access.
-EDUROAM
-About
+
 This is a recommended WIFI network for members of OU research community as well as any research affiliates visiting the campus.
+
 It provides an unrestricted, fast, reliable and encrypted connection on the OU network to the eduroam community and its resources.
+
 Use your OUNet ID or OU Email account with “@OU.EDU” and password to login when away from campus. For visitors from other Eduroam participants, authentication is using the username and password for the user’s home network, e.g. user@(school).edu as the username.
+
 NOTE: it is for members of the OU research community and has limited access on campus.
-Click here
-to find more information about Eduroam, including instructions on how to connect to it.
-FAQS
-Can I move from place to place while keeping my WIFI connection?
+
+Click here (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=130) to find more information about Eduroam, including instructions on how to connect to it.
+
 Users should be able to move from place-to-place around campus and continue using a WIFI connection. Moving out of range of the WIFI will result in a lost connection (e.g. when exiting a building), but moving back into range should prompt your device to reconnect. Network applications may need to be restarted as well.
+
 What can I do if my device won’t connect to WIFI@OU and doesn’t have a browser?
-If your device doesn’t support the encryption required to connect to WIFI@OU, AND it doesn’t have a web browser that would allow you to log in, you will need to first register your personal device (
-Click Here
-) from a PC or Mac that is connected to the network.
-Get the MAC address (
-Click Here
-) of the device, then log into the registration page (
-Click Here
-) to register the device. Once registered, an email will come to the email address given when registered with further instructions.
+
+If your device doesn’t support the encryption required to connect to WIFI@OU, AND it doesn’t have a web browser that would allow you to log in, you will need to first register your personal device (Click Here (https://clearpass-mgmt-01.nor.ou.edu/guest/mac_create.php?_override=mac_create_2)) from a PC or Mac that is connected to the network.
+
+Get the MAC address (Click Here (https://access.ou.edu/guest/find_mac.php)) of the device, then log into the registration page (Click Here (https://clearpass-mgmt-01.nor.ou.edu/guest/mac_create.php?_override=mac_create_2)) to register the device. Once registered, an email will come to the email address given when registered with further instructions.
+
 Can I use my own WIFI access point?
+
 Use of switches, hubs, and routers (typically integrated into private access points) as well as creating a back-end network are not allowed under OUIT’s policies. Although broadcasting a WIFI network signal is not explicitly forbidden, personal access points can interfere and will be removed from the OUIT network.
+
 All OU buildings should have WIFI coverage and OUIT prohibits connecting personal or private access points to the OUIT network. 802.11 WIFI traffic is sent on a relatively small range of radio frequencies. Adding additional APs that are not connected, configured, and optimized to integrate with the OUIT WIFI installation can and will interfere with the current setup, causing signal degradation, loss of throughput, and connectivity issues for those users near and around this area.
-TROUBLESHOOTING
-General
-Please see the article on Troubleshooting your WIFI connection. If these steps do not prove useful, please contact the OUIT Helpdesk for main campus buildings (
-Click Here
-) or call 325-HELP (4357).
+
+ 
+
+Please see the article on Troubleshooting your WIFI connection. If these steps do not prove useful, please contact the OUIT Helpdesk for main campus buildings (Click Here (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceCatalog?CategoryID=26)) or call 325-HELP (4357).
+
 If you are located in a dorm or Residential Housing? file a help request with the Residential advisors for dorm or area.
+
 If you have changed your OUNet ID password recently and are now having difficulties logging in to WIFI@OU, one possible solution is to forget all OU WIFI networks.
+
 Poor Signal Areas
+
 There are over 5,000 WIFI access points that OUIT has installed around campus. Because of the scale of this deployment, there are bound to be areas on campus that are in need of fine tuning, AP adjustment, and additional hardware.
+
 If you are in an area with poor or no WIFI coverage, please read the troubleshooting tips in the article above and fill out a help request with the OUIT Helpdesk.
+
 Short term vs. Long term problems
+
 Often, WIFI access points can be affected by the environment around them. Heat and overuse can cause them to operate incorrectly or incompletely. This type of outage is different from an interference or signal coverage issue and has a different procedure for resolution.
+
 It is important to indicate how long you’ve been noticing problems and how the current behavior differs from the expected behavior.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-131
-Created
-Thu 9/3/20 3:23 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=131&SIDs=258">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=131&SIDs=258</a><br /><br />OU WIFI Networks
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

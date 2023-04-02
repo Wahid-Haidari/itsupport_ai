@@ -1,141 +1,45 @@
+
+  Tips for Using the Canvas Inbox
 
 
-	Article - Tips for Using the Canvas I...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Tips for Using the Canvas Inbox
-Tips for Using the Canvas Inbox
 To reduce some of the issues concerning sending messages using the Inbox tool in Canvas, we recommend the following:
+
 Add your OU alias email address to your Canvas profile
-Adding your OU alias email address allows you to receive, and respond to, Canvas emails directly from your Outlook inbox (once notifications are turned on). If you are unsure of what your alias email is (or you haven’t created one), please log in to one.ou.edu; Under Account settings > General tab > OU e
-mail
-section, you can verify your email alias information or create a new one.
+Adding your OU alias email address allows you to receive, and respond to, Canvas emails directly from your Outlook inbox (once notifications are turned on). If you are unsure of what your alias email is (or you haven’t created one), please log in to one.ou.edu; Under Account settings > General tab > OU email section, you can verify your email alias information or create a new one.
+
 Instructions for adding alias email address to Canvas:
-Log into Canvas, click the
-Account
-link, then click the
-Settings
-link.
-In the
-Ways to Contact
-sidebar (located in top right of page), your account displays the default email associated with your account. To add your OU alias email address, click the
-Add Email Address
-link.
-On the
-Register Communication
-page, enter your alias email address, then click
-Register Email
-.
-You will receive a
-Confirm Email Address
-popup screen. Go to your OU Email inbox and click on the confirmation link located in the Canvas email to finish the registration process (you will be redirected to the Canvas log in screen).
-Click
-Login
-. Enter your OUNet ID and password (if prompted), then click
-Sign In
-.
-Go to your account settings. Under
-Ways to Connect
-, hover to the right of your alias email address and
-click the star icon
-next to your email address to confirm
-registration.
+
+Log into Canvas, click the Account link, then click the Settings link.
+
+In the Ways to Contact sidebar (located in top right of page), your account displays the default email associated with your account. To add your OU alias email address, click the Add Email Address link.
+
+On the Register Communication page, enter your alias email address, then click Register Email.
+
+You will receive a Confirm Email Address popup screen. Go to your OU Email inbox and click on the confirmation link located in the Canvas email to finish the registration process (you will be redirected to the Canvas log in screen).
+
+Click Login. Enter your OUNet ID and password (if prompted), then click Sign In.
+
+Go to your account settings. Under Ways to Connect, hover to the right of your alias email address and click the star icon next to your email address to confirm registration.
+
 Turn on instant notifications for the alias account/disable for default (dotted) email address
 Turning on instant notifications for the alias account allows users to receive notifications for Inbox messages that are sent to that account. Disabling notifications for the default email address prevents users from receiving duplicate notifications.
+
 Instructions for enabling instant notifications:
-In Canvas, click the
-Account
-link, then click the
-Notifications
-link.
+
+In Canvas, click the Account link, then click the Notifications link.
+
 Each notification is set to a default preference. To change a notification for a contact method, locate the notification and click the icon to open a drop-down menu of delivery options, including the option to turn off a notification.
+
 There will be one column for your alias email address, and one column for your dotted (default) email address. To avoid receiving duplicate notifications, only enable notifications for your alias address.
-For additional information on notifications, visit our
-Notifications Preferences article
-.
+
+For additional information on notifications, visit our Notifications Preferences article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=405).
+
 Features of the Inbox tool
-Archiving – You can archive messages if you want to keep them but remove them from your Inbox. Note: Users cannot archive sent messages, but any successfully sent message will saved under the
-Sent
-tab in the Inbox.
+Archiving – You can archive messages if you want to keep them but remove them from your Inbox. Note: Users cannot archive sent messages, but any successfully sent message will saved under the Sent tab in the Inbox.
+
 Filtering/Search – You can filter the messages in your Inbox for easier organization, especially if you are enrolled in multiple courses. Filtering allows you to selectively view messages by course, inbox, or user. You can also search for recipients using the Search box feature.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-407
-Created
-Wed 9/9/20 4:10 PM
-Modified
-Fri 10/1/21 3:12 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=407&SIDs=543">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=407&SIDs=543</a><br /><br />Tips for Using the Canvas Inbox
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

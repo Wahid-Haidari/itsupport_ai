@@ -1,94 +1,20 @@
+
+  Enabling Media Gallery in Canvas
 
 
-	Article - Enabling Media Gallery in C...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Enabling Media Gallery in Canvas
-Enabling Media Gallery in Canvas
 Media Gallery is a tool that allows you access your MyMedia videos directly from within Canvas and create playlists tailored to your course. To use Media Gallery in your course, it must first be enabled in Course Navigation.
-Learn how to enable tools in Course Navigation.
-Additional resources on Course Navigation.
-Learn more about Media Gallery.
-Note: If you would rather embed individual videos into course content such as pages and assignments, visit our article on embedding in the
-Rich Content Editor.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1117
-Created
-Fri 1/22/21 1:37 PM
-Modified
-Fri 8/13/21 1:08 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1117&SIDs=1004">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1117&SIDs=1004</a><br /><br />Enabling Media Gallery in Canvas
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Learn how to enable tools in Course Navigation. (https://guides.instructure.com/m/4152/l/57079-how-do-i-reorder-and-hide-course-navigation-links)
+
+Additional resources on Course Navigation. (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=444)
+
+Learn more about Media Gallery. (https://itsupport.ou.edu/TDClient/35/Norman/Shared/Search/?c=all&s=media+gallery)
+
+Note: If you would rather embed individual videos into course content such as pages and assignments, visit our article on embedding in the Rich Content Editor. (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=357&SIDs=496)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,133 +1,119 @@
+
+  Manage Access to OneDrive Data
 
 
-	Article - Manage Access to OneDrive Data
+Because OneDrive is a cloud-based file storage and sharing utility, its use presents some potential risk to OU and its students, faculty, and staff. To properly protect sensitive information, you must understand OneDrive security and set it up correctly. Continue reading to learn how.
 
+ 
 
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-Manage Access to OneDrive Data
-Manage Access to OneDrive Data
-Because OneDrive is a cloud-based file storage and sharing utility, its use presents some potential risk to OU and its students, faculty, and staff. To properly protect sensitive information, you must understand OneDrive security and
-set it up correctly
-. Continue reading to learn how.
-Syncing
 OneDrive allows you to automatically sync your files across multiple devices. This means that sensitive data could inadvertently end up on an insecure machine.
-If you are going to put OU data on OneDrive, we strongly recommend that you
-do not sync
-it to any additional locations.
-Any device you sync Category C or Category E data to must be encrypted, require a password and meet the OU’s Minimum Security Standards.
-File Access & Permissions
-By default, only you can access the files on your OneDrive–you and anyone that can access that device.
-Exercise caution when sharing files online:
+
+If you are going to put OU data on OneDrive, we strongly recommend that you do not sync it to any additional locations.
+
+Any device you sync Category C or Category E data to must be encrypted, require a password and meet the OU’s Minimum Security Standards.
+
+ 
+
+By default, only you can access the files on your OneDrive–you and anyone that can access that device. Exercise caution when sharing files online:
+
 Sharing files with the default "Can edit" permission level allows the person you shared that file with to further share the file.
+
 Pay attention! It is very easy to accidentally share the wrong folder or to share a folder rather than an individual file within a folder. Remember that the default for sharing is "Can edit", but it can be changed to "Can view".
+
 Use folders to share groups of files with others online.
+
 Share files with specific individuals, never with "everyone" or the "public".
-Remember that the delivered
-Shared with Everyone
-folder means what it says: it is
-Shared with EVERYONE
-! (Office 365 makes it very easy to find documents, even if they are stored in someone else's OneDrive!)
+
+Remember that the delivered Shared with Everyone folder means what it says: it is Shared with EVERYONE! (Office 365 makes it very easy to find documents, even if they are stored in someone else's OneDrive!)
+
 Be careful sending links to shared folders because they can often be forwarded to others who you did not provide access to.
+
 Remember that once a file is shared with someone and they download it to their device, they can share it with others.
-Sharing Files Securely
-When you share files, it is important you understand how you’re doing so, avoiding accidentally giving people inappropriate access to sensitive information. To do this:
+
+ 
+
+When you share files, it is important you understand how you’re doing so, avoiding accidentally giving people inappropriate access to sensitive information. To do this:
+
 Go to portal.office.com and sign into your Office 365 account.
+
 Click OneDrive to access your cloud storage.
-Right-click the folder or files you want to share and click Share.
+
+Right-click the folder or files you want to share and click Share. 
+
 Important: if you are sharing a folder you are also sharing any sub folder in that directory. Consider limiting sharing capabilities to folders that contain only information you intend to let others view.
-Enter the names of the people you want to share with and a message, if you want.
-(Optional) Click the drop-down list to change the type of link. The Details pane opens, where you can change who can access the link and whether people can edit the item you’re sharing.
+
+Enter the names of the people you want to share with and a message, if you want. 
+
+(Optional) Click the drop-down list to change the type of link. The Details pane opens, where you can change who can access the link and whether people can edit the item you’re sharing. 
+
 Options for Sharing
+
 Anyone gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.
 People in University of Oklahoma gives everyone with an OU login name access to the link, whether they receive it directly from you or forwarded from someone else.
-Specific people give access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.
-We strongly encourage you to always use this option.
+Specific people give access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link. We strongly encourage you to always use this option.
 By default, allow editing is turned on. If you want people to only view your files, uncheck the check box.
 The expiration date allows you to define temporary access to the document, with access expiring on the date set in this field.
 Set password, allows you to further restrict access to the document to those with the link and the password.
-Block download allows you to prevent collaborators from downloading the document.
-We strongly encourage you to use this option when sharing Category A, Category C, and Category E data.
+Block download allows you to prevent collaborators from downloading the document. We strongly encourage you to use this option when sharing Category A, Category C, and Category E data.
+
+
+
+
+
+Options for Sharing
+
+Anyone gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.
+People in University of Oklahoma gives everyone with an OU login name access to the link, whether they receive it directly from you or forwarded from someone else.
+Specific people give access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link. We strongly encourage you to always use this option.
+By default, allow editing is turned on. If you want people to only view your files, uncheck the check box.
+The expiration date allows you to define temporary access to the document, with access expiring on the date set in this field.
+Set password, allows you to further restrict access to the document to those with the link and the password.
+Block download allows you to prevent collaborators from downloading the document. We strongly encourage you to use this option when sharing Category A, Category C, and Category E data.
+
+
+
+Anyone gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.
+
+People in University of Oklahoma gives everyone with an OU login name access to the link, whether they receive it directly from you or forwarded from someone else.
+
+Specific people give access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link. We strongly encourage you to always use this option.
+
+By default, allow editing is turned on. If you want people to only view your files, uncheck the check box.
+
+The expiration date allows you to define temporary access to the document, with access expiring on the date set in this field.
+
+Set password, allows you to further restrict access to the document to those with the link and the password.
+
+Block download allows you to prevent collaborators from downloading the document. We strongly encourage you to use this option when sharing Category A, Category C, and Category E data.
+
 When you’re done, click Apply.
+
 When you’re ready to send the link, click Send.
+
 Review sharing privileges in OneDrive on at least a quarterly basis:
+	
 Access MS Teams using any version of the app.
 Click open in OneDrive to access your Teams cloud storage.
 Click Settings (the gear icon in the upper right-hand corner).
 Click OneDrive Settings, and click More Settings.
-Click Run sharing report. You will be prompted to select an existing or create a new OneDrive folder to store this report. Select the desired location and click Save.  OneDrive will send you an email confirmation when the report is ready for viewing.
+Click Run sharing report. You will be prompted to select an existing or create a new OneDrive folder to store this report. Select the desired location and click Save.  OneDrive will send you an email confirmation when the report is ready for viewing.
 Remove individuals that no longer require access to files or folders.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2910
-Created
-Thu 9/29/22 8:56 AM
-Modified
-Thu 9/29/22 10:41 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2910&SIDs=2571">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2910&SIDs=2571</a><br /><br />Manage Access to OneDrive Data
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+Access MS Teams using any version of the app.
+
+Click open in OneDrive to access your Teams cloud storage.
+
+Click Settings (the gear icon in the upper right-hand corner).
+
+Click OneDrive Settings, and click More Settings.
+
+Click Run sharing report. You will be prompted to select an existing or create a new OneDrive folder to store this report. Select the desired location and click Save.  OneDrive will send you an email confirmation when the report is ready for viewing.
+
+Remove individuals that no longer require access to files or folders.
+
+ 
+
+ 
+

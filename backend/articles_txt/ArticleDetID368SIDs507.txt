@@ -1,97 +1,18 @@
+
+  About Zoom Video Conferencing
 
 
-	Article - About Zoom Video Conferencing
+Zoom is a communications software that combines video conferencing, online meetings, chat and mobile collaboration.  Zoom allows for HD video and high-quality audio for all meetings.  It contains collaboration tools, that allow multiple participants can share their screens simultaneously and co-annotate for a more interactive meeting. Zoom also supports scheduling or starting meetings from Outlook, Gmail, or iCal.  Zoom Meetings syncs with your calendar system and delivers streamlined enterprise-grade video conferencing from desktop and mobile.  Zoom can also be used to record and share webinars and trainings.  You can access your account by going to Oklahoma.zoom.us and signing in with your OU Net ID and OU Password.
 
 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-About Zoom Video Conferencing
-About Zoom Video Conferencing
-What is Zoom
-Zoom is a communications software that combines video conferencing, online meetings, chat and mobile collaboration.  Zoom allows for HD video and high-quality audio for all meetings.  It contains collaboration tools, that allow multiple participants can share their screens simultaneously and co-annotate for a more interactive meeting. Zoom also supports scheduling or starting meetings from Outlook, Gmail, or iCal.  Zoom Meetings syncs with your calendar system and delivers streamlined enterprise-grade video conferencing from desktop and mobile.  Zoom can also be used to record and share webinars and trainings.  You can access your account by going to Oklahoma.zoom.us and signing in with your OU Net ID and OU Password.
-For instructional videos and more information on Zoom, follow this link:
-Zoom
-.
-Zoom and MyMedia
-Zoom is integrated with MyMedia, which allows Pro license holders to record their meetings and have them appear in their MyMedia account. Users can then share those videos or upload them to a Canvas course, depending on the content. This integration is available by default for Norman campus users, if you are an Oklahoma City campus Zoom user, please contact
-itsupport.ou.edu
-for additional details on enabling this functionality.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-368
-Created
-Wed 9/9/20 1:36 PM
-Modified
-Thu 3/16/23 12:31 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=368&SIDs=507">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=368&SIDs=507</a><br /><br />About Zoom Video Conferencing
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+For instructional videos and more information on Zoom, follow this link: Zoom (https://support.zoom.us/hc/en-us).
+
+Zoom is integrated with MyMedia, which allows Pro license holders to record their meetings and have them appear in their MyMedia account. Users can then share those videos or upload them to a Canvas course, depending on the content. This integration is available by default for Norman campus users, if you are an Oklahoma City campus Zoom user, please contact itsupport.ou.edu (https://itsupport.ou.edu/TDClient/34/OKC/Requests/TicketRequests/NewForm?ID=hxpeTiBq5XI_) for additional details on enabling this functionality.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

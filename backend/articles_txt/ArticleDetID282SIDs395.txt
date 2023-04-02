@@ -1,122 +1,61 @@
+
+  How to Join Zoom Meetings Requiring Passwords
 
 
-	Article - How to Join Zoom Meetings R...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-How to Join Zoom Meetings Requiring Passwords
-How to Join Zoom Meetings Requiring Passwords
 Zoom meetings may have an extra layer of privacy where they require a password to join the meeting. This article will walk through step-by-step how to join different devices with the Meeting ID specifically.
+
 Information About Using Meeting Links
-Meetings that require passwords will have longer URLs than meetings that do not require a password. Example of no password URL:
-https://oklahoma.zoom.us/j/#########
-Example of password URL:
-https://oklahoma.zoom.us/j/#########?pwd=NHVLYi9yUFJwNklHWk9zZnRGN015QT09
+
+Meetings that require passwords will have longer URLs than meetings that do not require a password. Example of no password URL: https://oklahoma.zoom.us/j/#########
+
+Example of password URL: https://oklahoma.zoom.us/j/#########?pwd=NHVLYi9yUFJwNklHWk9zZnRGN015QT09
+
 NOTE: Meetings that later add required passwords can still be joined with the non-password URL, but you will be prompted to enter the meeting password when attempting to join the meeting. You may not receive an updated URL if the meeting host does not send out a new invitation with updated meeting information.
+
 Meetings requiring passwords’ URLs will contain the password in them for the meeting so you will not be prompted to enter a password if you click the link in the invitation. The link will be under “Join Zoom Meeting” near the top of the invitation. Clicking the link will prompt you to open the Zoom client on your device and you will join the meeting without needing to enter the password.
+
 Meeting ID
+
 Meeting ID will be included in the invitation as well with the meeting password beneath it. Example:
+
 Meeting ID: 362 043 714
 Password: Sooner
+
 On the Web
-Log in at
-oklahoma.zoom.us
-.
+
+Log in at oklahoma.zoom.us (http://oklahoma.zoom.us).
+
 In the top right of the page click “Join a Meeting.”
+
 Enter the meeting ID from the invitation you received and click Join. (You can also paste the invitation URL from your invite here and you will join the meeting but will not need to enter a password.)
+
 You will then be prompted to open the Zoom client on your device. Click Open Zoom to start the client.
+
 A pop-up will appear prompting you to enter the meeting password. Enter the password, click Join and you will be in the meeting.
+
 From the Zoom Client (MacBook, PC, Linux, etc.)
-Open the Zoom client on your device and log in with Single Sign On. Company domain will be
-oklahoma.zoom.us
-.
+
+Open the Zoom client on your device and log in with Single Sign On. Company domain will be oklahoma.zoom.us (http://oklahoma.zoom.us).
+
 Click the Join button in the Home tab.
+
 Enter the meeting ID from the invitation or paste the invitation link to skip entering the password.
+
 After entering the ID, you will be prompted to enter the password. Type the password and click Join Meeting. You will now be in the meeting.
+
 From the Zoom Mobile Application
-Open the Zoom application on your mobile device and sign in with Single Sign On.
-oklahoma.zoom.us
-will be the company domain.
+
+Open the Zoom application on your mobile device and sign in with Single Sign On. oklahoma.zoom.us (http://oklahoma.zoom.us) will be the company domain.
+
 Click the Join button in the Meet & Chat tab.
+
 Enter the meeting ID from the invitation or paste the invitation link to skip entering the password.
+
 After entering the ID, you will be prompted to enter the password. Type the password and click Join Meeting. You will now be in the meeting.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-282
-Created
-Tue 9/8/20 8:27 AM
-Modified
-Fri 8/13/21 1:34 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=282&SIDs=395">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=282&SIDs=395</a><br /><br />How to Join Zoom Meetings Requiring Passwords
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

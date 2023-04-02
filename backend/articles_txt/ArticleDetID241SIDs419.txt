@@ -1,120 +1,47 @@
+
+  Preferred Name Update
 
 
-	Article - Preferred Name Update
+If you are a current OU student and wish to update your preferred name, you may do so at one.ou.edu (http://one.ou.edu/). Please note that this may not update your displayed name in all instances, as some sites do not support this particular account name display method.
 
+To begin, log in to one.ou.edu (http://one.ou.edu/).
 
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-Preferred Name Update
-Preferred Name Update
-Student
-If you are a current OU student and wish to update your preferred name, you may do so at
-one.ou.edu
-. Please note that this may not update your displayed name in all instances, as some sites do not support this particular account name display method.
-To begin, log in to
-one.ou.edu
-.
 In the upper right corner, click on your name, then Account Settings.
+
 Next, in the Personal Information section, click the “Edit preferred first name” option.
+
 You may now enter your preferred first name, when done, click the “Update preferred first name” button.
-Additionally, one may update their Preferred Name within the Canvas system by logging in at
-canvas.ou.edu
-, clicking your Account, clicking the Edit Profile button, then entering your updated name.
+	
+Additionally, one may update their Preferred Name within the Canvas system by logging in at canvas.ou.edu (http://canvas.ou.edu), clicking your Account, clicking the Edit Profile button, then entering your updated name.
+
+
+
+Additionally, one may update their Preferred Name within the Canvas system by logging in at canvas.ou.edu (http://canvas.ou.edu), clicking your Account, clicking the Edit Profile button, then entering your updated name.
+
 Your name should now update on supported systems in 12-24 hours.
-If you wish to change your legal name with OU, please see
-this page
-for more information.
-Student Employees
-- If you are employed at OU while a student, you will also need to change your Preferred Name through the HR self-service site by logging into
-https://selfservehc.ou.edu/
-and clicking "Update Name & Contact".
-Faculty/Staff
+
+If you wish to change your legal name with OU, please see this page (http://www.ou.edu/recordsandtranscripts/change_name_address) for more information.
+
+Student Employees - If you are employed at OU while a student, you will also need to change your Preferred Name through the HR self-service site by logging into https://selfservehc.ou.edu/ (https://selfservehc.ou.edu/) and clicking "Update Name & Contact".
+
+ 
+
 If you are an OU employee, there are two name change options available.
-Legal Name Change: Log into
-https://selfservehc.ou.edu/
-and upload a new Social Security Card. If you have questions about your legal name change, you may contact Human Resources for questions. Payroll and Personnel Records; NEL Building Room 244; 405-325-2961.
-If you also have a student record at OU, please see
-this page
-for more information.
-Preferred Name Change: Users can change their preferred First Names by logging into
-https://selfservehc.ou.edu/
-and clicking "Update Name & Contact".
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-241
-Created
-Sun 9/6/20 2:47 PM
-Modified
-Mon 12/19/22 8:16 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=241&SIDs=419">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=241&SIDs=419</a><br /><br />Preferred Name Update
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Legal Name Change: Log into https://selfservehc.ou.edu/ (https://selfservehc.ou.edu/) and upload a new Social Security Card. If you have questions about your legal name change, you may contact Human Resources for questions. Payroll and Personnel Records; NEL Building Room 244; 405-325-2961.
+
+	
+If you also have a student record at OU, please see this page (http://www.ou.edu/recordsandtranscripts/change_name_address) for more information.
+
+
+
+If you also have a student record at OU, please see this page (http://www.ou.edu/recordsandtranscripts/change_name_address) for more information.
+
+Preferred Name Change: Users can change their preferred First Names by logging into https://selfservehc.ou.edu/ (https://selfservehc.ou.edu/) and clicking "Update Name & Contact". 
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

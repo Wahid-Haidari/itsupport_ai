@@ -1,110 +1,36 @@
+
+  Canvas – Conferences – About Conferences
 
 
-	Article - Canvas – Conferences – Abou...
+Students: Conferences makes it easy to conduct synchronous (real-time) discussions within your course. Conferences allows you to broadcast real-time audio, video, share presentation slides, and share any other online resources.
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas – Conferences – About Conferences
-Canvas – Conferences – About Conferences
-Students
-: Conferences makes it easy to conduct synchronous (real-time) discussions within your course. Conferences allows you to broadcast real-time audio, video, share presentation slides, and share any other online resources.
 Your instructor may invite you to course-wide conferences or set up personal conferences. If you cannot create a conference at the course level, this feature has been disabled. You can set up your own conferences in Student Groups.
-Instructors
-: Conferences are primarily used for virtual lectures, virtual office hours, and student groups. They can also be used to demonstrate technologies or troubleshoot technology issues online. Conferences can accommodate up to 100 people.
-Possible Articles of Interest
-Instructors –
-https://guides.instructure.com/m/4152/c/23835
-How do I create a Conference?
-How do I edit a Conference?
-How do I record a Conference?
-How do I use the Conference interface?
-How do I join a Conference that has already started?
-How do I conclude a Conference?
-How do I start a poll in a Conference?
-Students –
-https://guides.instructure.com/m/4212/c/50340
-How do I join a web conference?
-How do I create a Conference in my Student Group?
-How do I start a Conference in my Student Group?
-How do I record a Conference in my Student Group?
-How do I share my desktop in the Conference interface in my Student Group?
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-446
-Created
-Thu 9/10/20 10:06 AM
-Modified
-Fri 8/20/21 2:50 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=446&SIDs=562">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=446&SIDs=562</a><br /><br />Canvas – Conferences – About Conferences
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Instructors: Conferences are primarily used for virtual lectures, virtual office hours, and student groups. They can also be used to demonstrate technologies or troubleshoot technology issues online. Conferences can accommodate up to 100 people.
+
+Instructors – https://guides.instructure.com/m/4152/c/23835 (https://guides.instructure.com/m/4152/c/23835)
+
+How do I create a Conference? (https://guides.instructure.com/m/4152/l/41306-how-do-i-create-a-conference)
+How do I edit a Conference? (https://guides.instructure.com/m/4152/l/65964-how-do-i-edit-a-conference)
+How do I record a Conference? (https://guides.instructure.com/m/4152/l/117864-how-do-i-record-a-conference)
+How do I use the Conference interface? (https://guides.instructure.com/m/4152/l/65961-how-do-i-use-the-conference-interface)
+How do I join a Conference that has already started? (https://guides.instructure.com/m/4152/l/41866-how-do-i-join-a-conference-that-has-already-started)
+How do I conclude a Conference? (https://guides.instructure.com/m/4152/l/299839-how-do-i-conclude-a-conference)
+How do I start a poll in a Conference? (https://guides.instructure.com/m/4152/l/441845-how-do-i-start-a-poll-in-a-conference)
+
+Students – https://guides.instructure.com/m/4212/c/50340  (https://guides.instructure.com/m/4212/c/50340)
+
+How do I join a web conference? (https://guides.instructure.com/m/4212/l/41982-how-do-i-join-a-web-conference)
+How do I create a Conference in my Student Group? (https://guides.instructure.com/m/4212/l/119517-how-do-i-create-a-conference-in-my-student-group)
+How do I start a Conference in my Student Group? (https://guides.instructure.com/m/4212/l/119670-how-do-i-start-a-conference-in-my-student-group)
+How do I record a Conference in my Student Group? (https://guides.instructure.com/m/4212/l/119518-how-do-i-record-a-conference-in-my-student-group)
+How do I share my desktop in the Conference interface in my Student Group? (https://guides.instructure.com/m/4212/l/267000-how-do-i-share-my-desktop-in-the-conference-interface-in-my-student-group)
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+
+ 
+

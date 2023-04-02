@@ -1,198 +1,176 @@
+
+  PingID Authentication for iPhone (Swipe, Fingerprint, One-Time Passcode)
 
 
-	Article - PingID Authentication for i...
+PingID (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2533) enables you to use your smartphone to sign on to your company services and applications, with the added security of multifactor authentication. Before you can use your smartphone to authenticate, you have to pair (connect) it to PingID.
 
+If you attempt to log in to an OU application configured for PingID and have not yet paired a device, when you log in, you'll see the PingID welcome screen showing you instructions on how to pair your device. You will not be able to gain access those resources until you do so.
 
+Once your smartphone is paired, you'll be able to authenticate using your smartphone. Once authenticated, you'll be redirected to the resource you were trying to access. Please note you will need to keep the PingID app installed on your phone if you choose this method, as app based authentication prompts will appear in this application. If you have accidentally uninstalled the app and no longer have the ability to authenticate, please see this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=2885).
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-PingID Authentication for iPhone (Swipe, Fingerprint, One-Time Passcode)
-PingID Authentication for iPhone (Swipe, Fingerprint, One-Time Passcode)
-PingID
-enables you to use your smartphone to sign on to your company services and applications, with the added security of multifactor authentication. Before you can use your smartphone to authenticate, you have to pair (connect) it to PingID.
-If you attempt to log in to an OU application configured for PingID and have not yet paired a device, when you log in, you'll see the PingID welcome screen showing you instructions on how to pair your device. You will not be able to gain access those resources until you do so.
-Once your smartphone is paired, you'll be able to authenticate using your smartphone. Once authenticated, you'll be redirected to the resource you were trying to access. Please note you will need to keep the PingID app installed on your phone if you choose this method, as app based authentication prompts will appear in this application. If you have accidentally uninstalled the app and no longer have the ability to authenticate, please see this
-article
-.
-Set up your iPhone device for PingID authentication
+ 
+
 Setting up PingID to authenticate using your smartphone typically involves the following steps:
+
 Download PingID from your app store.
+
 Pair your device. Pairing a device creates a trust between your device and your account.
-Note
-: Setting up PingID may vary slightly depending on the device model you are using, and the screens you see may vary from the ones shown below.
-Note
-: For authentication by fingerprint, you'll need to set up fingerprint recognition on your device.
-Log in to
-PingID enrollment site
-with your OU username and password. You'll see the PingID welcome screen.
+	
+Note: Setting up PingID may vary slightly depending on the device model you are using, and the screens you see may vary from the ones shown below.
+Note: For authentication by fingerprint, you'll need to set up fingerprint recognition on your device.
+
+
+
+Note: Setting up PingID may vary slightly depending on the device model you are using, and the screens you see may vary from the ones shown below.
+
+Note: For authentication by fingerprint, you'll need to set up fingerprint recognition on your device.
+
+Log in to PingID enrollment site (http://link.ou.edu/pingid) with your OU username and password. You'll see the PingID welcome screen. 
+
 After the system gives a tour of the site, click your name in the upper right corner.
-Click the
-+Add
-button.
-You will now be prompted to set up your authentication method. By default, PingID for Mobile will prompt to install. Follow the onscreen prompts to download the app from the iPhone Add store.
+
+Click the +Add button.
+
+You will now be prompted to set up your authentication method. By default, PingID for Mobile will prompt to install. Follow the onscreen prompts to download the app from the iPhone Add store.
+
 Download and install the PingID app using one of the following options:
-From iPhone App Store:
-On your smartphone, open the Apple Store, search for PingID, and tap Install.
-Using the Apple Store link:
-On the PingID +Add screen screen, click the Apple store site "Available for iPhone & iPad" button, install the app remotely on your iPhone or iPad.
-Once installed, continue following onscreen prompts. Your pairing key and QR code are displayed on your web browser to pair your account with your application. On your smartphone, tap
-Open
-. The PingID mobile app opens.
-The first time you access PingID mobile app, you'll be asked to accept the terms of service. Tap
-Accept
-.
+	
+From iPhone App Store: On your smartphone, open the Apple Store, search for PingID, and tap Install.
+Using the Apple Store link: On the PingID +Add screen screen, click the Apple store site "Available for iPhone & iPad" button, install the app remotely on your iPhone or iPad.
+
+
+
+From iPhone App Store: On your smartphone, open the Apple Store, search for PingID, and tap Install.
+
+Using the Apple Store link: On the PingID +Add screen screen, click the Apple store site "Available for iPhone & iPad" button, install the app remotely on your iPhone or iPad.
+
+Once installed, continue following onscreen prompts. Your pairing key and QR code are displayed on your web browser to pair your account with your application. On your smartphone, tap Open. The PingID mobile app opens.
+
+The first time you access PingID mobile app, you'll be asked to accept the terms of service. Tap Accept.
+
 You'll also need to enable push notifications and location for PingID. Tap the "I Understand" button and then accept all PingID permission requests when prompted to do so (tap Allow and OK).
-From the PingID app on your device, point your device at the QR code on your browser to scan it.
-If you are unable to scan the QR code, on your smartphone tap
-Enter Pairing Key Manually
-and enter the pairing key as shown on the registration page.
-You'll see a green checkmark indicating the pairing request is successfully, and the
-Complete Your Profile
-page opens automatically.
-Enter a nickname for your profile, optionally add a picture, and then tap
-Done
-.
-You'll see the PingID app screen showing the one-time passcode number and your organization name in the organization list.
-An authentication request is generated immediately. To complete the pairing process, authenticate using your smartphone.
-Once you are authenticated, you'll see a green checkmark confirming authentication. Your device will now be configured to authenticate with PingID. Simply launch the app the next time you need to log in to an OU website to begin your authentication. See below for supported authentication methods.
-Authenticate using your iPhone
+
+From the PingID app on your device, point your device at the QR code on your browser to scan it.  
+
+If you are unable to scan the QR code, on your smartphone tap Enter Pairing Key Manually and enter the pairing key as shown on the registration page.
+
+You'll see a green checkmark indicating the pairing request is successfully, and the Complete Your Profile page opens automatically.
+
+Enter a nickname for your profile, optionally add a picture, and then tap Done.
+
+You'll see the PingID app screen showing the one-time passcode number and your organization name in the organization list. 
+
+An authentication request is generated immediately. To complete the pairing process, authenticate using your smartphone. 
+
+Once you are authenticated, you'll see a green checkmark confirming authentication. Your device will now be configured to authenticate with PingID. Simply launch the app the next time you need to log in to an OU website to begin your authentication. See below for supported authentication methods. 
+
+ 
+
 You can authenticate using the following options:
-Swipe authentication for iPhone
-Fingerprint authentication for iPhone
-Authenticate using a one-time passcode
-Authenticate using your Apple watch
-Swipe authentication for iPhone
-If you have the PingID app running on your smartphone, when logging in to your resources, you'll be prompted to swipe to authenticate.
-Log in to your account, or access the site that requires authentication. You'll see the
-Authenticating
-screen, and an authentication notification request is sent to your device.
+
+Swipe authentication for iPhone (#Swipe_authentication_for_iPhone)
+
+Fingerprint authentication for iPhone (#Fingerprint_authentication_for_iPhone)
+
+Authenticate using a one-time passcode (#Authenticate_using_a_one-time_passcode)
+
+Authenticate using your Apple watch (#Authenticate_using_your_Apple_watch)
+
+ 
+
+If you have the PingID app running on your smartphone, when logging in to your resources, you'll be prompted to swipe to authenticate.
+
+Log in to your account, or access the site that requires authentication. You'll see the Authenticating screen, and an authentication notification request is sent to your device.
+
 If your device is unlocked, tap the notification and swipe to authenticate. If your device is locked, do one of the following (depending on your notification settings). Either:
+	
 The swipe screen appears: Swipe to authenticate.
 A notification is shown on the lock screen. Swipe left, unlock the screen, and then swipe to authenticate.
+
+
+
+The swipe screen appears: Swipe to authenticate.
+
+A notification is shown on the lock screen. Swipe left, unlock the screen, and then swipe to authenticate.
+
 You'll see the green checkmark indicating authentication is successful and your access is approved.
-Fingerprint authentication for iPhone
+
+
+
+ 
+
 You'll need to register your fingerprints on your device and then set up your iPhone for PingID authentication using the instructions above.
+
 Fingerprint authentication is simple using a smartphone. Authentication varies slightly depending on your phone model, phone settings, and whether your device is locked or unlocked when the authentication request is sent.
-Log in to your account, or access the application that requires authentication. You'll see the
-Authenticating
-screen, and an authentication notification request is sent to your device.
+
+Log in to your account, or access the application that requires authentication. You'll see the Authenticating screen, and an authentication notification request is sent to your device.
+
 Do one of the following (depending on your notification settings).
+	
 If your phone is unlocked, tap the notification banner, or tap Approve.
+		
 If your phone is locked, slide the message to the left and then tap Approve, or, if you do not have the slide to view option, swipe right to unlock the device.
 The fingerprint scan is activated and the Touch ID screen appears on your device prompting you to scan your fingerprint.
+
+
 Scan your fingerprint. You'll see the green checkmark indicating authentication is successful and your access is approved.
-Authenticate using a one-time passcode
+
+
+
+If your phone is unlocked, tap the notification banner, or tap Approve.
+		
+If your phone is locked, slide the message to the left and then tap Approve, or, if you do not have the slide to view option, swipe right to unlock the device.
+The fingerprint scan is activated and the Touch ID screen appears on your device prompting you to scan your fingerprint.
+
+
+
+If your phone is locked, slide the message to the left and then tap Approve, or, if you do not have the slide to view option, swipe right to unlock the device.
+
+The fingerprint scan is activated and the Touch ID screen appears on your device prompting you to scan your fingerprint.
+
+Scan your fingerprint. You'll see the green checkmark indicating authentication is successful and your access is approved.
+
+ 
+
 If you don't have internet access temporarily, you can still authenticate using PingID mobile app by generating a one- time passcode (OTP). The one-time passcode is unique, and can only be used once. Only the one-time passcode that appears on your device at the time that you log in to your account is valid for authentication.
+
 Login to your account or app. You'll be prompted to enter a one-time passcode.
+
 On your device, open the PingID mobile app and enter the one-time passcode into the one-time passcode field on the authentication screen and press Enter.
-Note
-: The one-time passcode refreshes each time you open the PingID app. To generate a new one-time passcode, tap
-New Passcode
-.
-Authenticate using your Apple watch
-If you have an Apple Watch paired with your iPhone, the PingID app automatically presents the
-Approve
-or
-Deny
-authentication notification on the Apple Watch, in parallel with your iPhone, so you can authenticate without taking your iPhone out of your pocket.
-Note
-: You do not need to install the PingID app on your Apple watch to start receiving notifications. However, if you do install the app on your watch, you will also be able to access one-time passcode (OTP) from your Apple watch PingID app.
+
+
+
+Note: The one-time passcode refreshes each time you open the PingID app. To generate a new one-time passcode, tap New Passcode.
+
+ 
+
+If you have an Apple Watch paired with your iPhone, the PingID app automatically presents the Approve or Deny authentication notification on the Apple Watch, in parallel with your iPhone, so you can authenticate without taking your iPhone out of your pocket.
+
+Note: You do not need to install the PingID app on your Apple watch to start receiving notifications. However, if you do install the app on your watch, you will also be able to access one-time passcode (OTP) from your Apple watch PingID app.
+
 Log in to your account, or access the application that requires authentication. If your smartphone is inactive and your Apple Watch is on your wrist, a notification appears on your Apple Watch as well as your smartphone.
-Swipe up to view the message and tap
-Approve
-. You'll see the green checkmark on your web browser, indicating authentication is successful and your access is approved.
+
+Swipe up to view the message and tap Approve. You'll see the green checkmark on your web browser, indicating authentication is successful and your access is approved.
+
+ 
+
 Enable/Disable passcodes on your Apple watch
+
 If you have installed the PingID app on your device, the PingID Apple Watch app is automatically installed on your watch and you will start receiving notifications to your watch. You can also open the PingID app on your watch to receive a one-time passcode (OTP). If the Apple watch app is disabled, you will not be able to access a one-time passcode from your watch.
-Note
-: The Apple watch only receives notification when the device is locked and the device screen is in sleep mode.
-On your iPhone tap the Watch app, and then tap
-PingID
-.
-Tap
-Show App on Apple Watch
-to enable/disable the app on your Apple watch. The PingID app is installed on your Apple watch and the PingID icon appears.
+
+Note: The Apple watch only receives notification when the device is locked and the device screen is in sleep mode.
+
+On your iPhone tap the Watch app, and then tap PingID.
+
+Tap Show App on Apple Watch to enable/disable the app on your Apple watch. The PingID app is installed on your Apple watch and the PingID icon appears.
+
 On your Apple watch, tap the PingID icon to view the current one-time passcode.
-Tap
-Refresh
-to get a new passcode, if required.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2535
-Created
-Thu 9/9/21 2:05 PM
-Modified
-Mon 9/19/22 12:49 PM
-Related Articles (2)
-PingID Enrollment
-PingID Multi-Factor Information
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2535&SIDs=1698">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2535&SIDs=1698</a><br /><br />PingID Authentication for iPhone (Swipe, Fingerprint, One-Time Passcode)
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Tap Refresh to get a new passcode, if required.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu)
+

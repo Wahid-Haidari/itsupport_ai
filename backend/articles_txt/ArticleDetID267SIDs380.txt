@@ -1,131 +1,64 @@
+
+  Account Issues
 
 
-	Article - Account Issues
+When it comes to accessing your account here at OU, there are a few common situations that might cause you some trouble.  We will cover each of them for you here, and give you all of the information you need to get it fixed quickly and easily.
 
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-Account Issues
-Account Issues
-Are you having some trouble with your OU account?
-When it comes to accessing your account here at OU, there are a few common situations that might cause you some trouble.  We will cover each of them for you here, and give you all of the information you need to get it fixed quickly and easily.
 NEW FACULTY, STAFF, OR STUDENT ACCOUNTS:
-If you are a new student, faculty, or staff member, your account must be created and set-up prior to regular use. You will not be able to access OU systems and services with your account until this is complete. Luckily, it is a fairly straightforward process that you can do on your own.
-If you are a student, you can head to the
-New Account Set-up page
-and enter your OUNet ID and date of birth. Please note that once you have been fully admitted to OU, your account will begin its creation process, this can take up to 3 to 5 days.
-If you are faculty or staff, you can head to the
-New Account Set-up page
-and enter your OUNet ID and date of birth.
+
+If you are a new student, faculty, or staff member, your account must be created and set-up prior to regular use. You will not be able to access OU systems and services with your account until this is complete. Luckily, it is a fairly straightforward process that you can do on your own. 
+
+If you are a student, you can head to the New Account Set-up page (https://one.ou.edu/activate) and enter your OUNet ID and date of birth. Please note that once you have been fully admitted to OU, your account will begin its creation process, this can take up to 3 to 5 days.
+
+If you are faculty or staff, you can head to the New Account Set-up page (https://one.ou.edu/activate) and enter your OUNet ID and date of birth.
+
 Please click the "What's this?" link on the Activation page to find your OU Net ID if you do not already know it.
-This Article
-explains how to set-up your new OU account if you run into any trouble.
+
+This Article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=127) explains how to set-up your new OU account if you run into any trouble.
+
 LOCKED ACCOUNTS:
-Repeated entry of an incorrect password will cause your account to be Locked. This is a security measure designed to prevent unauthorized access to your account or personal information by repeatedly guessing your password. This issue is seen most frequently after proactively changing a password on the account. If you have multiple devices with your account information stored on them, the new password must be updated on them all.  Any device left with the old password will repeatedly attempt to connect which could cause the account to lock. To unlock your account, you can call our Service Desk at 405.325.HELP (4357).
-This Article
-explains the process for unlocking your OU Account.
+
+Repeated entry of an incorrect password will cause your account to be Locked. This is a security measure designed to prevent unauthorized access to your account or personal information by repeatedly guessing your password. This issue is seen most frequently after proactively changing a password on the account. If you have multiple devices with your account information stored on them, the new password must be updated on them all.  Any device left with the old password will repeatedly attempt to connect which could cause the account to lock. To unlock your account, you can call our Service Desk at 405.325.HELP (4357). This Article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=268) explains the process for unlocking your OU Account.
+
 FORGOTTEN PASSWORDS:
-If you forget your OU account password, and are unable to log into your account, you can reset it yourself from the
-Forgot Password
-page. Enter your OUNETID in the field and click to “Identify Account” to have a password reset email sent to the alternate email address provided for your account.  Click the “this link” in the email that you receive to reset your password.  Please note that if your account information is stored on multiple devices and is not changed, it could cause your account to become locked. If you do not have an alternate email address associated with your account, you will need to call 405.325.HELP (4357) for assistance in resetting your password.
+
+If you forget your OU account password, and are unable to log into your account, you can reset it yourself from the Forgot Password (https://accounts.ou.edu/Account/ForgotPassword) page. Enter your OUNETID in the field and click to “Identify Account” to have a password reset email sent to the alternate email address provided for your account.  Click the “this link” in the email that you receive to reset your password.  Please note that if your account information is stored on multiple devices and is not changed, it could cause your account to become locked. If you do not have an alternate email address associated with your account, you will need to call 405.325.HELP (4357) for assistance in resetting your password.
+
 YOUR PASSWORD HAS EXPIRED:
-In an effort to increase security at the University of Oklahoma, OUNetID password changes are required annually. All faculty, staff and students who have not changed their password in the last year will need to visit
-http://one.ou.edu
-and create a new one. You will receive email notifications before your password expires. If your password expires before you have an opportunity to change it, you will be locked out of your OU account, but you can reset it yourself from the
-One.ou.edu Reset Password
-page. Enter your OU Net ID or OU Email in the field and click Continue to have a password reset email sent to the alternate recovery email address provided for your account.  Click the “this link” in the email that you receive to reset your password.  Please note that if your account information is stored on multiple devices and is not changed, it could cause your account to become locked. If you do not have an alternate email address associated with your account, you will need to call 405.325.HELP (4357) for assistance in resetting your password.
+
+In an effort to increase security at the University of Oklahoma, OUNetID password changes are required annually. All faculty, staff and students who have not changed their password in the last year will need to visit http://one.ou.edu (http://one.ou.edu) and create a new one. You will receive email notifications before your password expires. If your password expires before you have an opportunity to change it, you will be locked out of your OU account, but you can reset it yourself from the One.ou.edu Reset Password (https://one.ou.edu/recovery/password) page. Enter your OU Net ID or OU Email in the field and click Continue to have a password reset email sent to the alternate recovery email address provided for your account.  Click the “this link” in the email that you receive to reset your password.  Please note that if your account information is stored on multiple devices and is not changed, it could cause your account to become locked. If you do not have an alternate email address associated with your account, you will need to call 405.325.HELP (4357) for assistance in resetting your password.
+
 YOUR ACCOUNT HAS EXPIRED:
-Your OU account will eventually expire according to the account policy listed in
-this article
-. This occurs for faculty and staff immediately upon termination of employment. For students, your account will remain active for up to three enrollment periods from your last completed class. If it has been more than three enrollment periods since, your account and account data will no longer be accessible.
+
+Your OU account will eventually expire according to the account policy listed in this article (https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=265&SIDs=369). This occurs for faculty and staff immediately upon termination of employment. For students, your account will remain active for up to three enrollment periods from your last completed class. If it has been more than three enrollment periods since, your account and account data will no longer be accessible.
+
 BLOCKED ACCOUNTS:
-In some instances, OU IT may deem it necessary to block a user account.  This action is necessary to prevent unauthorized access by malicious third parties to OU Systems, networks, and services, and/or to protect that affected user and the University from loss or theft of sensitive personal information. These blocks can prevent you from sending email outside of the University, or from sending email at all.  When you are blocked from sending, you will receive a bounce-back message when attempting to send an email letting you know that the message could not be sent. In rare instances, you may be blocked from accessing your account at all. If you think that account has been blocked, please install and run an up-to-date virus scan on your machine. Once this is done, and your machine is cleared of any malware or virus, please contact 405.325.HELP (4357) to request assistance with unblocking your account.
+
+In some instances, OU IT may deem it necessary to block a user account.  This action is necessary to prevent unauthorized access by malicious third parties to OU Systems, networks, and services, and/or to protect that affected user and the University from loss or theft of sensitive personal information. These blocks can prevent you from sending email outside of the University, or from sending email at all.  When you are blocked from sending, you will receive a bounce-back message when attempting to send an email letting you know that the message could not be sent. In rare instances, you may be blocked from accessing your account at all. If you think that account has been blocked, please install and run an up-to-date virus scan on your machine. Once this is done, and your machine is cleared of any malware or virus, please contact 405.325.HELP (4357) to request assistance with unblocking your account.
+
 Account Verification Requirements
-Please note that in situations where one has lost access to their account and can not proceed through the normal online password reset options, they may be asked to contact the Service Desk 405.325.HELP (4357). As part of this process, one may be directed to provide a high resolution photo of themself holding their OU ID and/or a state ID that clearly shows their face and name. One may also redact all other information from the photo except for their name and face. As an example, the IT Service Desk would need a photo like the following to be submitted with your request through our online ticketing system:
-New OU Account Password Recommendations:
-OU IT recommends changing your account password every 3-6 months and mandates passwords be updated at least once per calendar year.  When changing your password, please keep the following conditions in mind:
-Your password must have a minimum of 12 characters and must not be the same as your user ID or any of the last six passwords you have used with this account. The password will also need to meet other complexity requirements:
+
+Please note that in situations where one has lost access to their account and can not proceed through the normal online password reset options, they may be asked to contact the Service Desk 405.325.HELP (4357). As part of this process, one may be directed to provide a high resolution photo of themself holding their OU ID and/or a state ID that clearly shows their face and name. One may also redact all other information from the photo except for their name and face. As an example, the IT Service Desk would need a photo like the following to be submitted with your request through our online ticketing system: 
+
+ 
+
+OU IT recommends changing your account password every 3-6 months and mandates passwords be updated at least once per calendar year.  When changing your password, please keep the following conditions in mind:
+
+Your password must have a minimum of 12 characters and must not be the same as your user ID or any of the last six passwords you have used with this account. The password will also need to meet other complexity requirements:
+
 At least one upper case letter.
+
 At least one lower case letter.
+
 At least one numeral OR one symbol.
+
 Contain no invalid characters or common words.
+
 May not use your first or last name.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-267
-Created
-Sun 9/6/20 3:28 PM
-Modified
-Thu 10/28/21 11:27 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=267&SIDs=380">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=267&SIDs=380</a><br /><br />Account Issues
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

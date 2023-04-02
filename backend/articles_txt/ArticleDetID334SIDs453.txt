@@ -1,94 +1,16 @@
+
+  HIPAA and FERPA policy for Qualtrics
 
 
-	Article - HIPAA and FERPA policy for ...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-HIPAA and FERPA policy for Qualtrics
-HIPAA and FERPA policy for Qualtrics
 The University of Oklahoma has executed a HIPAA Business Associate Agreement (BAA) with Qualtrics allowing the Health Science Center health care components (HCC) to utilize the Qualtrics online survey and analytics tool with ePHI.
-With this update, please know that the use of University PHI for research, analytics, and reporting is still governed by the University’s HIPAA polices (
-https://apps.ouhsc.edu/hipaa/secured/default.asp?page=policies.
-) If you have any questions, please reach out to the University’s HIPAA Compliance Team at
-oucompliance@ouhsc.edu
+
+With this update, please know that the use of University PHI for research, analytics, and reporting is still governed by the University’s HIPAA polices (https://apps.ouhsc.edu/hipaa/secured/default.asp?page=policies. (https://apps.ouhsc.edu/hipaa/secured/default.asp?page=policies.)) If you have any questions, please reach out to the University’s HIPAA Compliance Team at oucompliance@ouhsc.edu (mailto:oucompliance@ouhsc.edu)
+
 Qualtrics is still not authorized for FERPA data.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-334
-Created
-Wed 9/9/20 9:24 AM
-Modified
-Mon 8/16/21 9:17 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=334&SIDs=453">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=334&SIDs=453</a><br /><br />HIPAA and FERPA policy for Qualtrics
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

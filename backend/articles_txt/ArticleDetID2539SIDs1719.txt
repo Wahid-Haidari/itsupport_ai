@@ -1,112 +1,32 @@
+
+  Non-OU Members Joining OU Zoom Meetings
 
 
-	Article - Non-OU Members Joining OU Z...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Non-OU Members Joining OU Zoom Meetings
-Non-OU Members Joining OU Zoom Meetings
 Non-OU members can join the meetings hosted or scheduled via OU account. For security reasons, Zoom recommends securing Zoom meetings with at least one of the following options:
-Passcode:
-Meeting and webinar passcodes
-can be set manually (or Zoom will provide one by default). This allows the people who have the passcode to join the Zoom meeting or webinar.
-Waiting Room
-: This feature puts all the participants in a
-waiting room
-prior to letting them in to the actual meeting. The host can accept or reject participants on an individual basis.
-Require authentication to join
-: When scheduling a Zoom meeting, Zoom provides a security option called
-Require Authentication to join
-, which provides the following options:
-OU Accounts
-: When the host chooses this option, only OU-members can sign in to the meeting.
-Sign in to Zoom
-: When the host chooses this option, to join the meeting, each participant still needs to have a Zoom account, but it does not have to be OU Zoom account. You can create a
-free Zoom account by signing up here
-. Learn more about
-getting started with Zoom.
+
+Passcode: Meeting and webinar passcodes (https://support.zoom.us/hc/en-us/articles/360033559832) can be set manually (or Zoom will provide one by default). This allows the people who have the passcode to join the Zoom meeting or webinar.
+
+Waiting Room: This feature puts all the participants in a waiting room (https://support.zoom.us/hc/en-us/articles/115000332726) prior to letting them in to the actual meeting. The host can accept or reject participants on an individual basis.
+
+Require authentication to join: When scheduling a Zoom meeting, Zoom provides a security option called Require Authentication to join (https://support.zoom.us/hc/en-us/articles/360037117472), which provides the following options:
+
+
+
+OU Accounts: When the host chooses this option, only OU-members can sign in to the meeting.
+
+Sign in to Zoom: When the host chooses this option, to join the meeting, each participant still needs to have a Zoom account, but it does not have to be OU Zoom account. You can create a free Zoom account by signing up here (https://zoom.us/signup). Learn more about getting started with Zoom. (https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users#h_b0c98dfa-d90f-486d-9617-71ab7b41a273)
+
+ 
+
 Not an OU Member? Having trouble joining a meeting?
+
 OU Users (while scheduling a meeting) can choose one or multiple options (passcode, waiting room, require authentication). We recommend asking the host of the meeting about the security options they selected while scheduling the meeting. Alternatively, you can call OU IT on 405-325-HELP.
-Once the host has the appropriate security settings selected and has shared the meeting credentials, non-OU members will be able to join. Learn more about
-joining Zoom meetings
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2539
-Created
-Fri 9/10/21 1:15 PM
-Modified
-Wed 2/1/23 2:56 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2539&SIDs=1719">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2539&SIDs=1719</a><br /><br />Non-OU Members Joining OU Zoom Meetings
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Once the host has the appropriate security settings selected and has shared the meeting credentials, non-OU members will be able to join. Learn more about joining Zoom meetings (https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Zoom-video-call).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

@@ -1,92 +1,14 @@
+
+  Web Page Blocks on OU Networks
 
 
-	Article - Web Page Blocks on OU Networks
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-Web Page Blocks on OU Networks
-Web Page Blocks on OU Networks
 OU networks now have security enhancements targeted at blocking malicious websites. These new blocks do not target content, rather the security system will look for potential security exploits which seek to infect or harm ones computer through their browser visit. An example of this block can be found below.
-This system may flag safe sites as unsafe. If you believe that the system has incorrectly flagged a safe site, please
-submit a request
-through the IT Service Catalog. Our Security team will then review your report and make a determination on the submission. If the request is not approved after review, you will be contacted to let you know it has not been unblocked.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-132
-Created
-Thu 9/3/20 3:30 PM
-Modified
-Mon 8/16/21 4:11 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=132&SIDs=260">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=132&SIDs=260</a><br /><br />Web Page Blocks on OU Networks
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+This system may flag safe sites as unsafe. If you believe that the system has incorrectly flagged a safe site, please submit a request (https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=124&SIDs=147) through the IT Service Catalog. Our Security team will then review your report and make a determination on the submission. If the request is not approved after review, you will be contacted to let you know it has not been unblocked.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

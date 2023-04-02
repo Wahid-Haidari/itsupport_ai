@@ -1,132 +1,56 @@
+
+  Qualtrics - Setting up the Offline App
 
 
-	Article - Qualtrics - Setting up the ...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Research
-Qualtrics - Setting up the Offline App
-Qualtrics - Setting up the Offline App
-System Requirements
 Qualtrics Offline Surveys is a downloadable application available for iOS and Android that allows you to administer surveys on your mobile device or tablet without an internet connection. Responses can be collected in the field on your device and then uploaded back into Qualtrics as soon as you have an internet connection.
+
 Technical requirements:
+
 iOS 9.0 or later or Android 5.0 or greater (mobile)
+
 Windows OS 7.0 or greater (desktop)
+
 Either the App Store or Google Play store must be installed
+
 Device is not jailbroken
+
 Not currently compatible with Amazon Fire tablets
-How to set up the Qualtrics Offline App:
-Check your API Token
-First, make sure you have an API token. If you don’t have one, you will need to generate one. Qualtrics has a built-in button that will generate an API token for you, but
-only use it if you do not already have a token
-. The below steps will show how to check if you have a token, and how to generate one if you do not.
+
+First, make sure you have an API token. If you don’t have one, you will need to generate one. Qualtrics has a built-in button that will generate an API token for you, but only use it if you do not already have a token. The below steps will show how to check if you have a token, and how to generate one if you do not.
+
 Log in to Qualtrics at survey.ou.edu. Click on the user settings icon in the top-right corner of your account.
-Select
-Account Settings
-.
-Click
-Qualtrics IDs
-on the navigation bar.
-In the box labeled API, there is a row for the token. The token is a long string of letters and numbers. If you have one already, then this step is complete -
-do not generate a new one
-as this can affect other extensions you may have set up. However, if you do not have a token yet, click
-Generate Token
-.
-Download the App
-Second, download the app from the App Store or Google Play Store.
-If you are on a Windows desktop device, contact IT at 405-325-HELP and request the Offline App file for Windows. IT administrators will coordinate with Qualtrics to get a copy of the file.
+
+
+Select Account Settings.
+
+Click Qualtrics IDs on the navigation bar.
+
+
+In the box labeled API, there is a row for the token. The token is a long string of letters and numbers. If you have one already, then this step is complete - do not generate a new one as this can affect other extensions you may have set up. However, if you do not have a token yet, click Generate Token.
+
+Second, download the app from the App Store or Google Play Store. If you are on a Windows desktop device, contact IT at 405-325-HELP and request the Offline App file for Windows. IT administrators will coordinate with Qualtrics to get a copy of the file.
+
 Go to the iTunes App Store if you have an iPad or iPhone, or go to the Google Play Store if you have an Android device.
-Search for “Qualtrics Offline Surveys.”
-Note: Qualtrics offers two different apps. OU has access to the one called "Qualtrics Surveys" that looks like a clipboard with a red Q. The app titled "Qualtrics XM" that has the blue/teal XM logo is not currently available for use with an OU account.
-Download the
-Qualtrics Surveys
-app.
+
+Search for “Qualtrics Offline Surveys.” Note: Qualtrics offers two different apps. OU has access to the one called "Qualtrics Surveys" that looks like a clipboard with a red Q. The app titled "Qualtrics XM" that has the blue/teal XM logo is not currently available for use with an OU account.
+
+
+Download the Qualtrics Surveys app.
+
 You can also download the Qualtrics Offline Surveys app to your device using these links:
-iPad, iPod, & iPhone
-|
-Android Tablets & Phones
-Log in to the App
+
+iPad, iPod, & iPhone (https://itunes.apple.com/us/app/qualtrics-surveys/id671910896?ls=1&mt=8) | Android Tablets & Phones (https://play.google.com/store/apps/details?id=com.qualtrics.offlinesurveys&hl=en)
+
+ 
+
 Third, log in using SSO.
-Instead of directly typing your OU login information, click
-Sign in with SSO
-at the bottom.
-After clicking Sign in with SSO, enter
-ousurvey
-into the
-Organization ID
-field.
-The OU SSO screen should appear. Log in with your OU NetID or OU credentials.
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-2577
-Created
-Wed 12/1/21 4:10 PM
-Modified
-Fri 6/17/22 10:10 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2577&SIDs=1860">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=2577&SIDs=1860</a><br /><br />Qualtrics - Setting up the Offline App
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+Instead of directly typing your OU login information, click Sign in with SSO at the bottom.
+
+
+After clicking Sign in with SSO, enter ousurvey into the Organization ID field.
+
+The OU SSO screen should appear. Log in with your OU NetID or OU credentials. 
+
+ 
+

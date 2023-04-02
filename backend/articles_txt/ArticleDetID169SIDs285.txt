@@ -1,112 +1,68 @@
+
+  Creating a Free Zoom Account
 
 
-	Article - Creating a Free Zoom Account
+Important: If you have someone outside of OU who needs to join your meeting, they will need to create a Zoom account first using the following instructions. If you are a student, staff, or faculty member at OU, you do not need to create an account and can log in to Zoom directly through a browser or the Zoom client. Please visit this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=170) for more information.
 
+ 
 
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
 Creating a Free Zoom Account
-Creating a Free Zoom Account
-Important:
-If you have someone
-outside of OU
-who needs to join your meeting, they will need to create a Zoom account first using the following instructions. If you are a student, staff, or faculty member at OU, you do not need to create an account and can log in to Zoom directly through a browser or the Zoom client. Please visit
-this article
-for more information.
-Creating a Free Zoom Account
-Navigate to
-https://zoom.us/signup
+
+Navigate to https://zoom.us/signup (https://zoom.us/signup)
+
 Alternatively, launch the Zoom application and click “Sign Up Free” or navigate to zoom.us and click “SIGN UP, IT’S FREE” in the top right corner.
-Once you get to
-https://zoom.us/signup
-, enter your date of birth to verify and email address and click “Sign Up”.
+
+
+
+ 
+
+
+
+Once you get to https://zoom.us/signup (https://zoom.us/signup), enter your date of birth to verify and email address and click “Sign Up”.
+
+
+
 An email with a confirmation link will be sent to you. If you do not receive, check your spam/junk folder and click “Resend another email” if needed. It may take 5 – 10 minutes to receive the email.
+
 Click “Join the Account” in the email, once you receive it.
+
+
+
+
+
 Enter your First Name, Last Name, and Password.
+
 Ensure that you are following the password requirements.
+
 Then, click “Continue”.
+
+
+
+
+
 When asked to invite your colleagues, you may click “Skip this step”.
+
+
+
+ 
+
 Once created, you will be given the option to start a meeting or go to your account page.
+
+
+
 Your account page will look like this:
-For information about logging into Zoom, please visit
-this article
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-169
-Created
-Sat 9/5/20 10:46 AM
-Modified
-Fri 8/13/21 1:29 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=169&SIDs=285">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=169&SIDs=285</a><br /><br />Creating a Free Zoom Account
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+ 
+
+For information about logging into Zoom, please visit this article (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=170).
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+
+ 
+

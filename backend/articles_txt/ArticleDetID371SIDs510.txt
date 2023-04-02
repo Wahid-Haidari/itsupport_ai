@@ -1,96 +1,24 @@
+
+  MyMedia – Viewing Analytics
 
 
-	Article - MyMedia – Viewing Analytics
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-MyMedia – Viewing Analytics
-MyMedia – Viewing Analytics
 There are a number of features available to all authenticated users, providing statistics about the media you upload on an individual basis.
+
 Log in at mymedia.ou.edu with your OUNetID and password.
-Click on the tab with your name (or log in) and then My Media on the top menu.
+
+Click on the tab with your name (or log in) and then My Media on the top menu.
+
 Choose which video you would like information about. Click on its title.
-Underneath the lower-right-hand corner of the video, under the Actions drop-down menu; select Analytics.
+
+Underneath the lower-right-hand corner of the video, under the Actions drop-down menu; select Analytics.
+
 This will bring you to the General Metrics Dashboard, which contains information on page views, number of times your video has been played, average view times, likes and comments.
+
 It also has information about the engaged users, as well as the channel and category your video is in, all exportable to .csv (Comma Separated File) or a simple printable HTML version.
-MyMedia also allows you to filter results from as recent as the past week to as long as the entire year, or a custom set of dates of your choosing. This option is located in the top-right-hand corner of the dashboard.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-371
-Created
-Wed 9/9/20 1:46 PM
-Modified
-Mon 8/16/21 9:14 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=371&SIDs=510">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=371&SIDs=510</a><br /><br />MyMedia – Viewing Analytics
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+MyMedia also allows you to filter results from as recent as the past week to as long as the entire year, or a custom set of dates of your choosing. This option is located in the top-right-hand corner of the dashboard.
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

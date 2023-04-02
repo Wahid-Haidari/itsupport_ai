@@ -1,91 +1,12 @@
+
+  Enterprise Data Integration
 
 
-	Article - Enterprise Data Integration
+There are hundreds of different software systems used across campus on a daily basis, but all too often, there are no easy ways to exchange data between them. The Data Integration service is designed to provide a means of making data in one system available to another system, whether those systems are on premise or in the cloud. Our data migration specialists will use the latest tools available to create an automated, reliable method of sharing data between systems. For more information on this service or to request or modify the service, please visit our Service Catalog (https://itsupport.ou.edu/TDClient/30/Unified/Requests/ServiceDet?ID=67).
 
+ 
 
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Infrastructure and Enterprise Applications
-Enterprise Data Integration
-Enterprise Data Integration
-There are hundreds of different software systems used across campus on a daily basis, but all too often, there are no easy ways to exchange data between them. The Data Integration service is designed to provide a means of making data in one system available to another system, whether those systems are on premise or in the cloud. Our data migration specialists will use the latest tools available to create an automated, reliable method of sharing data between systems. For more information on this service or to request or modify the service, please visit our
-Service Catalog
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-428
-Created
-Thu 9/10/20 8:43 AM
-Modified
-Mon 9/14/20 12:21 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=428&SIDs=487">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=428&SIDs=487</a><br /><br />Enterprise Data Integration
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

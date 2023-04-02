@@ -1,121 +1,38 @@
+
+  LastPass Premium as Perk Account - Recover Your Lost Master Password for LastPass Premium
 
 
-	Article - LastPass Premium as Perk Ac...
+If your Master Password for LastPass is ever lost or forgotten, there are several account recovery methods to use to restore access to your Vault. If the recovery options below do not allow you to recover your Master Password, you will need to reset your LastPass account (to keep the same username).
 
+Please be aware that OU and LastPass Customer Care has no knowledge of a user's Master Password. It is not possible for us to reset or change a user's Master Password if it is forgotten.
 
+ 
 
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-LastPass Premium as Perk Account - Recover Your Lost Master Password for LastPass Premium
-LastPass Premium as Perk Account - Recover Your Lost Master Password for LastPass Premium
-If your Master Password for LastPass is ever lost or forgotten, there are several account recovery methods to use to restore access to your Vault. If the recovery options below do not allow you to recover your Master Password, you will need to reset your LastPass account (to keep the same username).
-Please be aware that OU and LastPass Customer Care has no knowledge of a user's Master Password. It is not possible for us to reset or change a user's Master Password if it is forgotten.
-Did you previously set up account recovery using biometrics in the LastPass Password Manager mobile app?
-Mobile account recovery allows you to use fingerprint identification or facial recognition for iOS or Android to reset your Master Password using biometrics if it is ever forgotten.
-Using Android
-Follow these instructions to reset your Master Password
-using mobile account recovery via biometrics for the LastPass Password Manager app for Android.
-Using iOS - Face ID or Touch ID
-Follow these instructions to reset your Master Password
-using mobile account recovery via biometrics for the LastPass Password Manager app for iOS.
-Did you previously set up a Master Password hint/reminder?
-If you previously set up a Master Password hint/reminder (either during account creation, when you last changed your Master Password, or by manually entering one into your Account Settings), you can have LastPass send you a clue in a reminder email.
-Follow these instructions to reset your Master Password
-using a hint/reminder.
-Have you changed your Master Password within the last 30 days?
-You can revert to your previous Master Password
-only if the change had taken place within the last 30 days
-. Please note that reverting means that your LastPass Vault will be restored exactly the way it was since the last Master Password change, which may result in data loss (i.e., any new items updated/added since the change will not be recovered).
-Follow these instructions to reset your Master Password
-by reverting to your previous Master Password.
-Did you previously set up SMS account recovery?
-Using SMS account recovery will trigger the Master Password recovery flow
-as long as at least one of your browsers has captured a Recovery One Time Password
-(which is created by logging in to the extension at least once).
-Follow these instructions to reset your Master Password
-using SMS account recovery.
-Have you logged in to the LastPass web browser extension at least once from any browser?
-Follow these instructions to reset your Master Password
-using a Recovery One Time Password on any web browser where you have logged in to the LastPass web browser extension at least once.
-If you still cannot recover your Master Password using any of the options above...
-Unfortunately, the very last and only option available is to
-Reset Your Account
-and start over with collecting data (e.g., sites, secure notes, form fill items, creating identities, etc.). This will permanently delete all of your stored encrypted data within your LastPass account, but your account status and some settings will remain untouched.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-1670
-Created
-Tue 2/23/21 3:59 PM
-Modified
-Wed 6/16/21 3:26 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1670&SIDs=1110">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=1670&SIDs=1110</a><br /><br />LastPass Premium as Perk Account - Recover Your Lost Master Password for LastPass Premium
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+Mobile account recovery allows you to use fingerprint identification or facial recognition for iOS or Android to reset your Master Password using biometrics if it is ever forgotten.
+
+Follow these instructions to reset your Master Password (https://support.logmeininc.com/lastpass/help/how-do-i-reset-my-master-password-using-mobile-account-recovery-on-android-for-lastpass) using mobile account recovery via biometrics for the LastPass Password Manager app for Android.
+
+Follow these instructions to reset your Master Password (https://support.logmeininc.com/lastpass/help/how-do-i-reset-my-master-password-using-mobile-account-recovery-on-ios-for-lastpass) using mobile account recovery via biometrics for the LastPass Password Manager app for iOS.
+
+If you previously set up a Master Password hint/reminder (either during account creation, when you last changed your Master Password, or by manually entering one into your Account Settings), you can have LastPass send you a clue in a reminder email.
+
+Follow these instructions to reset your Master Password (https://support.logmeininc.com/lastpass/help/how-do-i-reset-my-master-password-using-a-hint-reminder) using a hint/reminder.
+
+You can revert to your previous Master Password only if the change had taken place within the last 30 days. Please note that reverting means that your LastPass Vault will be restored exactly the way it was since the last Master Password change, which may result in data loss (i.e., any new items updated/added since the change will not be recovered).
+
+Follow these instructions to reset your Master Password (https://support.logmeininc.com/lastpass/help/revert-to-your-previous-master-password) by reverting to your previous Master Password.
+
+Using SMS account recovery will trigger the Master Password recovery flow as long as at least one of your browsers has captured a Recovery One Time Password (which is created by logging in to the extension at least once).
+
+Follow these instructions to reset your Master Password (https://support.logmeininc.com/lastpass/help/how-do-i-reset-my-master-password-using-sms-account-recovery-for-lastpass) using SMS account recovery.
+
+Follow these instructions to reset your Master Password (https://support.logmeininc.com/lastpass/help/how-do-i-reset-my-master-password-using-a-recovery-one-time-password-for-lastpass) using a Recovery One Time Password on any web browser where you have logged in to the LastPass web browser extension at least once.
+
+Unfortunately, the very last and only option available is to Reset Your Account (https://itsupport.ou.edu/TDClient/30/Unified/KB/ArticleDet?ID=1671) and start over with collecting data (e.g., sites, secure notes, form fill items, creating identities, etc.). This will permanently delete all of your stored encrypted data within your LastPass account, but your account status and some settings will remain untouched.
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

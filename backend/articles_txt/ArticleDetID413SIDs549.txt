@@ -1,113 +1,26 @@
+
+  Canvas – Custom Course Creation
 
 
-	Article - Canvas – Custom Course Crea...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Academic Technology
-Canvas – Custom Course Creation
-Canvas – Custom Course Creation
 OU faculty, staff and students have the ability to create non-course shells in Canvas, such as for faculty search groups, department committees and student organizations.
-CREATING A CUSTOM COURSE
-Go to the
-Dashboard
-by clicking the icon on the Global Navigation Bar. The Dashboard is also the first page you see when you log in.
-In the Dashboard sidebar, click the
-Start a New Course
-button. You may need to scroll down to see this button.
-Add your course name by typing in the
-Course Name
-field. If your course name is longer than 21 characters, you can create a course code in the
-Short Name
-field.
-Set the content license by selecting the content license drop-down menu. This setting will help Canvas keep track of the default license for content inside of your course. By default all content is considered copyrighted, but you can also release your content to the public domain or choose a Creative Commons license. Learn more about
-Creative Commons licenses
-. You can also
-change the license
-later in the course Settings.
-If you want to make the course available to anyone with a Canvas account, click the checkbox next to
-Make course publicly visible (student data will remain private)
-.
-Click the
-Create course
-button.
+
+Go to the Dashboard by clicking the icon on the Global Navigation Bar. The Dashboard is also the first page you see when you log in.
+
+In the Dashboard sidebar, click the Start a New Course button. You may need to scroll down to see this button.
+
+Add your course name by typing in the Course Name field. If your course name is longer than 21 characters, you can create a course code in the Short Name field.
+
+Set the content license by selecting the content license drop-down menu. This setting will help Canvas keep track of the default license for content inside of your course. By default all content is considered copyrighted, but you can also release your content to the public domain or choose a Creative Commons license. Learn more about Creative Commons licenses (https://creativecommons.org/licenses/). You can also change the license (https://guides.instructure.com/m/4152/l/57093?data-resolve-url=true&data-manual-id=4152) later in the course Settings.
+
+If you want to make the course available to anyone with a Canvas account, click the checkbox next to Make course publicly visible (student data will remain private).
+
+Click the Create course button.
+
 View the new course.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-413
-Created
-Wed 9/9/20 4:15 PM
-Modified
-Fri 8/20/21 2:52 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=413&SIDs=549">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=413&SIDs=549</a><br /><br />Canvas – Custom Course Creation
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

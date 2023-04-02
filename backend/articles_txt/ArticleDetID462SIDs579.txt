@@ -1,97 +1,32 @@
+
+  How do I access transcripts through one.ou.edu?
 
 
-	Article - How do I access transcripts...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Account and Identity Management
-How do I access transcripts through one.ou.edu?
-How do I access transcripts through one.ou.edu?
 In order for a student to access transcripts through ONE, they will need to log in to Single-Sign On at one.ou.edu:
-Under the Academics tab, click Academic Profile.
+
+Under the Academics tab, click Academic Profile. 
+
 To access an unofficial transcript, click “View unofficial transcript”.
+	
 Then choose the desired transcript options to view the unofficial transcript.
+
+
+
+Then choose the desired transcript options to view the unofficial transcript.
+
 To access an official transcript, click “Request official transcript”.
+	
 On the Student Self-Service Site, click “Order or Track a Transcript”
-Note: If you do not have access to one,ou.edu, you will have to order an official transcript through the methods outlined here:
-http://www.ou.edu/recordsandtranscripts/transcripts
-.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-462
-Created
-Thu 9/10/20 10:22 AM
-Modified
-Wed 6/16/21 3:21 PM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=462&SIDs=579">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=462&SIDs=579</a><br /><br />How do I access transcripts through one.ou.edu?
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+
+
+On the Student Self-Service Site, click “Order or Track a Transcript”
+
+ 
+
+Note: If you do not have access to one,ou.edu, you will have to order an official transcript through the methods outlined here: http://www.ou.edu/recordsandtranscripts/transcripts (http://www.ou.edu/recordsandtranscripts/transcripts).
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+

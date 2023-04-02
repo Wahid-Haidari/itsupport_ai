@@ -1,40 +1,11 @@
+
+  OU Network – Malware and Security Blocks
 
 
-	Article - OU Network – Malware and Se...
-
-
-
-Updating...
-OU Homepage
-Search OU
-OU Social Media
-The University of Oklahoma
-Skip to main content
-Filter your search by category. Current category:
-All
-All
-Knowledge Base
-Service Catalog
-Search the client portal
-Search
-Sign In
-Show Applications Menu
-Norman - Client Portal
-Sign In
-Search
-Home
-Services
-Knowledge Base
-More Applications
-Skip to Knowledge Base content
-Search
-Articles
-Knowledge Base
-Information Security
-OU Network – Malware and Security Blocks
-OU Network – Malware and Security Blocks
 OU IT protects and maintains the security and stability of the OU network by preventing infected machines from staying connected to the OU network. If your machine has become infected and has been blocked by security scans, you will be alerted by a notification sent to your OU e-mail account. If you receive this alert, please look over the steps below:
+
 If your machine contains protected or sensitive data, please contact OUIT immediately. This includes the following:
+	
 Social security numbers.
 Driver’s license/State ID numbers.
 Financial account information.
@@ -42,58 +13,30 @@ Any credit or debit card number.
 Any security code, access code, or password providing access to a financial account.
 Any personal health-related data.
 Student education records
+
+
+
+Social security numbers.
+
+Driver’s license/State ID numbers.
+
+Financial account information.
+
+Any credit or debit card number.
+
+Any security code, access code, or password providing access to a financial account.
+
+Any personal health-related data.
+
+Student education records
+
 Perform a virus scan on your computer and remove any found viruses or malware. Respond to the incident alert e-mail once your machine is fully clean of infections.
+
 Once these steps are complete, please contact the Service Center (325-HELP) to remove the network block. Please reference the incident number (example: INC012345), which is included in the email when you speak with the phone specialist.
-Service Alerts
-Check Alerts
-Subscribe
-Can't find what you're looking for?
-Contact Us
-Sign in to leave feedback
-0 reviews
-Blank
-Blank
-Blank
-Details
-Article ID:
-36
-Created
-Thu 9/3/20 8:29 AM
-Modified
-Tue 8/23/22 11:23 AM
-Deleting...
-×
-Share
-Recipient(s)
-- separate email addresses with a comma
-Message
-Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
-Check out this article I found in the Norman - Client Portal knowledge base.<br /><br /><a href="https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=36&SIDs=274">https://itsupport.ou.edu/TDClient/35/Norman/KB/ArticleDet?ID=36&SIDs=274</a><br /><br />OU Network – Malware and Security Blocks
-Send
-Close
-The University of Oklahoma
-660 Parrington Oval,
-Norman, OK 73019-0390
-(405) 325-0311
-Accessibility
-Sustainability
-HIPAA
-OU
-                                                    Job Search
-Policies
-Legal
-                                                    Notices
-Copyright
-Resources
-                                                    & Offices
-OU
-                                                    Report It!
-facebook
-twitter
-youtube
-instagram
-OU
-                                                Social Media
-                                                Directory
-Updated by
-OU Information Technology
+
+ 
+
+Check Alerts (https://alerts.ou.edu/) Subscribe (https://alerts.ou.edu/subscribers/new)
+
+Contact Us (https://itsupport.ou.edu/TDClient/30/Unified/Requests/TicketRequests/NewForm?ID=Fj69Te7J3ww_)
+
