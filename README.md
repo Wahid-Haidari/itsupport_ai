@@ -42,7 +42,7 @@ Overall, we were able to overcome these challenges through a combination of care
 
 Efficient backend infrastructure: Successfully setting up a robust backend server using FastAPI and uvicorn on an AWS EC2 instance, and overcoming the challenge of maintaining server uptime by implementing a systemd service file.
 
-*Responsive frontend design:( Implementing a user-friendly frontend that employs conditional rendering to display a loading message until a response is received from the backend. This ensures a seamless user experience and clear communication of the chatbot's status.
+*Responsive frontend design:* Implementing a user-friendly frontend that employs conditional rendering to display a loading message until a response is received from the backend. This ensures a seamless user experience and clear communication of the chatbot's status.
 
 High-quality data collection and preparation: Developing a web scraper capable of collecting and cleaning IT support articles from various categories on the target website, resulting in a comprehensive dataset for fine-tuning the GPT-3 model.
 
