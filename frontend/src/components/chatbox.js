@@ -20,8 +20,8 @@ function ChatBox (){
         messageComponent = messagesArray.map((message, i)=>{
         return(
             <div>
-                <Prompt key={"prompt-" + i}text={message}/> 
-                <Response key={"response-" + i} text={ai}/>
+                <Prompt key={"prompt-" + i}text={message.user_message}/> 
+                <Response key={"response-" + i} text={message.gpt_reply}/>
             </div>
         );
         })

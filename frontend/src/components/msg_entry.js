@@ -9,13 +9,16 @@ const MsgEntry = (props) => {
     // const [prompt, setPrompt] = useState(null);
     const textRef = useRef();
 
-    const getAPIResponse = async (prompt) => {
+    const getAPIResponse = async (prompt) => {  
+        console.log('Waiting for the server to respond')
         try {
-          console.log('waiting for the server to respond')
-          const queryParams = new URLSearchParams({query: prompt})
-          const response = await fetch("http://127.0.0.1:8000?" + queryParams);
+          const apiUrl = 'http://3.209.61.33/';
+          const queryParams = new URLSearchParams({query: prompt});
+          const url = apiUrl + '?' + queryParams;
+          const response = await fetch(url);
           const jsonData = await response.json();
           console.log(jsonData);
+          return jsonData;
         } catch (error) {
           console.error('Error fetching data:', error);
         }
@@ -25,11 +28,13 @@ const MsgEntry = (props) => {
     const sendMessage = async (e) => {
         const newMessage = textRef.current.value
         console.log('message: ' + newMessage);
-        const updatedMessagesArray = [...props.messagesArray, newMessage];
+        var gpt_reply = await getAPIResponse(newMessage);
+        // var gpt_reply = "I'm your reply";
+        var messageComp = {'user_message': newMessage, "gpt_reply": gpt_reply.reply}
+        const updatedMessagesArray = [...props.messagesArray, messageComp];
         // get the response from API
         props.setMessagesArray(updatedMessagesArray);
         textRef.current.value = '';
-        getAPIResponse(newMessage);
     }
 
     return(
