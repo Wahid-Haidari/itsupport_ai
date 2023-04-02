@@ -2,7 +2,7 @@
 
 # Frontend
 
-# Challenges and learnin outcomes
+# Challenges and learning outcomes
 
 ### Jamshed
 
